@@ -1,0 +1,22 @@
+{
+  "name": "legi-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@socialgouv/dila-api-client": "^1.0.1",
+    "debug": "^4.1.1",
+    "p-all": "^2.1.0"
+  },
+  "scripts": {
+    "fetch": "node -r esm scripts/fetch-codes.js",
+    "list": "node -r esm scripts/list-codes.js",
+    "lint": "yarn lint"
+  },
+  "devDependencies": {
+    "@socialgouv/eslint-config-recommended": "^0.9.3",
+    "eslint": "^6.1.0",
+    "esm": "^3.2.25",
+    "prettier": "^1.18.2"
+  }
+}
