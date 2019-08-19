@@ -1,0 +1,82 @@
+{
+  "dateDebutVersion": "2018-01-01",
+  "dateFinVersion": "2222-02-22",
+  "type": "code",
+  "id": "LEGITEXT000006071188",
+  "cid": "LEGITEXT000006071188",
+  "title": "Code disciplinaire et pénal de la marine marchande",
+  "dateModif": "2018-01-01",
+  "etat": "VIGUEUR",
+  "jurisDate": "2018-01-01",
+  "articles": [],
+  "sections": [
+    {
+      "dateDebut": "1926-12-19",
+      "dateFin": "2999-01-01",
+      "intOrdre": 472439,
+      "type": "section",
+      "id": "LEGISCTA000006095778",
+      "cid": "LEGISCTA000006095778",
+      "title": "Partie législative",
+      "dateModif": null,
+      "etat": "VIGUEUR",
+      "articles": [],
+      "sections": [
+        {
+          "dateDebut": "1926-12-19",
+          "dateFin": "2999-01-01",
+          "intOrdre": 171796,
+          "type": "section",
+          "id": "LEGISCTA000006120357",
+          "cid": "LEGISCTA000006120357",
+          "title": "Titre V : Dispositions diverses.",
+          "dateModif": null,
+          "etat": "VIGUEUR",
+          "articles": [
+            {
+              "id": "LEGIARTI000006523967",
+              "cid": "LEGIARTI000006523967",
+              "type": "AUTONOME",
+              "num": "95",
+              "texte": "Le montant des sommes provenant des amendes prononcées en vertu de la présente loi est versé à la caisse des invalides de la marine.",
+              "texteHtml": "<p></p>   Le montant des sommes provenant des amendes prononcées en vertu de la présente loi est versé à la caisse des invalides de la marine.<p></p><p></p>",
+              "etat": "VIGUEUR",
+              "lienModifications": [
+                {
+                  "textCid": "",
+                  "textTitle": "Loi 1926-12-17",
+                  "linkType": "CODIFICATION",
+                  "linkOrientation": "source",
+                  "articleNum": "",
+                  "articleId": "",
+                  "natureText": "",
+                  "datePubliTexte": null,
+                  "dateSignaTexte": null,
+                  "dateDebutCible": null
+                }
+              ],
+              "articleVersions": [
+                {
+                  "id": "LEGIARTI000006523967",
+                  "etat": "VIGUEUR",
+                  "version": "1.0",
+                  "dateDebut": -1358121600000,
+                  "dateFin": 32472144000000,
+                  "numero": null,
+                  "ordre": null
+                }
+              ],
+              "nota": "Ancien article 88 de l'ancien titre IV, devenu titre V de la loi du 17 décembre 1926, par le décret-loi du 29 juillet 1939. *]",
+              "notaHtml": "<p></p>   Ancien article 88 de l'ancien titre IV, devenu titre V de la loi du 17 décembre 1926, par le décret-loi du 29 juillet 1939. *]<p></p><p></p>",
+              "dateDebut": -1358121600000,
+              "dateFin": 32472144000000,
+              "dateDebutExtension": 32472144000000,
+              "dateFinExtension": 32472144000000
+            }
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ]
+}
