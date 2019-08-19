@@ -1,8 +1,11 @@
 {
-  "name": "legi-data",
+  "name": "@socialgouv/legi-data",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "files": [
+    "data"
+  ],
+  "license": "Apache-2.0",
   "dependencies": {
     "@socialgouv/dila-api-client": "^1.0.1",
     "debug": "^4.1.1",
