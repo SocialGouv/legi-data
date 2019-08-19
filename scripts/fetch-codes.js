@@ -18,36 +18,38 @@ const fetch = async () => {
   const codes = require("../data/index.json");
 
   return await pAll(
-    codes.map(code => async () => {
-      debug(`fetching ${code.id}...`);
-      const target = `./data/${code.id}.json`;
-      const targetExists = await exists(target);
-      let currentDateModif;
-      if (targetExists) {
-        const currentData = JSON.parse((await readFile(target)).toString());
-        currentDateModif = currentData.dateModif;
-      }
-      return getCode(
-        {
-          date: new Date().getTime(),
-          sctId: "",
-          textId: code.id
-        },
-        currentDateModif
-      )
-        .then(async data => {
-          await writeFile(target, JSON.stringify(data, null, 2));
-          debug(`wrote ${target}`);
-        })
-        .catch(e => {
-          if (e.message === "not changed") {
-            debug(`${code.id}: skip, not changed`);
-            return Promise.resolve();
-          }
-          debug(`${code.id}: ${e}`);
-          throw e;
-        });
-    }),
+    codes
+      .filter(code => code.etat === "VIGUEUR")
+      .map(code => async () => {
+        debug(`fetching ${code.id}...`);
+        const target = `./data/${code.id}.json`;
+        const targetExists = await exists(target);
+        let currentDateModif;
+        if (targetExists) {
+          const currentData = JSON.parse((await readFile(target)).toString());
+          currentDateModif = currentData.dateModif;
+        }
+        return getCode(
+          {
+            date: new Date().getTime(),
+            sctId: "",
+            textId: code.id
+          },
+          currentDateModif
+        )
+          .then(async data => {
+            await writeFile(target, JSON.stringify(data, null, 2));
+            debug(`wrote ${target}`);
+          })
+          .catch(e => {
+            if (e.message === "not changed") {
+              debug(`${code.id}: skip, not changed`);
+              return Promise.resolve();
+            }
+            debug(`${code.id}: ${e}`);
+            throw e;
+          });
+      }),
     { concurrency: 1 }
   );
 };

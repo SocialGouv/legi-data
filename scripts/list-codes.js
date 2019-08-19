@@ -2,8 +2,8 @@ const codes = require("../data/index.json");
 
 // produce a markdown table from existing data/index.json
 
-console.log(`id | title | etat | date_publi`);
-console.log(`---|-------|------|-----------`);
+console.log(`id | title | date_publi`);
+console.log(`---|-------|-----------`);
 
 const clean = str =>
   ("" + (str || ""))
@@ -19,10 +19,12 @@ const getCodeLastUpdate = id => {
     .join("/");
 };
 
-codes.forEach(code => {
-  console.log(
-    `${clean(code.id)} | ${clean(code.titre)} | ${clean(code.etat)} | ${clean(
-      getCodeLastUpdate(code.id)
-    )}`
-  );
-});
+codes
+  .filter(code => code.etat === "VIGUEUR")
+  .forEach(code => {
+    console.log(
+      `${clean(code.id)} | ${clean(code.titre)} | ${clean(
+        getCodeLastUpdate(code.id)
+      )}`
+    );
+  });
