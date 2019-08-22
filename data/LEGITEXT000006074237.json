@@ -1,207 +1,225 @@
 {
-  "dateDebutVersion": "2014-05-28",
-  "dateFinVersion": "2222-02-22",
-  "type": "code",
-  "id": "LEGITEXT000006074237",
-  "cid": "LEGITEXT000006074237",
-  "title": "Code du domaine public fluvial et de la navigation intérieure",
-  "dateModif": "2014-05-28",
-  "etat": "VIGUEUR",
-  "jurisDate": "2014-05-28",
-  "articles": [],
-  "sections": [
+  "type": "section",
+  "data": {
+    "dateDebutVersion": "2014-05-28",
+    "dateFinVersion": "2222-02-22",
+    "type": "code",
+    "id": "LEGITEXT000006074237",
+    "cid": "LEGITEXT000006074237",
+    "title": "Code du domaine public fluvial et de la navigation intérieure",
+    "dateModif": "2014-05-28",
+    "etat": "VIGUEUR",
+    "jurisDate": "2014-05-28"
+  },
+  "children": [
     {
-      "dateDebut": "1956-10-16",
-      "dateFin": "2999-01-01",
-      "intOrdre": 85898,
       "type": "section",
-      "id": "LEGISCTA000006108730",
-      "cid": "LEGISCTA000006108730",
-      "title": "Livre II : Des bateaux",
-      "dateModif": null,
-      "etat": "VIGUEUR",
-      "articles": [],
-      "sections": [
+      "data": {
+        "dateDebut": "1956-10-16",
+        "dateFin": "2999-01-01",
+        "intOrdre": 85898,
+        "type": "section",
+        "id": "LEGISCTA000006108730",
+        "cid": "LEGISCTA000006108730",
+        "title": "Livre II : Des bateaux",
+        "dateModif": null,
+        "etat": "VIGUEUR"
+      },
+      "children": [
         {
-          "dateDebut": "1956-10-16",
-          "dateFin": "2999-01-01",
-          "intOrdre": 42949,
           "type": "section",
-          "id": "LEGISCTA000006129172",
-          "cid": "LEGISCTA000006129172",
-          "title": "Titre Ier : Régime juridique des bateaux de navigation intérieure",
-          "dateModif": null,
-          "etat": "VIGUEUR",
-          "articles": [],
-          "sections": [
+          "data": {
+            "dateDebut": "1956-10-16",
+            "dateFin": "2999-01-01",
+            "intOrdre": 42949,
+            "type": "section",
+            "id": "LEGISCTA000006129172",
+            "cid": "LEGISCTA000006129172",
+            "title": "Titre Ier : Régime juridique des bateaux de navigation intérieure",
+            "dateModif": null,
+            "etat": "VIGUEUR"
+          },
+          "children": [
             {
-              "dateDebut": "1956-10-16",
-              "dateFin": "2999-01-01",
-              "intOrdre": 214745,
               "type": "section",
-              "id": "LEGISCTA000006144140",
-              "cid": "LEGISCTA000006144140",
-              "title": "Chapitre V : De la saisie et de la vente forcée",
-              "dateModif": null,
-              "etat": "VIGUEUR",
-              "articles": [
+              "data": {
+                "dateDebut": "1956-10-16",
+                "dateFin": "2999-01-01",
+                "intOrdre": 214745,
+                "type": "section",
+                "id": "LEGISCTA000006144140",
+                "cid": "LEGISCTA000006144140",
+                "title": "Chapitre V : De la saisie et de la vente forcée",
+                "dateModif": null,
+                "etat": "VIGUEUR"
+              },
+              "children": [
                 {
-                  "id": "LEGIARTI000023276377",
-                  "cid": "LEGIARTI000006846189",
-                  "type": "AUTONOME",
-                  "num": "123",
-                  "texte": "Lorsqu'il est procédé à la saisie d'un bateau immatriculé à l'étranger dans un des pays signataires de la convention de Genève, du 9 décembre 1930, concernant l'immatriculation des bateaux de navigation intérieure, les droits réels sur ces bateaux et autres matières connexes, la saisie est dénoncée aux créanciers inscrits par lettre recommandée avec accusé de réception un mois avant le jour de la comparution devant le juge de l'exécution. Ces créanciers seront avisés de la même manière au moins un mois à l'avance, de la date fixée pour la vente. La date de la vente sera publiée dans le même délai au lieu d'immatriculation du bateau.",
-                  "texteHtml": "<p>Lorsqu'il est procédé à la saisie d'un bateau immatriculé à l'étranger dans un des pays signataires de la convention de Genève, du 9 décembre 1930, concernant l'immatriculation des bateaux de navigation intérieure, les droits réels sur ces bateaux et autres matières connexes, la saisie est dénoncée aux créanciers inscrits par lettre recommandée avec accusé de réception un mois avant le jour de la comparution devant le juge de l'exécution. Ces créanciers seront avisés de la même manière au moins un mois à l'avance, de la date fixée pour la vente.</p><p></p><p>La date de la vente sera publiée dans le même délai au lieu d'immatriculation du bateau.</p><p></p>",
-                  "etat": "ABROGE_DIFF",
-                  "lienModifications": [
-                    {
-                      "textCid": "JORFTEXT000000877840",
-                      "textTitle": "Décret n°56-1033 du 13 octobre 1956",
-                      "linkType": "CODIFICATION",
-                      "linkOrientation": "source",
-                      "articleNum": "",
-                      "articleId": "JORFTEXT000000877840",
-                      "natureText": "DECRET",
-                      "datePubliTexte": "1956-10-16",
-                      "dateSignaTexte": "1956-10-13",
-                      "dateDebutCible": "2999-01-01"
-                    },
-                    {
-                      "textCid": "JORFTEXT000023273986",
-                      "textTitle": "LOI n°2010-1609\n du 22 décembre 2010 - art. 10",
-                      "linkType": "MODIFIE",
-                      "linkOrientation": "cible",
-                      "articleNum": "10",
-                      "articleId": "LEGIARTI000023274808",
-                      "natureText": "LOI",
-                      "datePubliTexte": "2010-12-23",
-                      "dateSignaTexte": "2010-12-22",
-                      "dateDebutCible": "2010-12-24"
-                    }
-                  ],
-                  "articleVersions": [
-                    {
-                      "id": "LEGIARTI000006846189",
-                      "etat": "MODIFIE",
-                      "version": "1.0",
-                      "dateDebut": -416880000000,
-                      "dateFin": 1314835200000,
-                      "numero": null,
-                      "ordre": null
-                    },
-                    {
-                      "id": "LEGIARTI000023276377",
-                      "etat": "ABROGE_DIFF",
-                      "version": "2.0",
-                      "dateDebut": 1314835200000,
-                      "dateFin": 7956835200000,
-                      "numero": null,
-                      "ordre": null
-                    }
-                  ],
-                  "nota": "Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées par un décret nécessaire à son application et au plus tard le 1er septembre 2011. Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 123 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.",
-                  "notaHtml": "<p>Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées par un décret nécessaire à son application et au plus tard le 1er septembre 2011.</p><p>Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 123 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports. </p>",
-                  "dateDebut": 1314835200000,
-                  "dateFin": 7956835200000,
-                  "dateDebutExtension": 32472144000000,
-                  "dateFinExtension": 32472144000000
+                  "type": "article",
+                  "data": {
+                    "id": "LEGIARTI000023276377",
+                    "cid": "LEGIARTI000006846189",
+                    "type": "AUTONOME",
+                    "num": "123",
+                    "texte": "Lorsqu'il est procédé à la saisie d'un bateau immatriculé à l'étranger dans un des pays signataires de la convention de Genève, du 9 décembre 1930, concernant l'immatriculation des bateaux de navigation intérieure, les droits réels sur ces bateaux et autres matières connexes, la saisie est dénoncée aux créanciers inscrits par lettre recommandée avec accusé de réception un mois avant le jour de la comparution devant le juge de l'exécution. Ces créanciers seront avisés de la même manière au moins un mois à l'avance, de la date fixée pour la vente. La date de la vente sera publiée dans le même délai au lieu d'immatriculation du bateau.",
+                    "texteHtml": "<p>Lorsqu'il est procédé à la saisie d'un bateau immatriculé à l'étranger dans un des pays signataires de la convention de Genève, du 9 décembre 1930, concernant l'immatriculation des bateaux de navigation intérieure, les droits réels sur ces bateaux et autres matières connexes, la saisie est dénoncée aux créanciers inscrits par lettre recommandée avec accusé de réception un mois avant le jour de la comparution devant le juge de l'exécution. Ces créanciers seront avisés de la même manière au moins un mois à l'avance, de la date fixée pour la vente.</p><p></p><p>La date de la vente sera publiée dans le même délai au lieu d'immatriculation du bateau.</p><p></p>",
+                    "etat": "ABROGE_DIFF",
+                    "lienModifications": [
+                      {
+                        "textCid": "JORFTEXT000000877840",
+                        "textTitle": "Décret n°56-1033 du 13 octobre 1956",
+                        "linkType": "CODIFICATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "JORFTEXT000000877840",
+                        "natureText": "DECRET",
+                        "datePubliTexte": "1956-10-16",
+                        "dateSignaTexte": "1956-10-13",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000023273986",
+                        "textTitle": "LOI n°2010-1609\n du 22 décembre 2010 - art. 10",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "10",
+                        "articleId": "LEGIARTI000023274808",
+                        "natureText": "LOI",
+                        "datePubliTexte": "2010-12-23",
+                        "dateSignaTexte": "2010-12-22",
+                        "dateDebutCible": "2010-12-24"
+                      }
+                    ],
+                    "articleVersions": [
+                      {
+                        "id": "LEGIARTI000006846189",
+                        "etat": "MODIFIE",
+                        "version": "1.0",
+                        "dateDebut": -416880000000,
+                        "dateFin": 1314835200000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000023276377",
+                        "etat": "ABROGE_DIFF",
+                        "version": "2.0",
+                        "dateDebut": 1314835200000,
+                        "dateFin": 7956835200000,
+                        "numero": null,
+                        "ordre": null
+                      }
+                    ],
+                    "nota": "Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées par un décret nécessaire à son application et au plus tard le 1er septembre 2011. Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 123 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.",
+                    "notaHtml": "<p>Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées par un décret nécessaire à son application et au plus tard le 1er septembre 2011.</p><p>Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 123 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports. </p>",
+                    "dateDebut": 1314835200000,
+                    "dateFin": 7956835200000,
+                    "dateDebutExtension": 32472144000000,
+                    "dateFinExtension": 32472144000000
+                  }
                 }
-              ],
-              "sections": []
+              ]
             }
           ]
         }
       ]
     },
     {
-      "dateDebut": "1956-10-16",
-      "dateFin": "2999-01-01",
-      "intOrdre": 128847,
       "type": "section",
-      "id": "LEGISCTA000006108731",
-      "cid": "LEGISCTA000006108731",
-      "title": "Livre III : Des mariniers",
-      "dateModif": null,
-      "etat": "VIGUEUR",
-      "articles": [],
-      "sections": [
+      "data": {
+        "dateDebut": "1956-10-16",
+        "dateFin": "2999-01-01",
+        "intOrdre": 128847,
+        "type": "section",
+        "id": "LEGISCTA000006108731",
+        "cid": "LEGISCTA000006108731",
+        "title": "Livre III : Des mariniers",
+        "dateModif": null,
+        "etat": "VIGUEUR"
+      },
+      "children": [
         {
-          "dateDebut": "1956-10-16",
-          "dateFin": "2999-01-01",
-          "intOrdre": 85898,
           "type": "section",
-          "id": "LEGISCTA000006129176",
-          "cid": "LEGISCTA000006129176",
-          "title": "Titre II : Des compagnons bateliers",
-          "dateModif": null,
-          "etat": "VIGUEUR",
-          "articles": [
+          "data": {
+            "dateDebut": "1956-10-16",
+            "dateFin": "2999-01-01",
+            "intOrdre": 85898,
+            "type": "section",
+            "id": "LEGISCTA000006129176",
+            "cid": "LEGISCTA000006129176",
+            "title": "Titre II : Des compagnons bateliers",
+            "dateModif": null,
+            "etat": "VIGUEUR"
+          },
+          "children": [
             {
-              "id": "LEGIARTI000006846265",
-              "cid": "LEGIARTI000006846265",
-              "type": "AUTONOME",
-              "num": "169",
-              "texte": "Est compagnon batelier toute personne liée à un employeur par un contrat de travail ou par un contrat d'association ayant pour but l'exercice effectif de la navigation intérieure et la pratique des transports à bord d'un bateau immatriculé dans un bureau français. Est également compagnon batelier toute personne de la famille du patron batelier âgée de plus de seize ans et remplissant à bord des fonctions prévues par les règlements de police de la navigation.",
-              "texteHtml": "<p></p>   Est compagnon batelier toute personne liée à un employeur par un contrat de travail ou par un contrat d'association ayant pour but l'exercice effectif de la navigation intérieure et la pratique des transports à bord d'un bateau immatriculé dans un bureau français.<p></p><p></p>   Est également compagnon batelier toute personne de la famille du patron batelier âgée de plus de seize ans et remplissant à bord des fonctions prévues par les règlements de police de la navigation.<p></p>",
-              "etat": "ABROGE_DIFF",
-              "lienModifications": [
-                {
-                  "textCid": "JORFTEXT000000877840",
-                  "textTitle": "Décret n°56-1033 du 13 octobre 1956",
-                  "linkType": "CODIFICATION",
-                  "linkOrientation": "source",
-                  "articleNum": "",
-                  "articleId": "JORFTEXT000000877840",
-                  "natureText": "DECRET",
-                  "datePubliTexte": "1956-10-16",
-                  "dateSignaTexte": "1956-10-13",
-                  "dateDebutCible": "2999-01-01"
-                },
-                {
-                  "textCid": "JORFTEXT000028992295",
-                  "textTitle": "Décret n°2014-530 du 22 mai 2014 - art. 1 (V)",
-                  "linkType": "ABROGATION",
-                  "linkOrientation": "source",
-                  "articleNum": "1",
-                  "articleId": "LEGIARTI000028994232",
-                  "natureText": "DECRET",
-                  "datePubliTexte": "2014-05-27",
-                  "dateSignaTexte": "2014-05-22",
-                  "dateDebutCible": "2014-05-28"
-                },
-                {
-                  "textCid": "JORFTEXT000022990793",
-                  "textTitle": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
-                  "linkType": "ABROGE",
-                  "linkOrientation": "cible",
-                  "articleNum": "7",
-                  "articleId": "LEGIARTI000022993568",
-                  "natureText": "ORDONNANCE",
-                  "datePubliTexte": "2010-11-03",
-                  "dateSignaTexte": "2010-10-28",
-                  "dateDebutCible": "2010-11-04"
-                }
-              ],
-              "articleVersions": [
-                {
-                  "id": "LEGIARTI000006846265",
-                  "etat": "ABROGE_DIFF",
-                  "version": "1.0",
-                  "dateDebut": -416880000000,
-                  "dateFin": 7956835200000,
-                  "numero": null,
-                  "ordre": null
-                }
-              ],
-              "nota": "Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 169 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.",
-              "notaHtml": "<p>Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 169 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports. </p>",
-              "dateDebut": -416880000000,
-              "dateFin": 7956835200000,
-              "dateDebutExtension": 32472144000000,
-              "dateFinExtension": 32472144000000
+              "type": "article",
+              "data": {
+                "id": "LEGIARTI000006846265",
+                "cid": "LEGIARTI000006846265",
+                "type": "AUTONOME",
+                "num": "169",
+                "texte": "Est compagnon batelier toute personne liée à un employeur par un contrat de travail ou par un contrat d'association ayant pour but l'exercice effectif de la navigation intérieure et la pratique des transports à bord d'un bateau immatriculé dans un bureau français. Est également compagnon batelier toute personne de la famille du patron batelier âgée de plus de seize ans et remplissant à bord des fonctions prévues par les règlements de police de la navigation.",
+                "texteHtml": "<p></p>   Est compagnon batelier toute personne liée à un employeur par un contrat de travail ou par un contrat d'association ayant pour but l'exercice effectif de la navigation intérieure et la pratique des transports à bord d'un bateau immatriculé dans un bureau français.<p></p><p></p>   Est également compagnon batelier toute personne de la famille du patron batelier âgée de plus de seize ans et remplissant à bord des fonctions prévues par les règlements de police de la navigation.<p></p>",
+                "etat": "ABROGE_DIFF",
+                "lienModifications": [
+                  {
+                    "textCid": "JORFTEXT000000877840",
+                    "textTitle": "Décret n°56-1033 du 13 octobre 1956",
+                    "linkType": "CODIFICATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000000877840",
+                    "natureText": "DECRET",
+                    "datePubliTexte": "1956-10-16",
+                    "dateSignaTexte": "1956-10-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000028992295",
+                    "textTitle": "Décret n°2014-530 du 22 mai 2014 - art. 1 (V)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "LEGIARTI000028994232",
+                    "natureText": "DECRET",
+                    "datePubliTexte": "2014-05-27",
+                    "dateSignaTexte": "2014-05-22",
+                    "dateDebutCible": "2014-05-28"
+                  },
+                  {
+                    "textCid": "JORFTEXT000022990793",
+                    "textTitle": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+                    "linkType": "ABROGE",
+                    "linkOrientation": "cible",
+                    "articleNum": "7",
+                    "articleId": "LEGIARTI000022993568",
+                    "natureText": "ORDONNANCE",
+                    "datePubliTexte": "2010-11-03",
+                    "dateSignaTexte": "2010-10-28",
+                    "dateDebutCible": "2010-11-04"
+                  }
+                ],
+                "articleVersions": [
+                  {
+                    "id": "LEGIARTI000006846265",
+                    "etat": "ABROGE_DIFF",
+                    "version": "1.0",
+                    "dateDebut": -416880000000,
+                    "dateFin": 7956835200000,
+                    "numero": null,
+                    "ordre": null
+                  }
+                ],
+                "nota": "Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 169 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.",
+                "notaHtml": "<p>Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 169 abrogé par l'article 7 de ladite ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports. </p>",
+                "dateDebut": -416880000000,
+                "dateFin": 7956835200000,
+                "dateDebutExtension": 32472144000000,
+                "dateFinExtension": 32472144000000
+              }
             }
-          ],
-          "sections": []
+          ]
         }
       ]
     }
