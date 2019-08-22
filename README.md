@@ -2,6 +2,8 @@
 
 Internal usage only. extracted with [dila-api-client](https://github.com/SocialGouv/dila-api-client).
 
+Data files are structured with an [univeral syntax-tree](https://github.com/syntax-tree/unist) structure.
+
 ## Usage
 
 use [dila-api-client](https://github.com/SocialGouv/dila-api-client/) under-the-hood. Set environment variables accordingly.
@@ -18,7 +20,7 @@ Or via http directly : https://unpkg.com/@socialgouv/legi-data@1.0.0/data/LEGITE
 
 ## Dev
 
-```
+```sh
 # fetch all codes defined in data/index.json
 DEBUG="*" OAUTH_CLIENT_ID=xxx OAUTH_CLIENT_SECRET=yyy yarn run fetch
 

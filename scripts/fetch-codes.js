@@ -27,7 +27,7 @@ const fetch = async () => {
         let currentDateModif;
         if (targetExists) {
           const currentData = JSON.parse((await readFile(target)).toString());
-          currentDateModif = currentData.dateModif;
+          currentDateModif = currentData.data.dateModif;
         }
         return getCode(
           {
@@ -56,4 +56,5 @@ const fetch = async () => {
 
 if (require.main === module) {
   fetch();
+  console.log("FINISHED");
 }

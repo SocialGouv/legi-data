@@ -9,7 +9,8 @@
   "dependencies": {
     "@socialgouv/dila-api-client": "^1.0.1",
     "debug": "^4.1.1",
-    "p-all": "^2.1.0"
+    "p-all": "^2.1.0",
+    "p-timeout": "^3.1.0"
   },
   "scripts": {
     "fetch": "node -r esm scripts/fetch-codes.js",

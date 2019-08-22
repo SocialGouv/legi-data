@@ -1,5 +1,7 @@
+const pTimeout = require("p-timeout");
 const debug = require("debug")("@socialgouv/legi-data:getArticle");
 
+const MAX_TIMEOUT = 10000;
 const MAX_TENTATIVES = 10;
 
 // slimify
@@ -22,14 +24,20 @@ const toArticle = article => ({
 });
 
 const getArticle = (dilaClient, id, tries = 0) =>
-  dilaClient
-    .fetch({
+  pTimeout(
+    dilaClient.fetch({
       path: "consult/getArticle",
       method: "POST",
       params: {
         id
       }
-    })
+    }),
+    MAX_TIMEOUT,
+    e => {
+      debug(`timed out ${id}`);
+      throw e;
+    }
+  )
     .then(data => {
       if (data.article) {
         debug(`getArticle ${id} OK`);

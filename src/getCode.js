@@ -39,24 +39,44 @@ const toSection = section => ({
 // embed article details into the section
 const embedArticles = async section => ({
   ...toSection(section),
-  articles: await pAll(
-    section.articles
-      .filter(article => article.etat === "VIGUEUR")
-      .map(article => () => {
-        debug(`getArticle ${article.id}`);
-        return getArticle(dilaClient, article.id);
-      }),
-    { concurrency: 5 }
-  ),
-  sections: await pAll(
-    section.sections
-      .filter(section => section.etat === "VIGUEUR")
-      .map(section => () => {
-        debug(`embedArticles section ${section.id}`);
-        return embedArticles(section);
-      }),
-    { concurrency: 5 }
-  )
+  articles:
+    section.articles &&
+    (await pAll(
+      section.articles
+        .filter(article => article.etat === "VIGUEUR")
+        .map(article => () => {
+          debug(`getArticle ${article.id}`);
+          return getArticle(dilaClient, article.id);
+        }),
+      { concurrency: 3 }
+    )),
+  sections:
+    section.sections &&
+    (await pAll(
+      section.sections
+        .filter(section => section.etat === "VIGUEUR")
+        .map(section => () => {
+          debug(`embedArticles section ${section.id}`);
+          return embedArticles(section);
+        }),
+      { concurrency: 3 }
+    ))
+});
+
+const astify = node => ({
+  type: "section",
+  data: {
+    ...node,
+    articles: undefined,
+    sections: undefined
+  },
+  children: [
+    ...(node.sections && node.sections.map(astify)),
+    ...node.articles.map(article => ({
+      type: "article",
+      data: article
+    }))
+  ]
 });
 
 // get structure + content. throw if dateModif is the same in the new version
@@ -82,6 +102,7 @@ const getCode = (params, dateModif) =>
       }
       return sommaire;
     })
-    .then(embedArticles);
+    .then(embedArticles)
+    .then(astify);
 
 module.exports = getCode;
