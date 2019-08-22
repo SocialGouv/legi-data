@@ -71,11 +71,13 @@ const astify = node => ({
     sections: undefined
   },
   children: [
-    ...(node.sections && node.sections.map(astify)),
-    ...node.articles.map(article => ({
-      type: "article",
-      data: article
-    }))
+    ...((node.sections && node.sections.map(astify)) || []),
+    ...((node.articles &&
+      node.articles.map(article => ({
+        type: "article",
+        data: article
+      }))) ||
+      [])
   ]
 });
 
