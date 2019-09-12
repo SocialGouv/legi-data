@@ -1,15 +1,15 @@
 {
   "type": "section",
   "data": {
-    "dateDebutVersion": "2019-08-08",
+    "dateDebutVersion": "2019-09-09",
     "dateFinVersion": "2020-01-01",
     "type": "code",
     "id": "LEGITEXT000006074073",
     "cid": "LEGITEXT000006074073",
     "title": "Code du tourisme",
-    "dateModif": "2019-08-08",
+    "dateModif": "2019-09-09",
     "etat": "VIGUEUR",
-    "jurisDate": "2019-08-08"
+    "jurisDate": "2019-09-09"
   },
   "children": [
     {
@@ -30750,17 +30750,17 @@
                     {
                       "type": "article",
                       "data": {
-                        "id": "LEGIARTI000006813452",
+                        "id": "LEGIARTI000039069811",
                         "cid": "LEGIARTI000006813452",
                         "type": "AUTONOME",
                         "num": "D326-1",
-                        "texte": "Un refuge est un établissement d'hébergement recevant du public gardé ou non, situé en altitude dans un site isolé. Son isolement est caractérisé par l'absence d'accès tant par voie carrossable que par remontée mécanique de type téléporté ouvertes au public et par l'inaccessibilité pendant au moins une partie de l'année aux véhicules et engins de secours. Le refuge est situé en zone de montagne, au sens du chapitre Ier du titre Ier de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne.",
-                        "texteHtml": "<p></p>Un refuge est un établissement d'hébergement recevant du public gardé ou non, situé en altitude dans un site isolé. <p></p><p></p>Son isolement est caractérisé par l'absence d'accès tant par voie carrossable que par remontée mécanique de type téléporté ouvertes au public et par l'inaccessibilité pendant au moins une partie de l'année aux véhicules et engins de secours. <p></p><p></p>Le refuge est situé en zone de montagne, au sens du chapitre Ier du titre Ier de la <a alt='Loi n° 85-30 du 9 janvier 1985 -  Titre I : Dispositions générales (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000317293&idSectionTA=LEGISCTA000006108827&dateTexte=&categorieLien=cid'>loi n° 85-30 du 9 janvier 1985</a> relative au développement et à la protection de la montagne.<p></p>",
+                        "texte": "Un refuge est un établissement recevant du public au sens de l'article R. 123-2 du code de la construction et de l'habitation, gardé ou non, situé en altitude dans un site isolé. Son isolement est caractérisé par l'absence d'accès tant par voie carrossable que par remontée mécanique de type téléporté ouvertes au public et par l'inaccessibilité pendant au moins une partie de l'année aux véhicules et engins de secours. Le refuge est situé en zone de montagne, au sens du chapitre Ier du titre Ier de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne.",
+                        "texteHtml": "<p>Un refuge est un établissement recevant du public au sens de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074096&idArticle=LEGIARTI000006896089&dateTexte=&categorieLien=cid'>R. 123-2</a> du code de la construction et de l'habitation, gardé ou non, situé en altitude dans un site isolé. </p><p>Son isolement est caractérisé par l'absence d'accès tant par voie carrossable que par remontée mécanique de type téléporté ouvertes au public et par l'inaccessibilité pendant au moins une partie de l'année aux véhicules et engins de secours. </p><p>Le refuge est situé en zone de montagne, au sens du chapitre Ier du titre Ier de la <a href='/affichTexte.do?cidTexte=JORFTEXT000000317293&idSectionTA=LEGISCTA000006108827&dateTexte=&categorieLien=cid'>loi n° 85-30 du 9 janvier 1985 </a>relative au développement et à la protection de la montagne.</p>",
                         "etat": "VIGUEUR",
                         "lienModifications": [
                           {
                             "textCid": "JORFTEXT000000241109",
-                            "textTitle": "Décret 2006-1229 2006-10-06 JORF 7 octobre 2006",
+                            "textTitle": "Décret n°2006-1229 du 6 octobre 2006",
                             "linkType": "CODIFICATION",
                             "linkOrientation": "source",
                             "articleNum": "",
@@ -30771,24 +30771,33 @@
                             "dateDebutCible": "2999-01-01"
                           },
                           {
-                            "textCid": "JORFTEXT000000823107",
-                            "textTitle": "Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007",
-                            "linkType": "CREATION",
-                            "linkOrientation": "source",
+                            "textCid": "JORFTEXT000039061164",
+                            "textTitle": "Décret n°2019-936 du 6 septembre 2019 - art. 1",
+                            "linkType": "MODIFIE",
+                            "linkOrientation": "cible",
                             "articleNum": "1",
-                            "articleId": "LEGIARTI000006261626",
+                            "articleId": "LEGIARTI000039062872",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2007-03-25",
-                            "dateSignaTexte": "2007-03-23",
-                            "dateDebutCible": "2007-03-25"
+                            "datePubliTexte": "2019-09-08",
+                            "dateSignaTexte": "2019-09-06",
+                            "dateDebutCible": "2019-09-09"
                           }
                         ],
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000006813452",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1174780800000,
+                            "dateFin": 1567987200000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000039069811",
+                            "etat": "VIGUEUR",
+                            "version": "2.0",
+                            "dateDebut": 1567987200000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -30796,7 +30805,7 @@
                         ],
                         "nota": "",
                         "notaHtml": "",
-                        "dateDebut": 1174780800000,
+                        "dateDebut": 1567987200000,
                         "dateFin": 32472144000000,
                         "dateDebutExtension": 32472144000000,
                         "dateFinExtension": 32472144000000
@@ -30805,17 +30814,17 @@
                     {
                       "type": "article",
                       "data": {
-                        "id": "LEGIARTI000006813453",
+                        "id": "LEGIARTI000039069819",
                         "cid": "LEGIARTI000006813453",
                         "type": "AUTONOME",
                         "num": "D326-2",
-                        "texte": "Le refuge offre un hébergement à caractère collectif à des personnes de passage. La capacité d'hébergement d'un refuge est limitée à 150 personnes. Les mineurs peuvent y être hébergés. En complément des équipements nécessaires à l'hébergement, le refuge peut disposer des aménagements permettant de dispenser un service de restauration.",
-                        "texteHtml": "<p></p>   Le refuge offre un hébergement à caractère collectif à des personnes de passage. La capacité d'hébergement d'un refuge est limitée à 150 personnes. Les mineurs peuvent y être hébergés.<p></p><p></p>   En complément des équipements nécessaires à l'hébergement, le refuge peut disposer des aménagements permettant de dispenser un service de restauration.<p></p>",
+                        "texte": "Le refuge offre un hébergement à caractère collectif à des personnes de passage. La capacité d'hébergement d'un refuge est limitée à 150 personnes. Les mineurs peuvent y être hébergés. Lorsque des mineurs, hébergés dans un refuge non gardé, participent à l'accueil mentionné à l' article L. 227-4 du code de l'action sociale et des familles , ils doivent être accompagnés d'un membre de l'équipe d'encadrement dudit accueil. En complément des équipements nécessaires à l'hébergement, le refuge peut disposer des aménagements permettant de dispenser un service de restauration. Les normes de sécurité contre les risques d'incendie et de panique spécifiques aux refuges de montagne sont prévues par le règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public mentionné à l' article R. 123-12 du code de la construction et de l'habitation .",
+                        "texteHtml": "<p>Le refuge offre un hébergement à caractère collectif à des personnes de passage. La capacité d'hébergement d'un refuge est limitée à 150 personnes. Les mineurs peuvent y être hébergés. Lorsque des mineurs, hébergés dans un refuge non gardé, participent à l'accueil mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006796917&dateTexte=&categorieLien=cid'>article L. 227-4 du code de l'action sociale et des familles</a>, ils doivent être accompagnés d'un membre de l'équipe d'encadrement dudit accueil. </p><p>En complément des équipements nécessaires à l'hébergement, le refuge peut disposer des aménagements permettant de dispenser un service de restauration.</p><p> Les normes de sécurité contre les risques d'incendie et de panique spécifiques aux refuges de montagne sont prévues par le règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074096&idArticle=LEGIARTI000006896100&dateTexte=&categorieLien=cid'>article R. 123-12 du code de la construction et de l'habitation</a>. </p>",
                         "etat": "VIGUEUR",
                         "lienModifications": [
                           {
                             "textCid": "JORFTEXT000000241109",
-                            "textTitle": "Décret 2006-1229 2006-10-06 JORF 7 octobre 2006",
+                            "textTitle": "Décret n°2006-1229 du 6 octobre 2006",
                             "linkType": "CODIFICATION",
                             "linkOrientation": "source",
                             "articleNum": "",
@@ -30826,24 +30835,33 @@
                             "dateDebutCible": "2999-01-01"
                           },
                           {
-                            "textCid": "JORFTEXT000000823107",
-                            "textTitle": "Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007",
-                            "linkType": "CREATION",
-                            "linkOrientation": "source",
+                            "textCid": "JORFTEXT000039061164",
+                            "textTitle": "Décret n°2019-936 du 6 septembre 2019 - art. 1",
+                            "linkType": "MODIFIE",
+                            "linkOrientation": "cible",
                             "articleNum": "1",
-                            "articleId": "LEGIARTI000006261626",
+                            "articleId": "LEGIARTI000039062872",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2007-03-25",
-                            "dateSignaTexte": "2007-03-23",
-                            "dateDebutCible": "2007-03-25"
+                            "datePubliTexte": "2019-09-08",
+                            "dateSignaTexte": "2019-09-06",
+                            "dateDebutCible": "2019-09-09"
                           }
                         ],
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000006813453",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1174780800000,
+                            "dateFin": 1567987200000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000039069819",
+                            "etat": "VIGUEUR",
+                            "version": "2.0",
+                            "dateDebut": 1567987200000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -30851,7 +30869,7 @@
                         ],
                         "nota": "",
                         "notaHtml": "",
-                        "dateDebut": 1174780800000,
+                        "dateDebut": 1567987200000,
                         "dateFin": 32472144000000,
                         "dateDebutExtension": 32472144000000,
                         "dateFinExtension": 32472144000000
@@ -33807,7 +33825,7 @@
                                 "type": "AUTONOME",
                                 "num": "R342-5",
                                 "texte": "A compter du 1er janvier 2009, toute personne exerçant les fonctions du maître d'oeuvre mentionné à l'article R. 342-4 doit être préalablement agréée par le ministre chargé des transports. Cet agrément est délivré, après avis du service technique des remontées mécaniques et des transports guidés, pour une durée maximale de cinq ans dans les conditions prévues à l'article R. 342-16 .",
-                                "texteHtml": "<p></p>A compter du 1er janvier 2009, toute personne exerçant les fonctions du maître d'oeuvre mentionné à <a alt='Code du tourisme. - art. R342-4 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813252&dateTexte=&categorieLien=cid'>l'article R. 342-4 </a>doit être préalablement agréée par le ministre chargé des transports. Cet agrément est délivré, après avis du service technique des remontées mécaniques et des transports guidés, pour une durée maximale de cinq ans dans les conditions prévues à <a alt='Code du tourisme. - art. R342-16 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813253&dateTexte=&categorieLien=cid'>l'article R. 342-16</a>.<p></p><p></p>",
+                                "texteHtml": "<p></p>A compter du 1er janvier 2009, toute personne exerçant les fonctions du maître d'oeuvre mentionné à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813252&dateTexte=&categorieLien=cid' title='Code du tourisme. - art. R342-4 (V)'>l'article R. 342-4 </a>doit être préalablement agréée par le ministre chargé des transports. Cet agrément est délivré, après avis du service technique des remontées mécaniques et des transports guidés, pour une durée maximale de cinq ans dans les conditions prévues à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813253&dateTexte=&categorieLien=cid' title='Code du tourisme. - art. R342-16 (V)'>l'article R. 342-16</a>.<p></p><p></p>",
                                 "etat": "VIGUEUR",
                                 "lienModifications": [
                                   {
@@ -34673,7 +34691,7 @@
                                 "type": "AUTONOME",
                                 "num": "R342-15",
                                 "texte": "A compter du 1er janvier 2009, les personnes mentionnées à l'article R. 342-14 doivent être préalablement agréées par le service technique des remontées mécaniques et des transports guidés. Cet agrément est délivré pour une durée maximale de cinq ans dans les conditions prévues à l'article R. 342-16 .",
-                                "texteHtml": "<p></p>A compter du 1er janvier 2009, les personnes mentionnées à <a alt='Code du tourisme. - art. R342-14 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813288&dateTexte=&categorieLien=cid'>l'article R. 342-14 </a>doivent être préalablement agréées par le service technique des remontées mécaniques et des transports guidés. Cet agrément est délivré pour une durée maximale de cinq ans dans les conditions prévues à <a alt='Code du tourisme. - art. R342-16 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813253&dateTexte=&categorieLien=cid'>l'article R. 342-16</a>.<p></p><p></p>",
+                                "texteHtml": "<p></p>A compter du 1er janvier 2009, les personnes mentionnées à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813288&dateTexte=&categorieLien=cid' title='Code du tourisme. - art. R342-14 (V)'>l'article R. 342-14 </a>doivent être préalablement agréées par le service technique des remontées mécaniques et des transports guidés. Cet agrément est délivré pour une durée maximale de cinq ans dans les conditions prévues à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&idArticle=LEGIARTI000006813253&dateTexte=&categorieLien=cid' title='Code du tourisme. - art. R342-16 (V)'>l'article R. 342-16</a>.<p></p><p></p>",
                                 "etat": "VIGUEUR",
                                 "lienModifications": [
                                   {
