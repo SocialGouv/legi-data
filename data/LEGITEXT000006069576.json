@@ -1,15 +1,15 @@
 {
   "type": "section",
   "data": {
-    "dateDebutVersion": "2019-07-01",
+    "dateDebutVersion": "2019-08-31",
     "dateFinVersion": "2999-01-01",
     "type": "code",
     "id": "LEGITEXT000006069576",
     "cid": "LEGITEXT000006069576",
     "title": "Code général des impôts, annexe 4",
-    "dateModif": "2019-07-01",
+    "dateModif": "2019-08-31",
     "etat": "VIGUEUR",
-    "jurisDate": "2019-07-01"
+    "jurisDate": "2019-08-31"
   },
   "children": [
     {
@@ -5256,25 +5256,25 @@
                         {
                           "type": "article",
                           "data": {
-                            "id": "LEGIARTI000037357954",
+                            "id": "LEGIARTI000039000901",
                             "cid": "LEGIARTI000024448553",
                             "type": "AUTONOME",
                             "num": "23 M bis",
-                            "texte": "Conformément aux dispositions du III de l'article 235 ter ZF du code général des impôts, le taux de la taxe sur le résultat des entreprises ferroviaires est fixé à        11,39852 % pour l'année 2018.",
-                            "texteHtml": "<p>Conformément aux dispositions du III de <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000023354808&dateTexte=&categorieLien=cid'>l'article 235 ter ZF</a> du code général des impôts, le taux de la taxe sur le résultat des entreprises ferroviaires est fixé à        11,39852 % pour l'année 2018.</p>",
+                            "texte": "Conformément aux dispositions du III de l'article 235 ter ZF du code général des impôts, le taux de la taxe sur le résultat des entreprises ferroviaires est fixé à 12,62695 % pour l'année 2019.",
+                            "texteHtml": "<p></p><p>Conformément aux dispositions du III de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000023354808&dateTexte=&categorieLien=cid'>l'article 235 ter ZF</a> du code général des impôts, le taux de la taxe sur le résultat des entreprises ferroviaires est fixé à 12,62695 % pour l'année 2019.</p><p></p>",
                             "etat": "VIGUEUR",
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000037352290",
-                                "textTitle": "Arrêté du 28 août 2018 - art. 1",
+                                "textCid": "JORFTEXT000038987926",
+                                "textTitle": "Arrêté du 26 août 2019 - art. 1",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
                                 "articleNum": "1",
-                                "articleId": "LEGIARTI000037357139",
+                                "articleId": "LEGIARTI000038995395",
                                 "natureText": "ARRETE",
-                                "datePubliTexte": "2018-08-31",
-                                "dateSignaTexte": "2018-08-28",
-                                "dateDebutCible": "2018-09-01"
+                                "datePubliTexte": "2019-08-30",
+                                "dateSignaTexte": "2019-08-26",
+                                "dateDebutCible": "2019-08-31"
                               }
                             ],
                             "articleVersions": [
@@ -5352,9 +5352,18 @@
                               },
                               {
                                 "id": "LEGIARTI000037357954",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "9.0",
                                 "dateDebut": 1535760000000,
+                                "dateFin": 1567209600000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000039000901",
+                                "etat": "VIGUEUR",
+                                "version": "10.0",
+                                "dateDebut": 1567209600000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
@@ -5362,7 +5371,7 @@
                             ],
                             "nota": "",
                             "notaHtml": "",
-                            "dateDebut": 1535760000000,
+                            "dateDebut": 1567209600000,
                             "dateFin": 32472144000000,
                             "dateDebutExtension": 32472144000000,
                             "dateFinExtension": 32472144000000
@@ -10619,25 +10628,25 @@
                     {
                       "type": "article",
                       "data": {
-                        "id": "LEGIARTI000037357927",
+                        "id": "LEGIARTI000039001077",
                         "cid": "LEGIARTI000023958908",
                         "type": "AUTONOME",
                         "num": "50 quaterdecies B",
-                        "texte": "Le taux de la contribution de solidarité territoriale prévu à l' article 302 bis ZC du code général des impôts est fixé à        0,34213 % pour l'année 2018.",
-                        "texteHtml": "<p>Le taux de la contribution de solidarité territoriale prévu à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006304639&dateTexte=&categorieLien=cid'>article 302 bis ZC du code général des impôts</a> est fixé à        0,34213 % pour l'année 2018.</p>",
+                        "texte": "Le taux de la contribution de solidarité territoriale prévu à l' article 302 bis ZC du code général des impôts est fixé à 0,35071 % pour l'année 2019.",
+                        "texteHtml": "<p>Le taux de la contribution de solidarité territoriale prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006304639&dateTexte=&categorieLien=cid'>article 302 bis ZC du code général des impôts</a> est fixé à 0,35071 % pour l'année 2019.</p>",
                         "etat": "VIGUEUR",
                         "lienModifications": [
                           {
-                            "textCid": "JORFTEXT000037352279",
-                            "textTitle": "Arrêté du 28 août 2018 - art. 1",
+                            "textCid": "JORFTEXT000038987915",
+                            "textTitle": "Arrêté du 26 août 2019 - art. 1",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
                             "articleNum": "1",
-                            "articleId": "LEGIARTI000037357107",
+                            "articleId": "LEGIARTI000038995139",
                             "natureText": "ARRETE",
-                            "datePubliTexte": "2018-08-31",
-                            "dateSignaTexte": "2018-08-28",
-                            "dateDebutCible": "2018-09-01"
+                            "datePubliTexte": "2019-08-30",
+                            "dateSignaTexte": "2019-08-26",
+                            "dateDebutCible": "2019-08-31"
                           }
                         ],
                         "articleVersions": [
@@ -10715,9 +10724,18 @@
                           },
                           {
                             "id": "LEGIARTI000037357927",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "9.0",
                             "dateDebut": 1535760000000,
+                            "dateFin": 1567209600000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000039001077",
+                            "etat": "VIGUEUR",
+                            "version": "10.0",
+                            "dateDebut": 1567209600000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -10725,7 +10743,7 @@
                         ],
                         "nota": "",
                         "notaHtml": "",
-                        "dateDebut": 1535760000000,
+                        "dateDebut": 1567209600000,
                         "dateFin": 32472144000000,
                         "dateDebutExtension": 32472144000000,
                         "dateFinExtension": 32472144000000

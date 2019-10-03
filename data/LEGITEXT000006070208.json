@@ -1,15 +1,15 @@
 {
   "type": "section",
   "data": {
-    "dateDebutVersion": "2018-11-01",
-    "dateFinVersion": "2019-09-01",
+    "dateDebutVersion": "2019-09-01",
+    "dateFinVersion": "2999-01-01",
     "type": "code",
     "id": "LEGITEXT000006070208",
     "cid": "LEGITEXT000006070208",
     "title": "Code du domaine de l'Etat",
-    "dateModif": "2018-11-01",
+    "dateModif": "2019-09-01",
     "etat": "VIGUEUR",
-    "jurisDate": "2018-11-01"
+    "jurisDate": "2019-09-01"
   },
   "children": [
     {
@@ -15773,13 +15773,13 @@
                             {
                               "type": "article",
                               "data": {
-                                "id": "LEGIARTI000025198253",
+                                "id": "LEGIARTI000038929033",
                                 "cid": "LEGIARTI000006350814",
                                 "type": "AUTONOME",
                                 "num": "R148-6",
-                                "texte": "Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de   surface de plancher affectée au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation. L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans le prix de revient des logements locatifs sociaux réalisés sur le terrain aliéné.",
-                                "texteHtml": "<p></p>Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de   surface de plancher affectée au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation. <p></p><p></p>L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans le prix de revient des logements locatifs sociaux réalisés sur le terrain aliéné.<p></p>",
-                                "etat": "ABROGE_DIFF",
+                                "texte": "Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article    L. 831-1 du code de la construction et de l'habitation . L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans le prix de revient des logements locatifs sociaux réalisés sur le terrain aliéné.",
+                                "texteHtml": "<p></p>Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux mentionnés aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074096&idArticle=LEGIARTI000038814564&dateTexte=&categorieLien=cid'>3° et 5° de l'article    L. 831-1 du code de la construction et de l'habitation</a>. <p></p><p></p>L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans le prix de revient des logements locatifs sociaux réalisés sur le terrain aliéné.<p></p>",
+                                "etat": "VIGUEUR",
                                 "lienModifications": [
                                   {
                                     "textCid": "JORFTEXT000000300622",
@@ -15794,16 +15794,16 @@
                                     "dateDebutCible": "2999-01-01"
                                   },
                                   {
-                                    "textCid": "JORFTEXT000025059730",
-                                    "textTitle": "Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)",
+                                    "textCid": "JORFTEXT000038812273",
+                                    "textTitle": "Décret n°2019-772 du 24 juillet 2019 - art. 6",
                                     "linkType": "MODIFIE",
                                     "linkOrientation": "cible",
                                     "articleNum": "6",
-                                    "articleId": "LEGIARTI000025095084",
+                                    "articleId": "LEGIARTI000038820717",
                                     "natureText": "DECRET",
-                                    "datePubliTexte": "2011-12-31",
-                                    "dateSignaTexte": "2011-12-29",
-                                    "dateDebutCible": "2012-03-01"
+                                    "datePubliTexte": "2019-07-25",
+                                    "dateSignaTexte": "2019-07-24",
+                                    "dateDebutCible": "2019-07-26"
                                   }
                                 ],
                                 "articleVersions": [
@@ -15818,7 +15818,7 @@
                                   },
                                   {
                                     "id": "LEGIARTI000025198253",
-                                    "etat": "ABROGE_DIFF",
+                                    "etat": "MODIFIE",
                                     "version": "2.0",
                                     "dateDebut": 1330560000000,
                                     "dateFin": 1567296000000,
@@ -15827,7 +15827,7 @@
                                   },
                                   {
                                     "id": "LEGIARTI000038929033",
-                                    "etat": "VIGUEUR_DIFF",
+                                    "etat": "VIGUEUR",
                                     "version": "3.0",
                                     "dateDebut": 1567296000000,
                                     "dateFin": 32472144000000,
@@ -15837,8 +15837,8 @@
                                 ],
                                 "nota": "",
                                 "notaHtml": "",
-                                "dateDebut": 1330560000000,
-                                "dateFin": 1567296000000,
+                                "dateDebut": 1567296000000,
+                                "dateFin": 32472144000000,
                                 "dateDebutExtension": 32472144000000,
                                 "dateFinExtension": 32472144000000
                               }

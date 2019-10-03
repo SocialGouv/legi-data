@@ -1,15 +1,15 @@
 {
   "type": "section",
   "data": {
-    "dateDebutVersion": "2019-06-01",
-    "dateFinVersion": "2019-09-01",
+    "dateDebutVersion": "2019-09-01",
+    "dateFinVersion": "2020-01-01",
     "type": "code",
     "id": "LEGITEXT000025024948",
     "cid": "LEGITEXT000025024948",
     "title": "Code des procédures civiles d'exécution",
-    "dateModif": "2019-06-01",
+    "dateModif": "2019-09-01",
     "etat": "VIGUEUR",
-    "jurisDate": "2019-06-01"
+    "jurisDate": "2019-09-01"
   },
   "children": [
     {
@@ -6265,7 +6265,7 @@
                             "type": "AUTONOME",
                             "num": "L322-1",
                             "texte": "Les biens sont vendus soit à l'amiable sur autorisation judiciaire, soit par adjudication. En cas d'accord entre le débiteur, le créancier poursuivant, les créanciers inscrits sur l'immeuble saisi à la date de la publication du commandement de payer valant saisie, les créanciers inscrits sur l'immeuble avant la publication du titre de vente et qui sont intervenus dans la procédure ainsi que le créancier mentionné au 1° bis de l'article 2374 du code civil , ils peuvent également être vendus de gré à gré après l'orientation en vente forcée et jusqu'à l'ouverture des enchères.",
-                            "texteHtml": "<p>Les biens sont vendus soit à l'amiable sur autorisation judiciaire, soit par adjudication.</p><p>En cas d'accord entre le débiteur, le créancier poursuivant, les créanciers inscrits sur l'immeuble saisi à la date de la publication du commandement de payer valant saisie, les créanciers inscrits sur l'immeuble avant la publication du titre de vente et qui sont intervenus dans la procédure ainsi que le créancier mentionné au <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006449080&dateTexte=&categorieLien=cid'>1° bis de l'article 2374 du code civil</a>, ils peuvent également être vendus de gré à gré après l'orientation en vente forcée et jusqu'à l'ouverture des enchères.</p>",
+                            "texteHtml": "<p>Les biens sont vendus soit à l'amiable sur autorisation judiciaire, soit par adjudication.</p><p>En cas d'accord entre le débiteur, le créancier poursuivant, les créanciers inscrits sur l'immeuble saisi à la date de la publication du commandement de payer valant saisie, les créanciers inscrits sur l'immeuble avant la publication du titre de vente et qui sont intervenus dans la procédure ainsi que le créancier mentionné au <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006449080&dateTexte=&categorieLien=cid'>1° bis de l'article 2374 du code civil</a>, ils peuvent également être vendus de gré à gré après l'orientation en vente forcée et jusqu'à l'ouverture des enchères.</p>",
                             "etat": "VIGUEUR",
                             "lienModifications": [
                               {
@@ -12741,7 +12741,7 @@
                                     "type": "AUTONOME",
                                     "num": "R121-11",
                                     "texte": "Sauf dispositions contraires, la demande est formée par assignation à la première audience utile du juge de l'exécution. L'assignation contient, à peine de nullité, la reproduction des dispositions des articles R. 121-6 à R. 121-10 .",
-                                    "texteHtml": "<p><br/>Sauf dispositions contraires, la demande est formée par assignation à la première audience utile du juge de l'exécution. <br/>L'assignation contient, à peine de nullité, la reproduction des dispositions des articles <a alt='Code des procédures civiles d'exécution - art. R121-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025938308&dateTexte=&categorieLien=cid'>R. 121-6 à R. 121-10</a>.</p>",
+                                    "texteHtml": "<p><br/>Sauf dispositions contraires, la demande est formée par assignation à la première audience utile du juge de l'exécution. <br/>L'assignation contient, à peine de nullité, la reproduction des dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025938308&dateTexte=&categorieLien=cid' title='Code des procédures civiles d'exécution - art. R121-6 (V)'>R. 121-6 à R. 121-10</a>.</p>",
                                     "etat": "VIGUEUR",
                                     "lienModifications": [
                                       {
@@ -17997,7 +17997,7 @@
                             "num": "R212-3",
                             "texte": "La déclaration qui incombe au tiers saisi sur la situation de droit existant entre lui-même et le débiteur est faite par le service employeur au greffe du tribunal d'instance. Les déclarations relatives aux cessions, saisies, saisies administratives à tiers détenteurs ou paiement direct de créances d'aliments sont faites par le comptable assignataire au greffe du tribunal d'instance.",
                             "texteHtml": "<p>La déclaration qui incombe au tiers saisi sur la situation de droit existant entre lui-même et le débiteur est faite par le service employeur au greffe du tribunal d'instance.</p><p><br/>\nLes déclarations relatives aux cessions, saisies, saisies administratives à tiers détenteurs ou paiement direct de créances d'aliments sont faites par le comptable assignataire au greffe du tribunal d'instance.</p>",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "lienModifications": [
                               {
                                 "textCid": "JORFTEXT000025934747",
@@ -18036,9 +18036,18 @@
                               },
                               {
                                 "id": "LEGIARTI000037601743",
-                                "etat": "VIGUEUR",
+                                "etat": "ABROGE_DIFF",
                                 "version": "2.0",
                                 "dateDebut": 1546300800000,
+                                "dateFin": 1577836800000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000039066548",
+                                "etat": "VIGUEUR_DIFF",
+                                "version": "3.0",
+                                "dateDebut": 1577836800000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
@@ -18047,7 +18056,7 @@
                             "nota": "",
                             "notaHtml": "",
                             "dateDebut": 1546300800000,
-                            "dateFin": 32472144000000,
+                            "dateFin": 1577836800000,
                             "dateDebutExtension": 32472144000000,
                             "dateFinExtension": 32472144000000
                           }
@@ -18171,7 +18180,7 @@
                             "num": "R212-6",
                             "texte": "Le comptable public verse tous les mois au compte \" Caisse des dépôts et consignations \" du régisseur du greffe du tribunal d'instance le montant des sommes correspondant aux retenues effectuées. Il adresse également au greffe un état nominatif indiquant les références du saisi, de la saisie et du montant retenu. Le greffe notifie au comptable la mainlevée de la saisie.",
                             "texteHtml": "<p><br/>Le comptable public verse tous les mois au compte \" Caisse des dépôts et consignations \" du régisseur du greffe du tribunal d'instance le montant des sommes correspondant aux retenues effectuées. <br/>Il adresse également au greffe un état nominatif indiquant les références du saisi, de la saisie et du montant retenu. <br/>Le greffe notifie au comptable la mainlevée de la saisie.</p>",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "lienModifications": [
                               {
                                 "textCid": "JORFTEXT000025934747",
@@ -18201,9 +18210,18 @@
                             "articleVersions": [
                               {
                                 "id": "LEGIARTI000025938545",
-                                "etat": "VIGUEUR",
+                                "etat": "ABROGE_DIFF",
                                 "version": "1.0",
                                 "dateDebut": 1338508800000,
+                                "dateFin": 1577836800000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000039066545",
+                                "etat": "VIGUEUR_DIFF",
+                                "version": "2.0",
+                                "dateDebut": 1577836800000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
@@ -18212,7 +18230,7 @@
                             "nota": "",
                             "notaHtml": "",
                             "dateDebut": 1338508800000,
-                            "dateFin": 32472144000000,
+                            "dateFin": 1577836800000,
                             "dateDebutExtension": 32472144000000,
                             "dateFinExtension": 32472144000000
                           }
@@ -28166,7 +28184,7 @@
                                 "type": "AUTONOME",
                                 "num": "R321-3",
                                 "texte": "Outre les mentions prescrites pour les actes d'huissier de justice, le commandement de payer valant saisie comporte : 1° La constitution d'avocat du créancier poursuivant, laquelle emporte élection de domicile ; 2° L'indication de la date et de la nature du titre exécutoire en vertu duquel le commandement est délivré ; 3° Le décompte des sommes réclamées en principal, frais et intérêts échus ainsi que l'indication du taux des intérêts moratoires ; 4° L'avertissement que le débiteur doit payer ces sommes dans un délai de huit jours, qu'à défaut de paiement, la procédure à fin de vente de l'immeuble se poursuivra et qu'à cet effet, le débiteur sera assigné à comparaître à une audience du juge de l'exécution pour voir statuer sur les modalités de la procédure ; 5° La désignation de chacun des biens ou droits sur lesquels porte la saisie immobilière, telle qu'exigée par les règles de la publicité foncière ; 6° L'indication que le commandement vaut saisie de l'immeuble et que le bien est indisponible à l'égard du débiteur à compter de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci au fichier immobilier ; 7° L'indication que le commandement vaut saisie des fruits et que le débiteur en est séquestre ; 8° L'indication que le débiteur garde la possibilité de rechercher un acquéreur de l'immeuble saisi pour procéder à sa vente amiable ou de donner mandat à cet effet et la mention que cette vente ne pourra néanmoins être conclue qu'après autorisation du juge de l'exécution ; 9° La sommation, lorsque le bien fait l'objet d'un bail, d'avoir à indiquer à l'huissier de justice les nom, prénom et adresse du preneur ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ; 10° L'indication qu'un huissier de justice pourra pénétrer dans les lieux afin de dresser un procès-verbal de description de l'immeuble ; 11° L'indication du juge de l'exécution territorialement compétent pour connaître de la procédure de saisie et des contestations et demandes incidentes y afférentes ; 12° L'indication que le débiteur qui en fait préalablement la demande peut bénéficier, pour la procédure de saisie, de l'aide juridictionnelle s'il remplit les conditions de ressources prévues par la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et le décret n° 91-1266 du 19 décembre 1991 portant application de cette loi ; 13° L'indication, si le débiteur est une personne physique, que s'il s'estime en situation de surendettement, il a la faculté de saisir la commission de surendettement des particuliers instituée par l'article L. 712-1 du code de la consommation. Si le créancier saisissant agit en vertu d'une transmission, à quelque titre que ce soit, de la créance contenue dans le titre exécutoire fondant les poursuites, le commandement vise l'acte de transmission à moins que le débiteur n'en ait été régulièrement avisé au préalable. Lorsque le commandement de payer valant saisie est signifié à la personne qui a consenti une hypothèque sur l'un de ses biens pour garantir la dette d'un tiers, le délai de sommation prévu au 4° est porté à un mois. Les mentions prévues au présent article sont prescrites à peine de nullité. Toutefois, la nullité n'est pas encourue au motif que les sommes réclamées sont supérieures à celles qui sont dues au créancier.",
-                                "texteHtml": "<p>Outre les mentions prescrites pour les actes d'huissier de justice, le commandement de payer valant saisie comporte : </p><p>1° La constitution d'avocat du créancier poursuivant, laquelle emporte élection de domicile ; </p><p>2° L'indication de la date et de la nature du titre exécutoire en vertu duquel le commandement est délivré ; </p><p>3° Le décompte des sommes réclamées en principal, frais et intérêts échus ainsi que l'indication du taux des intérêts moratoires ; </p><p>4° L'avertissement que le débiteur doit payer ces sommes dans un délai de huit jours, qu'à défaut de paiement, la procédure à fin de vente de l'immeuble se poursuivra et qu'à cet effet, le débiteur sera assigné à comparaître à une audience du juge de l'exécution pour voir statuer sur les modalités de la procédure ; </p><p>5° La désignation de chacun des biens ou droits sur lesquels porte la saisie immobilière, telle qu'exigée par les règles de la publicité foncière ; </p><p>6° L'indication que le commandement vaut saisie de l'immeuble et que le bien est indisponible à l'égard du débiteur à compter de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci au fichier immobilier ; </p><p>7° L'indication que le commandement vaut saisie des fruits et que le débiteur en est séquestre ; </p><p>8° L'indication que le débiteur garde la possibilité de rechercher un acquéreur de l'immeuble saisi pour procéder à sa vente amiable ou de donner mandat à cet effet et la mention que cette vente ne pourra néanmoins être conclue qu'après autorisation du juge de l'exécution ; </p><p>9° La sommation, lorsque le bien fait l'objet d'un bail, d'avoir à indiquer à l'huissier de justice les nom, prénom et adresse du preneur ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ; </p><p>10° L'indication qu'un huissier de justice pourra pénétrer dans les lieux afin de dresser un procès-verbal de description de l'immeuble ; </p><p>11° L'indication du juge de l'exécution territorialement compétent pour connaître de la procédure de saisie et des contestations et demandes incidentes y afférentes ; </p><p>12° L'indication que le débiteur qui en fait préalablement la demande peut bénéficier, pour la procédure de saisie, de l'aide juridictionnelle s'il remplit les conditions de ressources prévues par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000537611&categorieLien=cid'>loi n° 91-647 du 10 juillet 1991 </a>relative à l'aide juridique et le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000721124&categorieLien=cid'>décret n° 91-1266 du 19 décembre 1991 </a>portant application de cette loi ; </p><p>13° L'indication, si le débiteur est une personne physique, que s'il s'estime en situation de surendettement, il a la faculté de saisir la commission de surendettement des particuliers instituée par l'article <a alt='Code de la consommation - art. L712-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032223567&dateTexte=&categorieLien=cid'>L. 712-1</a> du code de la consommation. </p><p>Si le créancier saisissant agit en vertu d'une transmission, à quelque titre que ce soit, de la créance contenue dans le titre exécutoire fondant les poursuites, le commandement vise l'acte de transmission à moins que le débiteur n'en ait été régulièrement avisé au préalable. </p><p>Lorsque le commandement de payer valant saisie est signifié à la personne qui a consenti une hypothèque sur l'un de ses biens pour garantir la dette d'un tiers, le délai de sommation prévu au 4° est porté à un mois. </p><p>Les mentions prévues au présent article sont prescrites à peine de nullité. Toutefois, la nullité n'est pas encourue au motif que les sommes réclamées sont supérieures à celles qui sont dues au créancier.</p>",
+                                "texteHtml": "<p>Outre les mentions prescrites pour les actes d'huissier de justice, le commandement de payer valant saisie comporte : </p><p>1° La constitution d'avocat du créancier poursuivant, laquelle emporte élection de domicile ; </p><p>2° L'indication de la date et de la nature du titre exécutoire en vertu duquel le commandement est délivré ; </p><p>3° Le décompte des sommes réclamées en principal, frais et intérêts échus ainsi que l'indication du taux des intérêts moratoires ; </p><p>4° L'avertissement que le débiteur doit payer ces sommes dans un délai de huit jours, qu'à défaut de paiement, la procédure à fin de vente de l'immeuble se poursuivra et qu'à cet effet, le débiteur sera assigné à comparaître à une audience du juge de l'exécution pour voir statuer sur les modalités de la procédure ; </p><p>5° La désignation de chacun des biens ou droits sur lesquels porte la saisie immobilière, telle qu'exigée par les règles de la publicité foncière ; </p><p>6° L'indication que le commandement vaut saisie de l'immeuble et que le bien est indisponible à l'égard du débiteur à compter de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci au fichier immobilier ; </p><p>7° L'indication que le commandement vaut saisie des fruits et que le débiteur en est séquestre ; </p><p>8° L'indication que le débiteur garde la possibilité de rechercher un acquéreur de l'immeuble saisi pour procéder à sa vente amiable ou de donner mandat à cet effet et la mention que cette vente ne pourra néanmoins être conclue qu'après autorisation du juge de l'exécution ; </p><p>9° La sommation, lorsque le bien fait l'objet d'un bail, d'avoir à indiquer à l'huissier de justice les nom, prénom et adresse du preneur ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ; </p><p>10° L'indication qu'un huissier de justice pourra pénétrer dans les lieux afin de dresser un procès-verbal de description de l'immeuble ; </p><p>11° L'indication du juge de l'exécution territorialement compétent pour connaître de la procédure de saisie et des contestations et demandes incidentes y afférentes ; </p><p>12° L'indication que le débiteur qui en fait préalablement la demande peut bénéficier, pour la procédure de saisie, de l'aide juridictionnelle s'il remplit les conditions de ressources prévues par la <a href='/affichTexte.do?cidTexte=JORFTEXT000000537611&categorieLien=cid'>loi n° 91-647 du 10 juillet 1991 </a>relative à l'aide juridique et le <a href='/affichTexte.do?cidTexte=JORFTEXT000000721124&categorieLien=cid'>décret n° 91-1266 du 19 décembre 1991 </a>portant application de cette loi ; </p><p>13° L'indication, si le débiteur est une personne physique, que s'il s'estime en situation de surendettement, il a la faculté de saisir la commission de surendettement des particuliers instituée par l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032223567&dateTexte=&categorieLien=cid' title='Code de la consommation - art. L712-1 (V)'>L. 712-1</a> du code de la consommation. </p><p>Si le créancier saisissant agit en vertu d'une transmission, à quelque titre que ce soit, de la créance contenue dans le titre exécutoire fondant les poursuites, le commandement vise l'acte de transmission à moins que le débiteur n'en ait été régulièrement avisé au préalable. </p><p>Lorsque le commandement de payer valant saisie est signifié à la personne qui a consenti une hypothèque sur l'un de ses biens pour garantir la dette d'un tiers, le délai de sommation prévu au 4° est porté à un mois. </p><p>Les mentions prévues au présent article sont prescrites à peine de nullité. Toutefois, la nullité n'est pas encourue au motif que les sommes réclamées sont supérieures à celles qui sont dues au créancier.</p>",
                                 "etat": "VIGUEUR",
                                 "lienModifications": [
                                   {
@@ -31722,7 +31740,7 @@
                                     "type": "AUTONOME",
                                     "num": "R322-37",
                                     "texte": "Le juge de l'exécution peut être saisi par le créancier poursuivant, l'un des créanciers inscrits ou la partie saisie d'une requête tendant à aménager, restreindre ou compléter les mesures de publicité prévues aux articles R. 322-31 à R. 322-35 . La requête est formée, selon le cas, à l'audience d'orientation, deux mois au plus tard avant l'audience d'adjudication ou dans un délai de deux jours ouvrables à compter de la vente. Le juge tient compte de la nature, de la valeur, de la situation de l'immeuble et de toutes autres circonstances particulières. Il peut notamment ordonner : 1° Que soit adjoint aux mentions prévues aux articles R. 322-31 et R. 322-32 toute autre indication ou document relatif à l'immeuble ; 2° Que les mesures de publicité soient accomplies par d'autres modes de communication qu'il indique ; 3° Que les avis mentionnés aux articles R. 322-32 et R. 322-34 soient affichés au lieu qu'il désigne dans les communes de la situation des biens. Lorsque le juge statue par ordonnance, sa décision n'est pas susceptible d'appel.",
-                                    "texteHtml": "<p><br/>Le juge de l'exécution peut être saisi par le créancier poursuivant, l'un des créanciers inscrits ou la partie saisie d'une requête tendant à aménager, restreindre ou compléter les mesures de publicité prévues aux articles <a alt='Code des procédures civiles d'exécution - art. R322-31 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939129&dateTexte=&categorieLien=cid'>R. 322-31 à R. 322-35</a>. <br/>La requête est formée, selon le cas, à l'audience d'orientation, deux mois au plus tard avant l'audience d'adjudication ou dans un délai de deux jours ouvrables à compter de la vente. <br/>Le juge tient compte de la nature, de la valeur, de la situation de l'immeuble et de toutes autres circonstances particulières. <br/>Il peut notamment ordonner : <br/>1° Que soit adjoint aux mentions prévues aux articles R. 322-31 et R. 322-32 toute autre indication ou document relatif à l'immeuble ; <br/>2° Que les mesures de publicité soient accomplies par d'autres modes de communication qu'il indique ; <br/>3° Que les avis mentionnés aux articles <a alt='Code des procédures civiles d'exécution - art. R322-32 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939131&dateTexte=&categorieLien=cid'>R. 322-32 et R. 322-34</a> soient affichés au lieu qu'il désigne dans les communes de la situation des biens. <br/>Lorsque le juge statue par ordonnance, sa décision n'est pas susceptible d'appel.</p>",
+                                    "texteHtml": "<p><br/>Le juge de l'exécution peut être saisi par le créancier poursuivant, l'un des créanciers inscrits ou la partie saisie d'une requête tendant à aménager, restreindre ou compléter les mesures de publicité prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939129&dateTexte=&categorieLien=cid' title='Code des procédures civiles d'exécution - art. R322-31 (V)'>R. 322-31 à R. 322-35</a>. <br/>La requête est formée, selon le cas, à l'audience d'orientation, deux mois au plus tard avant l'audience d'adjudication ou dans un délai de deux jours ouvrables à compter de la vente. <br/>Le juge tient compte de la nature, de la valeur, de la situation de l'immeuble et de toutes autres circonstances particulières. <br/>Il peut notamment ordonner : <br/>1° Que soit adjoint aux mentions prévues aux articles R. 322-31 et R. 322-32 toute autre indication ou document relatif à l'immeuble ; <br/>2° Que les mesures de publicité soient accomplies par d'autres modes de communication qu'il indique ; <br/>3° Que les avis mentionnés aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939131&dateTexte=&categorieLien=cid' title='Code des procédures civiles d'exécution - art. R322-32 (V)'>R. 322-32 et R. 322-34</a> soient affichés au lieu qu'il désigne dans les communes de la situation des biens. <br/>Lorsque le juge statue par ordonnance, sa décision n'est pas susceptible d'appel.</p>",
                                     "etat": "VIGUEUR",
                                     "lienModifications": [
                                       {
@@ -31777,7 +31795,7 @@
                                     "type": "AUTONOME",
                                     "num": "R322-38",
                                     "texte": "Les mesures de publicité ordonnées par le juge en application de l'article R. 322-37 sont réalisées à la diligence et aux frais avancés de la partie qui les sollicite.",
-                                    "texteHtml": "<p><br/>Les mesures de publicité ordonnées par le juge en application de l'article <a alt='Code des procédures civiles d'exécution - art. R322-37 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939143&dateTexte=&categorieLien=cid'>R. 322-37</a> sont réalisées à la diligence et aux frais avancés de la partie qui les sollicite.</p>",
+                                    "texteHtml": "<p><br/>Les mesures de publicité ordonnées par le juge en application de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939143&dateTexte=&categorieLien=cid' title='Code des procédures civiles d'exécution - art. R322-37 (V)'>R. 322-37</a> sont réalisées à la diligence et aux frais avancés de la partie qui les sollicite.</p>",
                                     "etat": "VIGUEUR",
                                     "lienModifications": [
                                       {
@@ -32095,6 +32113,49 @@
                                 {
                                   "type": "article",
                                   "data": {
+                                    "id": "LEGIARTI000038542813",
+                                    "cid": "LEGIARTI000038542810",
+                                    "type": "AUTONOME",
+                                    "num": "R322-41-1",
+                                    "texte": "Avant de porter les enchères, lorsque l'immeuble saisi est un immeuble à usage d'habitation ou un fonds de commerce d'un établissement recevant du public à usage total ou partiel d'hébergement, l'avocat se fait en outre remettre par son mandant une attestation sur l'honneur indiquant s'il fait l'objet ou non d'une condamnation à l'une des peines mentionnées à l'article L. 322-7-1 et, lorsque le mandant est une personne physique, si le bien est destiné ou non à son occupation personnelle. Si le mandant est une société civile immobilière ou en nom collectif, il indique également si ses associés et mandataires sociaux font l'objet ou non d'une condamnation à l'une de ces peines. Lorsque le mandant est une personne physique, l'attestation mentionne ses nom, prénoms, date et lieu de naissance et domicile, ainsi que, lorsqu'il est né à l'étranger, les nom et prénoms de ses parents. Lorsque le mandant est une personne morale, l'attestation mentionne sa dénomination et son numéro SIREN. S'il s'agit d'une société civile immobilière ou en nom collectif, l'attestation mentionne également pour ses associés et mandataires sociaux, l'ensemble des informations requises, tant pour les personnes physiques que morales. L'attestation est datée et signée par le mandant.",
+                                    "texteHtml": "<p>Avant de porter les enchères, lorsque l'immeuble saisi est un immeuble à usage d'habitation ou un fonds de commerce d'un établissement recevant du public à usage total ou partiel d'hébergement, l'avocat se fait en outre remettre par son mandant une attestation sur l'honneur indiquant s'il fait l'objet ou non d'une condamnation à l'une des peines mentionnées à l'article L. 322-7-1 et, lorsque le mandant est une personne physique, si le bien est destiné ou non à son occupation personnelle. Si le mandant est une société civile immobilière ou en nom collectif, il indique également si ses associés et mandataires sociaux font l'objet ou non d'une condamnation à l'une de ces peines.<br/><br/>\n Lorsque le mandant est une personne physique, l'attestation mentionne ses nom, prénoms, date et lieu de naissance et domicile, ainsi que, lorsqu'il est né à l'étranger, les nom et prénoms de ses parents. Lorsque le mandant est une personne morale, l'attestation mentionne sa dénomination et son numéro SIREN. S'il s'agit d'une société civile immobilière ou en nom collectif, l'attestation mentionne également pour ses associés et mandataires sociaux, l'ensemble des informations requises, tant pour les personnes physiques que morales. L'attestation est datée et signée par le mandant.</p>",
+                                    "etat": "VIGUEUR",
+                                    "lienModifications": [
+                                      {
+                                        "textCid": "JORFTEXT000038496429",
+                                        "textTitle": "Décret n°2019-488 du 22 mai 2019 - art. 2",
+                                        "linkType": "CREE",
+                                        "linkOrientation": "cible",
+                                        "articleNum": "2",
+                                        "articleId": "LEGIARTI000038542720",
+                                        "natureText": "DECRET",
+                                        "datePubliTexte": "2019-05-23",
+                                        "dateSignaTexte": "2019-05-22",
+                                        "dateDebutCible": "2019-05-24"
+                                      }
+                                    ],
+                                    "articleVersions": [
+                                      {
+                                        "id": "LEGIARTI000038542813",
+                                        "etat": "VIGUEUR",
+                                        "version": "1.0",
+                                        "dateDebut": 1567296000000,
+                                        "dateFin": 32472144000000,
+                                        "numero": null,
+                                        "ordre": null
+                                      }
+                                    ],
+                                    "nota": "",
+                                    "notaHtml": "",
+                                    "dateDebut": 1567296000000,
+                                    "dateFin": 32472144000000,
+                                    "dateDebutExtension": 32472144000000,
+                                    "dateFinExtension": 32472144000000
+                                  }
+                                },
+                                {
+                                  "type": "article",
+                                  "data": {
                                     "id": "LEGIARTI000025939159",
                                     "cid": "LEGIARTI000025939159",
                                     "type": "AUTONOME",
@@ -32315,13 +32376,13 @@
                                 {
                                   "type": "article",
                                   "data": {
-                                    "id": "LEGIARTI000025939167",
+                                    "id": "LEGIARTI000038554328",
                                     "cid": "LEGIARTI000025939167",
                                     "type": "AUTONOME",
                                     "num": "R322-46",
-                                    "texte": "L'avocat dernier enchérisseur est tenu de déclarer au greffier l'identité de son mandant avant l'issue de l'audience.",
-                                    "texteHtml": "<p><br/>L'avocat dernier enchérisseur est tenu de déclarer au greffier l'identité de son mandant avant l'issue de l'audience.</p>",
-                                    "etat": "ABROGE_DIFF",
+                                    "texte": "Avant l'issue de l'audience, l'avocat dernier enchérisseur déclare au greffier l'identité de son mandant et lui remet l'attestation mentionnée à l'article R. 322-41-1.",
+                                    "texteHtml": "<p>Avant l'issue de l'audience, l'avocat dernier enchérisseur déclare au greffier l'identité de son mandant et lui remet l'attestation mentionnée à l'article R. 322-41-1.</p>",
+                                    "etat": "VIGUEUR",
                                     "lienModifications": [
                                       {
                                         "textCid": "JORFTEXT000025934747",
@@ -32329,29 +32390,29 @@
                                         "linkType": "CODIFICATION",
                                         "linkOrientation": "source",
                                         "articleNum": "",
-                                        "articleId": "LEGITEXT000025935841",
-                                        "natureText": "DECRET",
-                                        "datePubliTexte": "2012-05-31",
-                                        "dateSignaTexte": "2012-05-30",
-                                        "dateDebutCible": "2012-06-01"
+                                        "articleId": "",
+                                        "natureText": "",
+                                        "datePubliTexte": null,
+                                        "dateSignaTexte": null,
+                                        "dateDebutCible": null
                                       },
                                       {
-                                        "textCid": "JORFTEXT000025934747",
-                                        "textTitle": "Décret n°2012-783\n du 30 mai 2012 - art.",
-                                        "linkType": "CREE",
+                                        "textCid": "JORFTEXT000038496429",
+                                        "textTitle": "Décret n°2019-488 du 22 mai 2019 - art. 3",
+                                        "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
-                                        "articleNum": "",
-                                        "articleId": "LEGIARTI000025936193",
+                                        "articleNum": "3",
+                                        "articleId": "LEGIARTI000038542728",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2012-05-31",
-                                        "dateSignaTexte": "2012-05-30",
-                                        "dateDebutCible": "2012-06-01"
+                                        "datePubliTexte": "2019-05-23",
+                                        "dateSignaTexte": "2019-05-22",
+                                        "dateDebutCible": "2019-05-24"
                                       }
                                     ],
                                     "articleVersions": [
                                       {
                                         "id": "LEGIARTI000025939167",
-                                        "etat": "ABROGE_DIFF",
+                                        "etat": "MODIFIE",
                                         "version": "1.0",
                                         "dateDebut": 1338508800000,
                                         "dateFin": 1567296000000,
@@ -32360,7 +32421,7 @@
                                       },
                                       {
                                         "id": "LEGIARTI000038554328",
-                                        "etat": "VIGUEUR_DIFF",
+                                        "etat": "VIGUEUR",
                                         "version": "2.0",
                                         "dateDebut": 1567296000000,
                                         "dateFin": 32472144000000,
@@ -32370,8 +32431,8 @@
                                     ],
                                     "nota": "",
                                     "notaHtml": "",
-                                    "dateDebut": 1338508800000,
-                                    "dateFin": 1567296000000,
+                                    "dateDebut": 1567296000000,
+                                    "dateFin": 32472144000000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFinExtension": 32472144000000
                                   }
@@ -32552,6 +32613,92 @@
                                     "nota": "",
                                     "notaHtml": "",
                                     "dateDebut": 1338508800000,
+                                    "dateFin": 32472144000000,
+                                    "dateDebutExtension": 32472144000000,
+                                    "dateFinExtension": 32472144000000
+                                  }
+                                },
+                                {
+                                  "type": "article",
+                                  "data": {
+                                    "id": "LEGIARTI000038542858",
+                                    "cid": "LEGIARTI000038542853",
+                                    "type": "AUTONOME",
+                                    "num": "R322-49-1",
+                                    "texte": "En l'absence de surenchère valide et lorsque l'attestation mentionnée à l'article R. 322-41-1 ne précise pas que le bien est destiné à l'occupation personnelle du mandant, le service du greffe demande le bulletin n° 2 du casier judiciaire de l'enchérisseur déclaré adjudicataire et, s'il s'agit d'une société civile immobilière ou en nom collectif, de ses associés et mandataires sociaux. Lorsque l'enchérisseur déclaré adjudicataire ou, s'il s'agit d'une société civile immobilière ou en nom collectif, l'un de ses associés ou mandataires sociaux, a fait l'objet d'une condamnation à l'une des peines mentionnées à l'article L. 322-7-1, le service du greffe en réfère au juge qui, après avoir sollicité les observations des parties, prononce d'office la nullité de l'adjudication par une ordonnance non susceptible d'appel dans laquelle il fixe la nouvelle audience de vente à une date comprise dans un délai de deux à quatre mois suivant le prononcé de sa décision. L'ordonnance est notifiée par le greffe au débiteur saisi, au créancier poursuivant, aux créanciers inscrits et à l'adjudicataire par lettre recommandée avec demande d'avis de réception.",
+                                    "texteHtml": "<p>En l'absence de surenchère valide et lorsque l'attestation mentionnée à l'article R. 322-41-1 ne précise pas que le bien est destiné à l'occupation personnelle du mandant, le service du greffe demande le bulletin n° 2 du casier judiciaire de l'enchérisseur déclaré adjudicataire et, s'il s'agit d'une société civile immobilière ou en nom collectif, de ses associés et mandataires sociaux.<br/><br/>\nLorsque l'enchérisseur déclaré adjudicataire ou, s'il s'agit d'une société civile immobilière ou en nom collectif, l'un de ses associés ou mandataires sociaux, a fait l'objet d'une condamnation à l'une des peines mentionnées à l'article L. 322-7-1, le service du greffe en réfère au juge qui, après avoir sollicité les observations des parties, prononce d'office la nullité de l'adjudication par une ordonnance non susceptible d'appel dans laquelle il fixe la nouvelle audience de vente à une date comprise dans un délai de deux à quatre mois suivant le prononcé de sa décision.<br/><br/>\nL'ordonnance est notifiée par le greffe au débiteur saisi, au créancier poursuivant, aux créanciers inscrits et à l'adjudicataire par lettre recommandée avec demande d'avis de réception.</p>",
+                                    "etat": "VIGUEUR",
+                                    "lienModifications": [
+                                      {
+                                        "textCid": "JORFTEXT000038496429",
+                                        "textTitle": "Décret n°2019-488 du 22 mai 2019 - art. 4",
+                                        "linkType": "CREE",
+                                        "linkOrientation": "cible",
+                                        "articleNum": "4",
+                                        "articleId": "LEGIARTI000038542722",
+                                        "natureText": "DECRET",
+                                        "datePubliTexte": "2019-05-23",
+                                        "dateSignaTexte": "2019-05-22",
+                                        "dateDebutCible": "2019-05-24"
+                                      }
+                                    ],
+                                    "articleVersions": [
+                                      {
+                                        "id": "LEGIARTI000038542858",
+                                        "etat": "VIGUEUR",
+                                        "version": "1.0",
+                                        "dateDebut": 1567296000000,
+                                        "dateFin": 32472144000000,
+                                        "numero": null,
+                                        "ordre": null
+                                      }
+                                    ],
+                                    "nota": "",
+                                    "notaHtml": "",
+                                    "dateDebut": 1567296000000,
+                                    "dateFin": 32472144000000,
+                                    "dateDebutExtension": 32472144000000,
+                                    "dateFinExtension": 32472144000000
+                                  }
+                                },
+                                {
+                                  "type": "article",
+                                  "data": {
+                                    "id": "LEGIARTI000038542860",
+                                    "cid": "LEGIARTI000038542855",
+                                    "type": "AUTONOME",
+                                    "num": "R322-49-2",
+                                    "texte": "Lorsque l'immeuble est remis en vente par la voie d'une nouvelle adjudication en application des dispositions de l'article R. 322-49-1, il est fait application des dispositions des articles R. 322-70 à R. 322-72.",
+                                    "texteHtml": "<p>Lorsque l'immeuble est remis en vente par la voie d'une nouvelle adjudication en application des dispositions de l'article R. 322-49-1, il est fait application des dispositions des articles R. 322-70 à R. 322-72.</p>",
+                                    "etat": "VIGUEUR",
+                                    "lienModifications": [
+                                      {
+                                        "textCid": "JORFTEXT000038496429",
+                                        "textTitle": "Décret n°2019-488 du 22 mai 2019 - art. 4",
+                                        "linkType": "CREE",
+                                        "linkOrientation": "cible",
+                                        "articleNum": "4",
+                                        "articleId": "LEGIARTI000038542722",
+                                        "natureText": "DECRET",
+                                        "datePubliTexte": "2019-05-23",
+                                        "dateSignaTexte": "2019-05-22",
+                                        "dateDebutCible": "2019-05-24"
+                                      }
+                                    ],
+                                    "articleVersions": [
+                                      {
+                                        "id": "LEGIARTI000038542860",
+                                        "etat": "VIGUEUR",
+                                        "version": "1.0",
+                                        "dateDebut": 1567296000000,
+                                        "dateFin": 32472144000000,
+                                        "numero": null,
+                                        "ordre": null
+                                      }
+                                    ],
+                                    "nota": "",
+                                    "notaHtml": "",
+                                    "dateDebut": 1567296000000,
                                     "dateFin": 32472144000000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFinExtension": 32472144000000
@@ -32853,13 +33000,13 @@
                             {
                               "type": "article",
                               "data": {
-                                "id": "LEGIARTI000025939189",
+                                "id": "LEGIARTI000038554337",
                                 "cid": "LEGIARTI000025939189",
                                 "type": "AUTONOME",
                                 "num": "R322-55",
-                                "texte": "Le jour de l'audience, les enchères sont reprises dans les conditions prévues par les articles R. 322-39 à R. 322-49 , sur la mise à prix modifiée par la surenchère. Si cette surenchère n'est pas couverte, le surenchérisseur est déclaré adjudicataire. Aucune surenchère ne pourra être reçue sur la seconde adjudication.",
-                                "texteHtml": "<p><br/>Le jour de l'audience, les enchères sont reprises dans les conditions prévues par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939151&dateTexte=&categorieLien=cid' title='Code des procédures civiles d'exécution - art. R322-39 (V)'>R. 322-39 à R. 322-49</a>, sur la mise à prix modifiée par la surenchère. <br/>Si cette surenchère n'est pas couverte, le surenchérisseur est déclaré adjudicataire. <br/>Aucune surenchère ne pourra être reçue sur la seconde adjudication.</p>",
-                                "etat": "ABROGE_DIFF",
+                                "texte": "Le jour de l'audience, les enchères sont reprises dans les conditions prévues par les articles R. 322-39 à R. 322-49 , sur la mise à prix modifiée par la surenchère. Si cette surenchère n'est pas couverte, le surenchérisseur est déclaré adjudicataire. Aucune surenchère ne pourra être reçue sur la seconde adjudication. Les dispositions de l'article R. 322-49-1 sont applicables.",
+                                "texteHtml": "<p></p><p><br/>\nLe jour de l'audience, les enchères sont reprises dans les conditions prévues par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939151&dateTexte=&categorieLien=cid'>R. 322-39 à R. 322-49</a>, sur la mise à prix modifiée par la surenchère.<br/><br/>\nSi cette surenchère n'est pas couverte, le surenchérisseur est déclaré adjudicataire.<br/><br/>\nAucune surenchère ne pourra être reçue sur la seconde adjudication.</p><p> Les dispositions de l'article R. 322-49-1 sont applicables.</p><p></p>",
+                                "etat": "VIGUEUR",
                                 "lienModifications": [
                                   {
                                     "textCid": "JORFTEXT000025934747",
@@ -32867,29 +33014,29 @@
                                     "linkType": "CODIFICATION",
                                     "linkOrientation": "source",
                                     "articleNum": "",
-                                    "articleId": "LEGITEXT000025935841",
-                                    "natureText": "DECRET",
-                                    "datePubliTexte": "2012-05-31",
-                                    "dateSignaTexte": "2012-05-30",
-                                    "dateDebutCible": "2012-06-01"
+                                    "articleId": "",
+                                    "natureText": "",
+                                    "datePubliTexte": null,
+                                    "dateSignaTexte": null,
+                                    "dateDebutCible": null
                                   },
                                   {
-                                    "textCid": "JORFTEXT000025934747",
-                                    "textTitle": "Décret n°2012-783\n du 30 mai 2012 - art.",
-                                    "linkType": "CREE",
+                                    "textCid": "JORFTEXT000038496429",
+                                    "textTitle": "Décret n°2019-488 du 22 mai 2019 - art. 5",
+                                    "linkType": "MODIFIE",
                                     "linkOrientation": "cible",
-                                    "articleNum": "",
-                                    "articleId": "LEGIARTI000025936193",
+                                    "articleNum": "5",
+                                    "articleId": "LEGIARTI000038542730",
                                     "natureText": "DECRET",
-                                    "datePubliTexte": "2012-05-31",
-                                    "dateSignaTexte": "2012-05-30",
-                                    "dateDebutCible": "2012-06-01"
+                                    "datePubliTexte": "2019-05-23",
+                                    "dateSignaTexte": "2019-05-22",
+                                    "dateDebutCible": "2019-05-24"
                                   }
                                 ],
                                 "articleVersions": [
                                   {
                                     "id": "LEGIARTI000025939189",
-                                    "etat": "ABROGE_DIFF",
+                                    "etat": "MODIFIE",
                                     "version": "1.0",
                                     "dateDebut": 1338508800000,
                                     "dateFin": 1567296000000,
@@ -32898,7 +33045,7 @@
                                   },
                                   {
                                     "id": "LEGIARTI000038554337",
-                                    "etat": "VIGUEUR_DIFF",
+                                    "etat": "VIGUEUR",
                                     "version": "2.0",
                                     "dateDebut": 1567296000000,
                                     "dateFin": 32472144000000,
@@ -32908,8 +33055,8 @@
                                 ],
                                 "nota": "",
                                 "notaHtml": "",
-                                "dateDebut": 1338508800000,
-                                "dateFin": 1567296000000,
+                                "dateDebut": 1567296000000,
+                                "dateFin": 32472144000000,
                                 "dateDebutExtension": 32472144000000,
                                 "dateFinExtension": 32472144000000
                               }
@@ -33824,13 +33971,13 @@
                             {
                               "type": "article",
                               "data": {
-                                "id": "LEGIARTI000025939238",
+                                "id": "LEGIARTI000038554333",
                                 "cid": "LEGIARTI000025939238",
                                 "type": "AUTONOME",
                                 "num": "R322-71",
-                                "texte": "Le jour de l'audience, les enchères sont réitérées dans les conditions prévues par les articles R. 322-39 à R. 322-49 .",
-                                "texteHtml": "<p><br/>Le jour de l'audience, les enchères sont réitérées dans les conditions prévues par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939151&dateTexte=&categorieLien=cid' title='Code des procédures civiles d'exécution - art. R322-39 (V)'>R. 322-39 à R. 322-49</a>.</p>",
-                                "etat": "ABROGE_DIFF",
+                                "texte": "Le jour de l'audience, les enchères sont réitérées dans les conditions prévues par les articles R. 322-39 à R. 322-49 . Les dispositions de l'article R. 322-49-1 sont applicables.",
+                                "texteHtml": "<p>Le jour de l'audience, les enchères sont réitérées dans les conditions prévues par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025939151&dateTexte=&categorieLien=cid'>R. 322-39 à R. 322-49</a>.</p><p> Les dispositions de l'article R. 322-49-1 sont applicables.</p>",
+                                "etat": "VIGUEUR",
                                 "lienModifications": [
                                   {
                                     "textCid": "JORFTEXT000025934747",
@@ -33838,29 +33985,29 @@
                                     "linkType": "CODIFICATION",
                                     "linkOrientation": "source",
                                     "articleNum": "",
-                                    "articleId": "LEGITEXT000025935841",
-                                    "natureText": "DECRET",
-                                    "datePubliTexte": "2012-05-31",
-                                    "dateSignaTexte": "2012-05-30",
-                                    "dateDebutCible": "2012-06-01"
+                                    "articleId": "",
+                                    "natureText": "",
+                                    "datePubliTexte": null,
+                                    "dateSignaTexte": null,
+                                    "dateDebutCible": null
                                   },
                                   {
-                                    "textCid": "JORFTEXT000025934747",
-                                    "textTitle": "Décret n°2012-783\n du 30 mai 2012 - art.",
-                                    "linkType": "CREE",
+                                    "textCid": "JORFTEXT000038496429",
+                                    "textTitle": "Décret n°2019-488 du 22 mai 2019 - art. 5",
+                                    "linkType": "MODIFIE",
                                     "linkOrientation": "cible",
-                                    "articleNum": "",
-                                    "articleId": "LEGIARTI000025936193",
+                                    "articleNum": "5",
+                                    "articleId": "LEGIARTI000038542730",
                                     "natureText": "DECRET",
-                                    "datePubliTexte": "2012-05-31",
-                                    "dateSignaTexte": "2012-05-30",
-                                    "dateDebutCible": "2012-06-01"
+                                    "datePubliTexte": "2019-05-23",
+                                    "dateSignaTexte": "2019-05-22",
+                                    "dateDebutCible": "2019-05-24"
                                   }
                                 ],
                                 "articleVersions": [
                                   {
                                     "id": "LEGIARTI000025939238",
-                                    "etat": "ABROGE_DIFF",
+                                    "etat": "MODIFIE",
                                     "version": "1.0",
                                     "dateDebut": 1338508800000,
                                     "dateFin": 1567296000000,
@@ -33869,7 +34016,7 @@
                                   },
                                   {
                                     "id": "LEGIARTI000038554333",
-                                    "etat": "VIGUEUR_DIFF",
+                                    "etat": "VIGUEUR",
                                     "version": "2.0",
                                     "dateDebut": 1567296000000,
                                     "dateFin": 32472144000000,
@@ -33879,8 +34026,8 @@
                                 ],
                                 "nota": "",
                                 "notaHtml": "",
-                                "dateDebut": 1338508800000,
-                                "dateFin": 1567296000000,
+                                "dateDebut": 1567296000000,
+                                "dateFin": 32472144000000,
                                 "dateDebutExtension": 32472144000000,
                                 "dateFinExtension": 32472144000000
                               }
@@ -36345,8 +36492,8 @@
                         "type": "AUTONOME",
                         "num": "R442-2",
                         "texte": "Par dérogation aux dispositions de l'article R. 121-11 , la demande relative à l'exécution d'une décision de justice ordonnant l'expulsion peut être formée au greffe du juge de l'exécution par lettre recommandée avec demande d'avis de réception ou par déclaration faite ou remise contre récépissé. Lorsque le juge de l'exécution exerce aussi les fonctions de juge d'instance et que la demande a été formée au greffe du tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au greffe du tribunal d'instance. Avis en est donné au demandeur par lettre simple.",
-                        "texteHtml": "<p><br/>Par dérogation aux dispositions de l'article <a alt='Code des procédures civiles d'exécution - art. R121-11 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025938320&dateTexte=&categorieLien=cid'>R. 121-11</a>, la demande relative à l'exécution d'une décision de justice ordonnant l'expulsion peut être formée au greffe du juge de l'exécution par lettre recommandée avec demande d'avis de réception ou par déclaration faite ou remise contre récépissé. <br/>Lorsque le juge de l'exécution exerce aussi les fonctions de juge d'instance et que la demande a été formée au greffe du tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au greffe du tribunal d'instance. Avis en est donné au demandeur par lettre simple.</p>",
-                        "etat": "VIGUEUR",
+                        "texteHtml": "<p><br/>Par dérogation aux dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000025024948&idArticle=LEGIARTI000025938320&dateTexte=&categorieLien=cid' title='Code des procédures civiles d'exécution - art. R121-11 (V)'>R. 121-11</a>, la demande relative à l'exécution d'une décision de justice ordonnant l'expulsion peut être formée au greffe du juge de l'exécution par lettre recommandée avec demande d'avis de réception ou par déclaration faite ou remise contre récépissé. <br/>Lorsque le juge de l'exécution exerce aussi les fonctions de juge d'instance et que la demande a été formée au greffe du tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au greffe du tribunal d'instance. Avis en est donné au demandeur par lettre simple.</p>",
+                        "etat": "ABROGE_DIFF",
                         "lienModifications": [
                           {
                             "textCid": "JORFTEXT000025934747",
@@ -36376,9 +36523,18 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000025939367",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "1.0",
                             "dateDebut": 1338508800000,
+                            "dateFin": 1577836800000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000039066541",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "2.0",
+                            "dateDebut": 1577836800000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -36387,7 +36543,7 @@
                         "nota": "",
                         "notaHtml": "",
                         "dateDebut": 1338508800000,
-                        "dateFin": 32472144000000,
+                        "dateFin": 1577836800000,
                         "dateDebutExtension": 32472144000000,
                         "dateFinExtension": 32472144000000
                       }
@@ -41491,7 +41647,7 @@
                         "num": "R631-2",
                         "texte": "Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit : 1° \" Tribunal de grande instance \" ou \" tribunal d'instance \" par \" tribunal de première instance \" ; 2° \" Cour d'appel \" par \" tribunal supérieur d'appel \" ; 3° \" Tribunal de commerce \" par \" tribunal de première instance statuant en matière commerciale \" ; 4° \" Premier président de la cour d'appel \" par \" président du tribunal supérieur d'appel \" ; 5° \" Président du tribunal de grande instance \" ou \" président du tribunal d'instance \" par \" président du tribunal de première instance \" ; 6° \" Procureur de la République \" ou \" procureur général près la cour d'appel \" par \" procureur de la République près le tribunal supérieur d'appel \" ; 7° \" Préfet \" ou \" préfet du département \" par \" représentant de l'Etat à Saint-Pierre-et-Miquelon \" ; 8° \" Département \" ou \" région \" par \" collectivité de Saint-Pierre-et-Miquelon \".",
                         "texteHtml": "<p><br/>Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit : <br/>1° \" Tribunal de grande instance \" ou \" tribunal d'instance \" par \" tribunal de première instance \" ; <br/>2° \" Cour d'appel \" par \" tribunal supérieur d'appel \" ; <br/>3° \" Tribunal de commerce \" par \" tribunal de première instance statuant en matière commerciale \" ; <br/>4° \" Premier président de la cour d'appel \" par \" président du tribunal supérieur d'appel \" ; <br/>5° \" Président du tribunal de grande instance \" ou \" président du tribunal d'instance \" par \" président du tribunal de première instance \" ; <br/>6° \" Procureur de la République \" ou \" procureur général près la cour d'appel \" par \" procureur de la République près le tribunal supérieur d'appel \" ; <br/>7° \" Préfet \" ou \" préfet du département \" par \" représentant de l'Etat à Saint-Pierre-et-Miquelon \" ; <br/>8° \" Département \" ou \" région \" par \" collectivité de Saint-Pierre-et-Miquelon \".</p>",
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "lienModifications": [
                           {
                             "textCid": "JORFTEXT000025934747",
@@ -41521,9 +41677,18 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000025939616",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "1.0",
                             "dateDebut": 1338508800000,
+                            "dateFin": 1577836800000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000039066538",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "2.0",
+                            "dateDebut": 1577836800000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -41532,7 +41697,7 @@
                         "nota": "",
                         "notaHtml": "",
                         "dateDebut": 1338508800000,
-                        "dateFin": 32472144000000,
+                        "dateFin": 1577836800000,
                         "dateDebutExtension": 32472144000000,
                         "dateFinExtension": 32472144000000
                       }
@@ -41981,7 +42146,7 @@
                         "num": "R641-3",
                         "texte": "Pour l'application du présent code à Wallis-et-Futuna, les termes énumérés ci-après sont remplacés comme suit : 1° \" Tribunal de grande instance \" ou \" tribunal d'instance \" par \" tribunal de première instance \" ; 2° \" Tribunal de commerce \" par \" tribunal de première instance statuant en matière commerciale \" ; 3° \" Procureur de la République \" par \" procureur de la République près le tribunal de première instance \" ; 4° \" Juge du tribunal d'instance \" ou \" juge aux affaires familiales \" par \" président du tribunal de première instance ou son délégué \" ; 5° \" Cour d'appel \" par \" tribunal supérieur d'appel \" ; 6° \" Région \", \" département \" et \" commune \" par \" collectivité de Wallis-et-Futuna \" ; 7° \" Préfet \" ou \" préfet du département \" par \" représentant de l'Etat à Wallis-et-Futuna \" ; 8° \" Maire, conseiller municipal, fonctionnaire municipal \" par \" chef de circonscription \" ; 9° \" Mairie de la commune \" et \" mairie \" par \" siège de la circonscription \" ; 10° \" Caisse des dépôts et consignations \" par \" Trésor public \". Par ailleurs, les attributions dévolues aux huissiers de justice sont également exercées par l'autorité administrative ou militaire et celles dévolues aux commissaires-priseurs pour les ventes aux enchères par le greffier du tribunal de première instance.",
                         "texteHtml": "<p><br/>Pour l'application du présent code à Wallis-et-Futuna, les termes énumérés ci-après sont remplacés comme suit : <br/>1° \" Tribunal de grande instance \" ou \" tribunal d'instance \" par \" tribunal de première instance \" ; <br/>2° \" Tribunal de commerce \" par \" tribunal de première instance statuant en matière commerciale \" ; <br/>3° \" Procureur de la République \" par \" procureur de la République près le tribunal de première instance \" ; <br/>4° \" Juge du tribunal d'instance \" ou \" juge aux affaires familiales \" par \" président du tribunal de première instance ou son délégué \" ; <br/>5° \" Cour d'appel \" par \" tribunal supérieur d'appel \" ; <br/>6° \" Région \", \" département \" et \" commune \" par \" collectivité de Wallis-et-Futuna \" ; <br/>7° \" Préfet \" ou \" préfet du département \" par \" représentant de l'Etat à Wallis-et-Futuna \" ; <br/>8° \" Maire, conseiller municipal, fonctionnaire municipal \" par \" chef de circonscription \" ; <br/>9° \" Mairie de la commune \" et \" mairie \" par \" siège de la circonscription \" ; <br/>10° \" Caisse des dépôts et consignations \" par \" Trésor public \". <br/>Par ailleurs, les attributions dévolues aux huissiers de justice sont également exercées par l'autorité administrative ou militaire et celles dévolues aux commissaires-priseurs pour les ventes aux enchères par le greffier du tribunal de première instance.</p>",
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "lienModifications": [
                           {
                             "textCid": "JORFTEXT000025934747",
@@ -42011,9 +42176,18 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000025939636",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "1.0",
                             "dateDebut": 1338508800000,
+                            "dateFin": 1577836800000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000039066535",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "2.0",
+                            "dateDebut": 1577836800000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -42022,7 +42196,7 @@
                         "nota": "",
                         "notaHtml": "",
                         "dateDebut": 1338508800000,
-                        "dateFin": 32472144000000,
+                        "dateFin": 1577836800000,
                         "dateDebutExtension": 32472144000000,
                         "dateFinExtension": 32472144000000
                       }
