@@ -1,0 +1,58 @@
+---
+stages:
+  - "Code Quality"
+  - "Data update"
+
+.node_stage: &node_stage
+  image: node:12-alpine
+  before_script:
+    - yarn --frozen-lockfile
+
+Quality tests:
+  <<: *node_stage
+  stage: "Code Quality"
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+  script:
+    - yarn lint
+    - yarn test
+
+Data fetch:
+  <<: *node_stage
+  only:
+    - master
+  stage: "Data update"
+  before_script:
+    - yarn --frozen-lockfile
+    - apk update && apk add git
+    - git config user.name "Social Groovy Bot"
+    - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
+    - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
+    - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
+  script:
+    - yarn fetch
+    - |
+      if [[ -n "$(git status -s ./data)" ]]; then
+        echo "Files changed, checking JSON validity"
+        # Check JSON files
+        for filename in ./data/*\.json; do
+          node "$filename" > /dev/null || {
+            echo "Invalid JSON in $filename"
+            exit 1
+          }
+        done
+        echo "Commit files"
+        # Commit files
+        NOW=$(date +"%Y%m%d_%H%M")
+        git add data
+        git commit -m "updates $NOW"
+        npm version patch
+        echo "Push to GIT"
+        git push origin HEAD:master
+        echo "Push to NPM"
+        npm publish --access=public
+      else
+        echo "Nothing changed"
+      fi
