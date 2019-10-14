@@ -15,7 +15,8 @@
   "scripts": {
     "fetch": "node -r esm scripts/fetch-codes.js",
     "list": "node -r esm scripts/list-codes.js",
-    "lint": "yarn lint"
+    "lint": "eslint src/**/*.js",
+    "test": "exit 0"
   },
   "devDependencies": {
     "@socialgouv/eslint-config-recommended": "^0.10.0",
