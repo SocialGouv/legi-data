@@ -55,6 +55,12 @@ const fetch = async () => {
 };
 
 if (require.main === module) {
-  fetch();
-  console.log("FINISHED");
+  fetch()
+    .then(() => {
+      console.log("FINISHED");
+    })
+    .catch(e => {
+      console.log("e", e);
+      throw e;
+    });
 }
