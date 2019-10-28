@@ -37,9 +37,9 @@ Data fetch:
       if [[ -n "$(git status -s ./data)" ]]; then
         echo "Files changed, checking JSON validity"
         # Check JSON files
-        for filename in ./data/*\.json; do
-          node "$filename" > /dev/null || {
-            echo "Invalid JSON in $filename"
+        for filename in ./data/LEGITEXT*\.json; do
+          node -e "assert(require('$filename').children.length > 0)" || {
+            echo "Invalid JSON in $filename : should have children"
             exit 1
           }
         done
