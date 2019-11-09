@@ -22,6 +22,6 @@
     "@socialgouv/eslint-config-recommended": "^0.10.3",
     "eslint": "^6.6.0",
     "esm": "^3.2.25",
-    "prettier": "^1.19.0"
+    "prettier": "^1.19.1"
   }
 }
