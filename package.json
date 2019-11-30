@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@socialgouv/eslint-config-recommended": "^0.10.3",
-    "eslint": "^6.7.1",
+    "eslint": "^6.7.2",
     "esm": "^3.2.25",
     "prettier": "^1.19.1"
   }
