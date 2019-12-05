@@ -60,14 +60,14 @@
     p-all "^2.1.0"
     simple-oauth2 "^2.5.1"
 
-"@socialgouv/eslint-config-recommended@^0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.10.3.tgz#cf350593afc949402403bad686882c03fdbd3ce6"
-  integrity sha512-aKTROPdK8j5spug6sE1NBo+ty7i6DnPf7L0PDj6KvTXLIe5KdkbNkTQ8YQASWP2qTbE01ev+VYNNZhgn+msXFQ==
+"@socialgouv/eslint-config-recommended@^0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.10.4.tgz#10f6450283541edfbf1cd8facc113ec9ebdd7fa1"
+  integrity sha512-YpbdNIm8l6LyTtLFzhSi+wUyCu5K9LuMhk1zOOEco+GpVFljxA4rIuwG09OqPEfp1PYcGdM0xaURN6vsfAhuCQ==
   dependencies:
-    eslint-config-prettier "~6.5.0"
+    eslint-config-prettier "~6.7.0"
     eslint-plugin-import "~2.18.2"
-    eslint-plugin-jest "^23.0.3"
+    eslint-plugin-jest "^23.1.1"
     eslint-plugin-prettier "~3.1.1"
 
 "@types/json-schema@^7.0.3":
@@ -333,10 +333,10 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-prettier@~6.5.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.5.0.tgz#aaf9a495e2a816865e541bfdbb73a65cc162b3eb"
-  integrity sha512-cjXp8SbO9VFGW/Z7mbTydqS9to8Z58E5aYhj3e1+Hx7lS9s6gL5ILKNpCqZAFOVYRcSkWPFYljHrEh8QFEK5EQ==
+eslint-config-prettier@~6.7.0:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.7.0.tgz#9a876952e12df2b284adbd3440994bf1f39dfbb9"
+  integrity sha512-FamQVKM3jjUVwhG4hEMnbtsq7xOIDm+SY5iBPfR8gKsJoAB2IQnNF+bk1+8Fy44Nq7PPJaLvkRxILYdJWoguKQ==
   dependencies:
     get-stdin "^6.0.0"
 
@@ -373,10 +373,10 @@ eslint-plugin-import@~2.18.2:
     read-pkg-up "^2.0.0"
     resolve "^1.11.0"
 
-eslint-plugin-jest@^23.0.3:
-  version "23.0.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-23.0.3.tgz#d3f157f7791f97713372c13259ba1dfc436eb4c1"
-  integrity sha512-9cNxr66zeOyz1S9AkQL4/ouilR6QHpYj8vKOQZ60fu9hAt5PJWS4KqWqfr1aqN5NFEZSPjFOla2Azn+KTWiGwg==
+eslint-plugin-jest@^23.1.1:
+  version "23.1.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-23.1.1.tgz#1220ab53d5a4bf5c3c4cd07c0dabc6199d4064dd"
+  integrity sha512-2oPxHKNh4j1zmJ6GaCBuGcb8FVZU7YjFUOJzGOPnl9ic7VA/MGAskArLJiRIlnFUmi1EUxY+UiATAy8dv8s5JA==
   dependencies:
     "@typescript-eslint/experimental-utils" "^2.5.0"
 
