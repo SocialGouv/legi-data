@@ -4,7 +4,7 @@ stages:
   - "Data update"
 
 .node_stage: &node_stage
-  image: node:12-alpine
+  image: node:13-alpine
   before_script:
     - yarn --frozen-lockfile
 
