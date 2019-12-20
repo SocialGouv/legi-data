@@ -59,7 +59,7 @@ const embedArticles = async section => ({
           debug(`embedArticles section ${section.id}`);
           return embedArticles(section);
         }),
-      { concurrency: 1 }
+      { concurrency: 2 }
     ))
 });
 
