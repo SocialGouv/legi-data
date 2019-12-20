@@ -7,7 +7,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "@socialgouv/dila-api-client": "^1.0.5",
+    "@socialgouv/dila-api-client": "^1.1.0",
     "debug": "^4.1.1",
     "p-all": "^2.1.0",
     "p-timeout": "^3.2.0"
