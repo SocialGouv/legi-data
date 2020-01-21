@@ -105,6 +105,10 @@ const getCode = (params, dateModif) =>
       return sommaire;
     })
     .then(embedArticles)
-    .then(astify);
+    .then(astify)
+    .catch(e => {
+      console.error(`Cannot update code ${params.textId}`);
+      throw e;
+    });
 
 module.exports = getCode;
