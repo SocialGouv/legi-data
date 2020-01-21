@@ -2,7 +2,7 @@ const pTimeout = require("p-timeout");
 const debug = require("debug")("@socialgouv/legi-data:getArticle");
 
 const MAX_TIMEOUT = 10000;
-const MAX_TENTATIVES = 10;
+const MAX_TENTATIVES = 20;
 
 // slimify
 const toArticle = article => ({

@@ -48,7 +48,7 @@ const embedArticles = async section => ({
           debug(`getArticle ${article.id}`);
           return getArticle(dilaClient, article.id);
         }),
-      { concurrency: 5 }
+      { concurrency: 3 }
     )),
   sections:
     section.sections &&
@@ -105,6 +105,10 @@ const getCode = (params, dateModif) =>
       return sommaire;
     })
     .then(embedArticles)
-    .then(astify);
+    .then(astify)
+    .catch(e => {
+      console.error(`Cannot update code ${params.textId}`);
+      throw e;
+    });
 
 module.exports = getCode;
