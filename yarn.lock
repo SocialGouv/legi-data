@@ -87,10 +87,10 @@
     p-all "^2.1.0"
     simple-oauth2 "^3.1.0"
 
-"@socialgouv/eslint-config-recommended@^0.14.0":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.14.0.tgz#e102c264e75561bb92b125123a8d9bf3731cfacb"
-  integrity sha512-hvR+IlxMVGBlIqDilJmA71Nh3hjF9OZ8S9T1GvAeUqLPq+IKcZLx18WC7BGtrmGx1OCC7jwCM/TFeJzkqtmjCA==
+"@socialgouv/eslint-config-recommended@^0.15.0":
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.15.0.tgz#793ccfcee8d02e6e5ad01638cf9ad102289c3a4d"
+  integrity sha512-YUxvO3D1YqVi9QZ2UIiP9wbhautfhZZFazqen5pv/9qoKw+5vwVQWbCrESoU+cJ5CtIwTf1jIsxaE/JNXVg3+Q==
   dependencies:
     eslint-config-prettier "~6.9.0"
     eslint-plugin-import "~2.20.0"
