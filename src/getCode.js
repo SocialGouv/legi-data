@@ -48,7 +48,7 @@ const embedArticles = async section => ({
           debug(`getArticle ${article.id}`);
           return getArticle(dilaClient, article.id);
         }),
-      { concurrency: 2 }
+      { concurrency: 1 }
     )),
   sections:
     section.sections &&
@@ -59,7 +59,7 @@ const embedArticles = async section => ({
           debug(`embedArticles section ${section.id}`);
           return embedArticles(section);
         }),
-      { concurrency: 2 }
+      { concurrency: 1 }
     ))
 });
 
