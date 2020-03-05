@@ -1,15 +1,15 @@
 {
   "type": "section",
   "data": {
-    "dateDebutVersion": "2020-01-08",
+    "dateDebutVersion": "2020-02-29",
     "dateFinVersion": "2999-01-01",
     "type": "code",
     "id": "LEGITEXT000031366350",
     "cid": "LEGITEXT000031366350",
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2020-01-08",
+    "dateModif": "2020-02-29",
     "etat": "VIGUEUR",
-    "jurisDate": "2020-01-08"
+    "jurisDate": "2020-02-29"
   },
   "children": [
     {
@@ -17563,12 +17563,12 @@
                 {
                   "type": "article",
                   "data": {
-                    "id": "LEGIARTI000037629314",
+                    "id": "LEGIARTI000041667206",
                     "cid": "LEGIARTI000031370479",
                     "type": "AUTONOME",
                     "num": "D341-10",
-                    "texte": "Le président, le président suppléant et les rapporteurs généraux adjoints de la commission sont rémunérés sous forme d'indemnités forfaitaires mensuelles. Les membres de la commission, autres que le président, mentionnés aux 1°, 3°, 4°, 5°, 6°, 7° et 8° de l'article L. 341-1 ainsi que leurs suppléants sont rémunérés sous forme d'une indemnité forfaitaire pour chacune des séances auxquelles ils sont effectivement présents.",
-                    "texteHtml": "<p></p><p><br/>\nLe président, le président suppléant et les rapporteurs généraux adjoints de la commission sont rémunérés sous forme d'indemnités forfaitaires mensuelles.<br/><br/>\nLes membres de la commission, autres que le président, mentionnés aux 1°, 3°, 4°, 5°, 6°, 7° et 8° de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367768&dateTexte=&categorieLien=cid'>L. 341-1</a> ainsi que leurs suppléants sont rémunérés sous forme d'une indemnité forfaitaire pour chacune des séances auxquelles ils sont effectivement présents.</p><p></p>",
+                    "texte": "Les rapporteurs généraux adjoints de la commission sont rémunérés sous forme d'indemnités forfaitaires mensuelles.",
+                    "texteHtml": "<p>Les rapporteurs généraux adjoints de la commission sont rémunérés sous forme d'indemnités forfaitaires mensuelles.</p>",
                     "etat": "VIGUEUR",
                     "lienModifications": [
                       {
@@ -17584,16 +17584,16 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000037627155",
-                        "textTitle": "Décret n°2018-1003 du 19 novembre 2018 - art. 1",
+                        "textCid": "JORFTEXT000041654283",
+                        "textTitle": "Décret n°2020-173 du 27 février 2020 - art. 10",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "LEGIARTI000037628013",
+                        "articleNum": "10",
+                        "articleId": "LEGIARTI000041657719",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2018-11-21",
-                        "dateSignaTexte": "2018-11-19",
-                        "dateDebutCible": "2018-11-22"
+                        "datePubliTexte": "2020-02-28",
+                        "dateSignaTexte": "2020-02-27",
+                        "dateDebutCible": "2020-02-29"
                       }
                     ],
                     "articleVersions": [
@@ -17617,9 +17617,18 @@
                       },
                       {
                         "id": "LEGIARTI000037629314",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "3.0",
                         "dateDebut": 1543622400000,
+                        "dateFin": 1582934400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000041667206",
+                        "etat": "VIGUEUR",
+                        "version": "4.0",
+                        "dateDebut": 1582934400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
@@ -17627,7 +17636,7 @@
                     ],
                     "nota": "",
                     "notaHtml": "",
-                    "dateDebut": 1543622400000,
+                    "dateDebut": 1582934400000,
                     "dateFin": 32472144000000,
                     "dateDebutExtension": 32472144000000,
                     "dateFinExtension": 32472144000000
@@ -17801,12 +17810,12 @@
                 {
                   "type": "article",
                   "data": {
-                    "id": "LEGIARTI000031370487",
+                    "id": "LEGIARTI000041667200",
                     "cid": "LEGIARTI000031370487",
                     "type": "AUTONOME",
                     "num": "D341-14",
-                    "texte": "Un arrêté conjoint du Premier ministre, du ministre de la fonction publique et du ministre chargé du budget détermine les taux et les modalités d'attribution des indemnités susceptibles d'être allouées au président, au président suppléant et aux membres de la commission ainsi qu'aux collaborateurs mentionnés au premier alinéa de l'article R. 341-7 .",
-                    "texteHtml": "<p><br/>Un arrêté conjoint du Premier ministre, du ministre de la fonction publique et du ministre chargé du budget détermine les taux et les modalités d'attribution des indemnités susceptibles d'être allouées au président, au président suppléant et aux membres de la commission ainsi qu'aux collaborateurs mentionnés au premier alinéa de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370473&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. R341-7 (VD)'>R. 341-7</a>.</p>",
+                    "texte": "Un arrêté conjoint du Premier ministre, du ministre de la fonction publique et du ministre chargé du budget détermine les taux et les modalités d'attribution des indemnités susceptibles d'être allouées aux collaborateurs mentionnés au premier alinéa de l'article R. 341-7 .",
+                    "texteHtml": "<p>Un arrêté conjoint du Premier ministre, du ministre de la fonction publique et du ministre chargé du budget détermine les taux et les modalités d'attribution des indemnités susceptibles d'être allouées aux collaborateurs mentionnés au premier alinéa de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370473&dateTexte=&categorieLien=cid'>R. 341-7</a>.</p>",
                     "etat": "VIGUEUR",
                     "lienModifications": [
                       {
@@ -17815,31 +17824,40 @@
                         "linkType": "CODIFICATION",
                         "linkOrientation": "source",
                         "articleNum": "",
-                        "articleId": "LEGIARTI000031365961",
-                        "natureText": "DECRET",
-                        "datePubliTexte": "2015-10-25",
-                        "dateSignaTexte": "2015-10-23",
-                        "dateDebutCible": "2016-01-01"
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000031361680",
-                        "textTitle": "DÉCRET n°2015-1342 du 23 octobre 2015 - art.",
-                        "linkType": "CREE",
+                        "textCid": "JORFTEXT000041654283",
+                        "textTitle": "Décret n°2020-173 du 27 février 2020 - art. 10",
+                        "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "LEGIARTI000031365961",
+                        "articleNum": "10",
+                        "articleId": "LEGIARTI000041657719",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2015-10-25",
-                        "dateSignaTexte": "2015-10-23",
-                        "dateDebutCible": "2016-01-01"
+                        "datePubliTexte": "2020-02-28",
+                        "dateSignaTexte": "2020-02-27",
+                        "dateDebutCible": "2020-02-29"
                       }
                     ],
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000031370487",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "1.0",
                         "dateDebut": 1451606400000,
+                        "dateFin": 1582934400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000041667200",
+                        "etat": "VIGUEUR",
+                        "version": "2.0",
+                        "dateDebut": 1582934400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
@@ -17847,7 +17865,7 @@
                     ],
                     "nota": "",
                     "notaHtml": "",
-                    "dateDebut": 1451606400000,
+                    "dateDebut": 1582934400000,
                     "dateFin": 32472144000000,
                     "dateDebutExtension": 32472144000000,
                     "dateFinExtension": 32472144000000
@@ -17856,12 +17874,12 @@
                 {
                   "type": "article",
                   "data": {
-                    "id": "LEGIARTI000031370489",
+                    "id": "LEGIARTI000041667194",
                     "cid": "LEGIARTI000031370489",
                     "type": "AUTONOME",
                     "num": "D341-15",
-                    "texte": "Le président et les membres de la commission d'accès aux documents administratifs ainsi que les collaborateurs mentionnés au premier alinéa de l'article R. 341-7 peuvent prétendre au remboursement des frais de transport et de séjour qu'ils sont susceptibles d'engager à l'occasion des déplacements assurés dans le cadre de leurs missions dans les conditions applicables aux personnels civils de l'Etat.",
-                    "texteHtml": "<p><br/>Le président et les membres de la commission d'accès aux documents administratifs ainsi que les collaborateurs mentionnés au premier alinéa de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370473&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. R341-7 (VD)'>R. 341-7</a> peuvent prétendre au remboursement des frais de transport et de séjour qu'ils sont susceptibles d'engager à l'occasion des déplacements assurés dans le cadre de leurs missions dans les conditions applicables aux personnels civils de l'Etat.</p>",
+                    "texte": "Les collaborateurs mentionnés au premier alinéa de l'article R. 341-7 peuvent prétendre au remboursement des frais de transport et de séjour qu'ils sont susceptibles d'engager à l'occasion des déplacements assurés dans le cadre de leurs missions dans les conditions applicables aux personnels civils de l'Etat.",
+                    "texteHtml": "<p>Les collaborateurs mentionnés au premier alinéa de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370473&dateTexte=&categorieLien=cid'>R. 341-7</a> peuvent prétendre au remboursement des frais de transport et de séjour qu'ils sont susceptibles d'engager à l'occasion des déplacements assurés dans le cadre de leurs missions dans les conditions applicables aux personnels civils de l'Etat.</p>",
                     "etat": "VIGUEUR",
                     "lienModifications": [
                       {
@@ -17870,31 +17888,40 @@
                         "linkType": "CODIFICATION",
                         "linkOrientation": "source",
                         "articleNum": "",
-                        "articleId": "LEGIARTI000031365961",
-                        "natureText": "DECRET",
-                        "datePubliTexte": "2015-10-25",
-                        "dateSignaTexte": "2015-10-23",
-                        "dateDebutCible": "2016-01-01"
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000031361680",
-                        "textTitle": "DÉCRET n°2015-1342 du 23 octobre 2015 - art.",
-                        "linkType": "CREE",
+                        "textCid": "JORFTEXT000041654283",
+                        "textTitle": "Décret n°2020-173 du 27 février 2020 - art. 10",
+                        "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "LEGIARTI000031365961",
+                        "articleNum": "10",
+                        "articleId": "LEGIARTI000041657719",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2015-10-25",
-                        "dateSignaTexte": "2015-10-23",
-                        "dateDebutCible": "2016-01-01"
+                        "datePubliTexte": "2020-02-28",
+                        "dateSignaTexte": "2020-02-27",
+                        "dateDebutCible": "2020-02-29"
                       }
                     ],
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000031370489",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "1.0",
                         "dateDebut": 1451606400000,
+                        "dateFin": 1582934400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000041667194",
+                        "etat": "VIGUEUR",
+                        "version": "2.0",
+                        "dateDebut": 1582934400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
@@ -17902,7 +17929,7 @@
                     ],
                     "nota": "",
                     "notaHtml": "",
-                    "dateDebut": 1451606400000,
+                    "dateDebut": 1582934400000,
                     "dateFin": 32472144000000,
                     "dateDebutExtension": 32472144000000,
                     "dateFinExtension": 32472144000000
