@@ -2,7 +2,7 @@
 
 Internal usage only. extracted with [dila-api-client](https://github.com/SocialGouv/dila-api-client).
 
-Data files are structured with an [univeral syntax-tree](https://github.com/syntax-tree/unist) structure.
+Data files are structured with an [univeral syntax-tree](https://unifiedjs.com) structure.
 
 ## Usage
 
@@ -16,7 +16,7 @@ const codes = require("@socialgouv/legi-data/data/index.json");
 const codeDuTravail = require("@socialgouv/legi-data/data/LEGITEXT000006072050.json");
 ```
 
-Or via http directly : https://unpkg.com/@socialgouv/legi-data@1.0.0/data/LEGITEXT000006072050.json
+Or via http directly : https://unpkg.com/@socialgouv/legi-data@data/LEGITEXT000006072050.json
 
 ## Dev
 
@@ -27,6 +27,13 @@ DEBUG="*" OAUTH_CLIENT_ID=xxx OAUTH_CLIENT_SECRET=yyy yarn run fetch
 # print list of codes and last updates (for the readme)
 DEBUG="*" OAUTH_CLIENT_ID=xxx OAUTH_CLIENT_SECRET=yyy yarn run list
 ```
+
+## Related
+
+- [Code du travail numérique](https://github.com/SocialGouv/code-du-travail-numerique)
+- [dila-api-client : Client JavaScript pour l'API DILA AIFE](https://github.com/SocialGouv/dila-api-client)
+- [kali-data : base conventions collectives KALI](https://github.com/SocialGouv/kali-data)
+- [fiches-vdd : Fiches vos droits et démarches](https://github.com/SocialGouv/fiches-vdd)
 
 ## References
 
