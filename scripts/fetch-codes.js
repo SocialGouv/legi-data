@@ -1,14 +1,10 @@
-const fs = require("fs");
-const util = require("util");
-const pAll = require("p-all");
-const debug = require("debug")("@socialgouv/legi-data");
+import fs from "fs";
+import path from "path";
+import Queue from "p-queue";
+import pPipe from "p-pipe";
+import retry from "p-retry";
 
-const getCode = require("../src/getCode");
-
-/*
-  download and stores all codes in ../data/[id].json
-  based on the list in data/index.json
-*/
+import { promisify } from "util";
 
 const codesToFetch = [
   "LEGITEXT000006072050",
@@ -16,62 +12,149 @@ const codesToFetch = [
   "LEGITEXT000031366350"
 ];
 
-const exists = util.promisify(fs.exists);
-const readFile = util.promisify(fs.readFile);
-const writeFile = util.promisify(fs.writeFile);
+import { getTableMatieres, getArticle } from "../src/api";
 
-const fetchCode = async id => {
-  debug(`fetching ${id}...`);
-  console.log(`fetching ${id}...`);
-  const target = `./data/${id}.json`;
-  const targetExists = await exists(target);
-  let currentDateModif;
-  if (targetExists) {
-    const currentData = JSON.parse((await readFile(target)).toString());
-    currentDateModif = currentData.data.dateModif;
+const writeFile = promisify(fs.writeFile);
+const exists = promisify(fs.exists);
+const readFile = promisify(fs.readFile);
+const ERR_NOT_CHANGED = "code-not-changed";
+const queue = new Queue({ concurrency: 10, intervalCap: 20, interval: 1100 });
+let count = 0;
+queue.on("active", () => count++);
+const t0 = Date.now();
+
+function fetchCodeToc(textId) {
+  return queue.add(() => {
+    console.log(`fetch table des matieres ${textId}`);
+    return retry(() => getTableMatieres({ textId }), { retries: 10 });
+  });
+}
+
+async function fetchAllArticles(node, depth = 0) {
+  const [id] = node.id.split("_");
+  node.id = id;
+  const hasPrevisousCode = await exists(
+    path.join(__dirname, "..", "data", `${node.id}.json`)
+  );
+  if (hasPrevisousCode) {
+    const previousDateModif = JSON.parse(
+      (
+        await readFile(path.join(__dirname, "..", "data", `${node.id}.json`))
+      ).toString()
+    ).data.dateModif;
+    console.log(node.cid, previousDateModif, node.modifDate);
+    if (previousDateModif === node.modifDate) {
+      console.log("not changed");
+      throw new Error(ERR_NOT_CHANGED);
+    }
   }
-  return getCode(
-    {
-      date: new Date().getTime(),
-      sctId: "",
-      textId: id
-    },
-    currentDateModif
-  )
-    .then(async data => {
-      await writeFile(target, JSON.stringify(data, null, 2));
-      debug(`wrote ${target}`);
-    })
-    .catch(e => {
-      if (e.message === "not changed") {
-        debug(`${id}: skip, not changed`);
-        console.log(`${id}: skip, not changed`);
+  const pSections = (node.sections || [])
+    .filter(({ etat }) => etat.startsWith("VIGUEUR"))
+    .map(section => fetchAllArticles(section, depth + 1));
+
+  const pArticles = (node.articles || [])
+    .filter(({ etat }) => etat.startsWith("VIGUEUR"))
+    .map(({ id }) =>
+      queue.add(() => {
+        console.log(` › fetch article ${id}`);
+        return retry(() => getArticle(id), { retries: 10 });
+      })
+    );
+
+  const sections = await Promise.all(pSections);
+  const articles = (await Promise.all(pArticles)).map(toArticle);
+  return {
+    ...toSection(node, depth),
+    children: sections.concat(articles).sort(sortBy("intOrdre"))
+  };
+}
+
+function toSection(node, depth) {
+  const type = depth === 0 ? "code" : "section";
+  const data = {
+    id: node.id,
+    cid: node.cid,
+    title: node.title,
+    etat: node.etat,
+    intOrdre: node.intOrdre || 0
+  };
+  if (depth === 0) {
+    data.dateModif = node.modifDate;
+    data.dateDebutVersion = node.dateDebutVersion;
+    data.dateFinVersion = node.dateFinVersion;
+  } else {
+    data.dateDebut = node.dateDebut;
+    data.dateFin = node.dateFin;
+  }
+  if (node.dateModif) {
+    data.dateModif = node.dateModif;
+  }
+  return { type, data };
+}
+
+function toArticle(node) {
+  return {
+    type: "article",
+    data: {
+      id: node.article.id,
+      cid: node.article.cid,
+      num: node.article.num,
+      texte: node.article.texte,
+      texteHtml: node.article.texteHtml,
+      etat: node.article.etat,
+      intOrdre: node.article.ordre,
+      lienModifications: node.article.lienModifications,
+      articleVersions: node.article.articleVersions,
+      nota: node.article.nota,
+      notaHtml: node.article.notaHtml,
+      dateDebut: node.article.dateDebut,
+      dateFin: node.article.dateFin,
+      dateDebutExtension: node.article.dateDebutExtension,
+      dateFinExtension: node.article.dateFinExtension
+    }
+  };
+}
+
+async function saveFile(container) {
+  await writeFile(
+    path.join(__dirname, "..", "data", `${container.data.id}.json`),
+    JSON.stringify(container, 0, 2)
+  );
+  console.log(`› write ${container.data.id}.json`);
+}
+
+function toFix(value, nb = 2) {
+  const digit = Math.pow(10, nb);
+  return Math.round(value * digit) / digit;
+}
+
+function sortBy(key) {
+  return function(a, b) {
+    return a.data[key] - b.data[key];
+  };
+}
+
+async function main() {
+  const pipeline = pPipe(fetchCodeToc, fetchAllArticles, saveFile);
+
+  const t0 = Date.now();
+  const pCodes = codesToFetch.map(id =>
+    pipeline(id).catch(error => {
+      if (error.message === ERR_NOT_CHANGED) {
         return Promise.resolve();
       }
-      debug(`${id}: ${e}`);
-      throw e;
-    });
-};
-
-const fetch = async () => {
-  const codes = require("../data/index.json");
-
-  return await pAll(
-    codes
-      .filter(code => code.etat === "VIGUEUR")
-      .filter(code => codesToFetch.includes(code.id)) // exclude code du commerce, bug API DILA
-      .map(code => () => fetchCode(code.id)),
-    { concurrency: 1 }
-  );
-};
-
-if (require.main === module) {
-  fetch()
-    .then(() => {
-      console.log("FINISHED");
+      throw error;
     })
-    .catch(e => {
-      console.log("e", e);
-      throw e;
-    });
+  );
+
+  await Promise.all(pCodes);
+  console.log(
+    `››› Done in ${toFix((Date.now() - t0) / 1000)} s | fetch ${count} articles`
+  );
 }
+
+main().catch(error => {
+  console.error(error);
+  console.log(`››› Failed in ${toFix((Date.now() - t0) / 1000)} s`);
+  process.exit(-1);
+});
