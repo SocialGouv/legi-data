@@ -13,6 +13,11 @@ const codesToFetch = [
 ];
 
 import { getTableMatieres, getArticle } from "../src/api";
+import {
+  toArticle,
+  toSection,
+  latestArticleVersionFilter
+} from "../src/transform";
 
 const writeFile = promisify(fs.writeFile);
 const exists = promisify(fs.exists);
@@ -48,6 +53,7 @@ async function fetchAllArticles(node, depth = 0) {
       throw new Error(ERR_NOT_CHANGED);
     }
   }
+
   const pSections = (node.sections || [])
     .filter(({ etat }) => etat.startsWith("VIGUEUR"))
     .map(section => fetchAllArticles(section, depth + 1));
@@ -62,56 +68,12 @@ async function fetchAllArticles(node, depth = 0) {
     );
 
   const sections = await Promise.all(pSections);
-  const articles = (await Promise.all(pArticles)).map(toArticle);
+  const articles = (await Promise.all(pArticles))
+    .filter(latestArticleVersionFilter)
+    .map(toArticle);
   return {
     ...toSection(node, depth),
     children: sections.concat(articles).sort(sortBy("intOrdre"))
-  };
-}
-
-function toSection(node, depth) {
-  const type = depth === 0 ? "code" : "section";
-  const data = {
-    id: node.id,
-    cid: node.cid,
-    title: node.title,
-    etat: node.etat,
-    intOrdre: node.intOrdre || 0
-  };
-  if (depth === 0) {
-    data.dateModif = node.modifDate;
-    data.dateDebutVersion = node.dateDebutVersion;
-    data.dateFinVersion = node.dateFinVersion;
-  } else {
-    data.dateDebut = node.dateDebut;
-    data.dateFin = node.dateFin;
-  }
-  if (node.dateModif) {
-    data.dateModif = node.dateModif;
-  }
-  return { type, data };
-}
-
-function toArticle(node) {
-  return {
-    type: "article",
-    data: {
-      id: node.article.id,
-      cid: node.article.cid,
-      num: node.article.num,
-      texte: node.article.texte,
-      texteHtml: node.article.texteHtml,
-      etat: node.article.etat,
-      intOrdre: node.article.ordre,
-      lienModifications: node.article.lienModifications,
-      articleVersions: node.article.articleVersions,
-      nota: node.article.nota,
-      notaHtml: node.article.notaHtml,
-      dateDebut: node.article.dateDebut,
-      dateFin: node.article.dateFin,
-      dateDebutExtension: node.article.dateDebutExtension,
-      dateFinExtension: node.article.dateFinExtension
-    }
   };
 }
 
