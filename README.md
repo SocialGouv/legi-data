@@ -42,3 +42,4 @@ DEBUG="*" OAUTH_CLIENT_ID=xxx OAUTH_CLIENT_SECRET=yyy yarn run list
 | LEGITEXT000031366350 | Code des relations entre le public et l'administration | 01/03/2019 |
 | LEGITEXT000006072050 | Code du travail                                        | 14/10/2019 |
 | LEGITEXT000022197698 | Code rural et de la pêche maritime                     | 13/10/2019 |
+| LEGITEXT000006073189 | Code de la sécurité sociale                            | 17/07/2019 |

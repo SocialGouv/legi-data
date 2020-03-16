@@ -9,7 +9,8 @@ import { promisify } from "util";
 const codesToFetch = [
   "LEGITEXT000006072050",
   "LEGITEXT000022197698",
-  "LEGITEXT000031366350"
+  "LEGITEXT000031366350",
+  "LEGITEXT000006073189"
 ];
 
 import { getTableMatieres, getArticle } from "../src/api";
