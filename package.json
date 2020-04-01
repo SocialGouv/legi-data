@@ -24,6 +24,18 @@
     "@socialgouv/eslint-config-recommended": "^0.19.0",
     "eslint": "^6.8.0",
     "esm": "^3.2.25",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "semantic-release": "^17.0.4"
+  },
+  "release": {
+    "branches": [
+      "master"
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/npm",
+      "@semantic-release/github"
+    ]
   }
 }
