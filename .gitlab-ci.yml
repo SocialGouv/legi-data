@@ -49,6 +49,7 @@ Data fetch:
         NOW=$(date +"%Y%m%d_%H%M")
         git add data
         git commit -m "feat(data): $NOW update"
+        git push --no-verify 
         npx semantic-release
       else
         echo "Nothing changed"
