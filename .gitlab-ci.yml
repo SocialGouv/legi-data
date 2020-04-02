@@ -26,6 +26,7 @@ Data fetch:
   stage: "Data update"
   before_script:
     - yarn --frozen-lockfile
+    - yarn global add npx
     - apk update && apk add git
     - git config user.name "Social Groovy Bot"
     - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
@@ -47,12 +48,9 @@ Data fetch:
         # Commit files
         NOW=$(date +"%Y%m%d_%H%M")
         git add data
-        git commit -m "updates $NOW"
-        npm version patch
-        echo "Push to GIT"
-        git push origin HEAD:master
-        echo "Push to NPM"
-        npm publish --access=public
+        git commit -m "feat(data): $NOW update"
+        git push --no-verify origin HEAD:master
+        npx semantic-release
       else
         echo "Nothing changed"
       fi
