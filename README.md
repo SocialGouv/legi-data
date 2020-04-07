@@ -16,7 +16,7 @@ const codes = require("@socialgouv/legi-data/data/index.json");
 const codeDuTravail = require("@socialgouv/legi-data/data/LEGITEXT000006072050.json");
 ```
 
-Or via http directly : https://unpkg.com/@socialgouv/legi-data@data/LEGITEXT000006072050.json
+Or via http directly : https://unpkg.com/@socialgouv/legi-data/data/LEGITEXT000006072050.json
 
 ## Dev
 
