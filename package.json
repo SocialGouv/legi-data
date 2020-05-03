@@ -10,7 +10,7 @@
     "@socialgouv/dila-api-client": "^1.1.1",
     "debug": "^4.1.1",
     "p-pipe": "^3.0.0",
-    "p-queue": "^6.3.0",
+    "p-queue": "^6.4.0",
     "p-retry": "^4.2.0",
     "p-timeout": "^3.2.0"
   },
