@@ -21,7 +21,7 @@
     "test": "exit 0"
   },
   "devDependencies": {
-    "@socialgouv/eslint-config-recommended": "^0.21.0",
+    "@socialgouv/eslint-config-recommended": "^0.22.1",
     "eslint": "^7.0.0",
     "esm": "^3.2.25",
     "prettier": "^1.19.1",
