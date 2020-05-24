@@ -24,7 +24,7 @@
     "@socialgouv/eslint-config-recommended": "^0.22.1",
     "eslint": "^7.1.0",
     "esm": "^3.2.25",
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.5",
     "semantic-release": "^17.0.8"
   },
   "release": {
