@@ -301,10 +301,10 @@
     p-all "^3.0.0"
     simple-oauth2 "^3.3.0"
 
-"@socialgouv/eslint-config-recommended@^0.22.1":
-  version "0.22.1"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.22.1.tgz#89d4cc23801f68ca3994939037d4593e4dd4337b"
-  integrity sha512-3lEedvCTaUv56Ye+6jRTlnlkprnjTFelJL+8mYmt/SRp8EjdCAD5kpb1+3LLcABDxOMBdGcNv07QUpaO5y6zXw==
+"@socialgouv/eslint-config-recommended@^0.23.0":
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.23.0.tgz#6557ed260596081dff4f9f6ac4815bcdde2219ea"
+  integrity sha512-fo6PcbkY483NnfWLDO91V0mILglCDIxNBpWVO+DcL4U5rfywTxoVXo79Y4EJvUanEuq/20W1LX1l1bAH1NmdPQ==
   dependencies:
     eslint-config-prettier "~6.11.0"
     eslint-plugin-import "~2.20.2"
