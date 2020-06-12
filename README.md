@@ -1,8 +1,10 @@
-# @socialgouv/legi-data
+# @socialgouv/legi-data  [![](https://img.shields.io/npm/v/@socialgouv/legi-data.svg)](https://www.npmjs.com/package/@socialgouv/legi-data)
 
 Internal usage only. extracted with [dila-api-client](https://github.com/SocialGouv/dila-api-client).
 
 Data files are structured with an [univeral syntax-tree](https://unifiedjs.com) structure.
+
+Daily update
 
 ## Usage
 
