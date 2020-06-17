@@ -1,0 +1,26 @@
+{
+  "root": true,
+  "extends": ["@socialgouv/eslint-config-strict", "prettier"],
+  "plugins": ["prettier", "sort-requires"],
+  "env": {
+    "browser": false,
+    "node": true
+  },
+  "rules": {
+    "no-console": ["error", { "allow": ["debug", "error", "info", "warn"] }],
+    "padding-line-between-statements": [
+      "error",
+      { "blankLine": "always", "prev": "*", "next": "return" }
+    ],
+    "jest/no-disabled-tests": "error",
+    "prettier/prettier": "error"
+  },
+  "overrides": [
+    {
+      "files": ["src/**/*.test.js", "scripts/**/*.test.js"],
+      "env": {
+        "jest": true
+      }
+    }
+  ]
+}

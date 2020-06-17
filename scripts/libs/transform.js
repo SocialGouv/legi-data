@@ -1,7 +1,6 @@
 const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
 
-export const isValidSection = node =>
-  !node.etat || node.etat.startsWith("VIGUEUR");
+export const isValidSection = node => !node.etat || node.etat.startsWith("VIGUEUR");
 
 // the API returns all the version of a given article. we pick the latest one
 export const latestArticleVersionFilter = (currentArticle, _, articles) => {
@@ -11,24 +10,22 @@ export const latestArticleVersionFilter = (currentArticle, _, articles) => {
   }
   const maxVersion = Math.max(
     ...((articles && articles) || [])
-      .filter(
-        article =>
-          article.cid === currentArticle.cid && article.id !== currentArticle.id
-      )
+      .filter(article => article.cid === currentArticle.cid && article.id !== currentArticle.id)
       .map(article => numify(article.id)),
-    0
+    0,
   );
+
   return numify(currentArticle.id) > maxVersion;
 };
 
 export function toSection(node, depth) {
   const type = depth === 0 ? "code" : "section";
   const data = {
-    id: node.id,
     cid: node.cid,
-    title: node.title,
     etat: node.etat,
-    intOrdre: node.intOrdre || 0
+    id: node.id,
+    intOrdre: node.intOrdre || 0,
+    title: node.title,
   };
   if (depth === 0) {
     data.dateModif = node.modifDate;
@@ -41,28 +38,29 @@ export function toSection(node, depth) {
   if (node.dateModif) {
     data.dateModif = node.dateModif;
   }
-  return { type, data };
+
+  return { data, type };
 }
 
 export function toArticle(node) {
   return {
-    type: "article",
     data: {
-      id: node.article.id,
+      articleVersions: node.article.articleVersions,
       cid: node.article.cid,
+      dateDebut: node.article.dateDebut,
+      dateDebutExtension: node.article.dateDebutExtension,
+      dateFin: node.article.dateFin,
+      dateFinExtension: node.article.dateFinExtension,
+      etat: node.article.etat,
+      id: node.article.id,
+      intOrdre: node.article.ordre,
+      lienModifications: node.article.lienModifications,
+      nota: node.article.nota,
+      notaHtml: node.article.notaHtml,
       num: node.article.num,
       texte: node.article.texte,
       texteHtml: node.article.texteHtml,
-      etat: node.article.etat,
-      intOrdre: node.article.ordre,
-      lienModifications: node.article.lienModifications,
-      articleVersions: node.article.articleVersions,
-      nota: node.article.nota,
-      notaHtml: node.article.notaHtml,
-      dateDebut: node.article.dateDebut,
-      dateFin: node.article.dateFin,
-      dateDebutExtension: node.article.dateDebutExtension,
-      dateFinExtension: node.article.dateFinExtension
-    }
+    },
+    type: "article",
   };
 }
