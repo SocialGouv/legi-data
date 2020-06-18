@@ -301,15 +301,15 @@
     p-all "^3.0.0"
     simple-oauth2 "^3.3.0"
 
-"@socialgouv/eslint-config-recommended@^0.28.0":
-  version "0.28.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.28.0.tgz#9eefa34ad2d20c210d8e751b5451960c84799dae"
-  integrity sha512-uzFbtI59342kULY4xj8/oIcbi5z8oF4EC3q+G4g+6rMV+3uH/c9kfDEoTEI59Y0rotY3BfzJEGKfcw22hKURJQ==
+"@socialgouv/eslint-config-recommended@^0.30.0":
+  version "0.30.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.30.0.tgz#1bfaa7f74a52ba06ceba7fe581596930d5bcdcd5"
+  integrity sha512-qWeNTnovahL02hl35vA1UYhyCKY/bZpG1k6qsjMzAtSJ4WbnS7gYZ+AgPnLlaEVRI6HWy8s6gQEiDEjPRfE1qg==
   dependencies:
     eslint-config-prettier "~6.11.0"
     eslint-plugin-import "~2.21.2"
     eslint-plugin-jest "~23.13.2"
-    eslint-plugin-prettier "~3.1.3"
+    eslint-plugin-prettier "~3.1.4"
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -1505,7 +1505,7 @@ eslint-plugin-jest@~23.13.2:
   dependencies:
     "@typescript-eslint/experimental-utils" "^2.5.0"
 
-eslint-plugin-prettier@~3.1.3:
+eslint-plugin-prettier@~3.1.4:
   version "3.1.4"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.4.tgz#168ab43154e2ea57db992a2cd097c828171f75c2"
   integrity sha512-jZDa8z76klRqo+TdGDTFJSavwbnWK2ZpqGKNZ+VvweMW516pDUMmQ2koXvxEE4JhzNvTv+radye/bWGBmA6jmg==
