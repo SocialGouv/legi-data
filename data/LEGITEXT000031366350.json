@@ -1,13 +1,13 @@
 {
   "type": "code",
   "data": {
-    "id": "LEGITEXT000031366350_29-02-2020",
+    "id": "LEGITEXT000031366350",
     "cid": "LEGITEXT000031366350",
     "title": "Code des relations entre le public et l'administration",
     "etat": "VIGUEUR",
     "intOrdre": 0,
-    "dateModif": "2020-02-29",
-    "dateDebutVersion": "2020-02-29",
+    "dateModif": "2020-06-18",
+    "dateDebutVersion": "2020-06-18",
     "dateFinVersion": "2999-01-01"
   },
   "children": [
@@ -2381,6 +2381,49 @@
                             "nota": "",
                             "notaHtml": "",
                             "dateDebut": 1451606400000,
+                            "dateFin": 32472144000000,
+                            "dateDebutExtension": 32472144000000,
+                            "dateFinExtension": 32472144000000
+                          }
+                        },
+                        {
+                          "type": "article",
+                          "data": {
+                            "id": "LEGIARTI000042001417",
+                            "cid": "LEGIARTI000042001417",
+                            "num": "R113-8-1",
+                            "texte": "Pour la délivrance d'une carte nationale d'identité, d'un passeport, d'un permis de conduire ou d'un certificat d'immatriculation d'un véhicule, le demandeur peut justifier de son domicile par la production, à l'administration en charge de l'instruction de sa demande, d'une information permettant son identification auprès d'un fournisseur d'un bien ou d'un service attaché à ce domicile. Un arrêté du ministre de l'intérieur fixe la liste de ces fournisseurs pour chacun des titres mentionnés ci-dessus après la conclusion d'une convention avec chacun de ces fournisseurs. Cette convention définit les conditions dans lesquelles le fournisseur de bien ou de service communique à l'administration, aux seules fins mentionnées à l'alinéa précédent, les données à caractère personnel lui permettant de vérifier le domicile déclaré par le demandeur.",
+                            "texteHtml": "<p>Pour la délivrance d'une carte nationale d'identité, d'un passeport, d'un permis de conduire ou d'un certificat d'immatriculation d'un véhicule, le demandeur peut justifier de son domicile par la production, à l'administration en charge de l'instruction de sa demande, d'une information permettant son identification auprès d'un fournisseur d'un bien ou d'un service attaché à ce domicile.<br/><br/>\n Un arrêté du ministre de l'intérieur fixe la liste de ces fournisseurs pour chacun des titres mentionnés ci-dessus après la conclusion d'une convention avec chacun de ces fournisseurs. Cette convention définit les conditions dans lesquelles le fournisseur de bien ou de service communique à l'administration, aux seules fins mentionnées à l'alinéa précédent, les données à caractère personnel lui permettant de vérifier le domicile déclaré par le demandeur.</p>",
+                            "etat": "VIGUEUR",
+                            "intOrdre": 2046820351,
+                            "lienModifications": [
+                              {
+                                "textCid": "JORFTEXT000041999575",
+                                "textTitle": "Décret n°2020-732 du 15 juin 2020 - art. 1",
+                                "linkType": "CREE",
+                                "linkOrientation": "cible",
+                                "articleNum": "1",
+                                "articleId": "LEGIARTI000042001095",
+                                "natureText": "DECRET",
+                                "datePubliTexte": "2020-06-17",
+                                "dateSignaTexte": "2020-06-15",
+                                "dateDebutCible": "2020-06-18"
+                              }
+                            ],
+                            "articleVersions": [
+                              {
+                                "id": "LEGIARTI000042001417",
+                                "etat": "VIGUEUR",
+                                "version": "1.0",
+                                "dateDebut": 1592438400000,
+                                "dateFin": 32472144000000,
+                                "numero": null,
+                                "ordre": null
+                              }
+                            ],
+                            "nota": "",
+                            "notaHtml": "",
+                            "dateDebut": 1592438400000,
                             "dateFin": 32472144000000,
                             "dateDebutExtension": 32472144000000,
                             "dateFinExtension": 32472144000000
