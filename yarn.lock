@@ -1307,22 +1307,22 @@
     p-all "^3.0.0"
     simple-oauth2 "^3.3.0"
 
-"@socialgouv/eslint-config-recommended@^0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.29.0.tgz#400e3b61b271dc0993445c2fd585cbad4cd2a92e"
-  integrity sha512-vlGanmJfT5G1NDBfzfcKFscZ7cqkDMRvZ3brFOgMWcWV7eHmFuG7aMS8XOmGt4bOG/GtspYYgGbpcoAywyVHCw==
+"@socialgouv/eslint-config-recommended@^0.31.0":
+  version "0.31.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-0.31.0.tgz#8ac6940bd38a6d8ea930781d64f36168140f2e63"
+  integrity sha512-vJxN2ztTi9SRd0ulwtdMl0A8K7AvvKrFu6+prRGCxXBHjYGrvGRXV9K3lKsLMyv0Ea8gD5vro6pgXacxRR+FaA==
   dependencies:
     eslint-config-prettier "~6.11.0"
     eslint-plugin-import "~2.21.2"
     eslint-plugin-jest "~23.13.2"
     eslint-plugin-prettier "~3.1.4"
 
-"@socialgouv/eslint-config-strict@0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-strict/-/eslint-config-strict-0.29.0.tgz#628bb9224cf70bee25d515dcb795e04db35b27e8"
-  integrity sha512-JStcbhvH7ctPb1Uru4jiNx+he9m6U+11xih/8UwrlpkdqBRMbuVw2oJJ5qmshLZzEnW+H/Cn7OudzM7Qsl0Qjw==
+"@socialgouv/eslint-config-strict@0.31.0":
+  version "0.31.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-strict/-/eslint-config-strict-0.31.0.tgz#36a73253045bab97748b8b75e0bfdcf5022616d3"
+  integrity sha512-JfGYvzewba0G8rlu+fdJKJw5Xbnz7bAdSrEC3u7ievExaKMysmUZmSy0L5iNcuCNuJ7ZRAYItGT7Rydk7Zex3Q==
   dependencies:
-    "@socialgouv/eslint-config-recommended" "^0.29.0"
+    "@socialgouv/eslint-config-recommended" "^0.31.0"
     eslint-plugin-simple-import-sort "^5.0.3"
     eslint-plugin-sort-keys-fix "^1.1.1"
 
