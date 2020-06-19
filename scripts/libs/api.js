@@ -6,9 +6,9 @@ const dilaApi = new DilaApiClient();
 export async function getTableMatieres({ date = Date.now(), textId, sctId }) {
   return await dilaApi
     .fetch({
-      path: "consult/code/tableMatieres",
       method: "POST",
-      params: { textId, date, sctId }
+      params: { date, sctId, textId },
+      path: "consult/code/tableMatieres",
     })
     .then(checkApiResponse);
 }
@@ -17,9 +17,9 @@ export async function getTableMatieres({ date = Date.now(), textId, sctId }) {
 export async function getArticle(id) {
   return await dilaApi
     .fetch({
-      path: "consult/getArticle",
       method: "POST",
-      params: { id }
+      params: { id },
+      path: "consult/getArticle",
     })
     .then(checkApiResponse);
 }
@@ -28,5 +28,6 @@ function checkApiResponse(data) {
   if (Object.keys(data).length === 1) {
     throw new Error(`invalid response for ${data.id}`, data);
   }
+
   return data;
 }

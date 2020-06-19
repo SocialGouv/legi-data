@@ -1,8 +1,26 @@
-########################################
+# https://docs.npmjs.com/misc/developers#keeping-files-out-of-your-package
+
+# ================================================
+# Custom
+
+__tests__/
+
+/.github/
+/scripts/
+
+/.babelrc
+/.editorconfig
+/.eslintrc
+/.gitlab-ci
+/.prettierrc
+/jest.config.js
+/tsconfig.json
+
+# ================================================
 # Node
 
 # Logs
-# logs
+logs
 *.log
 npm-debug.log*
 yarn-debug.log*
@@ -45,7 +63,7 @@ node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
-# typings/
+typings/
 
 # TypeScript cache
 *.tsbuildinfo
@@ -79,7 +97,7 @@ jspm_packages/
 .nuxt
 
 # react / gatsby
-# public/
+public/
 
 # vuepress build output
 .vuepress/dist
@@ -92,8 +110,3 @@ jspm_packages/
 
 # DynamoDB Local files
 .dynamodb/
-
-########################################
-# IDE
-
-/.vscode
