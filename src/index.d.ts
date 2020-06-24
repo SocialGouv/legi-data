@@ -114,7 +114,7 @@ type CodeArticleData = {
   id: string;
   cid: string;
   /** Legal index */
-  num?: string;
+  num: string;
   /** Plain text content */
   texte: string;
   /** HTML content */
