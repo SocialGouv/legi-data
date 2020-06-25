@@ -48,7 +48,7 @@
     "p-retry": "4.2.0",
     "prettier": "2.0.5",
     "prompt": "1.0.0",
-    "semantic-release": "17.1.0",
+    "semantic-release": "17.1.1",
     "typescript": "3.9.5",
     "unist-util-flat-filter": "1.0.0"
   },
