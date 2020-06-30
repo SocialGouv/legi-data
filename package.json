@@ -28,7 +28,7 @@
     "unist-util-parents": "1.0.3"
   },
   "devDependencies": {
-    "@babel/preset-env": "7.10.3",
+    "@babel/preset-env": "7.10.4",
     "@socialgouv/dila-api-client": "1.1.1",
     "@socialgouv/eslint-config-strict": "0.35.0",
     "@types/jest": "26.0.3",
