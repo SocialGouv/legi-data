@@ -1,4 +1,4 @@
-const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
+const numify = id => parseInt(id.replace(/^LEGIARTI/, ""));
 
 export const isValidSection = node => !node.etat || node.etat.startsWith("VIGUEUR");
 
