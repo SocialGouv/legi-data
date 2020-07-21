@@ -67,6 +67,7 @@ async function fetchAllArticles(node, depth = 0) {
 
   const pArticles = (node.articles || [])
     .filter(({ etat }) => etat.startsWith("VIGUEUR"))
+    .filter(latestArticleVersionFilter)
     .map(({ id }) =>
       queue.add(() => {
         log.info("fetch()", `Fetching ${id}…`);
@@ -76,7 +77,7 @@ async function fetchAllArticles(node, depth = 0) {
     );
 
   const sections = await Promise.all(pSections);
-  const articles = (await Promise.all(pArticles)).filter(latestArticleVersionFilter).map(toArticle);
+  const articles = (await Promise.all(pArticles)).map(toArticle);
 
   return {
     ...toSection(node, depth),
