@@ -41,7 +41,7 @@
     "eslint-plugin-sort-requires": "2.1.0",
     "esm": "3.2.25",
     "husky": "4.2.5",
-    "jest": "26.3.0",
+    "jest": "26.4.0",
     "npmlog": "4.1.2",
     "p-pipe": "3.1.0",
     "p-queue": "6.6.0",
