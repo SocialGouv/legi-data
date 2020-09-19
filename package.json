@@ -35,7 +35,7 @@
     "@types/node": "14.11.1",
     "babel-eslint": "10.1.0",
     "babel-jest": "26.3.0",
-    "debug": "4.1.1",
+    "debug": "4.2.0",
     "dotenv": "8.2.0",
     "eslint": "7.9.0",
     "eslint-plugin-sort-requires": "2.1.0",
