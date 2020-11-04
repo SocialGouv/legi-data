@@ -1,7 +1,6 @@
 # @socialgouv/legi-data
 
-[![License][img-license]][link-license]
-[![NPM Version][img-npm]][link-npm]
+[![License][img-license]][link-license] [![NPM Version][img-npm]][link-npm]
 [![Code Coverage][img-coverage]][link-coverage]
 
 Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife-api] API using
@@ -35,6 +34,8 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
 
 ```sh
 npm i @socialgouv/legi-data
+# or if you only need the Typescript types
+npm i -D @socialgouv/legi-data-types
 ```
 
 ### Definitions
@@ -70,7 +71,7 @@ const codes = require("@socialgouv/legi-data/data/index.json");
 **Return Type**
 
 ```ts
-LegiData.Code
+LegiData.Code;
 ```
 
 #### getArticleWithParentSections()
@@ -84,7 +85,7 @@ Get a code article [unist][link-unist] node with its parent sections.
 **Return Type**
 
 ```ts
-LegiData.CodeArticleWithParentSections
+LegiData.CodeArticleWithParentSections;
 ```
 
 #### getCode()
@@ -98,13 +99,13 @@ Get a full code [unist][link-unist] node with its sections and articles.
 **Return Type**
 
 ```ts
-LegiData.Code
+LegiData.Code;
 ```
 
 #### getCodeWithParents()
 
-Get a full code [unist][link-unist] node with its sections and articles.<br>
-Each node has a `parent` property with a pointer to its parent node.
+Get a full code [unist][link-unist] node with its sections and articles.<br> Each node has a
+`parent` property with a pointer to its parent node.
 
 | Parameter | Type     | Default      | Description |
 | --------- | -------- | ------------ | ----------- |
@@ -113,7 +114,7 @@ Each node has a `parent` property with a pointer to its parent node.
 **Return Type**
 
 ```ts
-LegiData.CodeWithParents
+LegiData.CodeWithParents;
 ```
 
 #### getIndexedArticle()
@@ -127,7 +128,7 @@ Get an indexed articles.
 **Return Type**
 
 ```ts
-LegiData.IndexedArticle
+LegiData.IndexedArticle;
 ```
 
 #### getIndexedArticles()
@@ -161,7 +162,7 @@ Check if an article is available.
 **Return Type**
 
 ```ts
-boolean
+boolean;
 ```
 
 #### hasCode()
@@ -175,7 +176,7 @@ Check if an code is available.
 **Return Type**
 
 ```ts
-boolean
+boolean;
 ```
 
 ## Contributing
@@ -227,11 +228,9 @@ The agreement references list is available [here][link-code-references].
 [img-coverage]: https://badgen.net/codecov/c/github/SocialGouv/legi-data?style=flat-square
 [img-license]: https://badgen.net/github/license/SocialGouv/legi-data?style=flat-square
 [img-npm]: https://badgen.net/npm/v/@socialgouv/legi-data?style=flat-square
-
 [link-coverage]: https://codecov.io/gh/SocialGouv/legi-data
 [link-license]: https://github.com/SocialGouv/legi-data/blob/master/LICENSE
 [link-npm]: https://www.npmjs.com/package/legi-data
-
 [link-code-references]: https://github.com/SocialGouv/legi-data/blob/master/REFERENCES.md
 [link-aife-api]: https://developer.aife.economie.gouv.fr
 [link-dila-api-client]: https://github.com/SocialGouv/dila-api-client
