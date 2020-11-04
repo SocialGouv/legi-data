@@ -18,13 +18,12 @@
     "data:list": "node -r esm ./scripts/list.js",
     "data:match": "node -r esm ./scripts/match.js",
     "data:update": "yarn data:fetch && yarn data:match && yarn data:list",
+    "lint:all": "eslint .",
     "lint": "eslint src/**/*.js",
     "setup": "node -r esm ./scripts/setup.js",
-    "test": "yarn test:lint && yarn test:type && yarn test:unit --silent",
-    "test:lint": "eslint .",
-    "test:type": "tsc",
-    "test:unit": "jest",
-    "test:watch": "yarn test:unit --watch"
+    "test:watch": "yarn test --watch",
+    "test": "jest",
+    "typecheck": "tsc"
   },
   "dependencies": {
     "unist-util-find": "1.0.1",
@@ -57,7 +56,11 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "yarn test"
+      "pre-push": [
+        "yarn lint:all",
+        "yarn typecheck",
+        "yarn test"
+      ]
     }
   }
 }
