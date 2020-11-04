@@ -3,6 +3,10 @@ stages:
   - "Code Quality"
   - "Data update"
 
+variables:
+  GIT_STRATEGY: fetch
+  GIT_DEPTH: 5
+
 .node_stage: &node_stage
   image: node:14-alpine
   cache:
@@ -39,7 +43,10 @@ Data fetch:
     GIT_AUTHOR_NAME: Social Groovy Bot
     GIT_COMMITTER_EMAIL: $GIT_AUTHOR_EMAIL
     GIT_COMMITTER_NAME: $GIT_AUTHOR_NAME
+    GIT_DEPTH: 4242
   script:
+    - echo -e "\n" >> ./data/index.json
+
     - apk update && apk add git jq
     - |
       if [[ git status -s ./data ]]; then
