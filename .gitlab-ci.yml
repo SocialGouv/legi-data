@@ -26,11 +26,14 @@ Data fetch:
     - master
     - next
   stage: "Data update"
+  variables:
+    GIT_AUTHOR_EMAIL: 45039513+SocialGroovyBot@users.noreply.github.com
+    GIT_AUTHOR_NAME: Social Groovy Bot
+    GIT_COMMITTER_EMAIL: $GIT_AUTHOR_EMAIL
+    GIT_COMMITTER_NAME: $GIT_AUTHOR_NAME
   before_script:
     - yarn --frozen-lockfile --prefer-offline
     - apk update && apk add git
-    - git config user.name "Social Groovy Bot"
-    - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
     - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
     - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
   script:
