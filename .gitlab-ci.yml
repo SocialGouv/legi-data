@@ -42,7 +42,7 @@ Data fetch:
   script:
     - echo -e "\n" >> ./data/index.json
 
-    - apk update && apk add git
+    - apk update && apk add git jq
     - |
       if [[ git status -s ./data ]]; then
         echo "Nothing changed"
