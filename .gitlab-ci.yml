@@ -47,7 +47,7 @@ Data fetch:
   script:
     - apk update && apk add git jq
     - |
-      if [[ git status -s ./data ]]; then
+      if [[ -z "$(git status -s ./data)" ]]; then
         echo "Nothing changed"
         exit ${CI_JOB_SKIP_EXIT_CODE:-0}
       fi
