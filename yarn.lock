@@ -1128,9 +1128,9 @@
     "@sinonjs/commons" "^1.7.0"
 
 "@socialgouv/dila-api-client@^1.1.1":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@socialgouv/dila-api-client/-/dila-api-client-1.1.2.tgz#81db2e94d1a5a496308f121d712faa4f2d5c7e21"
-  integrity sha512-gPCoD88SDRvpTsbVvhN8wEeZCNX7SDLLOTiw6yYiXnr+rWAXbdG/VkERIs2mEVXaLrtngqnwxO+sS6pV/Kve1g==
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@socialgouv/dila-api-client/-/dila-api-client-1.1.4.tgz#72874cd1889371eab52cd021ce7c983d9cdc048e"
+  integrity sha512-4SEoJd40Qi2MhVILFptnXNg0gROPEMw4HL2z07TlpJIIoKrUerkCSi3mMNNcE6fLC9imhsLkS+qJIqn3Z93qvQ==
   dependencies:
     debug "^4.2.0"
     node-fetch "^2.6.1"
