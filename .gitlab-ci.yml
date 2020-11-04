@@ -36,7 +36,7 @@ Data fetch:
     - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
   script:
     # - yarn data:update
-    - echo "\n" >> ./data/index.json
+    - echo -e "\n" >> ./data/index.json
     - |
       if [[ -n "$(git status -s ./data)" ]]; then
         echo "Files changed, checking JSON validity"
