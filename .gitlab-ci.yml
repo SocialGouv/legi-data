@@ -45,6 +45,7 @@ Data fetch:
     GIT_COMMITTER_NAME: $GIT_AUTHOR_NAME
     GIT_DEPTH: 4242
   script:
+    - yarn data:update
     - apk update && apk add git jq
     - |
       if [[ -z "$(git status -s ./data)" ]]; then
