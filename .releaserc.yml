@@ -1,0 +1,16 @@
+plugins:
+  - "@semantic-release/commit-analyzer"
+  - "@semantic-release/release-notes-generator"
+  - "@semantic-release/npm"
+  - - "@semantic-release/git"
+    - assets:
+        - CHANGELOG.md
+        - package.json
+        - data
+      message: "chore(release): version ${nextRelease.version}\n\n${nextRelease.notes}"
+  - - "@semantic-release/exec"
+    - publishCmd: |
+        rm -rf data src/helpers src/libs src/index.js
+        sed -i "s/@socialgouv\/legi-data/@socialgouv\/legi-data-types/g" package.json
+        npm publish
+  - "@semantic-release/github"

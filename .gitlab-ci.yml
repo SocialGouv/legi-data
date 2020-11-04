@@ -59,9 +59,6 @@ Data fetch:
         yarn global add semantic-release
         $(yarn global bin)/semantic-release
 
-        rm -rf data src/helpers src/libs src/index.js
-        sed -i "s/@socialgouv\/legi-data/@socialgouv\/legi-data-types/g" package.json
-        npm publish
       else
         echo "Nothing changed"
       fi
