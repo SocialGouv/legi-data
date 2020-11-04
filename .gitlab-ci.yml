@@ -56,7 +56,7 @@ Data fetch:
         npx semantic-release
 
         rm -rf data src/helpers src/libs src/index.js
-        sed -i "s/@socialgouv\/legi-data/@socialgouv\/legi-types/g" package.json
+        sed -i "s/@socialgouv\/legi-data/@socialgouv\/legi-data-types/g" package.json
         npm publish
       else
         echo "Nothing changed"
