@@ -5,25 +5,21 @@ stages:
 
 .node_stage: &node_stage
   image: node:14-alpine
-  before_script:
-    - yarn --frozen-lockfile
-
-Quality tests:
-  <<: *node_stage
-  stage: "Code Quality"
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
       - node_modules/
+  before_script:
+    - yarn --frozen-lockfile --prefer-offline
+
+Quality tests:
+  <<: *node_stage
+  stage: "Code Quality"
   script:
     - yarn test
 
 Data fetch:
   <<: *node_stage
-  cache:
-    key: ${CI_COMMIT_REF_SLUG}
-    paths:
-      - node_modules/
   only:
     - alpha
     - beta
@@ -31,7 +27,7 @@ Data fetch:
     - next
   stage: "Data update"
   before_script:
-    - yarn --frozen-lockfile
+    - yarn --frozen-lockfile --prefer-offline
     - apk update && apk add git
     - git config user.name "Social Groovy Bot"
     - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
