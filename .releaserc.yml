@@ -6,7 +6,6 @@ plugins:
     - assets:
         - CHANGELOG.md
         - package.json
-        - data
       message: "chore(release): version ${nextRelease.version}\n\n${nextRelease.notes}"
   - - "@semantic-release/exec"
     - publishCmd: |
