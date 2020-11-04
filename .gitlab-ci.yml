@@ -21,7 +21,10 @@ Quality tests:
 Data fetch:
   <<: *node_stage
   only:
+    - alpha
+    - beta
     - master
+    - next
   stage: "Data update"
   before_script:
     - yarn --frozen-lockfile
