@@ -46,7 +46,7 @@ Data fetch:
     - |
       if [[ git status -s ./data ]]; then
         echo "Nothing changed"
-        exit ${CI_JOB_SKIP_EXIT_CODE:-0}"
+        exit ${CI_JOB_SKIP_EXIT_CODE:-0}
       fi
 
     - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
