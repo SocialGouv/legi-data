@@ -61,6 +61,7 @@ Data fetch:
         }
       done
 
+    - |
       echo "Commit files"
       # Commit files
       NOW=$(date +"%Y%m%d_%H%M")
@@ -68,5 +69,5 @@ Data fetch:
       git commit -m "feat(data): $NOW update"
       git push --no-verify origin HEAD:${CI_COMMIT_REF_NAME}
 
-      yarn global add semantic-release @semantic-release/git @semantic-release/exec
-      $(yarn global bin)/semantic-release
+    - yarn global add semantic-release @semantic-release/git @semantic-release/exec
+    - $(yarn global bin)/semantic-release
