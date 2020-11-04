@@ -20,6 +20,10 @@ Quality tests:
 
 Data fetch:
   <<: *node_stage
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
   only:
     - alpha
     - beta
@@ -28,7 +32,6 @@ Data fetch:
   stage: "Data update"
   before_script:
     - yarn --frozen-lockfile
-    - yarn global add npx
     - apk update && apk add git
     - git config user.name "Social Groovy Bot"
     - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
@@ -53,7 +56,9 @@ Data fetch:
         git add data
         git commit -m "feat(data): $NOW update"
         git push --no-verify origin HEAD:master
-        npx semantic-release
+
+        yarn global add semantic-release
+        $(yarn global bin)/semantic-release
 
         rm -rf data src/helpers src/libs src/index.js
         sed -i "s/@socialgouv\/legi-data/@socialgouv\/legi-data-types/g" package.json
