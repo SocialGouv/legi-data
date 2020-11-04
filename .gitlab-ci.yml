@@ -6,10 +6,14 @@ stages:
 .node_stage: &node_stage
   image: node:14-alpine
   cache:
-    key: ${CI_COMMIT_REF_SLUG}
+    key:
+      files:
+        - yarn.lock
+      prefix: ${CI_JOB_NAME}
     paths:
-      - node_modules/
+      - .yarn
   before_script:
+    - yarn config set cache-folder $CI_PROJECT_DIR/.yarn
     - yarn --frozen-lockfile --prefer-offline
 
 Quality tests:
@@ -20,6 +24,10 @@ Quality tests:
 
 Data fetch:
   <<: *node_stage
+  cache:
+    key: ${CI_COMMIT_REF_NAME}-${CI_JOB_NAME}
+    paths:
+      - .yarn
   only:
     - alpha
     - beta
@@ -36,7 +44,7 @@ Data fetch:
 
     - apk update && apk add git
     - |
-      if [[ "$(git status -s ./data)" ]]; then
+      if [[ git status -s ./data ]]; then
         echo "Nothing changed"
         exit ${CI_JOB_SKIP_EXIT_CODE:-0}"
       fi
