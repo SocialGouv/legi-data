@@ -75,4 +75,5 @@ Data fetch:
       git push --no-verify origin HEAD:${CI_COMMIT_REF_NAME}
 
     - yarn global add semantic-release @semantic-release/git @semantic-release/exec
+      @semantic-release/changelog
     - $(yarn global bin)/semantic-release
