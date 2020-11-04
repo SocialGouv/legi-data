@@ -45,8 +45,6 @@ Data fetch:
     GIT_COMMITTER_NAME: $GIT_AUTHOR_NAME
     GIT_DEPTH: 4242
   script:
-    - echo -e "\n" >> ./data/index.json
-
     - apk update && apk add git jq
     - |
       if [[ git status -s ./data ]]; then
@@ -74,6 +72,6 @@ Data fetch:
       git commit -m "feat(data): $NOW update"
       git push --no-verify origin HEAD:${CI_COMMIT_REF_NAME}
 
-    - yarn global add semantic-release @semantic-release/git @semantic-release/exec
-      @semantic-release/changelog
+    - yarn global add @semantic-release/changelog @semantic-release/exec @semantic-release/git
+      semantic-release
     - $(yarn global bin)/semantic-release
