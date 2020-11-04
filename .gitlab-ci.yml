@@ -39,6 +39,11 @@ Data fetch:
   script:
     - echo -e "\n" >> ./data/index.json
     - |
+      if [[ ! -n "$(git status -s ./data)" ]]; then
+        echo "Nothing changed"
+        exit ${CI_JOB_SKIP_EXIT_CODE:-0}"
+      fi
+    - |
       if [[ -n "$(git status -s ./data)" ]]; then
         echo "Files changed, checking JSON validity"
         # Check JSON files
