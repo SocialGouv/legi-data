@@ -46,7 +46,7 @@ Data fetch:
           }
         done
 
-        yarn global add semantic-release
+        yarn global add semantic-release @semantic-release/git
         $(yarn global bin)/semantic-release
 
       else
