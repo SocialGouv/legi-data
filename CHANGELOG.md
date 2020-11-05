@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/SocialGouv/legi-data/compare/v2.0.0...v2.0.1) (2020-11-05)
+
+
+### Bug Fixes
+
+* trigger patch release ([875d15b](https://github.com/SocialGouv/legi-data/commit/875d15b9335af9b9d8f65ccc96069da207acaf75))
+
 # [2.0.0](https://github.com/SocialGouv/legi-data/compare/v1.46.0...v2.0.0) (2020-11-05)
 
 
