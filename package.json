@@ -26,16 +26,16 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "unist-util-find": "^1.0.1",
+    "unist-util-find": "^1.0.2",
     "unist-util-parents": "^1.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.3",
-    "@babel/preset-env": "^7.12.1",
-    "@socialgouv/dila-api-client": "^1.1.1",
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "@socialgouv/dila-api-client": "^1.1.6",
     "@socialgouv/eslint-config-strict": "^0.35.0",
-    "@types/jest": "^26.0.14",
-    "@types/node": "^14.14.6",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^14.14.9",
     "babel-eslint": "^10.1.0",
     "debug": "^4.2.0",
     "dotenv": "^8.2.0",
