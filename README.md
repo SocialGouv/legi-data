@@ -3,6 +3,12 @@
 [![License][img-license]][link-license] [![NPM Version][img-npm]][link-npm]
 [![Code Coverage][img-coverage]][link-coverage]
 
+---
+
+:warning: Experimental, for internal usage only :warning:
+
+---
+
 Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife-api] API using
 [unist (Univeral Syntax Tree)][link-unist] structure.
 
