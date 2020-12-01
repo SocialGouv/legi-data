@@ -1,3 +1,15 @@
+# [2.7.0](https://github.com/SocialGouv/legi-data/compare/v2.6.0...v2.7.0) (2020-12-01)
+
+
+### Bug Fixes
+
+* restore usage warning ([dd05e19](https://github.com/SocialGouv/legi-data/commit/dd05e19f80f6216627c63ab4d8cba493b3d63e6d))
+
+
+### Features
+
+* **data:** 20201201_2112 update ([6571780](https://github.com/SocialGouv/legi-data/commit/657178039e4455c8207b869705c51d6704c09d14))
+
 # [2.6.0](https://github.com/SocialGouv/legi-data/compare/v2.5.0...v2.6.0) (2020-11-29)
 
 
