@@ -5,9 +5,9 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2020-12-09",
-    "dateDebutVersion": "2020-12-09",
-    "dateFinVersion": "2021-01-01"
+    "dateModif": "2021-01-01",
+    "dateDebutVersion": "2021-01-01",
+    "dateFinVersion": "2999-01-01"
   },
   "type": "code",
   "children": [
@@ -10644,21 +10644,30 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000031370333",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "1.0",
                             "dateDebut": 1451606400000,
+                            "dateFin": 1609459200000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000042320995",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "2.0",
+                            "dateDebut": 1609459200000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000031370333",
-                        "dateDebut": 1451606400000,
+                        "dateDebut": 1609459200000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "VIGUEUR",
-                        "id": "LEGIARTI000031370333",
+                        "etat": "VIGUEUR_DIFF",
+                        "id": "LEGIARTI000042320995",
                         "intOrdre": 1431655763,
                         "lienModifications": [
                           {
@@ -10667,30 +10676,30 @@
                             "linkType": "CODIFICATION",
                             "linkOrientation": "source",
                             "articleNum": "",
-                            "articleId": "LEGIARTI000031365961",
-                            "natureText": "DECRET",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "articleId": "",
+                            "natureText": "",
+                            "datePubliTexte": null,
+                            "dateSignaTexte": null,
+                            "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000031361680",
-                            "textTitle": "DÉCRET n°2015-1342 du 23 octobre 2015 - art.",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000042319661",
+                            "textTitle": "Décret n°2020-1119 du 8 septembre 2020 - art. 2",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "",
-                            "articleId": "LEGIARTI000031365961",
+                            "articleNum": "2",
+                            "articleId": "LEGIARTI000042320443",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "datePubliTexte": "2020-09-10",
+                            "dateSignaTexte": "2020-09-08",
+                            "dateDebutCible": "2020-09-12"
                           }
                         ],
-                        "nota": "",
-                        "notaHtml": "",
+                        "nota": "Conformément à l'article 3 du décret n° 2020-1119 du 8 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.",
+                        "notaHtml": "<p>Conformément à l'article 3 du décret n° 2020-1119 du 8 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.</p>",
                         "num": "D231-3",
-                        "texte": "La liste mentionnée à l'article D. 231-2 est publiée sur le site internet dénommé \"legifrance.gouv.fr\".",
-                        "texteHtml": "<p>La liste mentionnée à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370331&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. D231-2 (VD)'>D. 231-2</a> est publiée sur le site internet dénommé \"legifrance.gouv.fr\".</p>"
+                        "texte": "La liste mentionnée à l'article D. 231-2 est publiée sur le site internet dénommé \"service-public.fr\".",
+                        "texteHtml": "<p>La liste mentionnée à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370331&dateTexte=&categorieLien=cid'>D. 231-2</a> est publiée sur le site internet dénommé \"service-public.fr\".</p>"
                       },
                       "type": "article"
                     }
