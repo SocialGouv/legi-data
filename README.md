@@ -48,7 +48,7 @@ npm i -D @socialgouv/legi-data-types
 
 #### Code
 
-An code is a Frenche code of law (i.e.: "Labor Code", "Social Security Code"). Each code is made up
+An code is a French code of law (i.e.: "Labor Code", "Social Security Code"). Each code is made up
 of articles wrapped within sections.
 
 #### Article
