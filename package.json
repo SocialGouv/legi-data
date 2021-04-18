@@ -35,7 +35,7 @@
     "@socialgouv/dila-api-client": "^1.1.6",
     "@socialgouv/eslint-config-strict": "^0.35.0",
     "@types/jest": "^26.0.22",
-    "@types/node": "^14.14.37",
+    "@types/node": "^14.14.41",
     "babel-eslint": "^10.1.0",
     "debug": "^4.2.0",
     "dotenv": "^8.2.0",
