@@ -5,8 +5,8 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2021-01-01",
-    "dateDebutVersion": "2021-01-01",
+    "dateModif": "2021-04-19",
+    "dateDebutVersion": "2021-04-19",
     "dateFinVersion": "2999-01-01"
   },
   "type": "code",
@@ -3503,41 +3503,50 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000038029900",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1548028800000,
+                            "dateFin": 1618790400000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000043396208",
+                            "etat": "VIGUEUR",
+                            "version": "2.0",
+                            "dateDebut": 1618790400000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000038029893",
-                        "dateDebut": 1548028800000,
+                        "dateDebut": 1618790400000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000038029900",
+                        "id": "LEGIARTI000043396208",
                         "intOrdre": 1845493759,
                         "lienModifications": [
                           {
-                            "textCid": "JORFTEXT000038029589",
-                            "textTitle": "Décret n°2019-31 du 18 janvier 2019 - art. 1",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000043388527",
+                            "textTitle": "Décret n°2021-464 du 16 avril 2021 - art. 1",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
                             "articleNum": "1",
-                            "articleId": "LEGIARTI000038029839",
+                            "articleId": "LEGIARTI000043394247",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2019-01-20",
-                            "dateSignaTexte": "2019-01-18",
-                            "dateDebutCible": "2019-01-21"
+                            "datePubliTexte": "2021-04-18",
+                            "dateSignaTexte": "2021-04-16",
+                            "dateDebutCible": "2021-04-19"
                           }
                         ],
-                        "nota": "Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux procédures engagées postérieurement à l'entrée en vigueur dudit décret.",
-                        "notaHtml": "<p>Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux procédures engagées postérieurement à l'entrée en vigueur dudit décret.</p>",
+                        "nota": "Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.",
+                        "notaHtml": "<p>Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.</p>",
                         "num": "R114-9-3",
-                        "texte": "Lorsqu'elles portent sur des informations relatives aux particuliers, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants : 1° Situation du foyer fiscal, à la direction générale des finances publiques ; 2° Justification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \" à la direction interministérielle du numérique et du système d'information et de communication de l'Etat ; 3° Droits sociaux et prestations, aux organismes de protection sociale.",
-                        "texteHtml": "<p>Lorsqu'elles portent sur des informations relatives aux particuliers, les demandes de communication mentionnées au 2° de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367414&dateTexte=&categorieLien=cid'>L. 114-9</a> sont adressées, selon la nature des informations demandées, aux services et organismes suivants : <br/><br/>1° Situation du foyer fiscal, à la direction générale des finances publiques ; <br/><br/>2° Justification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \" à la direction interministérielle du numérique et du système d'information et de communication de l'Etat ; <br/><br/>3° Droits sociaux et prestations, aux organismes de protection sociale.</p>"
+                        "texte": "Lorsqu'elles portent sur des informations relatives aux particuliers, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants : 1° Situation du foyer fiscal, à la direction générale des finances publiques ; 2° Justification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \" à la direction interministérielle du numérique et du système d'information et de communication de l'Etat ; 3° Droits sociaux, revenus et prestations, aux organismes de protection sociale et aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale ; 4° Situation de la personne scolarisée, au ministère de l'éducation nationale, de la jeunesse et des sports, au ministère de l'enseignement supérieur, de la recherche et de l'innovation ou aux organismes publics mentionnés au 5° ; 5° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance ; 6° Situation du demandeur d'emploi, à Pôle Emploi ; 7° Situation de la famille, aux organismes de protection sociale ; 8° Situation au regard des obligations prévues à l'article L. 111-2 du code du service national, à la direction du service national et de la jeunesse.",
+                        "texteHtml": "<p>Lorsqu'elles portent sur des informations relatives aux particuliers, les demandes de communication mentionnées au 2° de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367414&dateTexte=&categorieLien=cid'>L. 114-9</a> sont adressées, selon la nature des informations demandées, aux services et organismes suivants :</p><p>1° Situation du foyer fiscal, à la direction générale des finances publiques ;</p><p>2° Justification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \" à la direction interministérielle du numérique et du système d'information et de communication de l'Etat ;</p><p>3° Droits sociaux, revenus et prestations, aux organismes de protection sociale et aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale ;</p><p>4° Situation de la personne scolarisée, au ministère de l'éducation nationale, de la jeunesse et des sports, au ministère de l'enseignement supérieur, de la recherche et de l'innovation ou aux organismes publics mentionnés au 5° ;</p><p>5° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance ;</p><p>6° Situation du demandeur d'emploi, à Pôle Emploi ;</p><p>7° Situation de la famille, aux organismes de protection sociale ;</p><p>8° Situation au regard des obligations prévues à l'article L. 111-2 du code du service national, à la direction du service national et de la jeunesse.</p>"
                       },
                       "type": "article"
                     },
@@ -3546,41 +3555,59 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000038029911",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1548028800000,
+                            "dateFin": 1609459200000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000042941249",
+                            "etat": "MODIFIE",
+                            "version": "2.0",
+                            "dateDebut": 1609459200000,
+                            "dateFin": 1618790400000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000043396215",
+                            "etat": "VIGUEUR",
+                            "version": "3.0",
+                            "dateDebut": 1618790400000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000038029903",
-                        "dateDebut": 1548028800000,
+                        "dateDebut": 1618790400000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000038029911",
+                        "id": "LEGIARTI000043396215",
                         "intOrdre": 1862270975,
                         "lienModifications": [
                           {
-                            "textCid": "JORFTEXT000038029589",
-                            "textTitle": "Décret n°2019-31 du 18 janvier 2019 - art. 1",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000043388527",
+                            "textTitle": "Décret n°2021-464 du 16 avril 2021 - art. 2",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "1",
-                            "articleId": "LEGIARTI000038029839",
+                            "articleNum": "2",
+                            "articleId": "LEGIARTI000043394249",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2019-01-20",
-                            "dateSignaTexte": "2019-01-18",
-                            "dateDebutCible": "2019-01-21"
+                            "datePubliTexte": "2021-04-18",
+                            "dateSignaTexte": "2021-04-16",
+                            "dateDebutCible": "2021-04-19"
                           }
                         ],
-                        "nota": "Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux procédures engagées postérieurement à l'entrée en vigueur dudit décret.",
-                        "notaHtml": "<p>Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux procédures engagées postérieurement à l'entrée en vigueur dudit décret.</p>",
+                        "nota": "Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.",
+                        "notaHtml": "<p>Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.</p>",
                         "num": "R114-9-4",
-                        "texte": "Les demandes formulées sur le fondement de l'article R. 114-9-3 concernent les procédures qui interviennent dans les domaines suivants : 1° Consommation, notamment assurances, banques, surendettement, épargne ; 2° Enseignement et études supérieures ; 3° Emploi, chômage, formation, santé et sécurité au travail, rupture contractuelle des relations de travail ; 4° Famille, notamment enfance, protection des personnes, succession, union et séparation ; 5° Identité, notamment état civil, titres d'identité sous réserve des dispositions de l'article R. 113-9 , et élections ; 6° Impôts, taxes et droits de douane ; 7° Justice, notamment aide juridictionnelle ; 8° Logement et urbanisme, notamment les procédures relatives à l'achat d'un bien et aux aides financières y afférentes, copropriété, location et protection de l'habitat ; 9° Santé et solidarité, notamment aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale et soins ; 10° Transport, notamment cartes de transport et permis de conduire.",
-                        "texteHtml": "<p>Les demandes formulées sur le fondement de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000038029893&dateTexte=&categorieLien=cid'>R. 114-9-3</a> concernent les procédures qui interviennent dans les domaines suivants : <br/><br/>1° Consommation, notamment assurances, banques, surendettement, épargne ; <br/><br/>2° Enseignement et études supérieures ; <br/><br/>3° Emploi, chômage, formation, santé et sécurité au travail, rupture contractuelle des relations de travail ; <br/><br/>4° Famille, notamment enfance, protection des personnes, succession, union et séparation ; <br/><br/>5° Identité, notamment état civil, titres d'identité sous réserve des dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370027&dateTexte=&categorieLien=cid'>R. 113-9</a>, et élections ; <br/><br/>6° Impôts, taxes et droits de douane ; <br/><br/>7° Justice, notamment aide juridictionnelle ; <br/><br/>8° Logement et urbanisme, notamment les procédures relatives à l'achat d'un bien et aux aides financières y afférentes, copropriété, location et protection de l'habitat ; <br/><br/>9° Santé et solidarité, notamment aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale et soins ; <br/><br/>10° Transport, notamment cartes de transport et permis de conduire.<br/></p>"
+                        "texte": "Les demandes formulées sur le fondement de l'article R. 114-9-3 concernent les procédures qui interviennent dans les domaines suivants : 1° Consommation, notamment assurances, banques, surendettement, épargne ; 2° Enseignement et études supérieures ; 3° Emploi, chômage, formation, santé et sécurité au travail, rupture contractuelle des relations de travail ; 4° Famille, notamment enfance, protection des personnes, succession, union et séparation ; 5° Identité, notamment état civil, titres d'identité sous réserve des dispositions de l'article R. 113-9 , élections et recensement citoyen obligatoire ; 6° Impôts, taxes et droits de douane ; 7° Justice, notamment aide juridictionnelle et aide à l'intervention de l'avocat dans les procédures non juridictionnelles ; 8° Logement et urbanisme, notamment les procédures relatives à l'achat d'un bien et aux aides financières y afférentes, copropriété, location et protection de l'habitat ; 9° Santé et solidarité, notamment aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale et soins ; 10° Transport, notamment cartes de transport et permis de conduire.",
+                        "texteHtml": "<p>Les demandes formulées sur le fondement de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000038029893&dateTexte=&categorieLien=cid'>R. 114-9-3</a> concernent les procédures qui interviennent dans les domaines suivants :</p><p>1° Consommation, notamment assurances, banques, surendettement, épargne ;</p><p>2° Enseignement et études supérieures ;</p><p>3° Emploi, chômage, formation, santé et sécurité au travail, rupture contractuelle des relations de travail ;</p><p>4° Famille, notamment enfance, protection des personnes, succession, union et séparation ;</p><p>5° Identité, notamment état civil, titres d'identité sous réserve des dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370027&dateTexte=&categorieLien=cid'>R. 113-9</a>, élections et recensement citoyen obligatoire ;</p><p>6° Impôts, taxes et droits de douane ;</p><p>7° Justice, notamment aide juridictionnelle et aide à l'intervention de l'avocat dans les procédures non juridictionnelles ;</p><p>8° Logement et urbanisme, notamment les procédures relatives à l'achat d'un bien et aux aides financières y afférentes, copropriété, location et protection de l'habitat ;</p><p>9° Santé et solidarité, notamment aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale et soins ;</p><p>10° Transport, notamment cartes de transport et permis de conduire.</p>"
                       },
                       "type": "article"
                     },
@@ -10644,7 +10671,7 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000031370333",
-                            "etat": "ABROGE_DIFF",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1451606400000,
                             "dateFin": 1609459200000,
@@ -10653,7 +10680,7 @@
                           },
                           {
                             "id": "LEGIARTI000042320995",
-                            "etat": "VIGUEUR_DIFF",
+                            "etat": "VIGUEUR",
                             "version": "2.0",
                             "dateDebut": 1609459200000,
                             "dateFin": 32472144000000,
@@ -10666,7 +10693,7 @@
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "VIGUEUR_DIFF",
+                        "etat": "VIGUEUR",
                         "id": "LEGIARTI000042320995",
                         "intOrdre": 1431655763,
                         "lienModifications": [
@@ -23537,21 +23564,30 @@
                               },
                               {
                                 "id": "LEGIARTI000038044865",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "4.0",
                                 "dateDebut": 1548028800000,
+                                "dateFin": 1618790400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000043396284",
+                                "etat": "VIGUEUR",
+                                "version": "5.0",
+                                "dateDebut": 1618790400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370693",
-                            "dateDebut": 1548028800000,
+                            "dateDebut": 1618790400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000038044865",
+                            "id": "LEGIARTI000043396284",
                             "intOrdre": 1789569705,
                             "lienModifications": [
                               {
@@ -23567,23 +23603,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000038029589",
-                                "textTitle": "Décret n°2019-31 du 18 janvier 2019 - art. 2",
+                                "textCid": "JORFTEXT000043388527",
+                                "textTitle": "Décret n°2021-464 du 16 avril 2021 - art. 3",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "2",
-                                "articleId": "LEGIARTI000038029841",
+                                "articleNum": "3",
+                                "articleId": "LEGIARTI000043394251",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2019-01-20",
-                                "dateSignaTexte": "2019-01-18",
-                                "dateDebutCible": "2019-01-21"
+                                "datePubliTexte": "2021-04-18",
+                                "dateSignaTexte": "2021-04-16",
+                                "dateDebutCible": "2021-04-19"
                               }
                             ],
-                            "nota": "",
-                            "notaHtml": "",
+                            "nota": "Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.",
+                            "notaHtml": "<p>Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.</p>",
                             "num": "R552-5",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-1 à R. 114-9-8 Résultant du décret n° 2019-31 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align='left'>Titre Ier </td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid'>R. 112-4 et R. 112-5 </a></p></td><td><p>Résultant du décret n° 2015-1342 </p></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid'>R. 112-9-1 et R. 112-9-2 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid'>R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid'>R. 112-16 </a>à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid'>R. 112-20 </a></td><td>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000036249422&categorieLien=cid'>2017-1728 </a>du 21 décembre 2017 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid'>R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>2015-1342 </a></td></tr><tr><td><br/><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000038029871&dateTexte=&categorieLien=cid'>R. 114-9-1 </a>à R. 114-9-8 </td><td><br/>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000038029589&categorieLien=cid'>2019-31</a></td></tr><tr><td align='left'><p>Titre III </p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid'>R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid'>R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-1 et R. 114-9-2 Résultant du décret n° 2019-31 du 18 janvier 2019 R. 114-9-3 et R. 114-9-4 Résultant du décret n° 2021-464 du 16 avril 2021 R. 114-9-5 à R. 114-9-8 Résultant du décret n° 2019-31 du 18 janvier 2019 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid'>R. 112-4 et R. 112-5 </a></p></td><td><p>Résultant du décret n° 2015-1342 </p></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid'>R. 112-9-1 et R. 112-9-2 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid'>R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid'>R. 112-16 </a>à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid'>R. 112-20 </a></td><td>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000036249422&categorieLien=cid'>2017-1728 </a>du 21 décembre 2017</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid'>R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>2015-1342 </a></td></tr><tr><td><br/>\n\t\t\tR. 114-9-1 et R. 114-9-2</td><td><br/>\n\t\t\tRésultant du décret n° 2019-31 du 18 janvier 2019</td></tr><tr><td><p>R. 114-9-3 et R. 114-9-4</p></td><td>Résultant du décret n° 2021-464 du 16 avril 2021</td></tr><tr><td><p>R. 114-9-5 à R. 114-9-8</p></td><td>Résultant du décret n° 2019-31 du 18 janvier 2019</td></tr><tr><td align='left'><p>Titre III</p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid'>R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid'>R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
                           },
                           "type": "article"
                         },
@@ -25321,21 +25357,30 @@
                               },
                               {
                                 "id": "LEGIARTI000038044841",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "4.0",
                                 "dateDebut": 1548028800000,
+                                "dateFin": 1618790400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000043396253",
+                                "etat": "VIGUEUR",
+                                "version": "5.0",
+                                "dateDebut": 1618790400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370755",
-                            "dateDebut": 1548028800000,
+                            "dateDebut": 1618790400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000038044841",
+                            "id": "LEGIARTI000043396253",
                             "intOrdre": 1789569705,
                             "lienModifications": [
                               {
@@ -25351,23 +25396,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000038029589",
-                                "textTitle": "Décret n°2019-31 du 18 janvier 2019 - art. 2",
+                                "textCid": "JORFTEXT000043388527",
+                                "textTitle": "Décret n°2021-464 du 16 avril 2021 - art. 3",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "2",
-                                "articleId": "LEGIARTI000038029841",
+                                "articleNum": "3",
+                                "articleId": "LEGIARTI000043394251",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2019-01-20",
-                                "dateSignaTexte": "2019-01-18",
-                                "dateDebutCible": "2019-01-21"
+                                "datePubliTexte": "2021-04-18",
+                                "dateSignaTexte": "2021-04-16",
+                                "dateDebutCible": "2021-04-19"
                               }
                             ],
-                            "nota": "",
-                            "notaHtml": "",
+                            "nota": "Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.",
+                            "notaHtml": "<p>Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.</p>",
                             "num": "R562-5",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-1 à R. 114-9-8 Résultant du décret n° 2019-31 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align='left'><p>Titre Ier </p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid'>R. 112-4 et R. 112-5 </a></p></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid'>R. 112-9-1 et R. 112-9-2 </a></p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid'>R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid'>R. 112-16 </a>à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid'>R. 112-20 </a></td><td>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000036249422&categorieLien=cid'>2017-1728</a> du 21 décembre 2017 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid'>R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><br/><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000038029871&dateTexte=&categorieLien=cid'>R. 114-9-1 </a>à R. 114-9-8 </td><td><br/>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000038029589&categorieLien=cid'>2019-31 </a></td></tr><tr><td align='left'><p>Titre III </p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid'>R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid'>R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-1 et R. 114-9-2 Résultant du décret n° 2019-31 du 18 janvier 2019 R. 114-9-3 et R. 114-9-4 Résultant du décret n° 2021-464 du 16 avril 2021 R. 114-9-5 à R. 114-9-8 Résultant du décret n° 2019-31 du 18 janvier 2019 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'><p>Titre Ier</p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid'>R. 112-4 et R. 112-5 </a></p></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid'>R. 112-9-1 et R. 112-9-2 </a></p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid'>R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid'>R. 112-16 </a>à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid'>R. 112-20 </a></td><td>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000036249422&categorieLien=cid'>2017-1728</a> du 21 décembre 2017</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid'>R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><p>R. 114-9-1 et R. 114-9-2</p></td><td><br/>\n\t\t\tRésultant du décret n° 2019-31 du 18 janvier 2019</td></tr><tr><td><p>R. 114-9-3 et R. 114-9-4</p></td><td>Résultant du décret n° 2021-464 du 16 avril 2021</td></tr><tr><td><p>R. 114-9-5 à R. 114-9-8</p></td><td>Résultant du décret n° 2019-31 du 18 janvier 2019</td></tr><tr><td align='left'><p>Titre III</p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid'>R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid'>R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         },
@@ -27026,21 +27071,30 @@
                       },
                       {
                         "id": "LEGIARTI000038044816",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "4.0",
                         "dateDebut": 1548028800000,
+                        "dateFin": 1618790400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000043396222",
+                        "etat": "VIGUEUR",
+                        "version": "5.0",
+                        "dateDebut": 1618790400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000031370813",
-                    "dateDebut": 1548028800000,
+                    "dateDebut": 1618790400000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000038044816",
+                    "id": "LEGIARTI000043396222",
                     "intOrdre": 1342177279,
                     "lienModifications": [
                       {
@@ -27056,23 +27110,23 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000038029589",
-                        "textTitle": "Décret n°2019-31 du 18 janvier 2019 - art. 2",
+                        "textCid": "JORFTEXT000043388527",
+                        "textTitle": "Décret n°2021-464 du 16 avril 2021 - art. 3",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "2",
-                        "articleId": "LEGIARTI000038029841",
+                        "articleNum": "3",
+                        "articleId": "LEGIARTI000043394251",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2019-01-20",
-                        "dateSignaTexte": "2019-01-18",
-                        "dateDebutCible": "2019-01-21"
+                        "datePubliTexte": "2021-04-18",
+                        "dateSignaTexte": "2021-04-16",
+                        "dateDebutCible": "2021-04-19"
                       }
                     ],
-                    "nota": "",
-                    "notaHtml": "",
+                    "nota": "Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.",
+                    "notaHtml": "<p>Conformément à l’article 4 du décret n° 2021-464 du 16 avril 2021, ces dispositions sont applicables aux procédures engagées postérieurement à l’entrée en vigueur dudit décret.</p>",
                     "num": "R572-3",
-                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-1 à R. 114-9-8 Résultant du décret n° 2019-31 Titre III R. 133-3 à R. 133-13 Résultant du décret n° 2015-1342 R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
-                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : </p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align='left'><p>Titre Ier </p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid'>R. 112-4 et R. 112-5 </a></p></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid'>R. 112-9-1 et R. 112-9-2 </a></p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid'>R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid'>R. 112-16 </a>à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid'>R. 112-20 </a></td><td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid'>R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000038029871&dateTexte=&categorieLien=cid'>R. 114-9-1 </a>à R. 114-9-8 </td><td>Résultant du décret n° <a href='/affichTexte.do?cidTexte=JORFTEXT000038029589&categorieLien=cid'>2019-31</a></td></tr><tr><td align='left'><p>Titre III </p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370111&dateTexte=&categorieLien=cid'>R. 133-3 à R. 133-13 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid'>R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid'>R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
+                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-1 et R. 114-9-2 Résultant du décret n° 2019-31 du 18 janvier 2019 R. 114-9-3 et R. 114-9-4 Résultant du décret n° 2021-464 du 16 avril 2021 R. 114-9-5 à R. 114-9-8 Résultant du décret n° 2019-31 du 18 janvier 2019 Titre III R. 133-3 à R. 133-13 Résultant du décret n° 2015-1342 R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
+                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau :</p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'><p>Titre Ier</p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid'>R. 112-4 et R. 112-5 </a></p></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid'>R. 112-9-1 et R. 112-9-2 </a></p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid'>R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid'>R. 112-16 </a>à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid'>R. 112-20 </a></td><td>Résultant du décret n° 2017-1728 du 21 décembre 2017</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid'>R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><p>R. 114-9-1 et R. 114-9-2</p></td><td>Résultant du décret n° 2019-31 du 18 janvier 2019</td></tr><tr><td><p>R. 114-9-3 et R. 114-9-4</p></td><td>Résultant du décret n° 2021-464 du 16 avril 2021</td></tr><tr><td><p>R. 114-9-5 à R. 114-9-8</p></td><td>Résultant du décret n° 2019-31 du 18 janvier 2019</td></tr><tr><td align='left'><p>Titre III</p></td><td align='left'></td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370111&dateTexte=&categorieLien=cid'>R. 133-3 à R. 133-13 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid'>R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><p><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid'>R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                   },
                   "type": "article"
                 },
