@@ -1,3 +1,15 @@
+# [2.68.0](https://github.com/SocialGouv/legi-data/compare/v2.67.0...v2.68.0) (2021-08-10)
+
+
+### Bug Fixes
+
+* increase retry count ([7f85c86](https://github.com/SocialGouv/legi-data/commit/7f85c86ad4137e0fe4a8de0943cfe372dff2791b))
+
+
+### Features
+
+* **data:** 20210810_2314 update ([e173426](https://github.com/SocialGouv/legi-data/commit/e173426b59769e35fc7be78ecedf120c97f8b1e2))
+
 # [2.67.0](https://github.com/SocialGouv/legi-data/compare/v2.66.0...v2.67.0) (2021-08-05)
 
 
