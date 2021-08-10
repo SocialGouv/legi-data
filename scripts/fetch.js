@@ -42,7 +42,7 @@ function fetchCodeToc(textId) {
   return queue.add(() => {
     log.info("fetch()", `fetch table des matieres ${textId}`);
 
-    return retry(() => getTableMatieres({ textId }), { retries: 10 });
+    return retry(() => getTableMatieres({ textId }), { retries: 20 });
   });
 }
 
@@ -72,7 +72,7 @@ async function fetchAllArticles(node, depth = 0) {
       queue.add(() => {
         log.info("fetch()", `Fetching ${id}…`);
 
-        return retry(() => getArticle(id), { retries: 10 });
+        return retry(() => getArticle(id), { retries: 20 });
       }),
     );
 
