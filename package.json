@@ -42,7 +42,7 @@
     "eslint": "^7.32.0",
     "eslint-plugin-sort-requires": "^2.1.0",
     "esm": "^3.2.25",
-    "husky": "^4.3.8",
+    "husky": "^7.0.1",
     "jest": "^27.0.6",
     "npmlog": "^4.1.2",
     "p-pipe": "^4.0.0",
