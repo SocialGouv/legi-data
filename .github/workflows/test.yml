@@ -1,0 +1,27 @@
+name: Test
+
+on:
+  push:
+    branches: [*]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: lts/*
+          cache: yarn
+
+      - name: Installing
+        run: yarn --frozen-lockfile --perfer-offline --link-duplicates
+
+      # - name: Lint
+      #   run: yarn lint
+
+      - name: Unit tests
+        run: yarn test
