@@ -29,20 +29,20 @@ jobs:
       - name: Check changes
         id: changes
         run: |
-        if [[ -z "$(git status -s ./data)" ]]; then
-          echo "Nothing changed"
-          exit 0
-        fi
-        echo "Files changed, checking JSON validity"
-        # Check JSON files
-        for filename in ./data/LEGITEXT*\.json; do
-          node -e "assert(require('$filename').children.length > 0)" || {
-            echo "Invalid JSON in $filename : should have children"
-            exit 1
-          }
-        done
-        NOW=$(date +"%Y%m%d_%H%M")
-        echo "::set-output name=NOW::$NOW"
+          if [[ -z "$(git status -s ./data)" ]]; then
+            echo "Nothing changed"
+            exit 0
+          fi
+          echo "Files changed, checking JSON validity"
+          # Check JSON files
+          for filename in ./data/LEGITEXT*\.json; do
+            node -e "assert(require('$filename').children.length > 0)" || {
+              echo "Invalid JSON in $filename : should have children"
+              exit 1
+            }
+          done
+          NOW=$(date +"%Y%m%d_%H%M")
+          echo "::set-output name=NOW::$NOW"
 
       - uses: EndBug/add-and-commit@v7
         with:
@@ -62,7 +62,6 @@ jobs:
             @semantic-release/git@9.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
       - name: Unit tests
         run: yarn test
