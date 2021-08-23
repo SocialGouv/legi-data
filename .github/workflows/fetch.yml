@@ -2,11 +2,12 @@ name: Fetch
 
 on:
   workflow_dispatch:
+  push:
+    branches: ["*"]
 
 jobs:
-  test:
+  fetch:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
 
