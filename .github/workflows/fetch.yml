@@ -2,8 +2,8 @@ name: Fetch
 
 on:
   workflow_dispatch:
-  push:
-    branches: ["*"]
+  schedule:
+    - cron:  '0 3 * * *'
 
 jobs:
   fetch:
@@ -63,6 +63,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.SOCIALGROOVYBOT_NPM_TOKEN }}
-
-      - name: Unit tests
-        run: yarn test
