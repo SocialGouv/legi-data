@@ -24,8 +24,8 @@ jobs:
         run: |
           yarn data:update
         env:
-          OAUTH_CLIENT_ID: "xxx"
-          OAUTH_CLIENT_SECRET: "yyy"
+          OAUTH_CLIENT_ID: ${{ secrets.DILA_OAUTH_CLIENT_ID }}
+          OAUTH_CLIENT_SECRET: ${{ secrets.DILA_OAUTH_CLIENT_SECRET }}
 
       - name: Check changes
         id: changes
