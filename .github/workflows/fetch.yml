@@ -55,7 +55,6 @@ jobs:
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v2
         with:
-          dry_run: true
           semantic_version: 17
           extra_plugins: |
             @semantic-release/changelog@5.0.1
@@ -63,6 +62,7 @@ jobs:
             @semantic-release/git@9.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.SOCIALGROOVYBOT_NPM_TOKEN }}
 
       - name: Unit tests
         run: yarn test
