@@ -31,9 +31,8 @@ jobs:
         run: |
         if [[ -z "$(git status -s ./data)" ]]; then
           echo "Nothing changed"
-          exit ${CI_JOB_SKIP_EXIT_CODE:-0}
+          exit 0
         fi
-
         echo "Files changed, checking JSON validity"
         # Check JSON files
         for filename in ./data/LEGITEXT*\.json; do
@@ -42,9 +41,7 @@ jobs:
             exit 1
           }
         done
-
         NOW=$(date +"%Y%m%d_%H%M")
-
         echo "::set-output name=NOW::$NOW"
 
       - uses: EndBug/add-and-commit@v7
