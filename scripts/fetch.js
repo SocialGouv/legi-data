@@ -42,7 +42,13 @@ function fetchCodeToc(textId) {
   return queue.add(() => {
     log.info("fetch()", `fetch table des matieres ${textId}`);
 
-    return retry(() => getTableMatieres({ textId }), { retries: 20 });
+    return retry(
+      () => {
+        console.log(`retry ${textId}`);
+        return getTableMatieres({ textId });
+      },
+      { retries: 20 },
+    );
   });
 }
 
