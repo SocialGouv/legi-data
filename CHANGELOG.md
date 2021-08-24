@@ -1,3 +1,15 @@
+# [2.69.0](https://github.com/SocialGouv/legi-data/compare/v2.68.0...v2.69.0) (2021-08-24)
+
+
+### Bug Fixes
+
+* use p-pipe@3 ([#216](https://github.com/SocialGouv/legi-data/issues/216)) ([6a3185e](https://github.com/SocialGouv/legi-data/commit/6a3185eecd1b8dc9c7f0c7ed7ed95705559cebd9))
+
+
+### Features
+
+* **data:** 20210824_0722 update ([fdb542a](https://github.com/SocialGouv/legi-data/commit/fdb542a57577ed99b4deedee4e7edb1feaa29454))
+
 # [2.68.0](https://github.com/SocialGouv/legi-data/compare/v2.67.0...v2.68.0) (2021-08-10)
 
 
