@@ -1,0 +1,65 @@
+name: Fetch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 3 * * *'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: lts/*
+          cache: yarn
+
+      - name: Installing
+        run: yarn --frozen-lockfile --perfer-offline --link-duplicates
+
+      - name: Fetch data
+        run: |
+          yarn data:update
+        env:
+          OAUTH_CLIENT_ID: ${{ secrets.DILA_OAUTH_CLIENT_ID }}
+          OAUTH_CLIENT_SECRET: ${{ secrets.DILA_OAUTH_CLIENT_SECRET }}
+
+      - name: Check changes
+        id: changes
+        run: |
+          if [[ -z "$(git status -s ./data)" ]]; then
+            echo "Nothing changed"
+            exit 0
+          fi
+          echo "Files changed, checking JSON validity"
+          # Check JSON files
+          for filename in ./data/LEGITEXT*\.json; do
+            node -e "assert(require('$filename').children.length > 0)" || {
+              echo "Invalid JSON in $filename : should have children"
+              exit 1
+            }
+          done
+          NOW=$(date +"%Y%m%d_%H%M")
+          echo "::set-output name=NOW::$NOW"
+
+      - uses: EndBug/add-and-commit@v7
+        with:
+          add: '["data"]'
+          author_name: ${{ secrets.SOCIALGROOVYBOT_NAME }}
+          author_email: ${{ secrets.SOCIALGROOVYBOT_EMAIL }}
+          message: "feat(data): ${{ steps.changes.outputs.NOW }} update"
+
+      - name: Semantic Release
+        uses: cycjimmy/semantic-release-action@v2
+        with:
+          semantic_version: 17
+          extra_plugins: |
+            @semantic-release/changelog@5.0.1
+            @semantic-release/exec@5.0.0
+            @semantic-release/git@9.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.SOCIALGROOVYBOT_NPM_TOKEN }}
