@@ -27,30 +27,38 @@ jobs:
           OAUTH_CLIENT_ID: ${{ secrets.DILA_OAUTH_CLIENT_ID }}
           OAUTH_CLIENT_SECRET: ${{ secrets.DILA_OAUTH_CLIENT_SECRET }}
 
-      - name: Check changes
-        id: changes
+      - name: Get metadata
+        id: metadata
+        shell: bash
         run: |
-          if [[ -z "$(git status -s ./data)" ]]; then
-            echo "Nothing changed"
-            exit 0
-          fi
-          echo "Files changed, checking JSON validity"
-          # Check JSON files
+          echo "::set-output name=data_status::$(git status -s ./data)"
+          echo "::set-output name=now::$(date +"%Y%m%d_%H%M")"
+
+      - name: Print metadata
+        run: |
+          echo "Data status ${{ steps.metadata.outputs.now }}"
+          echo "${{ steps.metadata.outputs.data_status }}"
+
+      - name: Check JSON
+        run: |
           for filename in ./data/LEGITEXT*\.json; do
             node -e "assert(require('$filename').children.length > 0)" || {
               echo "Invalid JSON in $filename : should have children"
               exit 1
             }
           done
-          NOW=$(date +"%Y%m%d_%H%M")
-          echo "::set-output name=NOW::$NOW"
 
       - uses: EndBug/add-and-commit@v7
+        if: ${{ steps.metadata.outputs.data_status }}
+        env:
+          HUSKY: "0"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          add: '["data"]'
+          add: "data"
           author_name: ${{ secrets.SOCIALGROOVYBOT_NAME }}
           author_email: ${{ secrets.SOCIALGROOVYBOT_EMAIL }}
-          message: "feat(data): ${{ steps.changes.outputs.NOW }} update"
+          message: "feat(data): ${{ steps.metadata.outputs.now }} update"
+
 
       - name: Set Registry token
         run: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
