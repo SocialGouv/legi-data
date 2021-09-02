@@ -1,3 +1,11 @@
+## [2.73.1](https://github.com/SocialGouv/legi-data/compare/v2.73.0...v2.73.1) (2021-09-02)
+
+
+### Bug Fixes
+
+* **github:** release as @SocialGroovyBot ([#222](https://github.com/SocialGouv/legi-data/issues/222)) ([e779887](https://github.com/SocialGouv/legi-data/commit/e779887c876d84e6568b496c839b32a7ed796b10))
+* **github:** set the registry before manual npm publish ([#221](https://github.com/SocialGouv/legi-data/issues/221)) ([5b2582c](https://github.com/SocialGouv/legi-data/commit/5b2582c39aec5c418c62409388adda15be1d494c))
+
 # [2.73.0](https://github.com/SocialGouv/legi-data/compare/v2.72.0...v2.73.0) (2021-09-02)
 
 
