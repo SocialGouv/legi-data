@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "unist-util-find": "^1.0.2",
-    "unist-util-parents": "^1.0.3"
+    "unist-util-parents": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
