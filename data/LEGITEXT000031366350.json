@@ -5,9 +5,9 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2021-04-19",
-    "dateDebutVersion": "2021-04-19",
-    "dateFinVersion": "2999-01-01"
+    "dateModif": "2021-12-04",
+    "dateDebutVersion": "2021-12-04",
+    "dateFinVersion": "2022-01-01"
   },
   "type": "code",
   "children": [
@@ -10248,9 +10248,18 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000031367587",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "1.0",
                             "dateDebut": 1451606400000,
+                            "dateFin": 1656633600000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000044190686",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "2.0",
+                            "dateDebut": 1656633600000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -10259,9 +10268,9 @@
                         "cid": "LEGIARTI000031367587",
                         "dateDebut": 1451606400000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 32472144000000,
+                        "dateFin": 1656633600000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "id": "LEGIARTI000031367587",
                         "intOrdre": 1073741823,
                         "lienModifications": [
@@ -10326,9 +10335,18 @@
                           },
                           {
                             "id": "LEGIARTI000034115744",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "2.0",
                             "dateDebut": 1546300800000,
+                            "dateFin": 1656633600000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000044190680",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "3.0",
+                            "dateDebut": 1656633600000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -10337,9 +10355,9 @@
                         "cid": "LEGIARTI000031367592",
                         "dateDebut": 1546300800000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 32472144000000,
+                        "dateFin": 1656633600000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "id": "LEGIARTI000034115744",
                         "intOrdre": 1073741823,
                         "lienModifications": [
@@ -10395,9 +10413,18 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000031367597",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "1.0",
                             "dateDebut": 1451606400000,
+                            "dateFin": 1656633600000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000044190672",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "2.0",
+                            "dateDebut": 1656633600000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -10406,9 +10433,9 @@
                         "cid": "LEGIARTI000031367597",
                         "dateDebut": 1451606400000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 32472144000000,
+                        "dateFin": 1656633600000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "id": "LEGIARTI000031367597",
                         "intOrdre": 1073741823,
                         "lienModifications": [
@@ -12938,7 +12965,7 @@
                         "notaHtml": "",
                         "num": "L311-8",
                         "texte": "Les documents administratifs non communicables au sens du présent chapitre deviennent communicables au terme des délais et dans les conditions fixés par les articles L. 213-1 et L. 213-2 du code du patrimoine. Avant l'expiration de ces délais et par dérogation aux dispositions du présent article, la consultation de ces documents peut être autorisée dans les conditions prévues par l'article L. 213-3 du même code. Lorsqu'une demande faite en application du I du même article L. 213-3 porte sur une base de données et vise à effectuer des traitements à des fins de recherche ou d'étude présentant un caractère d'intérêt public, l'administration détenant la base de données ou l'administration des archives peut demander l'avis du comité du secret statistique institué par l'article 6 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques. Le comité peut recommander le recours à une procédure d'accès sécurisé aux données présentant les garanties appropriées, dans des conditions fixées par décret en Conseil d'Etat. L'avis du comité tient compte : 1° Des enjeux attachés aux secrets protégés par la loi, notamment la protection de la vie privée et la protection du secret des affaires ; 2° De la nature et de la finalité des travaux pour l'exécution desquels la demande d'accès est formulée.",
-                        "texteHtml": "<p>Les documents administratifs non communicables au sens du présent chapitre deviennent communicables au terme des délais et dans les conditions fixés par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845610&dateTexte=&categorieLien=cid'>L. 213-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000037269071&dateTexte=&categorieLien=id' title='Code du patrimoine - art. L213-2 (V)'>L. 213-2 </a>du code du patrimoine. Avant l'expiration de ces délais et par dérogation aux dispositions du présent article, la consultation de ces documents peut être autorisée dans les conditions prévues par l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845612&dateTexte=&categorieLien=cid'>L. 213-3</a> du même code.</p><p>Lorsqu'une demande faite en application du I du même article L. 213-3 porte sur une base de données et vise à effectuer des traitements à des fins de recherche ou d'étude présentant un caractère d'intérêt public, l'administration détenant la base de données ou l'administration des archives peut demander l'avis du comité du secret statistique institué par l'article 6 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques. Le comité peut recommander le recours à une procédure d'accès sécurisé aux données présentant les garanties appropriées, dans des conditions fixées par décret en Conseil d'Etat.</p><p>L'avis du comité tient compte :</p><p>1° Des enjeux attachés aux secrets protégés par la loi, notamment la protection de la vie privée et la protection du secret des affaires ;</p><p>2° De la nature et de la finalité des travaux pour l'exécution desquels la demande d'accès est formulée.</p>"
+                        "texteHtml": "<p>Les documents administratifs non communicables au sens du présent chapitre deviennent communicables au terme des délais et dans les conditions fixés par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845610&dateTexte=&categorieLien=cid'>L. 213-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000037269071&dateTexte=&categorieLien=id' title='Code du patrimoine - art. L213-2 (M)'>L. 213-2 </a>du code du patrimoine. Avant l'expiration de ces délais et par dérogation aux dispositions du présent article, la consultation de ces documents peut être autorisée dans les conditions prévues par l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845612&dateTexte=&categorieLien=cid'>L. 213-3</a> du même code.</p><p>Lorsqu'une demande faite en application du I du même article L. 213-3 porte sur une base de données et vise à effectuer des traitements à des fins de recherche ou d'étude présentant un caractère d'intérêt public, l'administration détenant la base de données ou l'administration des archives peut demander l'avis du comité du secret statistique institué par l'article 6 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques. Le comité peut recommander le recours à une procédure d'accès sécurisé aux données présentant les garanties appropriées, dans des conditions fixées par décret en Conseil d'Etat.</p><p>L'avis du comité tient compte :</p><p>1° Des enjeux attachés aux secrets protégés par la loi, notamment la protection de la vie privée et la protection du secret des affaires ;</p><p>2° De la nature et de la finalité des travaux pour l'exécution desquels la demande d'accès est formulée.</p>"
                       },
                       "type": "article"
                     },
@@ -14690,9 +14717,18 @@
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000034196073",
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "version": "1.0",
                         "dateDebut": 1491004800000,
+                        "dateFin": 1640995200000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000044343694",
+                        "etat": "VIGUEUR_DIFF",
+                        "version": "2.0",
+                        "dateDebut": 1640995200000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
@@ -14701,9 +14737,9 @@
                     "cid": "LEGIARTI000034196047",
                     "dateDebut": 1491004800000,
                     "dateDebutExtension": 32472144000000,
-                    "dateFin": 32472144000000,
+                    "dateFin": 1640995200000,
                     "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR",
+                    "etat": "ABROGE_DIFF",
                     "id": "LEGIARTI000034196073",
                     "intOrdre": 1789569705,
                     "lienModifications": [
@@ -15316,41 +15352,50 @@
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000034504991",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "1.0",
                         "dateDebut": 1493424000000,
+                        "dateFin": 1638576000000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000044403448",
+                        "etat": "VIGUEUR",
+                        "version": "2.0",
+                        "dateDebut": 1638576000000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000034504991",
-                    "dateDebut": 1493424000000,
+                    "dateDebut": 1638576000000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000034504991",
+                    "id": "LEGIARTI000044403448",
                     "intOrdre": 1744830463,
                     "lienModifications": [
                       {
-                        "textCid": "JORFTEXT000034502557",
-                        "textTitle": "Décret n°2017-638 du 27 avril 2017 - art. 1",
-                        "linkType": "CREE",
+                        "textCid": "JORFTEXT000044401895",
+                        "textTitle": "Décret n°2021-1559 du 1er décembre 2021 - art. 1",
+                        "linkType": "MODIFIE",
                         "linkOrientation": "cible",
                         "articleNum": "1",
-                        "articleId": "LEGIARTI000034504735",
+                        "articleId": "LEGIARTI000044402680",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2017-04-28",
-                        "dateSignaTexte": "2017-04-27",
-                        "dateDebutCible": "2017-04-29"
+                        "datePubliTexte": "2021-12-03",
+                        "dateSignaTexte": "2021-12-01",
+                        "dateDebutCible": "2021-12-04"
                       }
                     ],
                     "nota": "",
                     "notaHtml": "",
                     "num": "D323-2-1",
-                    "texte": "I. - L'administration peut soumettre la réutilisation à titre gratuit des informations publiques qu'elle détient aux licences suivantes : 1° La licence ouverte de réutilisation d'informations publiques ; 2° \" L'Open Database License \". II. - Lorsque ces informations publiques revêtent la forme d'un logiciel, l'administration peut soumettre leur réutilisation à titre gratuit aux licences suivantes : 1° Les licences dites \" permissives \" nommées \" Berkeley Software Distribution License \", \" Apache \", \" CeCILL-B \" et \" Massachusetts Institute of Technology License \" ; 2° Les licences \" avec obligation de réciprocité \" nommées \" Mozilla Public License \", \" GNU General Public License \" et \" CeCILL \". Les licences susmentionnées sont accessibles en ligne, dans leur version en vigueur, sur le site internet : http://www.data.gouv.fr .",
-                    "texteHtml": "<p>I. - L'administration peut soumettre la réutilisation à titre gratuit des informations publiques qu'elle détient aux licences suivantes :</p><p>1° La licence ouverte de réutilisation d'informations publiques ;</p><p>2° \" L'Open Database License \".</p><p>II. - Lorsque ces informations publiques revêtent la forme d'un logiciel, l'administration peut soumettre leur réutilisation à titre gratuit aux licences suivantes :</p><p>1° Les licences dites \" permissives \" nommées \" Berkeley Software Distribution License \", \" Apache \", \" CeCILL-B \" et \" Massachusetts Institute of Technology License \" ;</p><p>2° Les licences \" avec obligation de réciprocité \" nommées \" Mozilla Public License \", \" GNU General Public License \" et \" CeCILL \".</p><p>Les licences susmentionnées sont accessibles en ligne, dans leur version en vigueur, sur le site internet : <a shape='rect' href='http://www.data.gouv.fr' target='_blank'> http://www.data.gouv.fr</a>.</p>"
+                    "texte": "I. - L'administration peut soumettre la réutilisation à titre gratuit des informations publiques qu'elle détient aux licences suivantes : 1° La licence ouverte de réutilisation d'informations publiques ; 2° \" L'Open Database License \". II. - Lorsque ces informations publiques revêtent la forme d'un logiciel, l'administration peut soumettre leur réutilisation à titre gratuit aux licences suivantes : 1° Les licences dites \" permissives \" nommées \" Berkeley Software Distribution License \", \" Apache \", \" CeCILL-B \" et \" Massachusetts Institute of Technology License \" ; 2° Les licences \" avec obligation de réciprocité \" nommées \" Mozilla Public License \", \" GNU General Public License \" , “ CeCILL ”, “ European Union Public License ” et “ Eclipse Public License ”. Les licences susmentionnées sont accessibles en ligne, dans leur version en vigueur, sur le site internet : http://www.data.gouv.fr .",
+                    "texteHtml": "<p>I. - L'administration peut soumettre la réutilisation à titre gratuit des informations publiques qu'elle détient aux licences suivantes :</p><p>1° La licence ouverte de réutilisation d'informations publiques ;</p><p>2° \" L'Open Database License \".</p><p>II. - Lorsque ces informations publiques revêtent la forme d'un logiciel, l'administration peut soumettre leur réutilisation à titre gratuit aux licences suivantes :</p><p>1° Les licences dites \" permissives \" nommées \" Berkeley Software Distribution License \", \" Apache \", \" CeCILL-B \" et \" Massachusetts Institute of Technology License \" ;</p><p>2° Les licences \" avec obligation de réciprocité \" nommées \" Mozilla Public License \", \" GNU General Public License \" , “ CeCILL ”, “ European Union Public License ” et “ Eclipse Public License ”.</p><p>Les licences susmentionnées sont accessibles en ligne, dans leur version en vigueur, sur le site internet : <a shape='rect' href='http://www.data.gouv.fr' target='_blank'> http://www.data.gouv.fr</a>.</p>"
                   },
                   "type": "article"
                 },
@@ -24169,21 +24214,30 @@
                               },
                               {
                                 "id": "LEGIARTI000037799015",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "6.0",
                                 "dateDebut": 1544659200000,
+                                "dateFin": 1638576000000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000044403478",
+                                "etat": "VIGUEUR",
+                                "version": "7.0",
+                                "dateDebut": 1638576000000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370709",
-                            "dateDebut": 1544659200000,
+                            "dateDebut": 1638576000000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000037799015",
+                            "id": "LEGIARTI000044403478",
                             "intOrdre": 1879048191,
                             "lienModifications": [
                               {
@@ -24199,23 +24253,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000037797147",
-                                "textTitle": "Décret n°2018-1117 du 10 décembre 2018 - art. 2",
+                                "textCid": "JORFTEXT000044401895",
+                                "textTitle": "Décret n°2021-1559 du 1er décembre 2021 - art. 2",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
                                 "articleNum": "2",
-                                "articleId": "LEGIARTI000037798138",
+                                "articleId": "LEGIARTI000044402682",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2018-12-12",
-                                "dateSignaTexte": "2018-12-10",
-                                "dateDebutCible": "2018-12-13"
+                                "datePubliTexte": "2021-12-03",
+                                "dateSignaTexte": "2021-12-01",
+                                "dateDebutCible": "2021-12-04"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "D552-11",
-                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 312-1-1-1 Résultant du  décret n° 2016-1922 D. 312-1-3 Résultant du décret n° 2018-1117 D. 312-1-4 Résultant du décret n° 2016-1922 D. 323-2-1 et D. 323-2-2 Résultant du décret n° 2017-638 du 27 avril 2017 D. 324-5-1 Résultant du décret n° 2016-1617 D. 341-10 Résultant du décret n° 2016-308 D. 341-11 à D. 341-15 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><p align='center'></p><table border='1' align='center'><tbody><tr><td><p align='center'>DISPOSITIONS APPLICABLES</p></td><td><p align='center'>DANS LEUR RÉDACTION</p></td></tr><tr><td align='left'><p align='left'>D. 312-1-1-1</p></td><td><p align='left'>Résultant du  décret n° 2016-1922</p></td></tr><tr><td align='left'>D. 312-1-3</td><td>Résultant du  <a href='/affichTexte.do?cidTexte=JORFTEXT000037797147&categorieLien=cid'>décret n° 2018-1117</a></td></tr><tr><td align='left'>D. 312-1-4</td><td>Résultant du  <a href='/affichTexte.do?cidTexte=JORFTEXT000033734710&categorieLien=cid'>décret n° 2016-1922</a></td></tr><tr><td align='left'><p>D. 323-2-1 et D. 323-2-2</p></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034502557&categorieLien=cid'>décret n° 2017-638 du 27 avril 2017</a></td></tr><tr><td align='left'><p align='left'>D. 324-5-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033500726&categorieLien=cid'>décret n° 2016-1617</a></p></td></tr><tr><td><p align='left'>D. 341-10</p></td><td><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308</a></p></td></tr><tr><td><p align='left'>D. 341-11 à D. 341-15</p></td><td><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342</a></p></td></tr></tbody></table><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
+                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 312-1-1-1 Résultant du décret n° 2016-1922 D. 312-1-3 Résultant du décret n° 2018-1117 D. 312-1-4 Résultant du décret n° 2016-1922 D. 323-2-1 Résultant du  décret n° 2021-1559 du 1er décembre 2021 D. 323-2-2 Résultant du  décret n° 2017-638 du 27 avril 2017 D. 324-5-1 Résultant du décret n° 2016-1617 D. 341-10 Résultant du décret n° 2016-308 D. 341-11 à D. 341-15 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><p align='center'></p><table border='1' align='center'><tbody><tr><td><p align='center'>DISPOSITIONS APPLICABLES</p></td><td><p align='center'>DANS LEUR RÉDACTION</p></td></tr><tr><td align='left'><p align='left'>D. 312-1-1-1</p></td><td><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033734710&categorieLien=cid'>décret n° 2016-1922</a></p></td></tr><tr><td align='left'>D. 312-1-3</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000037797147&categorieLien=cid'>décret n° 2018-1117</a></td></tr><tr><td align='left'>D. 312-1-4</td><td>Résultant du décret n° 2016-1922</td></tr><tr><td align='left'><p>D. 323-2-1</p></td><td>Résultant du  décret n° 2021-1559 du 1er décembre 2021</td></tr><tr><td align='left'>D. 323-2-2</td><td>Résultant du  décret n° 2017-638 du 27 avril 2017</td></tr><tr><td align='left'><p align='left'>D. 324-5-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033500726&categorieLien=cid'>décret n° 2016-1617</a></p></td></tr><tr><td><p align='left'>D. 341-10</p></td><td><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308</a></p></td></tr><tr><td><p align='left'>D. 341-11 à D. 341-15</p></td><td><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342</a></p></td></tr></tbody></table><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
                           },
                           "type": "article"
                         }
@@ -25962,21 +26016,30 @@
                               },
                               {
                                 "id": "LEGIARTI000037798999",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "6.0",
                                 "dateDebut": 1544659200000,
+                                "dateFin": 1638576000000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000044403459",
+                                "etat": "VIGUEUR",
+                                "version": "7.0",
+                                "dateDebut": 1638576000000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370771",
-                            "dateDebut": 1544659200000,
+                            "dateDebut": 1638576000000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000037798999",
+                            "id": "LEGIARTI000044403459",
                             "intOrdre": 1879048191,
                             "lienModifications": [
                               {
@@ -25992,23 +26055,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000037797147",
-                                "textTitle": "Décret n°2018-1117 du 10 décembre 2018 - art. 2",
+                                "textCid": "JORFTEXT000044401895",
+                                "textTitle": "Décret n°2021-1559 du 1er décembre 2021 - art. 2",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
                                 "articleNum": "2",
-                                "articleId": "LEGIARTI000037798138",
+                                "articleId": "LEGIARTI000044402682",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2018-12-12",
-                                "dateSignaTexte": "2018-12-10",
-                                "dateDebutCible": "2018-12-13"
+                                "datePubliTexte": "2021-12-03",
+                                "dateSignaTexte": "2021-12-01",
+                                "dateDebutCible": "2021-12-04"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "D562-11",
-                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 312-1-1-1 Résultant du  décret n° 2016-1922 D. 312-1-3 Résultant du  décret n° 2018-1117 D. 312-1-4 Résultant du  décret n° 2016-1922 D. 323-2-1 et D. 323-2-2 Résultant du décret n° 2017-638 du 27 avril 2017 D. 324-5-1 Résultant du décret n° 2016-1617 D. 341-10 Résultant du décret n° 2016-308 D. 341-11 à D. 341-15 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><p align='center'></p><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td>D. 312-1-1-1</td><td>Résultant du  décret n° 2016-1922</td></tr><tr><td>D. 312-1-3</td><td>Résultant du  décret n° 2018-1117</td></tr><tr><td>D. 312-1-4</td><td>Résultant du  décret n° 2016-1922</td></tr><tr><td><p>D. 323-2-1 et D. 323-2-2</p></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034502557&categorieLien=cid'>décret n° 2017-638</a> du 27 avril 2017</td></tr><tr><td align='left'><p align='left'>D. 324-5-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033500726&categorieLien=cid'>décret n° 2016-1617 </a></p></td></tr><tr><td><p>D. 341-10</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></p></td></tr><tr><td><p>D. 341-11 à D. 341-15</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342</a></p></td></tr></tbody></table>"
+                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 312-1-1-1 Résultant du décret n° 2016-1922 D. 312-1-3 Résultant du décret n° 2018-1117 D. 312-1-4 Résultant du décret n° 2016-1922 D. 323-2-1 Résultant du  décret n° 2021-1559 du 1er décembre 2021 D. 323-2-2 Résultant du décret n° 2017-638 du 27 avril 2017 D. 324-5-1 Résultant du décret n° 2016-1617 D. 341-10 Résultant du décret n° 2016-308 D. 341-11 à D. 341-15 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><p align='center'></p><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td>D. 312-1-1-1</td><td>Résultant du décret n° 2016-1922</td></tr><tr><td>D. 312-1-3</td><td>Résultant du décret n° 2018-1117</td></tr><tr><td>D. 312-1-4</td><td>Résultant du décret n° 2016-1922</td></tr><tr><td><p>D. 323-2-1</p></td><td>Résultant du  décret n° 2021-1559 du 1er décembre 2021</td></tr><tr><td>D. 323-2-2</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034502557&categorieLien=cid'>décret n° 2017-638</a> du 27 avril 2017</td></tr><tr><td align='left'><p align='left'>D. 324-5-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033500726&categorieLien=cid'>décret n° 2016-1617 </a></p></td></tr><tr><td><p>D. 341-10</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></p></td></tr><tr><td><p>D. 341-11 à D. 341-15</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342</a></p></td></tr></tbody></table>"
                           },
                           "type": "article"
                         }
@@ -28063,21 +28126,30 @@
                           },
                           {
                             "id": "LEGIARTI000037676592",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "7.0",
                             "dateDebut": 1546300800000,
+                            "dateFin": 1638576000000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000044403451",
+                            "etat": "VIGUEUR",
+                            "version": "8.0",
+                            "dateDebut": 1638576000000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000031370835",
-                        "dateDebut": 1546300800000,
+                        "dateDebut": 1638576000000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000037676592",
+                        "id": "LEGIARTI000044403451",
                         "intOrdre": 1879048191,
                         "lienModifications": [
                           {
@@ -28093,35 +28165,23 @@
                             "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000037662501",
-                            "textTitle": "Décret n°2018-1047 du 28 novembre 2018 - art. 6",
-                            "linkType": "MODIFIE",
-                            "linkOrientation": "cible",
-                            "articleNum": "6",
-                            "articleId": "LEGIARTI000037664966",
-                            "natureText": "DECRET",
-                            "datePubliTexte": "2018-11-30",
-                            "dateSignaTexte": "2018-11-28",
-                            "dateDebutCible": "2019-01-01"
-                          },
-                          {
-                            "textCid": "JORFTEXT000037797147",
-                            "textTitle": "Décret n°2018-1117 du 10 décembre 2018 - art. 2",
+                            "textCid": "JORFTEXT000044401895",
+                            "textTitle": "Décret n°2021-1559 du 1er décembre 2021 - art. 2",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
                             "articleNum": "2",
-                            "articleId": "LEGIARTI000037798138",
+                            "articleId": "LEGIARTI000044402682",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2018-12-12",
-                            "dateSignaTexte": "2018-12-10",
-                            "dateDebutCible": "2018-12-13"
+                            "datePubliTexte": "2021-12-03",
+                            "dateSignaTexte": "2021-12-01",
+                            "dateDebutCible": "2021-12-04"
                           }
                         ],
                         "nota": "",
                         "notaHtml": "",
                         "num": "D574-4",
-                        "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 312-1-1-1 Résultant du décret n° 2016-1922 D. 312-1-3 Résultant du décret n° 2018-1117 D. 312-1-4 Résultant du décret n° 2016-1922 D. 312-11 Résultant du décret n° 2018-1047 du 28 novembre 2018 D. 323-2-1 et D. 323-2-2 Résultant du décret n° 2017-638 du 27 avril 2017 D. 324-5-1 Résultant du décret n° 2016-1617 D. 341-10 Résultant du décret n° 2016-308 D. 341-11 à D. 341-15 Résultant du décret n° 2015-1342",
-                        "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><p align='center'></p><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'><p align='left'>D. 312-1-1-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033734710&categorieLien=cid'>décret n° 2016-1922 </a></p></td></tr><tr><td align='left'>D. 312-1-3</td><td align='left'>Résultant du décret n° 2018-1117</td></tr><tr><td align='left'>D. 312-1-4</td><td align='left'>Résultant du décret n° 2016-1922</td></tr><tr><td align='left'><p>D. 312-11</p></td><td align='left'>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td align='left'><p>D. 323-2-1 et D. 323-2-2</p></td><td align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034502557&categorieLien=cid'>décret n° 2017-638</a> du 27 avril 2017</td></tr><tr><td align='left'><p align='left'>D. 324-5-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033500726&categorieLien=cid'>décret n° 2016-1617 </a></p></td></tr><tr><td><p>D. 341-10</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></p></td></tr><tr><td><p>D. 341-11 à D. 341-15</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342</a></p></td></tr></tbody></table>"
+                        "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 312-1-1-1 Résultant du décret n° 2016-1922 D. 312-1-3 Résultant du décret n° 2018-1117 D. 312-1-4 Résultant du décret n° 2016-1922 D. 312-11 Résultant du décret n° 2018-1047 du 28 novembre 2018 D. 323-2-1 Résultant du  décret n° 2021-1559 du 1er décembre 2021 D. 323-2-2 Résultant du décret n° 2017-638 du 27 avril 2017 D. 324-5-1 Résultant du décret n° 2016-1617 D. 341-10 Résultant du décret n° 2016-308 D. 341-11 à D. 341-15 Résultant du décret n° 2015-1342",
+                        "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><p align='center'></p><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'><p align='left'>D. 312-1-1-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033734710&categorieLien=cid'>décret n° 2016-1922 </a></p></td></tr><tr><td align='left'>D. 312-1-3</td><td align='left'>Résultant du décret n° 2018-1117</td></tr><tr><td align='left'>D. 312-1-4</td><td align='left'>Résultant du décret n° 2016-1922</td></tr><tr><td align='left'><p>D. 312-11</p></td><td align='left'>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td align='left'><p>D. 323-2-1</p></td><td align='left'>Résultant du  décret n° 2021-1559 du 1er décembre 2021</td></tr><tr><td align='left'>D. 323-2-2</td><td align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034502557&categorieLien=cid'>décret n° 2017-638</a> du 27 avril 2017</td></tr><tr><td align='left'><p align='left'>D. 324-5-1</p></td><td align='left'><p align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033500726&categorieLien=cid'>décret n° 2016-1617 </a></p></td></tr><tr><td><p>D. 341-10</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></p></td></tr><tr><td><p>D. 341-11 à D. 341-15</p></td><td><p>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342</a></p></td></tr></tbody></table>"
                       },
                       "type": "article"
                     }
