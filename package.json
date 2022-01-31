@@ -38,7 +38,7 @@
     "@types/node": "^16.11.12",
     "babel-eslint": "^10.1.0",
     "debug": "^4.3.3",
-    "dotenv": "^10.0.0",
+    "dotenv": "^15.0.0",
     "eslint": "^8.3.0",
     "eslint-plugin-sort-requires": "^2.1.0",
     "esm": "^3.2.25",
