@@ -5,8 +5,8 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2022-01-01",
-    "dateDebutVersion": "2022-01-01",
+    "dateModif": "2022-02-23",
+    "dateDebutVersion": "2022-02-23",
     "dateFinVersion": "2022-07-01"
   },
   "type": "code",
@@ -2636,21 +2636,30 @@
                               },
                               {
                                 "id": "LEGIARTI000037313155",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "2.0",
                                 "dateDebut": 1534032000000,
+                                "dateFin": 1645574400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000045213328",
+                                "etat": "VIGUEUR",
+                                "version": "3.0",
+                                "dateDebut": 1645574400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031367384",
-                            "dateDebut": 1534032000000,
+                            "dateDebut": 1645574400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000037313155",
+                            "id": "LEGIARTI000045213328",
                             "intOrdre": 1073741823,
                             "lienModifications": [
                               {
@@ -2666,23 +2675,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000037307624",
-                                "textTitle": "LOI n°2018-727 du 10 août 2018 - art. 41",
+                                "textCid": "JORFTEXT000045197395",
+                                "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 162",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "41",
-                                "articleId": "LEGIARTI000037309107",
+                                "articleNum": "162",
+                                "articleId": "LEGIARTI000045198825",
                                 "natureText": "LOI",
-                                "datePubliTexte": "2018-08-11",
-                                "dateSignaTexte": "2018-08-10",
-                                "dateDebutCible": "2018-08-12"
+                                "datePubliTexte": "2022-02-22",
+                                "dateSignaTexte": "2022-02-21",
+                                "dateDebutCible": "2022-02-23"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "L113-12",
-                            "texte": "Une personne présentant une demande ou produisant une déclaration dans le cadre d'une procédure relevant de l'article L. 114-9 ne peut être tenue de produire des informations ou données qu'elle a déjà produites auprès de la même administration ou d'une autre administration participant au même système d'échanges de données tel que défini à l'article L. 114-8 .",
-                            "texteHtml": "<p>Une personne présentant une demande ou produisant une déclaration dans le cadre d'une procédure relevant de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367414&dateTexte=&categorieLien=cid'>L. 114-9 </a>ne peut être tenue de produire des informations ou données qu'elle a déjà produites auprès de la même administration ou d'une autre administration participant au même système d'échanges de données tel que défini à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367412&dateTexte=&categorieLien=cid'>L. 114-8</a>.<br/></p>"
+                            "texte": "Une personne présentant une demande ou produisant une déclaration à une administration ne peut être tenue de produire des informations ou des données que celle-ci détient ou qu'elle peut obtenir directement auprès d'une administration participant au système d'échange de données défini à l'article L. 114-8.",
+                            "texteHtml": "<p>Une personne présentant une demande ou produisant une déclaration à une administration ne peut être tenue de produire des informations ou des données que celle-ci détient ou qu'elle peut obtenir directement auprès d'une administration participant au système d'échange de données défini à l'article L. 114-8.</p>"
                           },
                           "type": "article"
                         },
@@ -2700,21 +2709,30 @@
                               },
                               {
                                 "id": "LEGIARTI000033219990",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "2.0",
                                 "dateDebut": 1475971200000,
+                                "dateFin": 1645574400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000045213321",
+                                "etat": "VIGUEUR",
+                                "version": "3.0",
+                                "dateDebut": 1645574400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031367386",
-                            "dateDebut": 1475971200000,
+                            "dateDebut": 1645574400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000033219990",
+                            "id": "LEGIARTI000045213321",
                             "intOrdre": 1610612735,
                             "lienModifications": [
                               {
@@ -2730,23 +2748,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000033202746",
-                                "textTitle": "LOI n°2016-1321 du 7 octobre 2016 - art. 90",
+                                "textCid": "JORFTEXT000045197395",
+                                "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 162",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "90",
-                                "articleId": "LEGIARTI000033205092",
+                                "articleNum": "162",
+                                "articleId": "LEGIARTI000045198825",
                                 "natureText": "LOI",
-                                "datePubliTexte": "2016-10-08",
-                                "dateSignaTexte": "2016-10-07",
-                                "dateDebutCible": "2016-10-09"
+                                "datePubliTexte": "2022-02-22",
+                                "dateSignaTexte": "2022-02-21",
+                                "dateDebutCible": "2022-02-23"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "L113-13",
-                            "texte": "Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles L. 114-8 et L. 114-9 , la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées. Cette attestation se substitue à la production de pièces justificatives. Un décret fixe la liste des pièces que les personnes n'ont plus à produire.",
-                            "texteHtml": "<p>Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367412&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L114-8 (V)'>L. 114-8 et L. 114-9</a>, la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées. Cette attestation se substitue à la production de pièces justificatives. <br/><br/>Un décret fixe la liste des pièces que les personnes n'ont plus à produire.</p>"
+                            "texte": "Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles L. 114-8 et L. 114-9 , la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées. Un décret fixe la liste des pièces que les personnes n'ont plus à produire.",
+                            "texteHtml": "<p>Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367412&dateTexte=&categorieLien=cid'>L. 114-8 et L. 114-9</a>, la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées.</p><p>Un décret fixe la liste des pièces que les personnes n'ont plus à produire.</p>"
                           },
                           "type": "article"
                         },
@@ -3307,21 +3325,30 @@
                           },
                           {
                             "id": "LEGIARTI000033219997",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "2.0",
                             "dateDebut": 1475971200000,
+                            "dateFin": 1645574400000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000045213315",
+                            "etat": "VIGUEUR",
+                            "version": "3.0",
+                            "dateDebut": 1645574400000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000031367412",
-                        "dateDebut": 1475971200000,
+                        "dateDebut": 1645574400000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000033219997",
+                        "id": "LEGIARTI000045213315",
                         "intOrdre": 1073741823,
                         "lienModifications": [
                           {
@@ -3337,23 +3364,23 @@
                             "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000033202746",
-                            "textTitle": "LOI n°2016-1321 du 7 octobre 2016 - art. 91",
+                            "textCid": "JORFTEXT000045197395",
+                            "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 162",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "91",
-                            "articleId": "LEGIARTI000033205060",
+                            "articleNum": "162",
+                            "articleId": "LEGIARTI000045198825",
                             "natureText": "LOI",
-                            "datePubliTexte": "2016-10-08",
-                            "dateSignaTexte": "2016-10-07",
-                            "dateDebutCible": "2016-10-09"
+                            "datePubliTexte": "2022-02-22",
+                            "dateSignaTexte": "2022-02-21",
+                            "dateDebutCible": "2022-02-23"
                           }
                         ],
                         "nota": "",
                         "notaHtml": "",
                         "num": "L114-8",
-                        "texte": "Les administrations échangent entre elles toutes les informations ou données strictement nécessaires pour traiter une demande présentée par le public ou une déclaration transmise par celui-ci en application d'un texte législatif ou réglementaire. Les administrations destinataires de ces informations ou données ne peuvent se voir opposer le secret professionnel dès lors qu'elles sont, dans le cadre de leurs missions légales, habilitées à connaître des informations ou des données ainsi échangées. Une administration chargée de traiter une demande ou une déclaration mentionnée à l'alinéa précédent fait connaître à la personne concernée les informations ou données qui sont nécessaires à cette fin et celles qu'elle se procure directement auprès d'autres administrations françaises, qui en sont à l'origine ou qui les détiennent en vertu de leur mission. Le public est informé du droit d'accès et de rectification dont dispose chaque personne intéressée sur les informations et données mentionnées au présent article.",
-                        "texteHtml": "<p>Les administrations échangent entre elles toutes les informations ou données strictement nécessaires pour traiter une demande présentée par le public ou une déclaration transmise par celui-ci en application d'un texte législatif ou réglementaire. Les administrations destinataires de ces informations ou données ne peuvent se voir opposer le secret professionnel dès lors qu'elles sont, dans le cadre de leurs missions légales, habilitées à connaître des informations ou des données ainsi échangées.</p><p><br/>Une administration chargée de traiter une demande ou une déclaration mentionnée à l'alinéa précédent fait connaître à la personne concernée les informations ou données qui sont nécessaires à cette fin et celles qu'elle se procure directement auprès d'autres administrations françaises, qui en sont à l'origine ou qui les détiennent en vertu de leur mission.</p><p>Le public est informé du droit d'accès et de rectification dont dispose chaque personne intéressée sur les informations et données mentionnées au présent article.</p>"
+                        "texte": "I. - Les administrations échangent entre elles toutes les informations ou les données strictement nécessaires pour traiter une demande présentée par le public ou une déclaration transmise par celui-ci en application d'une disposition législative ou d'un acte réglementaire. En application de l'article L. 114-10, lorsque, en raison d'une impossibilité technique, la transmission des informations ou des données, par les collectivités territoriales et les groupements de collectivités territoriales, dans le cadre des échanges prévus au premier alinéa du présent I, ne peut être réalisée, ces collectivités ou groupements ne sont pas tenus de procéder à cette transmission. L'administration chargée de traiter la demande ou la déclaration fait connaître à la personne concernée les informations ou les données qui sont nécessaires à cette fin et celles que l'administration se procure directement auprès d'autres administrations françaises, qui en sont à l'origine ou qui les détiennent en raison de leur mission. Le public est informé du droit d'accès et de rectification dont dispose chaque personne intéressée concernant les informations et les données mentionnées au présent article. II. - Les administrations peuvent échanger entre elles les informations ou les données strictement nécessaires pour informer les personnes sur leur droit au bénéfice éventuel d'une prestation ou d'un avantage prévus par des dispositions législatives ou des actes réglementaires et pour leur attribuer éventuellement lesdits prestations ou avantages. Les informations et les données ainsi recueillies et les traitements mis en œuvre en application du présent article pour procéder à ces échanges ne peuvent être ultérieurement utilisés à d'autres fins, en particulier pour la détection ou pour la sanction d'une fraude. Au plus tard au moment de la première communication individuelle avec la personne concernée, celle-ci est avisée de ses droits d'accès et de rectification ainsi que, le cas échéant, de son droit de s'opposer à la poursuite du traitement des données. En cas d'opposition exprimée par la personne de poursuivre le traitement ou si ce traitement révèle que la personne n'a pas droit à la prestation ou à l'avantage, les informations et les données obtenues à la suite de cet échange sont détruites sans délai. Un décret en Conseil d'Etat, pris après un avis motivé de la Commission nationale de l'informatique et des libertés rendu public, détermine les conditions d'application du présent II, notamment la durée et les modalités de conservation des informations et des données collectées à cette occasion. III. - Les administrations destinataires de ces informations ou de ces données ne peuvent se voir opposer le secret professionnel dès lors qu'elles sont, dans le cadre de leurs missions légales, habilitées à avoir connaissance des informations ou des données ainsi échangées. La liste des administrations qui se procurent directement des informations ou des données auprès d'autres administrations françaises en application du présent article, la liste des informations ou des données ainsi échangées et le fondement juridique sur lequel repose le traitement des procédures mentionnées au I du présent article font l'objet d'une diffusion publique dans les conditions prévues à l'article L. 312-1-1.",
+                        "texteHtml": "<p>I. - Les administrations échangent entre elles toutes les informations ou les données strictement nécessaires pour traiter une demande présentée par le public ou une déclaration transmise par celui-ci en application d'une disposition législative ou d'un acte réglementaire.</p><p></p><p> En application de l'article L. 114-10, lorsque, en raison d'une impossibilité technique, la transmission des informations ou des données, par les collectivités territoriales et les groupements de collectivités territoriales, dans le cadre des échanges prévus au premier alinéa du présent I, ne peut être réalisée, ces collectivités ou groupements ne sont pas tenus de procéder à cette transmission.</p><p></p><p> L'administration chargée de traiter la demande ou la déclaration fait connaître à la personne concernée les informations ou les données qui sont nécessaires à cette fin et celles que l'administration se procure directement auprès d'autres administrations françaises, qui en sont à l'origine ou qui les détiennent en raison de leur mission.</p><p></p><p> Le public est informé du droit d'accès et de rectification dont dispose chaque personne intéressée concernant les informations et les données mentionnées au présent article.</p><p></p><p> II. - Les administrations peuvent échanger entre elles les informations ou les données strictement nécessaires pour informer les personnes sur leur droit au bénéfice éventuel d'une prestation ou d'un avantage prévus par des dispositions législatives ou des actes réglementaires et pour leur attribuer éventuellement lesdits prestations ou avantages. Les informations et les données ainsi recueillies et les traitements mis en œuvre en application du présent article pour procéder à ces échanges ne peuvent être ultérieurement utilisés à d'autres fins, en particulier pour la détection ou pour la sanction d'une fraude.</p><p></p><p> Au plus tard au moment de la première communication individuelle avec la personne concernée, celle-ci est avisée de ses droits d'accès et de rectification ainsi que, le cas échéant, de son droit de s'opposer à la poursuite du traitement des données. En cas d'opposition exprimée par la personne de poursuivre le traitement ou si ce traitement révèle que la personne n'a pas droit à la prestation ou à l'avantage, les informations et les données obtenues à la suite de cet échange sont détruites sans délai.</p><p></p><p> Un décret en Conseil d'Etat, pris après un avis motivé de la Commission nationale de l'informatique et des libertés rendu public, détermine les conditions d'application du présent II, notamment la durée et les modalités de conservation des informations et des données collectées à cette occasion.</p><p></p><p> III. - Les administrations destinataires de ces informations ou de ces données ne peuvent se voir opposer le secret professionnel dès lors qu'elles sont, dans le cadre de leurs missions légales, habilitées à avoir connaissance des informations ou des données ainsi échangées.</p><p></p><p> La liste des administrations qui se procurent directement des informations ou des données auprès d'autres administrations françaises en application du présent article, la liste des informations ou des données ainsi échangées et le fondement juridique sur lequel repose le traitement des procédures mentionnées au I du présent article font l'objet d'une diffusion publique dans les conditions prévues à l'article L. 312-1-1.</p>"
                       },
                       "type": "article"
                     },
@@ -3362,21 +3389,30 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000031367414",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1451606400000,
+                            "dateFin": 1645574400000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000045213308",
+                            "etat": "VIGUEUR",
+                            "version": "2.0",
+                            "dateDebut": 1645574400000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000031367414",
-                        "dateDebut": 1451606400000,
+                        "dateDebut": 1645574400000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000031367414",
+                        "id": "LEGIARTI000045213308",
                         "intOrdre": 1610612735,
                         "lienModifications": [
                           {
@@ -3384,31 +3420,31 @@
                             "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
                             "linkType": "CODIFICATION",
                             "linkOrientation": "source",
-                            "articleNum": "Annexe",
-                            "articleId": "LEGIARTI000031365132",
-                            "natureText": "ORDONNANCE",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "articleNum": "",
+                            "articleId": "",
+                            "natureText": "",
+                            "datePubliTexte": null,
+                            "dateSignaTexte": null,
+                            "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000031360943",
-                            "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000045197395",
+                            "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 162",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "Annexe",
-                            "articleId": "LEGIARTI000031365132",
-                            "natureText": "ORDONNANCE",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "articleNum": "162",
+                            "articleId": "LEGIARTI000045198825",
+                            "natureText": "LOI",
+                            "datePubliTexte": "2022-02-22",
+                            "dateSignaTexte": "2022-02-21",
+                            "dateDebutCible": "2022-02-23"
                           }
                         ],
                         "nota": "",
                         "notaHtml": "",
                         "num": "L114-9",
-                        "texte": "Les échanges d'informations ou de données entre administrations prévues à l'article L. 114-8 s'effectuent selon des modalités prévues par décret en Conseil d'Etat, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés. Ce décret détermine : 1° Les domaines et les procédures concernés par les échanges d'informations ou de données ; 2° La liste des administrations auprès desquelles la demande de communication s'effectue en fonction du type d'informations ou de données ; 3° Les critères de sécurité et de confidentialité nécessaires pour garantir la qualité et la fiabilité des échanges ; 4° Les informations ou données qui, en raison de leur nature, notamment parce qu'elles touchent au secret médical et au secret de la défense nationale, ne peuvent faire l'objet de ces échanges entre administrations ; 5° Le délai de conservation des informations et données applicable à chaque système d'échanges.",
-                        "texteHtml": "<p><br/>Les échanges d'informations ou de données entre administrations prévues à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367412&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L114-8 (V)'>L. 114-8</a> s'effectuent selon des modalités prévues par décret en Conseil d'Etat, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés. <br/>Ce décret détermine : <br/>1° Les domaines et les procédures concernés par les échanges d'informations ou de données ; <br/>2° La liste des administrations auprès desquelles la demande de communication s'effectue en fonction du type d'informations ou de données ; <br/>3° Les critères de sécurité et de confidentialité nécessaires pour garantir la qualité et la fiabilité des échanges ; <br/>4° Les informations ou données qui, en raison de leur nature, notamment parce qu'elles touchent au secret médical et au secret de la défense nationale, ne peuvent faire l'objet de ces échanges entre administrations ; <br/>5° Le délai de conservation des informations et données applicable à chaque système d'échanges.</p>"
+                        "texte": "Les échanges d'informations ou de données entre administrations prévues à l'article L. 114-8 s'effectuent selon des modalités prévues par décret en Conseil d'Etat, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés. Ce décret détermine : 1° Les conditions de mise en œuvre des échanges, notamment les critères de sécurité, de traçabilité et de confidentialité nécessaires pour garantir leur qualité, leur fiabilité et leur traçabilité ; 2° Les informations ou données qui, en raison de leur nature, notamment parce qu'elles touchent au secret médical et au secret de la défense nationale, ne peuvent faire l'objet de ces échanges entre administrations ; 3° Le délai de conservation des informations et données applicable à chaque système d'échanges. Un décret détermine, pour chaque type d'informations ou de données, la liste des administrations chargées de les mettre à la disposition des autres administrations.",
+                        "texteHtml": "<p>Les échanges d'informations ou de données entre administrations prévues à l'article L. 114-8 s'effectuent selon des modalités prévues par décret en Conseil d'Etat, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés.<br/><br/>\nCe décret détermine :<br/><br/>\n1° Les conditions de mise en œuvre des échanges, notamment les critères de sécurité, de traçabilité et de confidentialité nécessaires pour garantir leur qualité, leur fiabilité et leur traçabilité ;<br/><br/>\n2° Les informations ou données qui, en raison de leur nature, notamment parce qu'elles touchent au secret médical et au secret de la défense nationale, ne peuvent faire l'objet de ces échanges entre administrations ;<br/><br/>\n3° Le délai de conservation des informations et données applicable à chaque système d'échanges.</p><p>Un décret détermine, pour chaque type d'informations ou de données, la liste des administrations chargées de les mettre à la disposition des autres administrations.</p>"
                       },
                       "type": "article"
                     },
@@ -14717,7 +14753,7 @@
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000034196073",
-                        "etat": "ABROGE_DIFF",
+                        "etat": "MODIFIE",
                         "version": "1.0",
                         "dateDebut": 1491004800000,
                         "dateFin": 1640995200000,
@@ -14726,7 +14762,7 @@
                       },
                       {
                         "id": "LEGIARTI000044343694",
-                        "etat": "VIGUEUR_DIFF",
+                        "etat": "VIGUEUR",
                         "version": "2.0",
                         "dateDebut": 1640995200000,
                         "dateFin": 32472144000000,
@@ -14739,7 +14775,7 @@
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR_DIFF",
+                    "etat": "VIGUEUR",
                     "id": "LEGIARTI000044343694",
                     "intOrdre": 1789569705,
                     "lienModifications": [
@@ -18295,21 +18331,30 @@
                       },
                       {
                         "id": "LEGIARTI000033219103",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "2.0",
                         "dateDebut": 1475971200000,
+                        "dateFin": 1645574400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000045213381",
+                        "etat": "VIGUEUR",
+                        "version": "3.0",
+                        "dateDebut": 1645574400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000031367775",
-                    "dateDebut": 1475971200000,
+                    "dateDebut": 1645574400000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000033219103",
+                    "id": "LEGIARTI000045213381",
                     "intOrdre": 1073741823,
                     "lienModifications": [
                       {
@@ -18325,23 +18370,23 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000033202746",
-                        "textTitle": "LOI n°2016-1321 du 7 octobre 2016 - art. 13",
+                        "textCid": "JORFTEXT000045197395",
+                        "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 163 (V)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "13",
-                        "articleId": "LEGIARTI000033205146",
+                        "articleNum": "163",
+                        "articleId": "LEGIARTI000045198917",
                         "natureText": "LOI",
-                        "datePubliTexte": "2016-10-08",
-                        "dateSignaTexte": "2016-10-07",
-                        "dateDebutCible": "2016-10-09"
+                        "datePubliTexte": "2022-02-22",
+                        "dateSignaTexte": "2022-02-21",
+                        "dateDebutCible": "2022-02-23"
                       }
                     ],
                     "nota": "",
                     "notaHtml": "",
                     "num": "L342-1",
-                    "texte": "La Commission d'accès aux documents administratifs émet des avis lorsqu'elle est saisie par une personne à qui est opposé un refus de communication ou un refus de publication d'un document administratif en application du titre Ier, un refus de consultation ou de communication des documents d'archives publiques, à l'exception des documents mentionnés au c de l'article L. 211-4 du code du patrimoine et des actes et documents produits ou reçus par les assemblées parlementaires, ou une décision défavorable en matière de réutilisation d'informations publiques. La saisine pour avis de la commission est un préalable obligatoire à l'exercice d'un recours contentieux.",
-                    "texteHtml": "<p>La Commission d'accès aux documents administratifs émet des avis lorsqu'elle est saisie par une personne à qui est opposé un refus de communication ou un refus de publication d'un document administratif en application du titre Ier, un refus de consultation ou de communication des documents d'archives publiques, à l'exception des documents mentionnés au <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845562&dateTexte=&categorieLien=cid'>c de l'article L. 211-4 du code du patrimoine</a> et des actes et documents produits ou reçus par les assemblées parlementaires, ou une décision défavorable en matière de réutilisation d'informations publiques.</p><p>La saisine pour avis de la commission est un préalable obligatoire à l'exercice d'un recours contentieux.</p>"
+                    "texte": "La Commission d'accès aux documents administratifs émet des avis lorsqu'elle est saisie par une personne à qui est opposé un refus de communication ou un refus de publication d'un document administratif en application du titre Ier, un refus de consultation ou de communication des documents d'archives publiques, à l'exception des documents mentionnés au c de l'article L. 211-4 du code du patrimoine et des actes et documents produits ou reçus par les assemblées parlementaires, ou une décision défavorable en matière de réutilisation d'informations publiques. Par dérogation au premier alinéa du présent article, lorsqu'une saisine relève d'une série de demandes ayant le même objet, adressées par le même demandeur à différentes administrations mentionnées au premier alinéa de l'article L. 300-2, la commission ne peut être saisie que d'un refus de communication opposé au demandeur et n'émet qu'un avis. Il appartient au demandeur d'identifier auprès de la commission au moment de la saisine l'ensemble des demandes relevant d'une même série et d'informer les administrations concernées par la série de demandes de la saisine de la commission. Un décret en Conseil d'Etat définit les conditions de mise en œuvre des deuxième et troisième alinéas du présent article. La saisine pour avis de la commission est un préalable obligatoire à l'exercice d'un recours contentieux.",
+                    "texteHtml": "<p>La Commission d'accès aux documents administratifs émet des avis lorsqu'elle est saisie par une personne à qui est opposé un refus de communication ou un refus de publication d'un document administratif en application du titre Ier, un refus de consultation ou de communication des documents d'archives publiques, à l'exception des documents mentionnés au <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845562&dateTexte=&categorieLien=cid'>c de l'article L. 211-4 du code du patrimoine</a> et des actes et documents produits ou reçus par les assemblées parlementaires, ou une décision défavorable en matière de réutilisation d'informations publiques.</p><p>Par dérogation au premier alinéa du présent article, lorsqu'une saisine relève d'une série de demandes ayant le même objet, adressées par le même demandeur à différentes administrations mentionnées au premier alinéa de l'article L. 300-2, la commission ne peut être saisie que d'un refus de communication opposé au demandeur et n'émet qu'un avis.</p><p></p><p> Il appartient au demandeur d'identifier auprès de la commission au moment de la saisine l'ensemble des demandes relevant d'une même série et d'informer les administrations concernées par la série de demandes de la saisine de la commission.</p><p></p><p> Un décret en Conseil d'Etat définit les conditions de mise en œuvre des deuxième et troisième alinéas du présent article.</p><p>La saisine pour avis de la commission est un préalable obligatoire à l'exercice d'un recours contentieux.</p>"
                   },
                   "type": "article"
                 },
@@ -18419,11 +18464,11 @@
                         "dateDebutCible": "2019-01-01"
                       }
                     ],
-                    "nota": "Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.",
-                    "notaHtml": "<p>Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.</p><p></p>",
+                    "nota": "Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019. En application des dispositions de l’article 33 de l’ordonnance n° 2021-1192 du 15 septembre 2021 portant réforme du droit des sûretés, dans toutes les dispositions législatives et réglementaires en vigueur, la référence aux articles du code civil qui font l'objet d'une nouvelle numérotation s'entend des références aux nouveaux numéros résultant de celle-ci. En conséquence la référence à l’article 2449 du code civil doit se lire comme la référence à l’article 2443 du même code.",
+                    "notaHtml": "<p>Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.</p><p>En application des dispositions de l’article 33 de l’ordonnance n° 2021-1192 du 15 septembre 2021 portant réforme du droit des sûretés, dans toutes les dispositions législatives et réglementaires en vigueur, la référence aux articles du code civil qui font l'objet d'une nouvelle numérotation s'entend des références aux nouveaux numéros résultant de celle-ci. En conséquence la référence à l’article 2449 du code civil doit se lire comme la référence à l’article 2443 du même code.</p><p></p>",
                     "num": "L342-2",
-                    "texte": "La commission est également compétente pour connaître des questions relatives : A.-A l'accès aux documents administratifs et à la réutilisation des informations publiques relevant des dispositions suivantes : 1° L' article 2449 du code civil ; 2° L' article 79 du code civil local d'Alsace-Moselle ; 3° Les articles L. 2121-26 , L. 3121-17 , L. 4132-16 , L. 5211-46 , L. 5421-5 , L. 5621-9 et L. 5721-6 du code général des collectivités territoriales ; 4° Les articles L. 37 , L. 68 et LO 179 du code électoral ainsi que les dispositions de ce code relatives au registre des procurations ; 5° Les dispositions du code rural et de la pêche maritime relatives aux listes électorales des chambres départementales d'agriculture ; 6° Les dispositions du code forestier relatives aux listes électorales des centres régionaux de la propriété forestière ; 7° Les articles L. 121-5, L. 123-1 à L. 123-19, L. 213-13 et L. 332-29 du code de l'urbanisme ; 8° Les chapitres III et IV du titre II du livre Ier du code de l'environnement ; 9° Les articles L. 225-3 , L. 225-5 et L. 330-2 à L. 330-5 du code de la route ; 10° Les dispositions du code de la voirie routière relatives aux enquêtes publiques en matière de classement, d'ouverture, de redressement, de fixation de la largeur et de déclassement des voies communales ; 11° Le a et le b de l'article L. 104 et les articles L. 106 , L. 111 et L. 135 B du livre des procédures fiscales ; 12° L'article L. 107 A du livre des procédures fiscales ; 13° L' article L. 421-8 du code de l'action sociale et des familles ; 14° Les articles L. 1111-7 et L. 1131-1 du code de la santé publique ; 15° L' article L. 161-37 du code de la sécurité sociale ; 16° L' article 10 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations ; 17° L'article 17 de la loi du 31 décembre 1913 sur les monuments historiques ; 18° Les dispositions relatives à la conservation du cadastre ; 19° L 'article 5 de la loi du 1er juillet 1901 relative au contrat d'association ; 20° L'article 12 de la loi du 1er mai 1889, révisée par la loi du 20 mai 1898, sur les associations coopératives de production et de consommation ; 21° Les dispositions relatives aux procès-verbaux des séances de la commission de surveillance et de contrôle des publications destinées à la jeunesse ; 22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ; 23° Les articles 1er et 3 de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission statutaire de rétablissement des liens familiaux. B.-A l'accès aux informations détenues par les exploitants d'une installation nucléaire de base et les personnes responsables de transport de substances radioactives dans les conditions définies aux articles L. 125-10 et L. 125-11 du code de l'environnement. C.-A la réutilisation des informations publiques relevant du chapitre III du titre II de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.",
-                    "texteHtml": "<p>La commission est également compétente pour connaître des questions relatives : </p><p>A.-A l'accès aux documents administratifs et à la réutilisation des informations publiques relevant des dispositions suivantes : </p><p>1° L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006450033&dateTexte=&categorieLien=cid'>article 2449 du code civil </a>; </p><p>2° L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006421236&dateTexte=&categorieLien=cid'>article 79 du code civil </a>local d'Alsace-Moselle ; </p><p>3° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006389886&dateTexte=&categorieLien=cid'>L. 2121-26</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391589&dateTexte=&categorieLien=cid'>L. 3121-17</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392149&dateTexte=&categorieLien=cid'>L. 4132-16</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392943&dateTexte=&categorieLien=cid'>L. 5211-46</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393376&dateTexte=&categorieLien=cid'>L. 5421-5</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393390&dateTexte=&categorieLien=cid'>L. 5621-9 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393419&dateTexte=&categorieLien=cid'>L. 5721-6 </a>du code général des collectivités territoriales ; </p><p>4° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&idArticle=LEGIARTI000006353075&dateTexte=&categorieLien=cid'>L. 37</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&idArticle=LEGIARTI000006353178&dateTexte=&categorieLien=cid'>L. 68 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&idArticle=LEGIARTI000006353429&dateTexte=&categorieLien=cid'>LO 179 </a>du code électoral ainsi que les dispositions de ce code relatives au registre des procurations ; </p><p>5° Les dispositions du <a href='/affichCode.do?cidTexte=LEGITEXT000006071367&dateTexte=&categorieLien=cid'>code rural et de la pêche maritime </a>relatives aux listes électorales des chambres départementales d'agriculture ; </p><p>6° Les dispositions du <a href='/affichCode.do?cidTexte=LEGITEXT000006071514&dateTexte=&categorieLien=cid'>code forestier </a>relatives aux listes électorales des centres régionaux de la propriété forestière ; </p><p>7° Les articles L. 121-5, L. 123-1 à L. 123-19, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074075&idArticle=LEGIARTI000006815001&dateTexte=&categorieLien=cid'>L. 213-13 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074075&idArticle=LEGIARTI000006815399&dateTexte=&categorieLien=cid'>L. 332-29 </a>du code de l'urbanisme ; </p><p>8° Les chapitres III et IV du titre II du livre Ier du code de l'environnement ; </p><p>9° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841013&dateTexte=&categorieLien=cid'>L. 225-3</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841017&dateTexte=&categorieLien=cid'>L. 225-5 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841194&dateTexte=&categorieLien=cid'>L. 330-2 à L. 330-5 </a>du code de la route ; </p><p>10° Les dispositions du <a href='/affichCode.do?cidTexte=LEGITEXT000006070667&dateTexte=&categorieLien=cid'>code de la voirie routière </a>relatives aux enquêtes publiques en matière de classement, d'ouverture, de redressement, de fixation de la largeur et de déclassement des voies communales ;</p><p>11° Le a et le b de l'article L. 104 et les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069583&idArticle=LEGIARTI000006315200&dateTexte=&categorieLien=cid'>L. 106</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069583&idArticle=LEGIARTI000006315827&dateTexte=&categorieLien=cid'>L. 111 </a>et L. 135 B du livre des procédures fiscales ; </p><p>12° L'article L. 107 A du livre des procédures fiscales ; </p><p>13° L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006797871&dateTexte=&categorieLien=cid'>article L. 421-8 du code de l'action sociale et des familles </a>; </p><p>14° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&idArticle=LEGIARTI000006685776&dateTexte=&categorieLien=cid'>L. 1111-7 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&idArticle=LEGIARTI000006685936&dateTexte=&categorieLien=cid'>L. 1131-1 </a>du code de la santé publique ; </p><p>15° L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006741287&dateTexte=&categorieLien=cid'>article L. 161-37 du code de la sécurité sociale </a>; </p><p>16° L'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000215117&idArticle=LEGIARTI000006529194&dateTexte=&categorieLien=cid'>article 10 de la loi n° 2000-321 du 12 avril 2000 </a>relative aux droits des citoyens dans leurs relations avec les administrations ; <br/>17° L'article <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000315319&idArticle=LEGIARTI000006847161&dateTexte=&categorieLien=cid'>17 </a>de la loi du 31 décembre 1913 sur les monuments historiques ;</p><p>18° Les dispositions relatives à la conservation du cadastre ; </p><p>19° L<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000497458&idArticle=LEGIARTI000006294255&dateTexte=&categorieLien=cid'>'article 5 de la loi du 1er juillet 1901 </a>relative au contrat d'association ; </p><p>20° L'article 12 de la loi du 1er mai 1889, révisée par la loi du 20 mai 1898, sur les associations coopératives de production et de consommation ; </p><p>21° Les dispositions relatives aux procès-verbaux des séances de la commission de surveillance et de contrôle des publications destinées à la jeunesse ;</p><p>22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ;</p><p>23° Les articles 1er et 3 de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission statutaire de rétablissement des liens familiaux. </p><p>B.-A l'accès aux informations détenues par les exploitants d'une installation nucléaire de base et les personnes responsables de transport de substances radioactives dans les conditions définies aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000025107928&dateTexte=&categorieLien=cid'>L. 125-10 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000025107930&dateTexte=&categorieLien=cid'>L. 125-11 </a>du code de l'environnement. </p><p>C.-A la réutilisation des informations publiques relevant du chapitre III du titre II de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.</p>"
+                    "texte": "La commission est également compétente pour connaître des questions relatives : A.-A l'accès aux documents administratifs et à la réutilisation des informations publiques relevant des dispositions suivantes : 1° L'article 2449 du code civil ; 2° L' article 79 du code civil local d'Alsace-Moselle ; 3° Les articles L. 2121-26 , L. 3121-17 , L. 4132-16 , L. 5211-46 , L. 5421-5 , L. 5621-9 et L. 5721-6 du code général des collectivités territoriales ; 4° Les articles L. 37 , L. 68 et LO 179 du code électoral ainsi que les dispositions de ce code relatives au registre des procurations ; 5° Les dispositions du code rural et de la pêche maritime relatives aux listes électorales des chambres départementales d'agriculture ; 6° Les dispositions du code forestier relatives aux listes électorales des centres régionaux de la propriété forestière ; 7° Les articles L. 121-5, L. 123-1 à L. 123-19, L. 213-13 et L. 332-29 du code de l'urbanisme ; 8° Les chapitres III et IV du titre II du livre Ier du code de l'environnement ; 9° Les articles L. 225-3 , L. 225-5 et L. 330-2 à L. 330-5 du code de la route ; 10° Les dispositions du code de la voirie routière relatives aux enquêtes publiques en matière de classement, d'ouverture, de redressement, de fixation de la largeur et de déclassement des voies communales ; 11° Le a et le b de l'article L. 104 et les articles L. 106 , L. 111 et L. 135 B du livre des procédures fiscales ; 12° L'article L. 107 A du livre des procédures fiscales ; 13° L' article L. 421-8 du code de l'action sociale et des familles ; 14° Les articles L. 1111-7 et L. 1131-1 du code de la santé publique ; 15° L' article L. 161-37 du code de la sécurité sociale ; 16° L' article 10 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations ; 17° L'article 17 de la loi du 31 décembre 1913 sur les monuments historiques ; 18° Les dispositions relatives à la conservation du cadastre ; 19° L 'article 5 de la loi du 1er juillet 1901 relative au contrat d'association ; 20° L'article 12 de la loi du 1er mai 1889, révisée par la loi du 20 mai 1898, sur les associations coopératives de production et de consommation ; 21° Les dispositions relatives aux procès-verbaux des séances de la commission de surveillance et de contrôle des publications destinées à la jeunesse ; 22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ; 23° Les articles 1er et 3 de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission statutaire de rétablissement des liens familiaux. B.-A l'accès aux informations détenues par les exploitants d'une installation nucléaire de base et les personnes responsables de transport de substances radioactives dans les conditions définies aux articles L. 125-10 et L. 125-11 du code de l'environnement. C.-A la réutilisation des informations publiques relevant du chapitre III du titre II de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.",
+                    "texteHtml": "<p>La commission est également compétente pour connaître des questions relatives : </p><p>A.-A l'accès aux documents administratifs et à la réutilisation des informations publiques relevant des dispositions suivantes : </p><p>1° L'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006449963&dateTexte=&categorieLien=cid' title='Code civil - art. 2443 (V)'>2449</a> du code civil ; </p><p>2° L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006421236&dateTexte=&categorieLien=cid'>article 79 du code civil </a>local d'Alsace-Moselle ; </p><p>3° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006389886&dateTexte=&categorieLien=cid'>L. 2121-26</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391589&dateTexte=&categorieLien=cid'>L. 3121-17</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392149&dateTexte=&categorieLien=cid'>L. 4132-16</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392943&dateTexte=&categorieLien=cid'>L. 5211-46</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393376&dateTexte=&categorieLien=cid'>L. 5421-5</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393390&dateTexte=&categorieLien=cid'>L. 5621-9 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393419&dateTexte=&categorieLien=cid'>L. 5721-6 </a>du code général des collectivités territoriales ; </p><p>4° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&idArticle=LEGIARTI000006353075&dateTexte=&categorieLien=cid'>L. 37</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&idArticle=LEGIARTI000006353178&dateTexte=&categorieLien=cid'>L. 68 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&idArticle=LEGIARTI000006353429&dateTexte=&categorieLien=cid'>LO 179 </a>du code électoral ainsi que les dispositions de ce code relatives au registre des procurations ; </p><p>5° Les dispositions du <a href='/affichCode.do?cidTexte=LEGITEXT000006071367&dateTexte=&categorieLien=cid'>code rural et de la pêche maritime </a>relatives aux listes électorales des chambres départementales d'agriculture ; </p><p>6° Les dispositions du <a href='/affichCode.do?cidTexte=LEGITEXT000006071514&dateTexte=&categorieLien=cid'>code forestier </a>relatives aux listes électorales des centres régionaux de la propriété forestière ; </p><p>7° Les articles L. 121-5, L. 123-1 à L. 123-19, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074075&idArticle=LEGIARTI000006815001&dateTexte=&categorieLien=cid'>L. 213-13 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074075&idArticle=LEGIARTI000006815399&dateTexte=&categorieLien=cid'>L. 332-29 </a>du code de l'urbanisme ; </p><p>8° Les chapitres III et IV du titre II du livre Ier du code de l'environnement ; </p><p>9° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841013&dateTexte=&categorieLien=cid'>L. 225-3</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841017&dateTexte=&categorieLien=cid'>L. 225-5 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841194&dateTexte=&categorieLien=cid'>L. 330-2 à L. 330-5 </a>du code de la route ; </p><p>10° Les dispositions du <a href='/affichCode.do?cidTexte=LEGITEXT000006070667&dateTexte=&categorieLien=cid'>code de la voirie routière </a>relatives aux enquêtes publiques en matière de classement, d'ouverture, de redressement, de fixation de la largeur et de déclassement des voies communales ; </p><p>11° Le a et le b de l'article L. 104 et les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069583&idArticle=LEGIARTI000006315200&dateTexte=&categorieLien=cid'>L. 106</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069583&idArticle=LEGIARTI000006315827&dateTexte=&categorieLien=cid'>L. 111 </a>et L. 135 B du livre des procédures fiscales ; </p><p>12° L'article L. 107 A du livre des procédures fiscales ; </p><p>13° L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006797871&dateTexte=&categorieLien=cid'>article L. 421-8 du code de l'action sociale et des familles </a>; </p><p>14° Les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&idArticle=LEGIARTI000006685776&dateTexte=&categorieLien=cid'>L. 1111-7 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&idArticle=LEGIARTI000006685936&dateTexte=&categorieLien=cid'>L. 1131-1 </a>du code de la santé publique ; </p><p>15° L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006741287&dateTexte=&categorieLien=cid'>article L. 161-37 du code de la sécurité sociale </a>; </p><p>16° L'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000215117&idArticle=LEGIARTI000006529194&dateTexte=&categorieLien=cid'>article 10 de la loi n° 2000-321 du 12 avril 2000 </a>relative aux droits des citoyens dans leurs relations avec les administrations ; <br/>17° L'article <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000315319&idArticle=LEGIARTI000006847161&dateTexte=&categorieLien=cid'>17 </a>de la loi du 31 décembre 1913 sur les monuments historiques ; </p><p>18° Les dispositions relatives à la conservation du cadastre ; </p><p>19° L<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000497458&idArticle=LEGIARTI000006294255&dateTexte=&categorieLien=cid'>'article 5 de la loi du 1er juillet 1901 </a>relative au contrat d'association ; </p><p>20° L'article 12 de la loi du 1er mai 1889, révisée par la loi du 20 mai 1898, sur les associations coopératives de production et de consommation ; </p><p>21° Les dispositions relatives aux procès-verbaux des séances de la commission de surveillance et de contrôle des publications destinées à la jeunesse ; </p><p>22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ; </p><p>23° Les articles 1er et 3 de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission statutaire de rétablissement des liens familiaux. </p><p>B.-A l'accès aux informations détenues par les exploitants d'une installation nucléaire de base et les personnes responsables de transport de substances radioactives dans les conditions définies aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000025107928&dateTexte=&categorieLien=cid'>L. 125-10 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000025107930&dateTexte=&categorieLien=cid'>L. 125-11 </a>du code de l'environnement. </p><p>C.-A la réutilisation des informations publiques relevant du chapitre III du titre II de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.</p>"
                   },
                   "type": "article"
                 },
@@ -23472,21 +23517,30 @@
                               },
                               {
                                 "id": "LEGIARTI000042655374",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "5.0",
                                 "dateDebut": 1607472000000,
+                                "dateFin": 1645574400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000045213368",
+                                "etat": "VIGUEUR",
+                                "version": "6.0",
+                                "dateDebut": 1645574400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031368015",
-                            "dateDebut": 1607472000000,
+                            "dateDebut": 1645574400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000042655374",
+                            "id": "LEGIARTI000045213368",
                             "intOrdre": 1073741823,
                             "lienModifications": [
                               {
@@ -23502,23 +23556,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000042619877",
-                                "textTitle": "LOI n°2020-1525 du 7 décembre 2020 - art. 46",
+                                "textCid": "JORFTEXT000045197395",
+                                "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 162",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "46",
-                                "articleId": "LEGIARTI000042624632",
+                                "articleNum": "162",
+                                "articleId": "LEGIARTI000045198825",
                                 "natureText": "LOI",
-                                "datePubliTexte": "2020-12-08",
-                                "dateSignaTexte": "2020-12-07",
-                                "dateDebutCible": "2020-12-09"
+                                "datePubliTexte": "2022-02-22",
+                                "dateSignaTexte": "2022-02-21",
+                                "dateDebutCible": "2022-02-23"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "L552-3",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. Dispositions applicables Dans leur rédaction Titre Ier L. 110-1 Résultant de l' ordonnance n° 2015-1341 L. 111-2 et L. 111-3 Résultant de l'ordonnance n° 2015-1341 L. 112-1 à L. 112-3 Résultant de l'ordonnance n° 2015-1341 L. 112-6 à L. 112-15 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 113-4 Résultant de l'ordonnance n° 2015-1341 L. 113-12 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 113-13 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 114-1 à L. 114-5 Résultant de l'ordonnance n° 2015-1341 L. 114-5-1 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-6 à L. 114-9 Résultant de l'ordonnance n° 2015-1341 L. 114-10 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-11 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre II L. 120-1 Résultant de l'ordonnance n° 2015-1341 L. 121-1 et L. 121-2 Résultant de l'ordonnance n° 2015-1341 L. 122-1 et L. 122-2 Résultant de l'ordonnance n° 2015-1341 L. 123-1 et L. 123-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 124-1 et L. 124-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre III L. 131-1 Résultant de l'ordonnance n° 2015-1341 L. 132-1 à L. 132-3 Résultant de l'ordonnance n° 2015-1341 L. 134-1 et L. 134-2 Résultant de l'ordonnance n° 2015-1341 L. 134-31 Résultant de l'ordonnance n° 2015-1341 L. 134-33 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique L. 134-34 Résultant de l'ordonnance n° 2015-1341 L. 134-35 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1' align='center'><tbody><tr><th>Dispositions applicables</th><th>Dans leur rédaction</th></tr><tr><td>Titre Ier</td><td align='left'></td></tr><tr><td>L. 110-1</td><td>Résultant de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000031360943&categorieLien=cid'>ordonnance n° 2015-1341</a></td></tr><tr><td>L. 111-2 et L. 111-3</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 112-1 à L. 112-3</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 112-6 à L. 112-15</td><td>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=cid'>loi n° 2016-1321 du 7 octobre 2016</a> pour une République numérique</td></tr><tr><td>L. 113-4</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 113-12</td><td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>L. 113-13</td><td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td></tr><tr><td>L. 114-1 à L. 114-5</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 114-5-1</td><td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>L. 114-6 à L. 114-9</td><td align='left'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 114-10</td><td align='left'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>L. 114-11</td><td align='left'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037307624&categorieLien=cid'>loi n° 2018-727 du 10 août 2018</a> pour un Etat au service d'une société de confiance</td></tr><tr><td>Titre II</td><td align='left'></td></tr><tr><td>L. 120-1</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 121-1 et L. 121-2</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 122-1 et L. 122-2</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 123-1 et L. 123-2</td><td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>L. 124-1 et L. 124-2</td><td align='left'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>Titre III</td><td align='left'></td></tr><tr><td>L. 131-1</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 132-1 à L. 132-3</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-1 et L. 134-2</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-31</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-33</td><td>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr><tr><td>L. 134-34</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-35</td><td>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. Dispositions applicables Dans leur rédaction Titre Ier L. 110-1 Résultant de l' ordonnance n° 2015-1341 L. 111-2 et L. 111-3 Résultant de l'ordonnance n° 2015-1341 L. 112-1 à L. 112-3 Résultant de l'ordonnance n° 2015-1341 L. 112-6 à L. 112-15 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 113-4 Résultant de l'ordonnance n° 2015-1341 L. 113-12 et L. 113-13 Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale L. 114-1 à L. 114-5 Résultant de l'ordonnance n° 2015-1341 L. 114-5-1 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-6 et L. 114-7 Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 relative aux dispositions législatives du code des relations entre le public et l'administration L. 114-8 et L. 114-9 Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale L. 114-10 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-11 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre II L. 120-1 Résultant de l'ordonnance n° 2015-1341 L. 121-1 et L. 121-2 Résultant de l'ordonnance n° 2015-1341 L. 122-1 et L. 122-2 Résultant de l'ordonnance n° 2015-1341 L. 123-1 et L. 123-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 124-1 et L. 124-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre III L. 131-1 Résultant de l'ordonnance n° 2015-1341 L. 132-1 à L. 132-3 Résultant de l'ordonnance n° 2015-1341 L. 134-1 et L. 134-2 Résultant de l'ordonnance n° 2015-1341 L. 134-31 Résultant de l'ordonnance n° 2015-1341 L. 134-33 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique L. 134-34 Résultant de l'ordonnance n° 2015-1341 L. 134-35 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1' align='center'><tbody><tr><th>Dispositions applicables</th><th>Dans leur rédaction</th></tr><tr><td>Titre Ier</td><td align='left'></td></tr><tr><td>L. 110-1</td><td>Résultant de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000031360943&categorieLien=cid'>ordonnance n° 2015-1341</a></td></tr><tr><td>L. 111-2 et L. 111-3</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 112-1 à L. 112-3</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 112-6 à L. 112-15</td><td>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=cid'>loi n° 2016-1321 du 7 octobre 2016</a> pour une République numérique</td></tr><tr><td>L. 113-4</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 113-12 et L. 113-13</td><td>Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale</td></tr><tr><td>L. 114-1 à L. 114-5</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 114-5-1</td><td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>L. 114-6 et L. 114-7</td><td align='left'>Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 relative aux dispositions législatives du code des relations entre le public et l'administration</td></tr><tr><td>L. 114-8 et L. 114-9</td><td align='left'>Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale</td></tr><tr><td>L. 114-10</td><td align='left'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>L. 114-11</td><td align='left'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037307624&categorieLien=cid'>loi n° 2018-727 du 10 août 2018</a> pour un Etat au service d'une société de confiance</td></tr><tr><td>Titre II</td><td align='left'></td></tr><tr><td>L. 120-1</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 121-1 et L. 121-2</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 122-1 et L. 122-2</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 123-1 et L. 123-2</td><td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>L. 124-1 et L. 124-2</td><td align='left'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td>Titre III</td><td align='left'></td></tr><tr><td>L. 131-1</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 132-1 à L. 132-3</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-1 et L. 134-2</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-31</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-33</td><td>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr><tr><td>L. 134-34</td><td>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td>L. 134-35</td><td>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
                           },
                           "type": "article"
                         },
@@ -25274,21 +25328,30 @@
                               },
                               {
                                 "id": "LEGIARTI000042655340",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "5.0",
                                 "dateDebut": 1607472000000,
+                                "dateFin": 1645574400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000045213354",
+                                "etat": "VIGUEUR",
+                                "version": "6.0",
+                                "dateDebut": 1645574400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031368124",
-                            "dateDebut": 1607472000000,
+                            "dateDebut": 1645574400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000042655340",
+                            "id": "LEGIARTI000045213354",
                             "intOrdre": 1073741823,
                             "lienModifications": [
                               {
@@ -25304,23 +25367,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000042619877",
-                                "textTitle": "LOI n°2020-1525 du 7 décembre 2020 - art. 46",
+                                "textCid": "JORFTEXT000045197395",
+                                "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 162",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "46",
-                                "articleId": "LEGIARTI000042624632",
+                                "articleNum": "162",
+                                "articleId": "LEGIARTI000045198825",
                                 "natureText": "LOI",
-                                "datePubliTexte": "2020-12-08",
-                                "dateSignaTexte": "2020-12-07",
-                                "dateDebutCible": "2020-12-09"
+                                "datePubliTexte": "2022-02-22",
+                                "dateSignaTexte": "2022-02-21",
+                                "dateDebutCible": "2022-02-23"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "L562-3",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. Dispositions applicables Dans leur rédaction Titre Ier L. 110-1 Résultant de l' ordonnance n° 2015-1341 L. 111-2 et L. 111-3 Résultant de l'ordonnance n° 2015-1341 L. 112-1 à L. 112-3 Résultant de l'ordonnance n° 2015-1341 L. 112-6 à L. 112-15 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 113-4 Résultant de l'ordonnance n° 2015-1341 L. 113-12 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 113-13 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 114-1 à L. 114-5 Résultant de l'ordonnance n° 2015-1341 L. 114-5-1 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-6 à L. 114-9 Résultant de l'ordonnance n° 2015-1341 L. 114-10 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-11 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre II L. 120-1 Résultant de l'ordonnance n° 2015-1341 L. 121-1 et L. 121-2 Résultant de l'ordonnance n° 2015-1341 L. 122-1 et L. 122-2 Résultant de l'ordonnance n° 2015-1341 L. 123-1 et L. 123-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 124-1 et L. 124-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre III L. 131-1 Résultant de l'ordonnance n° 2015-1341 L. 132-1 à L. 132-3 Résultant de l'ordonnance n° 2015-1341 L. 134-1 et L. 134-2 Résultant de l'ordonnance n° 2015-1341 L. 134-31 Résultant de l'ordonnance n° 2015-1341 L. 134-33 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique L. 134-34 Résultant de l'ordonnance n° 2015-1341 L. 134-35 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>Dispositions applicables</th><th>Dans leur rédaction</th></tr><tr><td align='justify'>Titre Ier</td><td align='left'></td></tr><tr><td align='justify'>L. 110-1</td><td align='justify'>Résultant de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000031360943&categorieLien=cid'>ordonnance n° 2015-1341</a></td></tr><tr><td align='justify'>L. 111-2 et L. 111-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 112-1 à L. 112-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 112-6 à L. 112-15</td><td align='justify'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=cid'>loi n° 2016-1321 du 7 octobre 2016</a> pour une République numérique</td></tr><tr><td align='justify'>L. 113-4</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 113-12</td><td align='justify'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037307624&categorieLien=cid'>loi n° 2018-727 du 10 août 2018</a> pour un Etat au service d'une société de confiance</td></tr><tr><td align='left'>L. 113-13</td><td align='justify'>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td></tr><tr><td align='justify'>L. 114-1 à L. 114-5</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 114-5-1</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-6 à L. 114-9</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 114-10</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-11</td><td align='left'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre II</td><td align='left'></td></tr><tr><td align='justify'>L. 120-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 121-1 et L. 121-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 122-1 et L. 122-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 123-1 et L. 123-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 124-1 et L. 124-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre III</td><td align='left'></td></tr><tr><td align='justify'>L. 131-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 132-1 à L. 132-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-1 et L. 134-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-31</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-33</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr><tr><td align='justify'>L. 134-34</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-35</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr></tbody></table></center>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. Dispositions applicables Dans leur rédaction Titre Ier L. 110-1 Résultant de l' ordonnance n° 2015-1341 L. 111-2 et L. 111-3 Résultant de l'ordonnance n° 2015-1341 L. 112-1 à L. 112-3 Résultant de l'ordonnance n° 2015-1341 L. 112-6 à L. 112-15 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 113-4 Résultant de l'ordonnance n° 2015-1341 L. 113-12 et L. 113-13 Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale L. 114-1 à L. 114-5 Résultant de l'ordonnance n° 2015-1341 L. 114-5-1 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-6 et L. 114-7 Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 relative aux dispositions législatives du code des relations entre le public et l'administration L. 114-8 et L. 114-9 Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale L. 114-10 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-11 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre II L. 120-1 Résultant de l'ordonnance n° 2015-1341 L. 121-1 et L. 121-2 Résultant de l'ordonnance n° 2015-1341 L. 122-1 et L. 122-2 Résultant de l'ordonnance n° 2015-1341 L. 123-1 et L. 123-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 124-1 et L. 124-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre III L. 131-1 Résultant de l'ordonnance n° 2015-1341 L. 132-1 à L. 132-3 Résultant de l'ordonnance n° 2015-1341 L. 134-1 et L. 134-2 Résultant de l'ordonnance n° 2015-1341 L. 134-31 Résultant de l'ordonnance n° 2015-1341 L. 134-33 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique L. 134-34 Résultant de l'ordonnance n° 2015-1341 L. 134-35 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>Dispositions applicables</th><th>Dans leur rédaction</th></tr><tr><td align='justify'>Titre Ier</td><td align='left'></td></tr><tr><td align='justify'>L. 110-1</td><td align='justify'>Résultant de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000031360943&categorieLien=cid'>ordonnance n° 2015-1341</a></td></tr><tr><td align='justify'>L. 111-2 et L. 111-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 112-1 à L. 112-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 112-6 à L. 112-15</td><td align='justify'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=cid'>loi n° 2016-1321 du 7 octobre 2016</a> pour une République numérique</td></tr><tr><td align='justify'>L. 113-4</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 113-12 et L. 113-13</td><td align='justify'>Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale</td></tr><tr><td align='justify'>L. 114-1 à L. 114-5</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 114-5-1</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-6 et L. 114-7</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 relative aux dispositions législatives du code des relations entre le public et l'administration</td></tr><tr><td align='justify'>L. 114-8 et L. 114-9</td><td align='justify'>Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale</td></tr><tr><td align='justify'>L. 114-10</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-11</td><td align='left'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre II</td><td align='left'></td></tr><tr><td align='justify'>L. 120-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 121-1 et L. 121-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 122-1 et L. 122-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 123-1 et L. 123-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 124-1 et L. 124-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre III</td><td align='left'></td></tr><tr><td align='justify'>L. 131-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 132-1 à L. 132-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-1 et L. 134-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-31</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-33</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr><tr><td align='justify'>L. 134-34</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-35</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         },
@@ -26997,21 +27060,30 @@
                       },
                       {
                         "id": "LEGIARTI000042655306",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "5.0",
                         "dateDebut": 1607472000000,
+                        "dateFin": 1645574400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000045213340",
+                        "etat": "VIGUEUR",
+                        "version": "6.0",
+                        "dateDebut": 1645574400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000031368227",
-                    "dateDebut": 1607472000000,
+                    "dateDebut": 1645574400000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000042655306",
+                    "id": "LEGIARTI000045213340",
                     "intOrdre": 1073741823,
                     "lienModifications": [
                       {
@@ -27027,23 +27099,23 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000042619877",
-                        "textTitle": "LOI n°2020-1525 du 7 décembre 2020 - art. 46",
+                        "textCid": "JORFTEXT000045197395",
+                        "textTitle": "LOI n°2022-217 du 21 février 2022 - art. 162",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "46",
-                        "articleId": "LEGIARTI000042624632",
+                        "articleNum": "162",
+                        "articleId": "LEGIARTI000045198825",
                         "natureText": "LOI",
-                        "datePubliTexte": "2020-12-08",
-                        "dateSignaTexte": "2020-12-07",
-                        "dateDebutCible": "2020-12-09"
+                        "datePubliTexte": "2022-02-22",
+                        "dateSignaTexte": "2022-02-21",
+                        "dateDebutCible": "2022-02-23"
                       }
                     ],
                     "nota": "",
                     "notaHtml": "",
                     "num": "L572-1",
-                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. Dispositions applicables Dans leur rédaction Titre Ier L. 110-1 Résultant de l'ordonnance n° 2015-1341 L. 111-2 et L. 111-3 Résultant de l' ordonnance n° 2015-1341 L. 112-1 à L. 112-3 Résultant de l'ordonnance n° 2015-1341 L. 112-6 à L. 112-15 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 113-4 Résultant de l'ordonnance n° 2015-1341 L. 113-12 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 113-13 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 114-1 à L. 114-5 Résultant de l'ordonnance n° 2015-1341 L. 114-5-1 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-6 à L. 114-9 Résultant de l'ordonnance n° 2015-1341 L. 114-10 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-11 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre II L. 120-1 Résultant de l'ordonnance n° 2015-1341 L. 121-1 à L. 121-2 Résultant de l'ordonnance n° 2015-1341 L. 122-1 à L. 122-2 Résultant de l'ordonnance n° 2015-1341 L. 123-1 et L. 123-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 124-1 et L. 124-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre III L. 131-1 Résultant de l'ordonnance n° 2015-1341 L. 132-1 à L. 132-3 Résultant de l'ordonnance n° 2015-1341 L. 134-1 et L. 134-2 Résultant de l'ordonnance n° 2015-1341 L. 134-31 Résultant de l'ordonnance n° 2015-1341 L. 134-33 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique L. 134-34 Résultant de l'ordonnance n° 2015-1341 L. 134-35 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique",
-                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>Dispositions applicables</th><th>Dans leur rédaction</th></tr><tr><td align='justify'>Titre Ier</td><td align='left'></td></tr><tr><td align='justify'>L. 110-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 111-2 et L. 111-3</td><td align='justify'>Résultant de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000031360943&categorieLien=cid'>ordonnance n° 2015-1341</a></td></tr><tr><td align='justify'>L. 112-1 à L. 112-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 112-6 à L. 112-15</td><td align='justify'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=cid'>loi n° 2016-1321 du 7 octobre 2016</a> pour une République numérique</td></tr><tr><td align='justify'>L. 113-4</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 113-12</td><td align='justify'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037307624&categorieLien=cid'>loi n° 2018-727 du 10 août 2018</a> pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 113-13</td><td align='justify'>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td></tr><tr><td align='justify'>L. 114-1 à L. 114-5</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 114-5-1</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-6 à L. 114-9</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 114-10</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-11</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre II</td><td align='justify'></td></tr><tr><td align='justify'>L. 120-1</td><td align='left'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 121-1 à L. 121-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 122-1 à L. 122-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 123-1 et L. 123-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 124-1 et L. 124-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre III</td><td align='justify'></td></tr><tr><td align='justify'>L. 131-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 132-1 à L. 132-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-1 et L. 134-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-31</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-33</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr><tr><td align='justify'>L. 134-34</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-35</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr></tbody></table></center>"
+                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. Dispositions applicables Dans leur rédaction Titre Ier L. 110-1 Résultant de l'ordonnance n° 2015-1341 L. 111-2 et L. 111-3 Résultant de l' ordonnance n° 2015-1341 L. 112-1 à L. 112-3 Résultant de l'ordonnance n° 2015-1341 L. 112-6 à L. 112-15 Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique L. 113-4 Résultant de l'ordonnance n° 2015-1341 L. 113-12 et L. 113-13 Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale L. 114-1 à L. 114-5 Résultant de l'ordonnance n° 2015-1341 L. 114-5-1 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-6 et L. 114-7 Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 relative aux dispositions législatives du code des relations entre le public et l'administration L. 114-8 et L. 114-9 Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale L. 114-10 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 114-11 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre II L. 120-1 Résultant de l'ordonnance n° 2015-1341 L. 121-1 à L. 121-2 Résultant de l'ordonnance n° 2015-1341 L. 122-1 à L. 122-2 Résultant de l'ordonnance n° 2015-1341 L. 123-1 et L. 123-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance L. 124-1 et L. 124-2 Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance Titre III L. 131-1 Résultant de l'ordonnance n° 2015-1341 L. 132-1 à L. 132-3 Résultant de l'ordonnance n° 2015-1341 L. 134-1 et L. 134-2 Résultant de l'ordonnance n° 2015-1341 L. 134-31 Résultant de l'ordonnance n° 2015-1341 L. 134-33 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique L. 134-34 Résultant de l'ordonnance n° 2015-1341 L. 134-35 Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique",
+                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>Dispositions applicables</th><th>Dans leur rédaction</th></tr><tr><td align='justify'>Titre Ier</td><td align='left'></td></tr><tr><td align='justify'>L. 110-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 111-2 et L. 111-3</td><td align='justify'>Résultant de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000031360943&categorieLien=cid'>ordonnance n° 2015-1341</a></td></tr><tr><td align='justify'>L. 112-1 à L. 112-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 112-6 à L. 112-15</td><td align='justify'>Résultant de la <a href='/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=cid'>loi n° 2016-1321 du 7 octobre 2016</a> pour une République numérique</td></tr><tr><td align='justify'>L. 113-4</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 113-12 et L. 113-13</td><td align='justify'>Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale</td></tr><tr><td align='justify'>L. 114-1 à L. 114-5</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 114-5-1</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-6 et L. 114-7</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 relative aux dispositions législatives du code des relations entre le public et l'administration</td></tr><tr><td align='justify'>L. 114-8 et L. 114-9</td><td align='justify'>Résultant de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale</td></tr><tr><td align='justify'>L. 114-10</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 114-11</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre II</td><td align='justify'></td></tr><tr><td align='justify'>L. 120-1</td><td align='left'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 121-1 à L. 121-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 122-1 à L. 122-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 123-1 et L. 123-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>L. 124-1 et L. 124-2</td><td align='justify'>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td></tr><tr><td align='justify'>Titre III</td><td align='justify'></td></tr><tr><td align='justify'>L. 131-1</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 132-1 à L. 132-3</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-1 et L. 134-2</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-31</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-33</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr><tr><td align='justify'>L. 134-34</td><td align='justify'>Résultant de l'ordonnance n° 2015-1341</td></tr><tr><td align='justify'>L. 134-35</td><td align='justify'>Résultant de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique</td></tr></tbody></table></center>"
                   },
                   "type": "article"
                 },
