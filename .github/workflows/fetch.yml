@@ -48,7 +48,7 @@ jobs:
             }
           done
 
-      - uses: EndBug/add-and-commit@v7
+      - uses: EndBug/add-and-commit@v8
         if: ${{ steps.metadata.outputs.data_status }}
         env:
           HUSKY: "0"
