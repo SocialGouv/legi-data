@@ -65,7 +65,7 @@ It's possible to require any of the [available codes][link-code-references] JSON
 tree straight from the data directory:
 
 ```js
-const LaborCode = require("@socialgouv/kali-data/data/LEGITEXT000006072050.json");
+const LaborCode = require("@socialgouv/legi-data/data/LEGITEXT000006072050.json");
 ```
 
 And the list of available codes with:
