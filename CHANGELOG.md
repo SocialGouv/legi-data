@@ -1,3 +1,15 @@
+# [2.131.0](https://github.com/SocialGouv/legi-data/compare/v2.130.0...v2.131.0) (2022-03-17)
+
+
+### Features
+
+* **data:** 20220317_1812 update ([a038f8f](https://github.com/SocialGouv/legi-data/commit/a038f8f677973bf067a862a0959d0a11fb546c33))
+
+
+### Reverts
+
+* Revert "chore(deps): update dependency p-retry to v5 (#241)" ([6db451b](https://github.com/SocialGouv/legi-data/commit/6db451b34c947610b6263b8471cd67e25114b168)), closes [#241](https://github.com/SocialGouv/legi-data/issues/241)
+
 # [2.130.0](https://github.com/SocialGouv/legi-data/compare/v2.129.0...v2.130.0) (2022-03-03)
 
 
