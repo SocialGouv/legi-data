@@ -1,0 +1,26 @@
+{
+  "extends": [
+    "@socialgouv/eslint-config-typescript",
+    "@socialgouv/eslint-config-recommended"
+  ],
+  "parserOptions": {
+    "project": "tsconfig.json",
+    "sourceType": "module",
+    "tsconfigRootDir": "."
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "moduleDirectory": [
+          "node_modules",
+          "."
+        ]
+      }
+    }
+  },
+  "rules": {
+    "no-return-await": "off",
+    "@typescript-eslint/return-await": "off",
+    "@typescript-eslint/consistent-type-definitions": "off"
+  }
+}

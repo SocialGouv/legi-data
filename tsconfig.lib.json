@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "lib": [
+      "es2020"
+    ],
+    "outDir": "bin",
+    "rootDir": ".",
+    "declaration": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "data/**/*.json",
+    "scripts/**/*.ts"
+  ]
+}
