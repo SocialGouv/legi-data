@@ -10,10 +10,10 @@ type State =
 
 export type Document = {
   id: string;
-  cid: string;
 };
 
-export type TableMatieres = Document & {
+export type TocApiResult = Document & {
+  cid: string;
   executionTime: number;
   dereferenced: boolean;
   idConteneur: unknown | null;
@@ -49,14 +49,15 @@ export type TableMatieres = Document & {
   motsCles: unknown[];
   liens: unknown[];
   observations: unknown | null;
-  sections: Section[];
-  articles: unknown[];
+  sections: TocSection[] | null;
+  articles: TocArticle[] | null;
   fileName: string;
   fileSize: string;
   filePath: string;
 };
 
-export type Section = Document & {
+export type TocSection = Document & {
+  cid: string;
   executionTime: number;
   dereferenced: boolean;
   intOrdre: number;
@@ -68,12 +69,13 @@ export type Section = Document & {
   // Format: YYYY-MM-DD
   dateFin: string;
   sectionConsultee: boolean;
-  sections: Section[];
-  articles: Article[];
+  sections: TocSection[] | null;
+  articles: TocArticle[] | null;
   commentaire: string | null;
 };
 
-export type Article = Document & {
+export type TocArticle = Document & {
+  cid: string;
   executionTime: number;
   dereferenced: boolean;
   intOrdre: number;
@@ -97,3 +99,128 @@ export type Article = Document & {
   renvoi: unknown | null;
   versionLabel: unknown | null;
 };
+
+export interface ArticleApiResult {
+  executionTime: number;
+  dereferenced: boolean;
+  article: Article;
+}
+export type Article = Document & {
+  idTexte?: unknown | null;
+  type: string;
+  texte: string;
+  texteHtml: string;
+  num: string;
+  origine: string;
+  nature: string;
+  versionArticle: string;
+  etat: string;
+  dateDebut: number;
+  dateFin: number;
+  dateDebutExtension: number;
+  dateFinExtension: number;
+  inap?: unknown | null;
+  ordre: number;
+  context: unknown;
+  cid: string;
+  cidTexte?: unknown | null;
+  sectionParentCid: string;
+  sectionParentId: string;
+  sectionParentTitre: string;
+  fullSectionsTitre: string;
+  refInjection: string;
+  idTechInjection: string;
+  idEli?: unknown | null;
+  idEliAlias?: unknown | null;
+  calipsos?: unknown[] | null;
+  textTitles?: TextTitlesEntity[] | null;
+  nota: string;
+  notaHtml: string;
+  activitePro?: unknown[] | null;
+  numeroBrochure?: unknown[] | null;
+  numeroBo?: unknown | null;
+  conteneurs?: unknown[] | null;
+  lienModifications?: LienModificationsEntity[] | null;
+  lienCitations?: LienCitationsEntity[] | null;
+  lienConcordes?: LienConcordesEntityOrLienAutresEntity[] | null;
+  lienAutres?: LienConcordesEntityOrLienAutresEntity[] | null;
+  articleVersions?: ArticleVersionsEntity[] | null;
+  computedNums?: string[] | null;
+  versionPrecedente: string;
+  conditionDiffere?: unknown | null;
+  historique?: unknown | null;
+  surtitre?: unknown | null;
+  renvoi?: unknown | null;
+};
+
+export interface TextTitlesEntity {
+  id: string;
+  titre: string;
+  titreLong: string;
+  etat: string;
+  dateDebut: number;
+  dateFin: number;
+  cid: string;
+  datePubli: number;
+  datePubliComputed?: unknown | null;
+  dateTexte: number;
+  dateTexteComputed?: unknown | null;
+  nature: string;
+  nor: string;
+  num: string;
+  numParution: string;
+  originePubli: string;
+  appliGeo?: unknown | null;
+  codesNomenclatures?: unknown[] | null;
+  visas?: unknown | null;
+  nota?: unknown | null;
+  notice?: unknown | null;
+  travauxPreparatoires?: unknown | null;
+  signataires?: unknown | null;
+  dossiersLegislatifs?: unknown[] | null;
+  ancienId?: unknown | null;
+}
+export interface LienModificationsEntity {
+  textCid: string;
+  textTitle: string;
+  linkType: string;
+  linkOrientation: string;
+  articleNum: string;
+  articleId: string;
+  natureText: string;
+  datePubliTexte: string;
+  dateSignaTexte: string;
+  dateDebutCible: string;
+}
+export interface LienCitationsEntity {
+  textCid: string;
+  textTitle: string;
+  linkType: string;
+  linkOrientation: string;
+  articleNum: string;
+  articleId: string;
+  natureText: string;
+  date: number;
+  parentCid?: unknown | null;
+  numTexte: string;
+  datePubli: number;
+  dateDebut: number;
+}
+export interface LienConcordesEntityOrLienAutresEntity {
+  textCid: string;
+  textTitle: string;
+  linkType: string;
+  linkOrientation: string;
+  articleNum: string;
+  articleId: string;
+  natureText: string;
+}
+export interface ArticleVersionsEntity {
+  id: string;
+  etat: string;
+  version: string;
+  dateDebut: number;
+  dateFin: number;
+  numero?: unknown | null;
+  ordre?: unknown | null;
+}

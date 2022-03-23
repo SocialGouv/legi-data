@@ -1,38 +1,36 @@
 import { DilaApiClient } from "@socialgouv/dila-api-client";
-import * as fs from "fs";
 
-import type { Document, TableMatieres } from "../types";
+import type { ArticleApiResult, TocApiResult } from "../types";
 
 const dilaApi = new DilaApiClient();
 
 // fetch code TOC
-export async function getTableMatieres({ date = Date.now(), textId }): Promise<TableMatieres> {
-  const result: TableMatieres = await dilaApi.fetch({
+export async function getTableMatieres(
+  textId: string,
+  date: number = Date.now(),
+): Promise<TocApiResult> {
+  const result: TocApiResult = await dilaApi.fetch({
     method: "POST",
     params: { date, textId },
     path: "consult/code/tableMatieres",
   });
-  checkApiResponse(result);
-  fs.writeFileSync(`toc_${textId}.json`, JSON.stringify(result, null, 2));
+  checkApiResponse(textId, result);
   return result;
 }
 
 // fetch an article
-export async function getArticle(id) {
-  const result = await dilaApi.fetch({
+export async function getArticle(id: string): Promise<ArticleApiResult> {
+  const result: ArticleApiResult = await dilaApi.fetch({
     method: "POST",
     params: { id },
     path: "consult/getArticle",
   });
-  fs.writeFileSync(`article_${id}.json`, JSON.stringify(result, null, 2));
-  checkApiResponse(result);
+  checkApiResponse(id, result);
   return result;
 }
 
-function checkApiResponse<T extends Document>(data: T): T {
+function checkApiResponse<T>(id: string, data: T) {
   if (Object.keys(data).length === 1) {
-    throw new Error(`invalid response for ${data.id} ${JSON.stringify(data, null, 2)}`);
+    throw new Error(`invalid response for ${id} ${JSON.stringify(data, null, 2)}`);
   }
-
-  return data;
 }

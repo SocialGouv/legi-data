@@ -21,6 +21,8 @@
   "rules": {
     "no-return-await": "off",
     "@typescript-eslint/return-await": "off",
-    "@typescript-eslint/consistent-type-definitions": "off"
+    "@typescript-eslint/consistent-type-definitions": "off",
+    "sort-keys": "off",
+    "sort-keys-fix/sort-keys-fix": "off"
   }
 }

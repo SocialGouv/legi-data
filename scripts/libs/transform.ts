@@ -1,9 +1,15 @@
-const numify = id => parseInt(id.replace(/^LEGIARTI/, ""));
+import type { CodeArticle, LegiData } from "../../src/types";
+import { Code } from "../../src/types";
+import type { ArticleApiResult, TocApiResult, TocArticle, TocSection } from "../types";
 
-export const isValidSection = node => !node.etat || node.etat.startsWith("VIGUEUR");
+const numify = (id: string): number => parseInt(id.replace(/^LEGIARTI/, ""));
 
 // the API returns all the version of a given article. we pick the latest one
-export const latestArticleVersionFilter = (currentArticle, _, articles) => {
+export const latestArticleVersionFilter = (
+  currentArticle: TocArticle,
+  _: unknown,
+  articles: TocArticle[] | null,
+): boolean => {
   // dont filter out articles without cid
   if (!currentArticle.cid) {
     return true;
@@ -18,31 +24,51 @@ export const latestArticleVersionFilter = (currentArticle, _, articles) => {
   return numify(currentArticle.id) > maxVersion;
 };
 
-export function toSection(node, depth) {
-  const type = depth === 0 ? "code" : "section";
-  const data: any = {
-    cid: node.cid,
-    etat: node.etat,
-    id: node.id,
-    intOrdre: node.intOrdre || 0,
-    title: node.title,
-  };
+export const toCodeOrSection = (
+  node: TocApiResult | TocSection,
+  depth: number,
+): Omit<LegiData.Code, "children"> | Omit<LegiData.CodeSection, "children"> => {
   if (depth === 0) {
-    data.dateModif = node.modifDate;
-    data.dateDebutVersion = node.dateDebutVersion;
-    data.dateFinVersion = node.dateFinVersion;
+    return toCode(node);
   } else {
-    data.dateDebut = node.dateDebut;
-    data.dateFin = node.dateFin;
+    return toSection(node);
   }
-  if (node.dateModif) {
-    data.dateModif = node.dateModif;
-  }
+};
 
-  return { data, type };
+export const toCode = (node: TocApiResult): Omit<LegiData.Code, "children"> => {
+  return {
+    type: "code",
+    data: {
+      cid: node.cid,
+      etat: node.etat,
+      id: node.id,
+      intOrdre: node.intOrdre ?? 0,
+      title: node.title,
+      dateModif: node.modifDate,
+      dateDebutVersion: node.dateDebutVersion,
+      dateFinVersion: node.dateFinVersion,
+      // dateModif: node.dateModif,
+    },
+  };
+};
+
+export function toSection(node: TocSection): Omit<LegiData.CodeSection, "children"> {
+  return {
+    type: "section",
+    data: {
+      cid: node.cid,
+      etat: node.etat,
+      id: node.id,
+      intOrdre: node.intOrdre || 0,
+      title: node.title,
+      dateDebut: node.dateDebut,
+      dateFin: node.dateFin,
+      dateModif: node.dateModif,
+    },
+  };
 }
 
-export function toArticle(node) {
+export function toArticle(node: ArticleApiResult): CodeArticle {
   return {
     data: {
       articleVersions: node.article.articleVersions,

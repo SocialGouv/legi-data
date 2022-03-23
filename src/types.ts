@@ -27,7 +27,7 @@ export namespace LegiData {
     children: CodeSection[];
   }
 
-  interface CodeData {
+  export interface CodeData {
     id: string;
     cid: string;
     title: string;
@@ -41,13 +41,13 @@ export namespace LegiData {
     dateFinVersion: string;
   }
 
-  interface CodeSection {
+  export interface CodeSection {
     type: "section";
     data: CodeSectionData;
     children: (CodeArticle | CodeSection)[];
   }
 
-  interface CodeSectionData {
+  export interface CodeSectionData {
     id: string;
     cid: string;
     title: string;
