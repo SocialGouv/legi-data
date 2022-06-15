@@ -1,3 +1,11 @@
+# [2.160.0](https://github.com/SocialGouv/legi-data/compare/v2.159.0...v2.160.0) (2022-06-15)
+
+
+### Features
+
+* **alert:** notify on mattermost when action failed ([#256](https://github.com/SocialGouv/legi-data/issues/256)) ([8de404d](https://github.com/SocialGouv/legi-data/commit/8de404d59d59af0e2ba920894dc991e0e0418548))
+* **data:** 20220615_0414 update ([a35aa9b](https://github.com/SocialGouv/legi-data/commit/a35aa9bae899f62c7ae8f53b5e387b1678b0e826))
+
 # [2.159.0](https://github.com/SocialGouv/legi-data/compare/v2.158.0...v2.159.0) (2022-06-01)
 
 
