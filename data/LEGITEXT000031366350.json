@@ -5,9 +5,9 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2022-02-23",
-    "dateDebutVersion": "2022-02-23",
-    "dateFinVersion": "2022-07-01"
+    "dateModif": "2022-07-01",
+    "dateDebutVersion": "2022-07-01",
+    "dateFinVersion": "2999-01-01"
   },
   "type": "code",
   "children": [
@@ -10284,7 +10284,7 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000031367587",
-                            "etat": "ABROGE_DIFF",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1451606400000,
                             "dateFin": 1656633600000,
@@ -10293,7 +10293,7 @@
                           },
                           {
                             "id": "LEGIARTI000044190686",
-                            "etat": "VIGUEUR_DIFF",
+                            "etat": "VIGUEUR",
                             "version": "2.0",
                             "dateDebut": 1656633600000,
                             "dateFin": 32472144000000,
@@ -10302,12 +10302,12 @@
                           }
                         ],
                         "cid": "LEGIARTI000031367587",
-                        "dateDebut": 1451606400000,
+                        "dateDebut": 1656633600000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 1656633600000,
+                        "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "ABROGE_DIFF",
-                        "id": "LEGIARTI000031367587",
+                        "etat": "VIGUEUR",
+                        "id": "LEGIARTI000044190686",
                         "intOrdre": 1073741823,
                         "lienModifications": [
                           {
@@ -10315,31 +10315,31 @@
                             "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
                             "linkType": "CODIFICATION",
                             "linkOrientation": "source",
-                            "articleNum": "Annexe",
-                            "articleId": "LEGIARTI000031365132",
-                            "natureText": "ORDONNANCE",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "articleNum": "",
+                            "articleId": "",
+                            "natureText": "",
+                            "datePubliTexte": null,
+                            "dateSignaTexte": null,
+                            "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000031360943",
-                            "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000044177138",
+                            "textTitle": "Ordonnance n°2021-1310 du 7 octobre 2021 - art. 18",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "Annexe",
-                            "articleId": "LEGIARTI000031365132",
+                            "articleNum": "18",
+                            "articleId": "LEGIARTI000044184697",
                             "natureText": "ORDONNANCE",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "datePubliTexte": "2021-10-09",
+                            "dateSignaTexte": "2021-10-07",
+                            "dateDebutCible": "2022-07-01"
                           }
                         ],
-                        "nota": "",
-                        "notaHtml": "",
+                        "nota": "Conformément à l'article 40 de l'ordonnance n° 2021-1310 du 7 octobre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.",
+                        "notaHtml": "<p>Conformément à l'article 40 de l'ordonnance n° 2021-1310 du 7 octobre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.</p>",
                         "num": "L222-1",
-                        "texte": "L'entrée en vigueur et la publication des actes des communes et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : 1° En ce qui concerne les communes, par les dispositions des articles L. 2131-1 à L. 2131-4 du code général des collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 2° En ce qui concerne les établissements publics communaux, par les dispositions de l'article L. 2131-12 du même code ; 3° En ce qui concerne les communes de Paris, Marseille et Lyon, par les dispositions des articles L. 2511-1 et L. 2511-23 du même code ; 4° En ce qui concerne les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, par les dispositions des articles L. 2541-22 et L. 2541-23 du même code ; 5° En ce qui concerne les établissements publics de coopération intercommunale, par les dispositions des articles L. 5211-3 , L. 5211-47 et L. 5211-48 du même code et par les dispositions réglementaires prises pour leur application.",
-                        "texteHtml": "<p><br/>L'entrée en vigueur et la publication des actes des communes et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : <br/>1° En ce qui concerne les communes, par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006390075&dateTexte=&categorieLien=cid'>dispositions des articles L. 2131-1 à L. 2131-4 du code général des collectivités territoriales </a>et par les dispositions réglementaires prises pour leur application ; <br/>2° En ce qui concerne les établissements publics communaux, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006390097&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L2131-12 (V)'>L. 2131-12 </a>du même code ; <br/>3° En ce qui concerne les communes de Paris, Marseille et Lyon, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391017&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L2511-1 (V)'>L. 2511-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391054&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L2511-23 (V)'>L. 2511-23 </a>du même code ; <br/>4° En ce qui concerne les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391225&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L2541-22 (V)'>L. 2541-22 </a>et L. 2541-23 du même code ; <br/>5° En ce qui concerne les établissements publics de coopération intercommunale, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392788&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L5211-3 (V)'>L. 5211-3</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392945&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L5211-47 (V)'>L. 5211-47</a> et L. 5211-48 du même code et par les dispositions réglementaires prises pour leur application.</p>"
+                        "texte": "L'entrée en vigueur et la publication des actes des communes et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : 1° En ce qui concerne les communes, par les dispositions des articles L. 2131-1 à L. 2131-4 du code général des collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 2° En ce qui concerne les établissements publics communaux, par les dispositions de l'article L. 2131-12 du même code ; 3° En ce qui concerne les communes de Paris, Marseille et Lyon, par les dispositions des articles L. 2511-1 et L. 2511-23 du même code ; 4° En ce qui concerne les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, par les dispositions des articles L. 2541-22 et L. 2541-23 du même code ; 5° En ce qui concerne les établissements publics de coopération intercommunale, par les dispositions de l'article L. 5211-3 du même code et par les dispositions réglementaires prises pour leur application.",
+                        "texteHtml": "<p>L'entrée en vigueur et la publication des actes des communes et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : <br/><br/>1° En ce qui concerne les communes, par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006390075&dateTexte=&categorieLien=cid'>dispositions des articles L. 2131-1 à L. 2131-4 du code général des collectivités territoriales </a>et par les dispositions réglementaires prises pour leur application ; <br/><br/>2° En ce qui concerne les établissements publics communaux, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006390097&dateTexte=&categorieLien=cid'>L. 2131-12 </a>du même code ; <br/><br/>3° En ce qui concerne les communes de Paris, Marseille et Lyon, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391017&dateTexte=&categorieLien=cid'>L. 2511-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391054&dateTexte=&categorieLien=cid'>L. 2511-23 </a>du même code ; <br/><br/>4° En ce qui concerne les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391225&dateTexte=&categorieLien=cid'>L. 2541-22 </a>et L. 2541-23 du même code ; <br/><br/>5° En ce qui concerne les établissements publics de coopération intercommunale, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000044190741&dateTexte=&categorieLien=id' title='Code général des collectivités territoriales - art. L5211-3 (VD)'>L. 5211-3</a> du même code et par les dispositions réglementaires prises pour leur application.</p><p></p>"
                       },
                       "type": "article"
                     }
@@ -10371,7 +10371,7 @@
                           },
                           {
                             "id": "LEGIARTI000034115744",
-                            "etat": "ABROGE_DIFF",
+                            "etat": "MODIFIE",
                             "version": "2.0",
                             "dateDebut": 1546300800000,
                             "dateFin": 1656633600000,
@@ -10380,7 +10380,7 @@
                           },
                           {
                             "id": "LEGIARTI000044190680",
-                            "etat": "VIGUEUR_DIFF",
+                            "etat": "VIGUEUR",
                             "version": "3.0",
                             "dateDebut": 1656633600000,
                             "dateFin": 32472144000000,
@@ -10389,12 +10389,12 @@
                           }
                         ],
                         "cid": "LEGIARTI000031367592",
-                        "dateDebut": 1546300800000,
+                        "dateDebut": 1656633600000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 1656633600000,
+                        "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "ABROGE_DIFF",
-                        "id": "LEGIARTI000034115744",
+                        "etat": "VIGUEUR",
+                        "id": "LEGIARTI000044190680",
                         "intOrdre": 1073741823,
                         "lienModifications": [
                           {
@@ -10410,23 +10410,23 @@
                             "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000034103927",
-                            "textTitle": "LOI n°2017-257 du 28 février 2017 - art. 7",
+                            "textCid": "JORFTEXT000044177138",
+                            "textTitle": "Ordonnance n°2021-1310 du 7 octobre 2021 - art. 18",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "7",
-                            "articleId": "LEGIARTI000034108239",
-                            "natureText": "LOI",
-                            "datePubliTexte": "2017-03-01",
-                            "dateSignaTexte": "2017-02-28",
-                            "dateDebutCible": "2017-03-02"
+                            "articleNum": "18",
+                            "articleId": "LEGIARTI000044184697",
+                            "natureText": "ORDONNANCE",
+                            "datePubliTexte": "2021-10-09",
+                            "dateSignaTexte": "2021-10-07",
+                            "dateDebutCible": "2022-07-01"
                           }
                         ],
-                        "nota": "",
-                        "notaHtml": "",
+                        "nota": "Conformément à l'article 40 de l'ordonnance n° 2021-1310 du 7 octobre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.",
+                        "notaHtml": "<p>Conformément à l'article 40 de l'ordonnance n° 2021-1310 du 7 octobre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.</p>",
                         "num": "L222-2",
-                        "texte": "L'entrée en vigueur et la publication des actes des départements et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : 1° En ce qui concerne les départements, par les dispositions des articles L. 3131-1 à L. 3131-5 du code général des collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 2° (Abrogé) 3° En ce qui concerne la métropole de Lyon, par les dispositions de l'article L. 3611-3 du même code ; 4° En ce qui concerne les établissements publics interdépartementaux, par les dispositions des articles L. 5421-2 à L. 5421-4 du même code et par les dispositions réglementaires prises pour leur application.",
-                        "texteHtml": "<p>L'entrée en vigueur et la publication des actes des départements et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : </p><p></p><p>1° En ce qui concerne les départements, par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391676&dateTexte=&categorieLien=cid'>dispositions des articles L. 3131-1 à L. 3131-5 du code général des collectivités territoriales </a>et par les dispositions réglementaires prises pour leur application ; </p><p></p><p>2° (Abrogé)</p><p></p><p>3° En ce qui concerne la métropole de Lyon, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000028528971&dateTexte=&categorieLien=cid'>L. 3611-3 </a>du même code ; </p><p></p><p>4° En ce qui concerne les établissements publics interdépartementaux, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393373&dateTexte=&categorieLien=cid'>L. 5421-2 à L. 5421-4</a> du même code et par les dispositions réglementaires prises pour leur application.</p>"
+                        "texte": "L'entrée en vigueur et la publication des actes des départements et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : 1° En ce qui concerne les départements, par les dispositions des articles L. 3131-1 à L. 3131-5 du code général des collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 2° (Abrogé) 3° En ce qui concerne la métropole de Lyon, par les dispositions de l'article L. 3611-3 du même code ; 4° En ce qui concerne les établissements publics interdépartementaux, par les dispositions de l'article L. 5421-2 du même code et par les dispositions réglementaires prises pour leur application.",
+                        "texteHtml": "<p>L'entrée en vigueur et la publication des actes des départements et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : </p><p>1° En ce qui concerne les départements, par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006391676&dateTexte=&categorieLien=cid'>dispositions des articles L. 3131-1 à L. 3131-5 du code général des collectivités territoriales </a>et par les dispositions réglementaires prises pour leur application ; </p><p>2° (Abrogé) </p><p>3° En ce qui concerne la métropole de Lyon, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000028528971&dateTexte=&categorieLien=cid'>L. 3611-3 </a>du même code ; </p><p>4° En ce qui concerne les établissements publics interdépartementaux, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000044190737&dateTexte=&categorieLien=id' title='Code général des collectivités territoriales - art. L5421-2 (VD)'>L. 5421-2</a> du même code et par les dispositions réglementaires prises pour leur application.</p><p></p>"
                       },
                       "type": "article"
                     }
@@ -10449,7 +10449,7 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000031367597",
-                            "etat": "ABROGE_DIFF",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1451606400000,
                             "dateFin": 1656633600000,
@@ -10458,7 +10458,7 @@
                           },
                           {
                             "id": "LEGIARTI000044190672",
-                            "etat": "VIGUEUR_DIFF",
+                            "etat": "VIGUEUR",
                             "version": "2.0",
                             "dateDebut": 1656633600000,
                             "dateFin": 32472144000000,
@@ -10467,12 +10467,12 @@
                           }
                         ],
                         "cid": "LEGIARTI000031367597",
-                        "dateDebut": 1451606400000,
+                        "dateDebut": 1656633600000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 1656633600000,
+                        "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "ABROGE_DIFF",
-                        "id": "LEGIARTI000031367597",
+                        "etat": "VIGUEUR",
+                        "id": "LEGIARTI000044190672",
                         "intOrdre": 1073741823,
                         "lienModifications": [
                           {
@@ -10480,31 +10480,31 @@
                             "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
                             "linkType": "CODIFICATION",
                             "linkOrientation": "source",
-                            "articleNum": "Annexe",
-                            "articleId": "LEGIARTI000031365132",
-                            "natureText": "ORDONNANCE",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "articleNum": "",
+                            "articleId": "",
+                            "natureText": "",
+                            "datePubliTexte": null,
+                            "dateSignaTexte": null,
+                            "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000031360943",
-                            "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000044177138",
+                            "textTitle": "Ordonnance n°2021-1310 du 7 octobre 2021 - art. 18",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "Annexe",
-                            "articleId": "LEGIARTI000031365132",
+                            "articleNum": "18",
+                            "articleId": "LEGIARTI000044184697",
                             "natureText": "ORDONNANCE",
-                            "datePubliTexte": "2015-10-25",
-                            "dateSignaTexte": "2015-10-23",
-                            "dateDebutCible": "2016-01-01"
+                            "datePubliTexte": "2021-10-09",
+                            "dateSignaTexte": "2021-10-07",
+                            "dateDebutCible": "2022-07-01"
                           }
                         ],
-                        "nota": "",
-                        "notaHtml": "",
+                        "nota": "Conformément à l'article 40 de l'ordonnance n° 2021-1310 du 7 octobre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.",
+                        "notaHtml": "<p>Conformément à l'article 40 de l'ordonnance n° 2021-1310 du 7 octobre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.</p>",
                         "num": "L222-3",
-                        "texte": "L'entrée en vigueur et la publication des actes des régions et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : 1° En ce qui concerne les régions, par les dispositions des articles L. 4141-1 à L. 4141-5 du code général des collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 2° En ce qui concerne la région d'Ile-de-France, par les dispositions de l'article L. 4411-1 du même code ; 3° En ce qui concerne la collectivité territoriale de Corse, par les dispositions des articles L. 4421-1 et L. 4422-17 du même code et par les dispositions réglementaires prises pour leur application ; 4° En ce qui concerne les établissements publics interrégionaux, par les dispositions des articles L. 5621-7 et L. 5621-8 du même code et par les dispositions réglementaires prises pour leur application.",
-                        "texteHtml": "<p><br/>L'entrée en vigueur et la publication des actes des régions et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : <br/>1° En ce qui concerne les régions, par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392260&dateTexte=&categorieLien=cid'>dispositions des articles L. 4141-1 à L. 4141-5 du code général des collectivités territoriales </a>et par les dispositions réglementaires prises pour leur application ; <br/>2° En ce qui concerne la région d'Ile-de-France, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392408&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L4411-1 (V)'>L. 4411-1 </a>du même code ; <br/>3° En ce qui concerne la collectivité territoriale de Corse, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392428&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L4421-1 (VT)'>L. 4421-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392463&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L4422-17 (V)'>L. 4422-17 </a>du même code et par les dispositions réglementaires prises pour leur application ; <br/>4° En ce qui concerne les établissements publics interrégionaux, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006393388&dateTexte=&categorieLien=cid' title='Code général des collectivités territoriales - art. L5621-7 (V)'>L. 5621-7</a> et L. 5621-8 du même code et par les dispositions réglementaires prises pour leur application.</p>"
+                        "texte": "L'entrée en vigueur et la publication des actes des régions et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : 1° En ce qui concerne les régions, par les dispositions des articles L. 4141-1 à L. 4141-5 du code général des collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 2° En ce qui concerne la région d'Ile-de-France, par les dispositions de l'article L. 4411-1 du même code ; 3° En ce qui concerne la collectivité territoriale de Corse, par les dispositions des articles L. 4421-1 et L. 4422-17 du même code et par les dispositions réglementaires prises pour leur application ; 4° En ce qui concerne les établissements publics interrégionaux, par les dispositions de l'article L. 5621-5 du même code et par les dispositions réglementaires prises pour leur application.",
+                        "texteHtml": "<p>L'entrée en vigueur et la publication des actes des régions et de leurs établissements publics sont régies, outre par les dispositions du chapitre Ier du présent titre : <br/><br/>1° En ce qui concerne les régions, par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392260&dateTexte=&categorieLien=cid'>dispositions des articles L. 4141-1 à L. 4141-5 du code général des collectivités territoriales </a>et par les dispositions réglementaires prises pour leur application ; <br/><br/>2° En ce qui concerne la région d'Ile-de-France, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392408&dateTexte=&categorieLien=cid'>L. 4411-1 </a>du même code ; <br/><br/>3° En ce qui concerne la collectivité territoriale de Corse, par les dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392428&dateTexte=&categorieLien=cid'>L. 4421-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006392463&dateTexte=&categorieLien=cid'>L. 4422-17 </a>du même code et par les dispositions réglementaires prises pour leur application ; <br/><br/>4° En ce qui concerne les établissements publics interrégionaux, par les dispositions de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000044190733&dateTexte=&categorieLien=id' title='Code général des collectivités territoriales - art. L5621-5 (VD)'>L. 5621-5</a> du même code et par les dispositions réglementaires prises pour leur application.</p><p></p>"
                       },
                       "type": "article"
                     }
