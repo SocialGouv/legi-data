@@ -9,75 +9,44 @@
 
 ---
 
-Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife-api] API using
-[unist (Univeral Syntax Tree)][link-unist] structure.
+Extractions quotidiennes des codes de loi de la
+[base LEGI](https://www.data.gouv.fr/fr/datasets/legi-codes-lois-et-reglements-consolides/) depuis
+l'API legifrance.gouv.fr
 
-- [Usage](#usage)
-  - [Getting started](#getting-started)
-  - [Definitions](#definitions)
-    - [Code](#code)
-    - [Article](#article)
-  - [API](#api)
-    - [Data](#data)
-    - [getArticleWithParentSections()](#getarticlewithparentsections)
-    - [getCode()](#getcode)
-    - [getCodeWithParents()](#getcodewithparents)
-    - [getIndexedArticle()](#getindexedarticle)
-    - [getIndexedArticles()](#getindexedarticles)
-    - [getIndexedCodes()](#getindexedcodes)
-    - [hasArticle()](#hasarticle)
-    - [hasCode()](#hascode)
-- [Contributing](#contributing)
-  - [Getting started](#getting-started-1)
-  - [Data Generation](#data-generation)
-  - [Tests](#tests)
-- [References](#references)
-- [Also](#also)
+Les données sont disponibles au format JSON ou via une API TypeScript.
 
-## Usage
+ex pour récupérer le "code du travail" complet :
+
+```
+const code = require("@socialgouv/legi-data/data/LEGITEXT000006072050.json");
+```
+
+La structure du JSON est basée sur [unified](https://unifiedjs.com/)
+
+---
+
+Actuellement, seuls 4 codes sont versionnés ici :
+
+| Id                   | Description                                            |
+| -------------------- | ------------------------------------------------------ |
+| LEGITEXT000006072050 | Code du travail                                        |
+| LEGITEXT000022197698 | Code de la sécurité sociale                            |
+| LEGITEXT000022197698 | Code rural et de la pêche maritime                     |
+| LEGITEXT000031366350 | Code des relations entre le public et l'administration |
+
+Postez [une issue](https://github.com/SocialGouv/legi-data) si vous souhaitez en voir d'autres.
+
+---
+
+## API TypeScript
 
 ### Getting started
 
 ```sh
 npm i @socialgouv/legi-data
+
 # or if you only need the Typescript types
 npm i -D @socialgouv/legi-data-types
-```
-
-### Definitions
-
-#### Code
-
-A code is a French code of law (i.e.: "Labor Code", "Social Security Code"). Each code is made up
-of articles wrapped within sections.
-
-#### Article
-
-An article always refers to a code article.
-
-### API
-
-This package is typed with Typescript, you can check the returns type details [there][link-typings].
-
-#### Data
-
-It's possible to require any of the [available codes][link-code-references] JSON [unist][link-unist]
-tree straight from the data directory:
-
-```js
-const LaborCode = require("@socialgouv/legi-data/data/LEGITEXT000006072050.json");
-```
-
-And the list of available codes with:
-
-```js
-const codes = require("@socialgouv/legi-data/data/index.json");
-```
-
-**Return Type**
-
-```ts
-LegiData.Code;
 ```
 
 #### getArticleWithParentSections()
