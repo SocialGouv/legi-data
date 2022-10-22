@@ -5,9 +5,9 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2022-07-01",
-    "dateDebutVersion": "2022-07-01",
-    "dateFinVersion": "2999-01-01"
+    "dateModif": "2022-10-21",
+    "dateDebutVersion": "2022-10-21",
+    "dateFinVersion": "2023-01-01"
   },
   "type": "code",
   "children": [
@@ -2763,8 +2763,8 @@
                             "nota": "",
                             "notaHtml": "",
                             "num": "L113-13",
-                            "texte": "Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles L. 114-8 et L. 114-9 , la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées. Un décret fixe la liste des pièces que les personnes n'ont plus à produire.",
-                            "texteHtml": "<p>Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367412&dateTexte=&categorieLien=cid'>L. 114-8 et L. 114-9</a>, la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées.</p><p>Un décret fixe la liste des pièces que les personnes n'ont plus à produire.</p>"
+                            "texte": "Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles L. 114-8 et L. 114-9 , la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées.",
+                            "texteHtml": "<p>Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367412&dateTexte=&categorieLien=cid'>L. 114-8 et L. 114-9</a>, la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées.</p>"
                           },
                           "type": "article"
                         },
@@ -3453,9 +3453,18 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000038029876",
-                            "etat": "VIGUEUR",
+                            "etat": "ABROGE_DIFF",
                             "version": "1.0",
                             "dateDebut": 1548028800000,
+                            "dateFin": 1672531200000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000046074358",
+                            "etat": "VIGUEUR_DIFF",
+                            "version": "2.0",
+                            "dateDebut": 1672531200000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
@@ -3464,9 +3473,9 @@
                         "cid": "LEGIARTI000038029871",
                         "dateDebut": 1548028800000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 32472144000000,
+                        "dateFin": 1672531200000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "id": "LEGIARTI000038029876",
                         "intOrdre": 1744830463,
                         "lienModifications": [
@@ -13725,7 +13734,7 @@
                         "notaHtml": "",
                         "num": "L312-1-2",
                         "texte": "Sauf dispositions législatives ou réglementaires contraires, lorsque les documents et données mentionnés aux articles L. 312-1 ou L. 312-1-1 comportent des mentions entrant dans le champ d'application des articles L. 311-5 ou L. 311-6 , ils ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant d'occulter ces mentions. Sauf dispositions législatives contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et les données mentionnés aux articles L. 312-1 ou L. 312-1-1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant de rendre impossible l'identification de ces personnes. Une liste des catégories de documents pouvant être rendus publics sans avoir fait l'objet du traitement susmentionné est fixée par décret pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés. Les administrations mentionnées au premier alinéa de l'article L. 300-2 du présent code ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles L. 212-2 et L. 212-3 du code du patrimoine.",
-                        "texteHtml": "<div align='left'>Sauf dispositions législatives ou réglementaires contraires, lorsque les documents et données mentionnés aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367739&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L312-1 (V)'>L. 312-1 ou L. 312-1-1 </a>comportent des mentions entrant dans le champ d'application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L311-5 (V)'>L. 311-5 ou L. 311-6</a>, ils ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant d'occulter ces mentions. <br/><br/>Sauf dispositions législatives contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et les données mentionnés aux articles L. 312-1 ou L. 312-1-1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant de rendre impossible l'identification de ces personnes. Une liste des catégories de documents pouvant être rendus publics sans avoir fait l'objet du traitement susmentionné est fixée par décret pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés. <br/><br/>Les administrations mentionnées au premier alinéa de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L300-2 (V)'>L. 300-2 </a>du présent code ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845567&dateTexte=&categorieLien=cid' title='Code du patrimoine - art. L212-2 (V)'>L. 212-2 et L. 212-3</a>du code du patrimoine.</div>"
+                        "texteHtml": "<p></p><p>Sauf dispositions législatives ou réglementaires contraires, lorsque les documents et données mentionnés aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367739&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L312-1 (V)'>L. 312-1 ou L. 312-1-1 </a>comportent des mentions entrant dans le champ d'application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L311-5 (V)'>L. 311-5 ou L. 311-6</a>, ils ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant d'occulter ces mentions.</p><p></p><p>Sauf dispositions législatives contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et les données mentionnés aux articles L. 312-1 ou L. 312-1-1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant de rendre impossible l'identification de ces personnes. Une liste des catégories de documents pouvant être rendus publics sans avoir fait l'objet du traitement susmentionné est fixée par décret pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés.</p><p>Les administrations mentionnées au premier alinéa de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. L300-2 (V)'>L. 300-2 </a>du présent code ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000006845567&dateTexte=&categorieLien=cid' title='Code du patrimoine - art. L212-2 (V)'>L. 212-2 et L. 212-3</a> du code du patrimoine.</p><p></p>"
                       },
                       "type": "article"
                     },
@@ -15518,135 +15527,6 @@
                     "num": "R323-3",
                     "texte": "Les clauses des licences délivrées par les autorités mentionnées à l'article L. 300-2 doivent porter au moins sur les informations faisant l'objet de la réutilisation, leur source et leur date de mise à disposition, le caractère commercial ou non de leur réutilisation, ainsi que sur les droits et obligations du licencié, dont le montant de la redevance et les modalités de son paiement.",
                     "texteHtml": "<div align='left'>Les clauses des licences délivrées par les autorités mentionnées à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid'>L. 300-2</a> doivent porter au moins sur les informations faisant l'objet de la réutilisation, leur source et leur date de mise à disposition, le caractère commercial ou non de leur réutilisation, ainsi que sur les droits et obligations du licencié, dont le montant de la redevance et les modalités de son paiement.<br/><br/></div>"
-                  },
-                  "type": "article"
-                },
-                {
-                  "data": {
-                    "articleVersions": [
-                      {
-                        "id": "LEGIARTI000032257938",
-                        "etat": "VIGUEUR",
-                        "version": "1.0",
-                        "dateDebut": 1458345600000,
-                        "dateFin": 32472144000000,
-                        "numero": null,
-                        "ordre": null
-                      }
-                    ],
-                    "cid": "LEGIARTI000032257938",
-                    "dateDebut": 1458345600000,
-                    "dateDebutExtension": 32472144000000,
-                    "dateFin": 32472144000000,
-                    "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR",
-                    "id": "LEGIARTI000032257938",
-                    "intOrdre": 2013265919,
-                    "lienModifications": [
-                      {
-                        "textCid": "JORFTEXT000032242493",
-                        "textTitle": "Décret n°2016-308 du 17 mars 2016 - art.",
-                        "linkType": "CREE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "LEGIARTI000032252854",
-                        "natureText": "DECRET",
-                        "datePubliTexte": "2016-03-18",
-                        "dateSignaTexte": "2016-03-17",
-                        "dateDebutCible": "2016-03-19"
-                      }
-                    ],
-                    "nota": "",
-                    "notaHtml": "",
-                    "num": "R323-4",
-                    "texte": "La demande de licence précise l'objet et la destination, commerciale ou non, de la réutilisation envisagée. Elle peut être présentée soit en même temps que la demande d'accès au document, soit ultérieurement. La procédure prévue aux articles R. 343-1 à R. 343-5 lui est applicable.",
-                    "texteHtml": "<div align='left'>La demande de licence précise l'objet et la destination, commerciale ou non, de la réutilisation envisagée. <br/><br/>Elle peut être présentée soit en même temps que la demande d'accès au document, soit ultérieurement. <br/><br/>La procédure prévue aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370507&dateTexte=&categorieLien=cid'>R. 343-1 à R. 343-5</a> lui est applicable.<br/><br/></div>"
-                  },
-                  "type": "article"
-                },
-                {
-                  "data": {
-                    "articleVersions": [
-                      {
-                        "id": "LEGIARTI000032257940",
-                        "etat": "VIGUEUR",
-                        "version": "1.0",
-                        "dateDebut": 1458345600000,
-                        "dateFin": 32472144000000,
-                        "numero": null,
-                        "ordre": null
-                      }
-                    ],
-                    "cid": "LEGIARTI000032257940",
-                    "dateDebut": 1458345600000,
-                    "dateDebutExtension": 32472144000000,
-                    "dateFin": 32472144000000,
-                    "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR",
-                    "id": "LEGIARTI000032257940",
-                    "intOrdre": 2080374783,
-                    "lienModifications": [
-                      {
-                        "textCid": "JORFTEXT000032242493",
-                        "textTitle": "Décret n°2016-308 du 17 mars 2016 - art.",
-                        "linkType": "CREE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "LEGIARTI000032252854",
-                        "natureText": "DECRET",
-                        "datePubliTexte": "2016-03-18",
-                        "dateSignaTexte": "2016-03-17",
-                        "dateDebutCible": "2016-03-19"
-                      }
-                    ],
-                    "nota": "",
-                    "notaHtml": "",
-                    "num": "R*323-5",
-                    "texte": "L'article R. * 311-12 est applicable aux demandes de licence. Toutefois, le silence gardé pendant plus d'un mois par une administration de l'Etat ou par un établissement public administratif de l'Etat sur une demande tendant à la délivrance d'une licence conforme à une licence type préalablement mise à disposition des personnes intéressées et comportant une définition de son objet et de ses bénéficiaires vaut décision d'acceptation.",
-                    "texteHtml": "<div align='left'>L'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370407&dateTexte=&categorieLien=cid'>R. * 311-12</a> est applicable aux demandes de licence. <br/><br/>Toutefois, le silence gardé pendant plus d'un mois par une administration de l'Etat ou par un établissement public administratif de l'Etat sur une demande tendant à la délivrance d'une licence conforme à une licence type préalablement mise à disposition des personnes intéressées et comportant une définition de son objet et de ses bénéficiaires vaut décision d'acceptation.<br/><br/></div>"
-                  },
-                  "type": "article"
-                },
-                {
-                  "data": {
-                    "articleVersions": [
-                      {
-                        "id": "LEGIARTI000032257942",
-                        "etat": "VIGUEUR",
-                        "version": "1.0",
-                        "dateDebut": 1458345600000,
-                        "dateFin": 32472144000000,
-                        "numero": null,
-                        "ordre": null
-                      }
-                    ],
-                    "cid": "LEGIARTI000032257942",
-                    "dateDebut": 1458345600000,
-                    "dateDebutExtension": 32472144000000,
-                    "dateFin": 32472144000000,
-                    "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR",
-                    "id": "LEGIARTI000032257942",
-                    "intOrdre": 2113929215,
-                    "lienModifications": [
-                      {
-                        "textCid": "JORFTEXT000032242493",
-                        "textTitle": "Décret n°2016-308 du 17 mars 2016 - art.",
-                        "linkType": "CREE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "LEGIARTI000032252854",
-                        "natureText": "DECRET",
-                        "datePubliTexte": "2016-03-18",
-                        "dateSignaTexte": "2016-03-17",
-                        "dateDebutCible": "2016-03-19"
-                      }
-                    ],
-                    "nota": "",
-                    "notaHtml": "",
-                    "num": "R323-6",
-                    "texte": "Le délai mentionné à l'article R. 311-13 s'applique aux demandes de licence. Ce délai peut être prorogé, à titre exceptionnel, d'un mois par décision motivée de l'autorité saisie en raison du nombre des demandes qui lui sont adressées ou de la complexité de celles-ci.",
-                    "texteHtml": "<div align='left'>Le délai mentionné à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370409&dateTexte=&categorieLien=cid'>R. 311-13</a> s'applique aux demandes de licence. Ce délai peut être prorogé, à titre exceptionnel, d'un mois par décision motivée de l'autorité saisie en raison du nombre des demandes qui lui sont adressées ou de la complexité de celles-ci.<br/><br/></div>"
                   },
                   "type": "article"
                 },
@@ -17533,41 +17413,50 @@
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000033458130",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "1.0",
                         "dateDebut": 1479945600000,
+                        "dateFin": 1666310400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000046452219",
+                        "etat": "VIGUEUR",
+                        "version": "2.0",
+                        "dateDebut": 1666310400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000033458130",
-                    "dateDebut": 1479945600000,
+                    "dateDebut": 1666310400000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000033458130",
+                    "id": "LEGIARTI000046452219",
                     "intOrdre": 1357967596,
                     "lienModifications": [
                       {
-                        "textCid": "JORFTEXT000033451352",
-                        "textTitle": "Décret n°2016-1564 du 21 novembre 2016 - art. 2",
-                        "linkType": "CREE",
+                        "textCid": "JORFTEXT000046446779",
+                        "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 2",
+                        "linkType": "MODIFIE",
                         "linkOrientation": "cible",
                         "articleNum": "2",
-                        "articleId": "LEGIARTI000033458082",
+                        "articleId": "LEGIARTI000046447968",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2016-11-23",
-                        "dateSignaTexte": "2016-11-21",
-                        "dateDebutCible": "2016-11-24"
+                        "datePubliTexte": "2022-10-20",
+                        "dateSignaTexte": "2022-10-19",
+                        "dateDebutCible": "2022-10-21"
                       }
                     ],
                     "nota": "",
                     "notaHtml": "",
                     "num": "R341-5-1",
-                    "texte": "La commission peut donner délégation à son président pour émettre en son nom un avis sur les demandes dont elle est saisie en application des articles L. 342-1 et L. 342-2 ou répondre en son nom à une demande de consultation dont elle est saisie en application de l'article R. 342-4-1, dans les cas suivants : 1° La commission n'est manifestement pas compétente ; 2° La demande d'avis est manifestement irrecevable ; 3° Le document ou les informations sollicités n'existent pas ; 4° La demande dont le rejet motive la saisine de la commission pour avis est satisfaite au cours de l'instruction de la demande d'avis ; 5° La demande d'avis ou de consultation n'appelle manifestement, dans les matières ou pour les catégories de documents déterminées par la commission, que la reprise de la jurisprudence administrative ou d'une doctrine de la commission. Le président peut toutefois, dans le champ des attributions dont l'exercice lui a été délégué, laisser à la commission le soin de se prononcer elle-même sur une demande.",
-                    "texteHtml": "La commission peut donner délégation à son président pour émettre en son nom un avis sur les demandes dont elle est saisie en application des articles L. 342-1 et L. 342-2 ou répondre en son nom à une demande de consultation dont elle est saisie en application de l'article R. 342-4-1, dans les cas suivants :<br/><br/> 1° La commission n'est manifestement pas compétente ;<br/><br/> 2° La demande d'avis est manifestement irrecevable ;<br/><br/> 3° Le document ou les informations sollicités n'existent pas ;<br/><br/> 4° La demande dont le rejet motive la saisine de la commission pour avis est satisfaite au cours de l'instruction de la demande d'avis ;<br/><br/> 5° La demande d'avis ou de consultation n'appelle manifestement, dans les matières ou pour les catégories de documents déterminées par la commission, que la reprise de la jurisprudence administrative ou d'une doctrine de la commission.<br/><br/> Le président peut toutefois, dans le champ des attributions dont l'exercice lui a été délégué, laisser à la commission le soin de se prononcer elle-même sur une demande."
+                    "texte": "La commission peut donner délégation à son président pour émettre en son nom un avis sur les demandes dont elle est saisie en application des articles L. 342-1 et L. 342-2 ou répondre en son nom à une demande de consultation dont elle est saisie en application de l'article R. 342-4-1, dans les cas suivants : 1° La commission n'est manifestement pas compétente ; 2° La demande d'avis est manifestement irrecevable ; 3° Le document ou les informations sollicités n'existent pas ; 4° La demande dont le rejet motive la saisine de la commission pour avis est satisfaite au cours de l'instruction de la demande d'avis ; 5° La demande d'avis ou de consultation n'appelle manifestement, dans les matières ou pour les catégories de documents déterminées par la commission, que la reprise de la jurisprudence administrative ou d'une doctrine de la commission. Le président rend compte annuellement à la Commission de l'exercice des attributions qui lui sont déléguées en application du présent article. Le président peut toutefois, dans le champ des attributions dont l'exercice lui a été délégué, laisser à la commission le soin de se prononcer elle-même sur une demande.",
+                    "texteHtml": "<p>La commission peut donner délégation à son président pour émettre en son nom un avis sur les demandes dont elle est saisie en application des articles L. 342-1 et L. 342-2 ou répondre en son nom à une demande de consultation dont elle est saisie en application de l'article R. 342-4-1, dans les cas suivants :</p><p>1° La commission n'est manifestement pas compétente ;</p><p>2° La demande d'avis est manifestement irrecevable ;</p><p>3° Le document ou les informations sollicités n'existent pas ;</p><p>4° La demande dont le rejet motive la saisine de la commission pour avis est satisfaite au cours de l'instruction de la demande d'avis ;</p><p>5° La demande d'avis ou de consultation n'appelle manifestement, dans les matières ou pour les catégories de documents déterminées par la commission, que la reprise de la jurisprudence administrative ou d'une doctrine de la commission.</p><p>Le président rend compte annuellement à la Commission de l'exercice des attributions qui lui sont déléguées en application du présent article.</p><p>Le président peut toutefois, dans le champ des attributions dont l'exercice lui a été délégué, laisser à la commission le soin de se prononcer elle-même sur une demande.</p>"
                   },
                   "type": "article"
                 },
@@ -18890,6 +18779,92 @@
                       "data": {
                         "articleVersions": [
                           {
+                            "id": "LEGIARTI000046448125",
+                            "etat": "VIGUEUR",
+                            "version": "1.0",
+                            "dateDebut": 1666310400000,
+                            "dateFin": 32472144000000,
+                            "numero": null,
+                            "ordre": null
+                          }
+                        ],
+                        "cid": "LEGIARTI000046448125",
+                        "dateDebut": 1666310400000,
+                        "dateDebutExtension": 32472144000000,
+                        "dateFin": 32472144000000,
+                        "dateFinExtension": 32472144000000,
+                        "etat": "VIGUEUR",
+                        "id": "LEGIARTI000046448125",
+                        "intOrdre": 1946157055,
+                        "lienModifications": [
+                          {
+                            "textCid": "JORFTEXT000046446779",
+                            "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 3",
+                            "linkType": "CREE",
+                            "linkOrientation": "cible",
+                            "articleNum": "3",
+                            "articleId": "LEGIARTI000046447970",
+                            "natureText": "DECRET",
+                            "datePubliTexte": "2022-10-20",
+                            "dateSignaTexte": "2022-10-19",
+                            "dateDebutCible": "2022-10-21"
+                          }
+                        ],
+                        "nota": "",
+                        "notaHtml": "",
+                        "num": "R343-3-1",
+                        "texte": "Relèvent d'une série de demandes, au sens du deuxième alinéa de l'article L. 342-1, les saisines constituées d'au moins cinq demandes. La procédure décrite aux articles R. 343-1 à R. 343-3 est applicable aux saisines relevant d'une série de demandes, sous réserve des dispositions du présent article. Dans sa saisine, le demandeur précise en outre, pour chaque administration qu'il a saisie, le nom de celle-ci, son adresse électronique ou à défaut postale, la date à laquelle il l'a saisie d'une demande de communication et, le cas échéant, la date de notification du refus de communication. La saisine est accompagnée des pièces établissant qu'au moins un refus a été opposé par l'une des administrations saisies. La saisine vaut recours administratif préalable obligatoire pour chacune des demandes correctement identifiées, ayant fait l'objet d'un refus de communication et pour laquelle il a été satisfait à la condition d'information de l'administration concernée prévue par le troisième alinéa de l'article L. 342-1. Dans l'accusé de réception adressé au demandeur, la Commission dresse la liste des demandes relevant de la série correctement identifiées et rappelle au demandeur les conditions énoncées au précédent alinéa pour que ces demandes vaillent recours administratifs préalables obligatoires. La Commission instruit la demande à l'égard d'une seule administration dont le refus lui a été communiqué. La Commission notifie son avis à chacune des administrations correctement identifiées. La seconde phrase de l'article R. 343-3 s'applique à l'administration auprès de laquelle la saisine a été instruite par la Commission. Les autres administrations informent le demandeur, dans le délai d'un mois qui suit la réception de l'avis, de la suite qu'elles entendent donner à la demande. Les dispositions des articles R. * 343-4 et R. 343-5 s'appliquent aux administrations auxquelles la Commission notifie son avis.",
+                        "texteHtml": "<p>Relèvent d'une série de demandes, au sens du deuxième alinéa de l'article L. 342-1, les saisines constituées d'au moins cinq demandes.<br/><br/>\n La procédure décrite aux articles R. 343-1 à R. 343-3 est applicable aux saisines relevant d'une série de demandes, sous réserve des dispositions du présent article.<br/><br/>\n Dans sa saisine, le demandeur précise en outre, pour chaque administration qu'il a saisie, le nom de celle-ci, son adresse électronique ou à défaut postale, la date à laquelle il l'a saisie d'une demande de communication et, le cas échéant, la date de notification du refus de communication. La saisine est accompagnée des pièces établissant qu'au moins un refus a été opposé par l'une des administrations saisies.<br/><br/>\n La saisine vaut recours administratif préalable obligatoire pour chacune des demandes correctement identifiées, ayant fait l'objet d'un refus de communication et pour laquelle il a été satisfait à la condition d'information de l'administration concernée prévue par le troisième alinéa de l'article L. 342-1.<br/><br/>\n Dans l'accusé de réception adressé au demandeur, la Commission dresse la liste des demandes relevant de la série correctement identifiées et rappelle au demandeur les conditions énoncées au précédent alinéa pour que ces demandes vaillent recours administratifs préalables obligatoires.<br/><br/>\n La Commission instruit la demande à l'égard d'une seule administration dont le refus lui a été communiqué.<br/><br/>\n La Commission notifie son avis à chacune des administrations correctement identifiées. La seconde phrase de l'article R. 343-3 s'applique à l'administration auprès de laquelle la saisine a été instruite par la Commission. Les autres administrations informent le demandeur, dans le délai d'un mois qui suit la réception de l'avis, de la suite qu'elles entendent donner à la demande.<br/><br/>\n Les dispositions des articles R. * 343-4 et R. 343-5 s'appliquent aux administrations auxquelles la Commission notifie son avis.</p>"
+                      },
+                      "type": "article"
+                    },
+                    {
+                      "data": {
+                        "articleVersions": [
+                          {
+                            "id": "LEGIARTI000046448127",
+                            "etat": "VIGUEUR",
+                            "version": "1.0",
+                            "dateDebut": 1666310400000,
+                            "dateFin": 32472144000000,
+                            "numero": null,
+                            "ordre": null
+                          }
+                        ],
+                        "cid": "LEGIARTI000046448127",
+                        "dateDebut": 1666310400000,
+                        "dateDebutExtension": 32472144000000,
+                        "dateFin": 32472144000000,
+                        "dateFinExtension": 32472144000000,
+                        "etat": "VIGUEUR",
+                        "id": "LEGIARTI000046448127",
+                        "intOrdre": 1979711487,
+                        "lienModifications": [
+                          {
+                            "textCid": "JORFTEXT000046446779",
+                            "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 3",
+                            "linkType": "CREE",
+                            "linkOrientation": "cible",
+                            "articleNum": "3",
+                            "articleId": "LEGIARTI000046447970",
+                            "natureText": "DECRET",
+                            "datePubliTexte": "2022-10-20",
+                            "dateSignaTexte": "2022-10-19",
+                            "dateDebutCible": "2022-10-21"
+                          }
+                        ],
+                        "nota": "",
+                        "notaHtml": "",
+                        "num": "R343-3-2",
+                        "texte": "Lorsque la Commission est saisie par la même personne de plusieurs demandes constituant entre elles une série au sens du deuxième alinéa de l'article L. 342-1, ces demandes peuvent être jointes par décision du président de la Commission, en vue d'y répondre par un seul avis. La Commission en informe le demandeur en lui précisant les demandes ainsi regroupées, celle qui sera transmise à l'administration concernée et instruite conformément à l'article R. 343-2. Elle invite le demandeur à informer les autres administrations concernées de cette saisine avant qu'elle rende son avis. Les deux derniers alinéas de l'article R. 343-3-1 s'appliquent à l'avis ainsi émis.",
+                        "texteHtml": "<p>Lorsque la Commission est saisie par la même personne de plusieurs demandes constituant entre elles une série au sens du deuxième alinéa de l'article L. 342-1, ces demandes peuvent être jointes par décision du président de la Commission, en vue d'y répondre par un seul avis.<br/><br/>\n La Commission en informe le demandeur en lui précisant les demandes ainsi regroupées, celle qui sera transmise à l'administration concernée et instruite conformément à l'article R. 343-2. Elle invite le demandeur à informer les autres administrations concernées de cette saisine avant qu'elle rende son avis.<br/><br/>\n Les deux derniers alinéas de l'article R. 343-3-1 s'appliquent à l'avis ainsi émis.</p>"
+                      },
+                      "type": "article"
+                    },
+                    {
+                      "data": {
+                        "articleVersions": [
+                          {
                             "id": "LEGIARTI000031370513",
                             "etat": "VIGUEUR",
                             "version": "1.0",
@@ -18937,7 +18912,7 @@
                         "notaHtml": "",
                         "num": "R*343-4",
                         "texte": "Le silence gardé pendant le délai prévu à l'article R. 343-5 par l'administration mise en cause vaut décision de refus.",
-                        "texteHtml": "<p><br/>Le silence gardé pendant le délai prévu à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370515&dateTexte=&categorieLien=cid' title='Code des relations entre le public et l'adminis... - art. R343-5 (VD)'>R. 343-5</a> par l'administration mise en cause vaut décision de refus.</p>"
+                        "texteHtml": "<p><br/>Le silence gardé pendant le délai prévu à l'article R. 343-5 par l'administration mise en cause vaut décision de refus.</p>"
                       },
                       "type": "article"
                     },
@@ -24053,21 +24028,30 @@
                               },
                               {
                                 "id": "LEGIARTI000032261851",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "2.0",
                                 "dateDebut": 1458345600000,
+                                "dateFin": 1666310400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000046452284",
+                                "etat": "VIGUEUR",
+                                "version": "3.0",
+                                "dateDebut": 1666310400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370705",
-                            "dateDebut": 1458345600000,
+                            "dateDebut": 1666310400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000032261851",
+                            "id": "LEGIARTI000046452284",
                             "intOrdre": 1342177279,
                             "lienModifications": [
                               {
@@ -24083,23 +24067,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000032242493",
-                                "textTitle": "Décret n°2016-308 du 17 mars 2016 - art. 5",
+                                "textCid": "JORFTEXT000046446779",
+                                "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 4",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "5",
-                                "articleId": "LEGIARTI000032252848",
+                                "articleNum": "4",
+                                "articleId": "LEGIARTI000046447972",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2016-03-18",
-                                "dateSignaTexte": "2016-03-17",
-                                "dateDebutCible": "2016-03-19"
+                                "datePubliTexte": "2022-10-20",
+                                "dateSignaTexte": "2022-10-19",
+                                "dateDebutCible": "2022-10-21"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "R*552-9",
-                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. *311-12 Résultant du décret n° 2015-1342 Titre II R. * 322-4 Résultant du décret n° 2016-308 R. * 323-5 Résultant du décret n° 2016-308 R. * 325-6 Résultant du décret n° 2016-308 Titre IV R. *343-4 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><div align='center'><center><table border='1' width='720' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES <br/></th><th>DANS LEUR RÉDACTION <br/></th></tr><tr><td align='left'>Titre Ier <br/></td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370407&dateTexte=&categorieLien=cid'>R. *311-12 </a><br/></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a><br/></td></tr><tr><td align='left'></td><td align='left'></td></tr><tr><td>Titre II <br/></td><td></td></tr><tr><td>R. * 322-4 </td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308</a></td></tr><tr><td>R. * 323-5 </td><td>Résultant du décret n° 2016-308 <br/></td></tr><tr><td>R. * 325-6 </td><td>Résultant du décret n° 2016-308 <br/></td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV <br/></td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370513&dateTexte=&categorieLien=cid'>R. *343-4 </a><br/></td><td>Résultant du décret n° 2015-1342<br/></td></tr></tbody></table></center></div>"
+                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. *311-12 Résultant du décret n° 2015-1342 Titre II R. * 322-4 Résultant du décret n° 2016-308 R. * 325-6 Résultant du décret n° 2016-308 Titre IV R. *343-4 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370407&dateTexte=&categorieLien=cid'>R. *311-12 </a></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td align='left'></td><td align='left'></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. * 322-4</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308</a></td></tr><tr><td>R. * 325-6</td><td>Résultant du décret n° 2016-308</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370513&dateTexte=&categorieLien=cid'>R. *343-4 </a></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         },
@@ -24180,41 +24164,50 @@
                               },
                               {
                                 "id": "LEGIARTI000037676579",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "9.0",
                                 "dateDebut": 1546300800000,
+                                "dateFin": 1666310400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000046452237",
+                                "etat": "VIGUEUR",
+                                "version": "10.0",
+                                "dateDebut": 1666310400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370707",
-                            "dateDebut": 1546300800000,
+                            "dateDebut": 1666310400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000037676579",
+                            "id": "LEGIARTI000046452237",
                             "intOrdre": 1610612735,
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000037662501",
-                                "textTitle": "Décret n°2018-1047 du 28 novembre 2018 - art. 5",
+                                "textCid": "JORFTEXT000046446779",
+                                "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 4",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "5",
-                                "articleId": "LEGIARTI000037664964",
+                                "articleNum": "4",
+                                "articleId": "LEGIARTI000046447972",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2018-11-30",
-                                "dateSignaTexte": "2018-11-28",
-                                "dateDebutCible": "2019-01-01"
+                                "datePubliTexte": "2022-10-20",
+                                "dateSignaTexte": "2022-10-19",
+                                "dateDebutCible": "2022-10-21"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "R552-10",
-                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 311-3-1-1 et R. 311-3-1-2 Résultant du décret n° 2017-330 du 14 mars 2017 R. 311-8-1 et R. 311-8-2 Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques R. 311-10 et R. 311-11 Résultant du décret n° 2015-1342 R. 311-13 Résultant du décret n° 2015-1342 R. 312-6 Résultant du décret n° 2015-1342 du 23 octobre 2015 R. 312-7 Résultant du décret n° 2018-1047 du 28 novembre 2018 Titre II R. 321-5 à R. 321-8 Résultant du décret n° 2017-331 du 14 mars 2017 R. 322-3 Résultant du décret n° 2016-308 R. 322-7 Résultant du décret n° 2016-308 R. 323-3 et R. 323-4 Résultant du décret n° 2016-308 R. 323-6 et R. 323-7 Résultant du décret n° 2016-308 R. 324-4-1 à R. 324-4-5 Résultant du décret n° 2016-1036 R. 324-6-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 324-7 Résultant du décret n° 2016-308 R. 325-5 Résultant du décret n° 2016-308 Titre III R. 330-2 à R. 330-4 Résultant du décret n° 2015-1342 Titre IV R. 341-2-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-3 à R. 341-5 Résultant du décret n° 2015-1342 R. 341-5-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-6 résultant du décret n° 2015-1342 R. 341-7 Résultant du décret n° 2016-308 R. 341-8 Résultant du décret n° 2015-1342 R. 341-9 Résultant du décret n° 2016-308 R. 341-16 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-17 Résultant du décret n° 2015-1342 R. 342-4-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 342-5 Résultant du décret n° 2015-1342 R. 343-1 à R. 343-3 Résultant du décret n° 2015-1342 R. 343-5 à R. 343-12 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td align='left'>R. 311-3-1-1 et R. 311-3-1-2</td><td align='left'>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034194929&categorieLien=cid'>décret n° 2017-330</a> du 14 mars 2017</td></tr><tr><td align='left'>R. 311-8-1 et R. 311-8-2</td><td align='left'>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td></tr><tr><td>R. 311-10 et R. 311-11</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 311-13</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 312-6</td><td>Résultant du décret n° 2015-1342 du 23 octobre 2015</td></tr><tr><td>R. 312-7</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. 321-5 à R. 321-8</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034194946&categorieLien=cid'>décret n° 2017-331 du 14 mars 2017 </a></td></tr><tr><td>R. 322-3</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 322-7</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 323-3 et R. 323-4</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 323-6 et R. 323-7</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 324-4-1 à R. 324-4-5</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032948847&categorieLien=cid'>décret n° 2016-1036 </a></td></tr><tr><td>R. 324-6-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 324-7</td><td><p>Résultant du décret n° 2016-308 </p></td></tr><tr><td>R. 325-5</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre III</td><td align='left'></td></tr><tr><td>R. 330-2 à R. 330-4</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td>R. 341-2-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 341-3 à R. 341-5</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td>R. 341-5-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 341-6</td><td>résultant du décret n° 2015-1342 </td></tr><tr><td>R. 341-7</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 341-8</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 341-9</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></td></tr><tr><td>R. 341-16</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000033451352&categorieLien=cid'>décret n° 2016-1564 du 21 novembre 2016 </a></td></tr><tr><td>R. 341-17</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 342-4-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 342-5</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 343-1 à R. 343-3</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 343-5 à R. 343-12</td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
+                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 311-3-1-1 et R. 311-3-1-2 Résultant du décret n° 2017-330 du 14 mars 2017 R. 311-8-1 et R. 311-8-2 Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques R. 311-10 et R. 311-11 Résultant du décret n° 2015-1342 R. 311-13 Résultant du décret n° 2015-1342 R. 312-6 Résultant du décret n° 2015-1342 du 23 octobre 2015 R. 312-7 Résultant du décret n° 2018-1047 du 28 novembre 2018 Titre II R. 321-5 à R. 321-8 Résultant du décret n° 2017-331 du 14 mars 2017 R. 322-3 Résultant du décret n° 2016-308 R. 322-7 Résultant du décret n° 2016-308 R. 323-3 Résultant du décret n° 2016-308 R. 323-7 Résultant du décret n° 2016-308 R. 324-4-1 à R. 324-4-5 Résultant du décret n° 2016-1036 R. 324-6-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 324-7 Résultant du décret n° 2016-308 R. 325-5 Résultant du décret n° 2016-308 Titre III R. 330-2 à R. 330-4 Résultant du décret n° 2015-1342 Titre IV R. 341-2-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-3 à R. 341-5 Résultant du décret n° 2015-1342 R. 341-5-1 Résultant du décret n° 2022-1335 du 19 octobre 2022 R. 341-6 résultant du décret n° 2015-1342 R. 341-7 Résultant du décret n° 2016-308 R. 341-8 Résultant du décret n° 2015-1342 R. 341-9 Résultant du décret n° 2016-308 R. 341-16 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-17 Résultant du décret n° 2015-1342 R. 342-4-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 342-5 Résultant du décret n° 2015-1342 R. 343-1 à R. 343-3 Résultant du décret n° 2015-1342 R. 343-3-1 à R. 343-3-2 Résultant du décret n° 2022-1335 du 19 octobre 2022 R. 343-5 à R. 343-12 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1' align='center'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td align='left'>R. 311-3-1-1 et R. 311-3-1-2</td><td align='left'>Résultant du décret n° 2017-330 du 14 mars 2017</td></tr><tr><td align='left'>R. 311-8-1 et R. 311-8-2</td><td align='left'>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td></tr><tr><td>R. 311-10 et R. 311-11</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 311-13</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 312-6</td><td>Résultant du décret n° 2015-1342 du 23 octobre 2015</td></tr><tr><td>R. 312-7</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. 321-5 à R. 321-8</td><td>Résultant du décret n° 2017-331 du 14 mars 2017 </td></tr><tr><td>R. 322-3</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 322-7</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 323-3</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 323-7</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 324-4-1 à R. 324-4-5</td><td>Résultant du décret n° 2016-1036 </td></tr><tr><td>R. 324-6-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 324-7</td><td><p>Résultant du décret n° 2016-308 </p></td></tr><tr><td>R. 325-5</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre III</td><td align='left'></td></tr><tr><td>R. 330-2 à R. 330-4</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td>R. 341-2-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 341-3 à R. 341-5</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 341-5-1</td><td>Résultant du décret n° 2022-1335 du 19 octobre 2022</td></tr><tr><td>R. 341-6</td><td>résultant du décret n° 2015-1342 </td></tr><tr><td>R. 341-7</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 341-8</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 341-9</td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R. 341-16</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 341-17</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 342-4-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td></tr><tr><td>R. 342-5</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 343-1 à R. 343-3</td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td>R. 343-3-1 à R. 343-3-2</td><td>Résultant du décret n° 2022-1335 du 19 octobre 2022</td></tr><tr><td>R. 343-5 à R. 343-12</td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>"
                           },
                           "type": "article"
                         },
@@ -25864,21 +25857,30 @@
                               },
                               {
                                 "id": "LEGIARTI000032261823",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "2.0",
                                 "dateDebut": 1458345600000,
+                                "dateFin": 1666310400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000046452273",
+                                "etat": "VIGUEUR",
+                                "version": "3.0",
+                                "dateDebut": 1666310400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370767",
-                            "dateDebut": 1458345600000,
+                            "dateDebut": 1666310400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000032261823",
+                            "id": "LEGIARTI000046452273",
                             "intOrdre": 1342177279,
                             "lienModifications": [
                               {
@@ -25894,23 +25896,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000032242493",
-                                "textTitle": "Décret n°2016-308 du 17 mars 2016 - art. 5",
+                                "textCid": "JORFTEXT000046446779",
+                                "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 4",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "5",
-                                "articleId": "LEGIARTI000032252848",
+                                "articleNum": "4",
+                                "articleId": "LEGIARTI000046447972",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2016-03-18",
-                                "dateSignaTexte": "2016-03-17",
-                                "dateDebutCible": "2016-03-19"
+                                "datePubliTexte": "2022-10-20",
+                                "dateSignaTexte": "2022-10-19",
+                                "dateDebutCible": "2022-10-21"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "R*562-9",
-                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R.*311-12 Résultant du décret n° 2015-1342 Titre II R.* 322-4 Résultant du décret n° 2016-308 R.* 323-5 Résultant du décret n° 2016-308 R.* 325-6 Résultant du décret n° 2016-308 Titre IV R.*343-4 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES <br/></th><th>DANS LEUR RÉDACTION <br/></th></tr><tr><td align='left'>Titre Ier <br/></td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370407&dateTexte=&categorieLien=cid'>R.*311-12 </a><br/></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a><br/></td></tr><tr><td><p></p></td><td></td></tr><tr><td>Titre II <br/></td><td></td></tr><tr><td>R.* 322-4 </td><td>Résultant du décret n° 2016-308 </td></tr><tr><td>R.* 323-5 </td><td>Résultant du décret n° 2016-308 <br/></td></tr><tr><td>R.* 325-6 </td><td>Résultant du décret n° 2016-308 <br/></td></tr><tr><td><p></p></td><td></td></tr><tr><td align='left'>Titre IV <br/></td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370513&dateTexte=&categorieLien=cid'>R.*343-4</a><br/></td><td>Résultant du décret n° 2015-1342<br/></td></tr></tbody></table></center></div>"
+                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R.*311-12 Résultant du décret n° 2015-1342 Titre II R.* 322-4 Résultant du décret n° 2016-308 R.* 325-6 Résultant du décret n° 2016-308 Titre IV R.*343-4 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><p></p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370407&dateTexte=&categorieLien=cid'>R.*311-12 </a></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R.* 322-4</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R.* 325-6</td><td>Résultant du décret n° 2016-308</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370513&dateTexte=&categorieLien=cid'>R.*343-4</a></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         },
@@ -25991,41 +25993,50 @@
                               },
                               {
                                 "id": "LEGIARTI000037676566",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "9.0",
                                 "dateDebut": 1546300800000,
+                                "dateFin": 1666310400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000046452224",
+                                "etat": "VIGUEUR",
+                                "version": "10.0",
+                                "dateDebut": 1666310400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370769",
-                            "dateDebut": 1546300800000,
+                            "dateDebut": 1666310400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000037676566",
+                            "id": "LEGIARTI000046452224",
                             "intOrdre": 1610612735,
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000037662501",
-                                "textTitle": "Décret n°2018-1047 du 28 novembre 2018 - art. 5",
+                                "textCid": "JORFTEXT000046446779",
+                                "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 4",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "5",
-                                "articleId": "LEGIARTI000037664964",
+                                "articleNum": "4",
+                                "articleId": "LEGIARTI000046447972",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2018-11-30",
-                                "dateSignaTexte": "2018-11-28",
-                                "dateDebutCible": "2019-01-01"
+                                "datePubliTexte": "2022-10-20",
+                                "dateSignaTexte": "2022-10-19",
+                                "dateDebutCible": "2022-10-21"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "R562-10",
-                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 311-3-1-1 et R. 311-3-1-2 Résultant du décret n° 2017-330 du 14 mars 2017 R. 311-8-1 et R. 311-8-2 Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques R. 311-10 et R. 311-11 Résultant du décret n° 2015-1342 R. 311-13 Résultant du décret n° 2015-1342 R. 312-6 Résultant du décret n° 2015-1342 du 23 octobre 2015 R. 312-7 Résultant du décret n° 2018-1047 du 28 novembre 2018 Titre II R. 321-5 à R. 321-8 Résultant du décret n° 2017-331 du 14 mars 2017 R. 322-3 Résultant du décret n° 2016-308 R. 322-7 Résultant du décret n° 2016-308 R. 323-3 et R. 323-4 Résultant du décret n° 2016-308 R. 323-6 et R. 323-7 Résultant du décret n° 2016-308 R. 324-4-1 à R. 324-4-5 Résultant du décret n° 2016-1036 R. 324-6-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 324-7 Résultant du décret n° 2016-308 R. 325-5 Résultant du décret n° 2016-308 Titre III R. 330-2 à R. 330-4 Résultant du décret n° 2015-1342 Titre IV R. 341-2-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-3 à R. 341-5 Résultant du décret n° 2015-1342 R. 341-5-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-6 Résultant du décret n° 2015-1342 R. 341-7 Résultant du décret n° 2016-308 R. 341-8 Résultant du décret n° 2015-1342 R. 341-9 Résultant du décret n° 2016-308 R. 341-16 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-17 Résultant du décret n° 2015-1342 R. 342-4-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 342-5 Résultant du décret n° 2015-1342 R. 343-1 à R. 343-3 Résultant du décret n° 2015-1342 R. 343-5 à R. 343-12 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td>R. 311-3-1-1 et R. 311-3-1-2</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034194929&categorieLien=cid'>décret n° 2017-330</a> du 14 mars 2017</td></tr><tr><td>R. 311-8-1 et R. 311-8-2</td><td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370403&dateTexte=&categorieLien=cid'>R. 311-10 et R. 311-11 </a></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370409&dateTexte=&categorieLien=cid'>R. 311-13 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 312-6</td><td>Résultant du décret n° 2015-1342 du 23 octobre 2015</td></tr><tr><td>R. 312-7</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. 321-5 à R. 321-8</td><td>Résultant du décret n° 2017-331 du 14 mars 2017</td></tr><tr><td>R. 322-3</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></td></tr><tr><td>R. 322-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-3 et R. 323-4</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-6 et R. 323-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032951667&dateTexte=&categorieLien=cid'>R. 324-4-1 à R. 324-4-5 </a></td><td>Résultant du décret n° 2016-1036</td></tr><tr><td>R. 324-6-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 324-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 325-5</td><td>Résultant du décret n° 2016-308</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre III</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370449&dateTexte=&categorieLien=cid'>R. 330-2 à R. 330-4 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td>R. 341-2-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-3 à R. 341-5</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-5-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-6</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 341-8</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-9</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 341-16</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-17</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 342-4-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 342-5</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370507&dateTexte=&categorieLien=cid'>R. 343-1 à R. 343-3 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370515&dateTexte=&categorieLien=cid'>R. 343-5 à R. 343-12 </a></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
+                            "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 311-3-1-1 et R. 311-3-1-2 Résultant du décret n° 2017-330 du 14 mars 2017 R. 311-8-1 et R. 311-8-2 Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques R. 311-10 et R. 311-11 Résultant du décret n° 2015-1342 R. 311-13 Résultant du décret n° 2015-1342 R. 312-6 Résultant du décret n° 2015-1342 du 23 octobre 2015 R. 312-7 Résultant du décret n° 2018-1047 du 28 novembre 2018 Titre II R. 321-5 à R. 321-8 Résultant du décret n° 2017-331 du 14 mars 2017 R. 322-3 Résultant du décret n° 2016-308 R. 322-7 Résultant du décret n° 2016-308 R. 323-3 Résultant du décret n° 2016-308 R. 323-7 Résultant du décret n° 2016-308 R. 324-4-1 à R. 324-4-5 Résultant du décret n° 2016-1036 R. 324-6-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 324-7 Résultant du décret n° 2016-308 R. 325-5 Résultant du décret n° 2016-308 Titre III R. 330-2 à R. 330-4 Résultant du décret n° 2015-1342 Titre IV R. 341-2-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-3 à R. 341-5 Résultant du décret n° 2015-1342 R. 341-5-1 Résultant du décret n° 2022-1335 du 19 octobre 2022R. 341-6Résultant du décret n° 2015-1342R. 341-7Résultant du décret n° 2016-308R. 341-8Résultant du décret n° 2015-1342R. 341-9Résultant du décret n° 2016-308R. 341-16Résultant du décret n° 2016-1564 du 21 novembre 2016R. 341-17Résultant du décret n° 2015-1342R. 342-4-1Résultant du décret n° 2016-1564 du 21 novembre 2016R. 342-5Résultant du décret n° 2015-1342R. 343-1 à R. 343-3Résultant du décret n° 2015-1342R. 343-3-1 à R. 343-3-2Résultant du décret n° 2022-1335 du 19 octobre 2022 R. 343-5 à R. 343-12 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td>R. 311-3-1-1 et R. 311-3-1-2</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000034194929&categorieLien=cid'>décret n° 2017-330</a> du 14 mars 2017</td></tr><tr><td>R. 311-8-1 et R. 311-8-2</td><td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370403&dateTexte=&categorieLien=cid'>R. 311-10 et R. 311-11 </a></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370409&dateTexte=&categorieLien=cid'>R. 311-13 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 312-6</td><td>Résultant du décret n° 2015-1342 du 23 octobre 2015</td></tr><tr><td>R. 312-7</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. 321-5 à R. 321-8</td><td>Résultant du décret n° 2017-331 du 14 mars 2017</td></tr><tr><td>R. 322-3</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></td></tr><tr><td>R. 322-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-3</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032951667&dateTexte=&categorieLien=cid'>R. 324-4-1 à R. 324-4-5 </a></td><td>Résultant du décret n° 2016-1036</td></tr><tr><td>R. 324-6-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 324-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 325-5</td><td>Résultant du décret n° 2016-308</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre III</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370449&dateTexte=&categorieLien=cid'>R. 330-2 à R. 330-4 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td>R. 341-2-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-3 à R. 341-5</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-5-1</td><td>Résultant du </td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>décret n° 2022-1335 du 19 octobre 2022R. 341-6Résultant du décret n° 2015-1342R. 341-7Résultant du décret n° 2016-308R. 341-8Résultant du décret n° 2015-1342R. 341-9Résultant du décret n° 2016-308R. 341-16Résultant du décret n° 2016-1564 du 21 novembre 2016R. 341-17Résultant du décret n° 2015-1342R. 342-4-1Résultant du décret n° 2016-1564 du 21 novembre 2016R. 342-5Résultant du décret n° 2015-1342R. 343-1 à R. 343-3Résultant du décret n° 2015-1342R. 343-3-1 à R. 343-3-2Résultant du décret n° 2022-1335 du 19 octobre 2022</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370515&dateTexte=&categorieLien=cid'>R. 343-5 à R. 343-12 </a></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         },
@@ -27974,21 +27985,30 @@
                           },
                           {
                             "id": "LEGIARTI000032261880",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "2.0",
                             "dateDebut": 1458345600000,
+                            "dateFin": 1666310400000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000046452260",
+                            "etat": "VIGUEUR",
+                            "version": "3.0",
+                            "dateDebut": 1666310400000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000031370831",
-                        "dateDebut": 1458345600000,
+                        "dateDebut": 1666310400000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000032261880",
+                        "id": "LEGIARTI000046452260",
                         "intOrdre": 1342177279,
                         "lienModifications": [
                           {
@@ -28004,23 +28024,23 @@
                             "dateDebutCible": null
                           },
                           {
-                            "textCid": "JORFTEXT000032242493",
-                            "textTitle": "Décret n°2016-308 du 17 mars 2016 - art. 5",
+                            "textCid": "JORFTEXT000046446779",
+                            "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 4",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "5",
-                            "articleId": "LEGIARTI000032252848",
+                            "articleNum": "4",
+                            "articleId": "LEGIARTI000046447972",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2016-03-18",
-                            "dateSignaTexte": "2016-03-17",
-                            "dateDebutCible": "2016-03-19"
+                            "datePubliTexte": "2022-10-20",
+                            "dateSignaTexte": "2022-10-19",
+                            "dateDebutCible": "2022-10-21"
                           }
                         ],
                         "nota": "",
                         "notaHtml": "",
                         "num": "R*574-2",
-                        "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. *311-12 Résultant du décret n° 2015-1342 Titre II R. * 322-4 Résultant du décret n° 2016-308 R. * 323-5 Résultant du décret n° 2016-308 R. * 325-6 Résultant du décret n° 2016-308 Titre IV R. *343-4 Résultant du décret n° 2015-1342",
-                        "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><p></p><p></p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES <br/></th><th>DANS LEUR RÉDACTION <br/></th></tr><tr><td align='left'>Titre Ier <br/></td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370407&dateTexte=&categorieLien=cid'>R. *311-12 </a><br/></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a><br/></td></tr><tr><td><p></p></td><td></td></tr><tr><td>Titre II <br/></td><td></td></tr><tr><td>R. * 322-4 </td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308</a></td></tr><tr><td>R. * 323-5 </td><td>Résultant du décret n° 2016-308 <br/></td></tr><tr><td>R. * 325-6 <br/></td><td>Résultant du décret n° 2016-308 <br/></td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV <br/></td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370513&dateTexte=&categorieLien=cid'>R. *343-4 </a><br/></td><td>Résultant du décret n° 2015-1342<br/></td></tr></tbody></table></center></div>"
+                        "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. *311-12 Résultant du décret n° 2015-1342 Titre II R. * 322-4 Résultant du décret n° 2016-308 R. * 325-6 Résultant du décret n° 2016-308 Titre IV R. *343-4 Résultant du décret n° 2015-1342",
+                        "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370407&dateTexte=&categorieLien=cid'>R. *311-12 </a></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. * 322-4</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308</a></td></tr><tr><td>R. * 325-6</td><td>Résultant du décret n° 2016-308</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370513&dateTexte=&categorieLien=cid'>R. *343-4 </a></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                       },
                       "type": "article"
                     },
@@ -28101,41 +28121,50 @@
                           },
                           {
                             "id": "LEGIARTI000037676551",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "9.0",
                             "dateDebut": 1546300800000,
+                            "dateFin": 1666310400000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000046452245",
+                            "etat": "VIGUEUR",
+                            "version": "10.0",
+                            "dateDebut": 1666310400000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000031370833",
-                        "dateDebut": 1546300800000,
+                        "dateDebut": 1666310400000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000037676551",
+                        "id": "LEGIARTI000046452245",
                         "intOrdre": 1610612735,
                         "lienModifications": [
                           {
-                            "textCid": "JORFTEXT000037662501",
-                            "textTitle": "Décret n°2018-1047 du 28 novembre 2018 - art. 5",
+                            "textCid": "JORFTEXT000046446779",
+                            "textTitle": "Décret n°2022-1335 du 19 octobre 2022 - art. 4",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "5",
-                            "articleId": "LEGIARTI000037664964",
+                            "articleNum": "4",
+                            "articleId": "LEGIARTI000046447972",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2018-11-30",
-                            "dateSignaTexte": "2018-11-28",
-                            "dateDebutCible": "2019-01-01"
+                            "datePubliTexte": "2022-10-20",
+                            "dateSignaTexte": "2022-10-19",
+                            "dateDebutCible": "2022-10-21"
                           }
                         ],
                         "nota": "",
                         "notaHtml": "",
                         "num": "R574-3",
-                        "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 311-3-1-1 et R. 311-3-1-2 Résultant du décret n° 2017-330 du 14 mars 2017 R. 311-8-1 et R. 311-8-2 Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques R. 311-10 et R. 311-11 Résultant du décret n° 2015-1342 R. 311-13 Résultant du décret n° 2015-1342 R. 312-3-1 Résultant du décret n° 2018-1047 du 28 novembre 2018 R. 312-4 à R. 312-6 Résultant du décret n° 2015-1342 du 23 octobre 2015 R. 312-7 à R. 312-10 Résultant du décret n° 2018-1047 du 28 novembre 2018 Titre II R. 321-5 à R. 321-8 Résultant du décret n° 2017-331 du 14 mars 2017 R. 322-3 Résultant du décret n° 2016-308 R. 322-7 Résultant du décret n° 2016-308 R. 323-3 et R. 323-4 Résultant du décret n° 2016-308 R. 323-6 et R. 323-7 Résultant du décret n° 2016-308 R. 324-4-1 à R. 324-4-5 Résultant du décret n° 2016-1036 R. 324-6-1 résultant du décret n° 2016-1564 du 21 novembre 2016 R. 324-7 Résultant du décret n° 2016-308 R. 325-5 Résultant du décret n° 2016-308 Titre III R. 330-2 à R. 330-4 Résultant du décret n° 2015-1342 Titre IV R. 341-2-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-3 à R. 341-5 Résultant du décret n° 2015-1342 R. 341-5-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-6 Résultant du décret n° 2015-1342 R. 341-7 Résultant du décret n° 2016-308 R. 341-8 Résultant du décret n° 2015-1342 R. 341-9 Résultant du décret n° 2016-308 R. 341-16 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-17 Résultant du décret n° 2015-1342 R. 342-4-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 342-5 Résultant du décret n° 2015-1342 R. 343-1 à R. 343-3 Résultant du décret n° 2015-1342 R. 343-5 à R. 343-12 Résultant du décret n° 2015-1342",
-                        "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td>R. 311-3-1-1 et R. 311-3-1-2</td><td>Résultant du décret n° 2017-330 du 14 mars 2017</td></tr><tr><td>R. 311-8-1 et R. 311-8-2</td><td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370403&dateTexte=&categorieLien=cid'>R. 311-10 et R. 311-11 </a></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370409&dateTexte=&categorieLien=cid'>R. 311-13 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 312-3-1</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td>R. 312-4 à R. 312-6</td><td>Résultant du décret n° 2015-1342 du 23 octobre 2015</td></tr><tr><td>R. 312-7 à R. 312-10</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. 321-5 à R. 321-8</td><td>Résultant du décret n° 2017-331 du 14 mars 2017</td></tr><tr><td>R. 322-3</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></td></tr><tr><td>R. 322-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-3 et R. 323-4</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-6 et R. 323-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032951667&dateTexte=&categorieLien=cid'>R. 324-4-1 à R. 324-4-5</a></td><td>Résultant du décret n° 2016-1036</td></tr><tr><td>R. 324-6-1</td><td>résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 324-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 325-5</td><td>Résultant du décret n° 2016-308</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre III</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370449&dateTexte=&categorieLien=cid'>R. 330-2 à R. 330-4 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td>R. 341-2-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-3 à R. 341-5</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-5-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-6</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 341-8</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-9</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 341-16</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-17</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 342-4-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 342-5</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370507&dateTexte=&categorieLien=cid'>R. 343-1 à R. 343-3 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370515&dateTexte=&categorieLien=cid'>R. 343-5 à R. 343-12 </a></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
+                        "texte": "Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 311-3-1-1 et R. 311-3-1-2 Résultant du décret n° 2017-330 du 14 mars 2017 R. 311-8-1 et R. 311-8-2 Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques R. 311-10 et R. 311-11 Résultant du décret n° 2015-1342 R. 311-13 Résultant du décret n° 2015-1342 R. 312-3-1 Résultant du décret n° 2018-1047 du 28 novembre 2018 R. 312-4 à R. 312-6 Résultant du décret n° 2015-1342 du 23 octobre 2015 R. 312-7 à R. 312-10 Résultant du décret n° 2018-1047 du 28 novembre 2018 Titre II R. 321-5 à R. 321-8 Résultant du décret n° 2017-331 du 14 mars 2017 R. 322-3 Résultant du décret n° 2016-308 R. 322-7 Résultant du décret n° 2016-308 R. 323-3 Résultant du décret n° 2016-308 R. 323-7 Résultant du décret n° 2016-308 R. 324-4-1 à R. 324-4-5 Résultant du décret n° 2016-1036 R. 324-6-1 résultant du décret n° 2016-1564 du 21 novembre 2016 R. 324-7 Résultant du décret n° 2016-308 R. 325-5 Résultant du décret n° 2016-308 Titre III R. 330-2 à R. 330-4 Résultant du décret n° 2015-1342 Titre IV R. 341-2-1 Résultant du décret n° 2016-1564 du 21 novembre 2016 R. 341-3 à R. 341-5 Résultant du décret n° 2015-1342 R. 341-5-1 Résultant du décret n° 2022-1335 du 19 octobre 2022R. 341-6Résultant du décret n° 2015-1342R. 341-7Résultant du décret n° 2016-308R. 341-8Résultant du décret n° 2015-1342R. 341-9Résultant du décret n° 2016-308R. 341-16Résultant du décret n° 2016-1564 du 21 novembre 2016R. 341-17Résultant du décret n° 2015-1342R. 342-4-1Résultant du décret n° 2016-1564 du 21 novembre 2016R. 342-5Résultant du décret n° 2015-1342R. 343-1 à R. 343-3Résultant du  décret n° 2015-1342R. 343-3-1 à R. 343-3-2Résultant du décret n° 2022-1335 du 19 octobre 2022 R. 343-5 à R. 343-12 Résultant du décret n° 2015-1342",
+                        "texteHtml": "<p>Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.</p><center><table border='1'><tbody><tr><th>DISPOSITIONS APPLICABLES</th><th>DANS LEUR RÉDACTION</th></tr><tr><td align='left'>Titre Ier</td><td align='left'></td></tr><tr><td>R. 311-3-1-1 et R. 311-3-1-2</td><td>Résultant du décret n° 2017-330 du 14 mars 2017</td></tr><tr><td>R. 311-8-1 et R. 311-8-2</td><td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370403&dateTexte=&categorieLien=cid'>R. 311-10 et R. 311-11 </a></td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid'>décret n° 2015-1342 </a></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370409&dateTexte=&categorieLien=cid'>R. 311-13 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 312-3-1</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td>R. 312-4 à R. 312-6</td><td>Résultant du décret n° 2015-1342 du 23 octobre 2015</td></tr><tr><td>R. 312-7 à R. 312-10</td><td>Résultant du décret n° 2018-1047 du 28 novembre 2018</td></tr><tr><td></td><td></td></tr><tr><td>Titre II</td><td></td></tr><tr><td>R. 321-5 à R. 321-8</td><td>Résultant du décret n° 2017-331 du 14 mars 2017</td></tr><tr><td>R. 322-3</td><td>Résultant du <a href='/affichTexte.do?cidTexte=JORFTEXT000032242493&categorieLien=cid'>décret n° 2016-308 </a></td></tr><tr><td>R. 322-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-3</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 323-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032951667&dateTexte=&categorieLien=cid'>R. 324-4-1 à R. 324-4-5</a></td><td>Résultant du décret n° 2016-1036</td></tr><tr><td>R. 324-6-1</td><td>résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 324-7</td><td>Résultant du décret n° 2016-308</td></tr><tr><td>R. 325-5</td><td>Résultant du décret n° 2016-308</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre III</td><td align='left'></td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370449&dateTexte=&categorieLien=cid'>R. 330-2 à R. 330-4 </a></td><td>Résultant du décret n° 2015-1342</td></tr><tr><td></td><td></td></tr><tr><td align='left'>Titre IV</td><td align='left'></td></tr><tr><td>R. 341-2-1</td><td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td></tr><tr><td>R. 341-3 à R. 341-5</td><td>Résultant du décret n° 2015-1342</td></tr><tr><td>R. 341-5-1</td><td>Résultant du </td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>décret n° 2022-1335 du 19 octobre 2022R. 341-6Résultant du décret n° 2015-1342R. 341-7Résultant du décret n° 2016-308R. 341-8Résultant du décret n° 2015-1342R. 341-9Résultant du décret n° 2016-308R. 341-16Résultant du décret n° 2016-1564 du 21 novembre 2016R. 341-17Résultant du décret n° 2015-1342R. 342-4-1Résultant du décret n° 2016-1564 du 21 novembre 2016R. 342-5Résultant du décret n° 2015-1342R. 343-1 à R. 343-3Résultant du  décret n° 2015-1342R. 343-3-1 à R. 343-3-2Résultant du décret n° 2022-1335 du 19 octobre 2022</td></tr><tr><td><a href='/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370515&dateTexte=&categorieLien=cid'>R. 343-5 à R. 343-12 </a></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                       },
                       "type": "article"
                     },
