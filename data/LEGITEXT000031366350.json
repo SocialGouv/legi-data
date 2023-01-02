@@ -5,9 +5,9 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2022-12-18",
-    "dateDebutVersion": "2022-12-18",
-    "dateFinVersion": "2023-01-01"
+    "dateModif": "2023-01-01",
+    "dateDebutVersion": "2023-01-01",
+    "dateFinVersion": "2999-01-01"
   },
   "type": "code",
   "children": [
@@ -3471,32 +3471,32 @@
                           }
                         ],
                         "cid": "LEGIARTI000038029871",
-                        "dateDebut": 1548028800000,
+                        "dateDebut": 1672531200000,
                         "dateDebutExtension": 32472144000000,
-                        "dateFin": 1672531200000,
+                        "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
-                        "etat": "ABROGE_DIFF",
-                        "id": "LEGIARTI000038029876",
+                        "etat": "VIGUEUR_DIFF",
+                        "id": "LEGIARTI000046074358",
                         "intOrdre": 1744830463,
                         "lienModifications": [
                           {
-                            "textCid": "JORFTEXT000038029589",
-                            "textTitle": "Décret n°2019-31 du 18 janvier 2019 - art. 1",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000046061058",
+                            "textTitle": "Décret n°2022-1014 du 19 juillet 2022 - art. 18",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "1",
-                            "articleId": "LEGIARTI000038029839",
+                            "articleNum": "18",
+                            "articleId": "LEGIARTI000046062261",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2019-01-20",
-                            "dateSignaTexte": "2019-01-18",
-                            "dateDebutCible": "2019-01-21"
+                            "datePubliTexte": "2022-07-20",
+                            "dateSignaTexte": "2022-07-19",
+                            "dateDebutCible": "2022-07-21"
                           }
                         ],
-                        "nota": "Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux procédures engagées postérieurement à l'entrée en vigueur dudit décret.",
-                        "notaHtml": "<p>Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux procédures engagées postérieurement à l'entrée en vigueur dudit décret.</p>",
+                        "nota": "Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.",
+                        "notaHtml": "<p>Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.</p>",
                         "num": "R114-9-1",
-                        "texte": "Lorsqu'elles portent sur des informations relatives aux entreprises et aux organismes à but non lucratif, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants : 1° Identité de l'entreprise ou de l'organisme à but non lucratif : a) Agence centrale des organismes de sécurité sociale, pour les informations relatives aux professions libérales ; b) Institut national de la propriété industrielle, pour celles du répertoire national du commerce et des sociétés ainsi que les statuts et bilans ; c) Institut national de la statistique et des études économiques, pour celles du répertoire des entreprises et de leurs établissements ; d) Greffes des tribunaux de commerce, pour celles du registre du commerce et des sociétés ainsi que les statuts et bilans ; e) Préfectures de département et direction de la jeunesse, de l'éducation populaire et de la vie associative, pour celles concernant les statuts et l'identité des dirigeants des organismes à but non lucratif ; 2° Situation fiscale de l'entreprise ou de l'organisme à but non lucratif, à la direction générale des finances publiques ; 3° Situation sociale de l'entreprise ou de l'organisme à but non lucratif et données relatives à ses salariés et dirigeants sociaux, aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale et à la direction de l'animation de la recherche, des études et des statistiques du ministère en charge du travail ; 4° Accréditations ou agréments, à toutes les administrations et organismes chargés d'une mission de service public qui les délivrent ; 5° Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail, à l'association de gestion du fonds de développement pour l'insertion professionnelle des handicapés ; 6° Détention d'un numéro EORI (Economic Operator Registration and Identification) en application du règlement (CE) n° 312/2009 du 16 avril 2009 relatif à l'attribution d'un numéro unique d'identifiant communautaire pour les opérateurs économiques devant accomplir des formalités douanières, à la direction générale des douanes et des droits indirects ; 7° Protection liée aux marques, brevets, dessins et modèles déposés, à l'Institut national de la propriété industrielle ; 8° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance.",
-                        "texteHtml": "<p>Lorsqu'elles portent sur des informations relatives aux entreprises et aux organismes à but non lucratif, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants : <br clear='none'/><br clear='none'/>1° Identité de l'entreprise ou de l'organisme à but non lucratif : <br clear='none'/><br clear='none'/>a) Agence centrale des organismes de sécurité sociale, pour les informations relatives aux professions libérales ; <br clear='none'/><br clear='none'/>b) Institut national de la propriété industrielle, pour celles du répertoire national du commerce et des sociétés ainsi que les statuts et bilans ; <br clear='none'/><br clear='none'/>c) Institut national de la statistique et des études économiques, pour celles du répertoire des entreprises et de leurs établissements ; <br clear='none'/><br clear='none'/>d) Greffes des tribunaux de commerce, pour celles du registre du commerce et des sociétés ainsi que les statuts et bilans ; <br clear='none'/><br clear='none'/>e) Préfectures de département et direction de la jeunesse, de l'éducation populaire et de la vie associative, pour celles concernant les statuts et l'identité des dirigeants des organismes à but non lucratif ; <br clear='none'/><br clear='none'/>2° Situation fiscale de l'entreprise ou de l'organisme à but non lucratif, à la direction générale des finances publiques ; <br clear='none'/><br clear='none'/>3° Situation sociale de l'entreprise ou de l'organisme à but non lucratif et données relatives à ses salariés et dirigeants sociaux, aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale et à la direction de l'animation de la recherche, des études et des statistiques du ministère en charge du travail ; <br clear='none'/><br clear='none'/>4° Accréditations ou agréments, à toutes les administrations et organismes chargés d'une mission de service public qui les délivrent ; <br clear='none'/><br clear='none'/>5° Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail, à l'association de gestion du fonds de développement pour l'insertion professionnelle des handicapés ; <br clear='none'/><br clear='none'/>6° Détention d'un numéro EORI (Economic Operator Registration and Identification) en application du règlement (CE) n° 312/2009 du 16 avril 2009 relatif à l'attribution d'un numéro unique d'identifiant communautaire pour les opérateurs économiques devant accomplir des formalités douanières, à la direction générale des douanes et des droits indirects ; <br clear='none'/><br clear='none'/>7° Protection liée aux marques, brevets, dessins et modèles déposés, à l'Institut national de la propriété industrielle ; <br clear='none'/><br clear='none'/>8° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance.</p>"
+                        "texte": "Lorsqu'elles portent sur des informations relatives aux entreprises et aux organismes à but non lucratif, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants : 1° Identité de l'entreprise ou de l'organisme à but non lucratif : a) Agence centrale des organismes de sécurité sociale, pour les informations relatives aux professions libérales ; b) Institut national de la propriété industrielle, pour celles du Registre national des entreprises ainsi que les statuts et bilans ; c) Institut national de la statistique et des études économiques, pour celles du répertoire des entreprises et de leurs établissements ; d) Greffes des tribunaux de commerce, pour celles du registre du commerce et des sociétés ainsi que les statuts et bilans ; e) Préfectures de département et direction de la jeunesse, de l'éducation populaire et de la vie associative, pour celles concernant les statuts et l'identité des dirigeants des organismes à but non lucratif ; 2° Situation fiscale de l'entreprise ou de l'organisme à but non lucratif, à la direction générale des finances publiques ; 3° Situation sociale de l'entreprise ou de l'organisme à but non lucratif et données relatives à ses salariés et dirigeants sociaux, aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale et à la direction de l'animation de la recherche, des études et des statistiques du ministère en charge du travail ; 4° Accréditations ou agréments, à toutes les administrations et organismes chargés d'une mission de service public qui les délivrent ; 5° Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail, à l'association de gestion du fonds de développement pour l'insertion professionnelle des handicapés ; 6° Détention d'un numéro EORI (Economic Operator Registration and Identification) en application du règlement (CE) n° 312/2009 du 16 avril 2009 relatif à l'attribution d'un numéro unique d'identifiant communautaire pour les opérateurs économiques devant accomplir des formalités douanières, à la direction générale des douanes et des droits indirects ; 7° Protection liée aux marques, brevets, dessins et modèles déposés, à l'Institut national de la propriété industrielle ; 8° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance.",
+                        "texteHtml": "<p>Lorsqu'elles portent sur des informations relatives aux entreprises et aux organismes à but non lucratif, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants :<br clear='none'/><br clear='none'/>\n1° Identité de l'entreprise ou de l'organisme à but non lucratif :<br clear='none'/><br clear='none'/>\na) Agence centrale des organismes de sécurité sociale, pour les informations relatives aux professions libérales ;<br clear='none'/><br clear='none'/>\nb) Institut national de la propriété industrielle, pour celles du Registre national des entreprises ainsi que les statuts et bilans ;<br clear='none'/><br clear='none'/>\nc) Institut national de la statistique et des études économiques, pour celles du répertoire des entreprises et de leurs établissements ;<br clear='none'/><br clear='none'/>\nd) Greffes des tribunaux de commerce, pour celles du registre du commerce et des sociétés ainsi que les statuts et bilans ;<br clear='none'/><br clear='none'/>\ne) Préfectures de département et direction de la jeunesse, de l'éducation populaire et de la vie associative, pour celles concernant les statuts et l'identité des dirigeants des organismes à but non lucratif ;<br clear='none'/><br clear='none'/>\n2° Situation fiscale de l'entreprise ou de l'organisme à but non lucratif, à la direction générale des finances publiques ;<br clear='none'/><br clear='none'/>\n3° Situation sociale de l'entreprise ou de l'organisme à but non lucratif et données relatives à ses salariés et dirigeants sociaux, aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale et à la direction de l'animation de la recherche, des études et des statistiques du ministère en charge du travail ;<br clear='none'/><br clear='none'/>\n4° Accréditations ou agréments, à toutes les administrations et organismes chargés d'une mission de service public qui les délivrent ;<br clear='none'/><br clear='none'/>\n5° Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail, à l'association de gestion du fonds de développement pour l'insertion professionnelle des handicapés ;<br clear='none'/><br clear='none'/>\n6° Détention d'un numéro EORI (Economic Operator Registration and Identification) en application du règlement (CE) n° 312/2009 du 16 avril 2009 relatif à l'attribution d'un numéro unique d'identifiant communautaire pour les opérateurs économiques devant accomplir des formalités douanières, à la direction générale des douanes et des droits indirects ;<br clear='none'/><br clear='none'/>\n7° Protection liée aux marques, brevets, dessins et modèles déposés, à l'Institut national de la propriété industrielle ;<br clear='none'/><br clear='none'/>\n8° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance.</p>"
                       },
                       "type": "article"
                     },
@@ -10151,41 +10151,62 @@
                               },
                               {
                                 "id": "LEGIARTI000031677720",
-                                "etat": "VIGUEUR",
+                                "etat": "ABROGE_DIFF",
                                 "version": "2.0",
                                 "dateDebut": 1451606400000,
+                                "dateFin": 1672531200000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000046790242",
+                                "etat": "VIGUEUR_DIFF",
+                                "version": "3.0",
+                                "dateDebut": 1672531200000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370299",
-                            "dateDebut": 1451606400000,
+                            "dateDebut": 1672531200000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
-                            "etat": "VIGUEUR",
-                            "id": "LEGIARTI000031677720",
+                            "etat": "VIGUEUR_DIFF",
+                            "id": "LEGIARTI000046790242",
                             "intOrdre": 2102744403,
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000031672333",
-                                "textTitle": "Décret n°2015-1717 du 22 décembre 2015 - art. 5",
+                                "textCid": "JORFTEXT000031361680",
+                                "textTitle": "DÉCRET n°2015-1342 du 23 octobre 2015 - art.",
+                                "linkType": "CODIFICATION",
+                                "linkOrientation": "source",
+                                "articleNum": "",
+                                "articleId": "",
+                                "natureText": "",
+                                "datePubliTexte": null,
+                                "dateSignaTexte": null,
+                                "dateDebutCible": null
+                              },
+                              {
+                                "textCid": "JORFTEXT000046778725",
+                                "textTitle": "Décret n°2022-1605 du 22 décembre 2022 - art. 3",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "5",
-                                "articleId": "LEGIARTI000031675351",
+                                "articleNum": "3",
+                                "articleId": "LEGIARTI000046781668",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2015-12-23",
-                                "dateSignaTexte": "2015-12-22",
-                                "dateDebutCible": "2016-01-01"
+                                "datePubliTexte": "2022-12-23",
+                                "dateSignaTexte": "2022-12-22",
+                                "dateDebutCible": "2022-12-24"
                               }
                             ],
-                            "nota": "",
-                            "notaHtml": "",
+                            "nota": "Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.",
+                            "notaHtml": "<p>Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.</p>",
                             "num": "R221-16",
-                            "texte": "Outre les actes mentionnés à l'article R. 221-15, ne peuvent être publiés au Journal officiel de la République française que dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche : 1° Les demandes de changement de nom ; 2° Les annonces judiciaires et légales mentionnant les condamnations pénales ; 3° Les arrêts mentionnés à l'article L. 314-20 du code des juridictions financières ; 4° Les sanctions administratives et disciplinaires ; 5° Les décisions abrogeant ou retirant une sanction mentionnée au 4°.",
-                            "texteHtml": "<p>Outre les actes mentionnés à l'article R. 221-15, ne peuvent être publiés au Journal officiel de la République française que dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche :</p><p>1° Les demandes de changement de nom ;</p><p>2° Les annonces judiciaires et légales mentionnant les condamnations pénales ;</p><p>3° Les arrêts mentionnés à l'article L. 314-20 du code des juridictions financières ;</p><p>4° Les sanctions administratives et disciplinaires ;</p><p>5° Les décisions abrogeant ou retirant une sanction mentionnée au 4°.</p>"
+                            "texte": "Outre les actes mentionnés à l'article R. 221-15, ne peuvent être publiés au Journal officiel de la République française que dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche : 1° Les demandes de changement de nom ; 2° Les annonces judiciaires et légales mentionnant les condamnations pénales ; 3° (Supprimé) ; 4° Les sanctions administratives et disciplinaires ; 5° Les décisions abrogeant ou retirant une sanction mentionnée au 4°.",
+                            "texteHtml": "<p>Outre les actes mentionnés à l'article R. 221-15, ne peuvent être publiés au Journal officiel de la République française que dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche :</p><p>1° Les demandes de changement de nom ;</p><p>2° Les annonces judiciaires et légales mentionnant les condamnations pénales ;</p><p>3° (Supprimé) ;</p><p>4° Les sanctions administratives et disciplinaires ;</p><p>5° Les décisions abrogeant ou retirant une sanction mentionnée au 4°.</p><p></p>"
                           },
                           "type": "article"
                         }
