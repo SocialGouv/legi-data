@@ -1,3 +1,10 @@
+# [2.259.0](https://github.com/SocialGouv/legi-data/compare/v2.258.0...v2.259.0) (2023-05-23)
+
+
+### Features
+
+* **data:** 20230523_0323 update ([fafce48](https://github.com/SocialGouv/legi-data/commit/fafce4896b9d917ca2658acd04c398610e90a5cf))
+
 # [2.258.0](https://github.com/SocialGouv/legi-data/compare/v2.257.0...v2.258.0) (2023-05-17)
 
 
