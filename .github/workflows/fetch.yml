@@ -26,6 +26,8 @@ jobs:
         env:
           OAUTH_CLIENT_ID: ${{ secrets.DILA_OAUTH_CLIENT_ID }}
           OAUTH_CLIENT_SECRET: ${{ secrets.DILA_OAUTH_CLIENT_SECRET }}
+          API_HOST: "https://api.piste.gouv.fr/dila/legifrance/lf-engine-app"
+          TOKEN_HOST: "https://oauth.piste.gouv.fr/api/oauth/token"
 
       - name: Get metadata
         id: metadata

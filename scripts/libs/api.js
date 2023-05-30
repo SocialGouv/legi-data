@@ -7,8 +7,8 @@ export async function getTableMatieres({ date = Date.now(), textId, sctId }) {
   return await dilaApi
     .fetch({
       method: "POST",
-      params: { date, sctId, textId },
-      path: "consult/code/tableMatieres",
+      params: { date, sctId, textId, nature: "CODE" },
+      path: "consult/legi/tableMatieres",
     })
     .then(checkApiResponse);
 }
