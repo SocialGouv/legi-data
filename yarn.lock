@@ -1180,13 +1180,13 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@socialgouv/dila-api-client@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@socialgouv/dila-api-client/-/dila-api-client-1.2.1.tgz#ea00c2142a144c34374fe08c222efbef50b3618f"
-  integrity sha512-PWqzyCuPeIwOzjW0xyrm7fnTZSvHlsBw6MC4ZJoMlXtVfba/EbcNh+pnBN3vhcf7SX8ztKkJ01uRR+k1px/Bnw==
+"@socialgouv/dila-api-client@^1.2.4":
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@socialgouv/dila-api-client/-/dila-api-client-1.2.4.tgz#56a00f2507fbf0ea8128fdffaa48aa6e8f5e4c42"
+  integrity sha512-mG7uXvwAHjPNme2X/3uYBCEffNQlOJiFT7/oscoHv5qWZ/QRyiBKjFeAQsHiEJfAnyyt8PFuruZWqWIvmMCIMQ==
   dependencies:
-    debug "^4.3.2"
-    node-fetch "^2.6.2"
+    debug "^4.3.3"
+    node-fetch "^2.6.6"
     p-all "^4.0.0"
     simple-oauth2 "^4.2.0"
 
@@ -3486,10 +3486,10 @@ next-tick@~1.0.0:
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
   integrity sha1-yobR/ogoFpsBICCOPchCS524NCw=
 
-node-fetch@^2.6.2:
-  version "2.6.7"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.7.tgz#24de9fba827e3b4ae44dc8b20256a379160052ad"
-  integrity sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
+node-fetch@^2.6.6:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.11.tgz#cde7fc71deef3131ef80a738919f999e6edfff25"
+  integrity sha512-4I6pdBY1EthSqDmJkiNk3JIT8cswwR9nfeW/cPdUagJYEQG7R95WRH74wpz7ma8Gh/9dI9FP+OU+0E4FvtA55w==
   dependencies:
     whatwg-url "^5.0.0"
 

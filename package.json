@@ -32,7 +32,7 @@
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
-    "@socialgouv/dila-api-client": "^1.2.1",
+    "@socialgouv/dila-api-client": "^1.2.4",
     "@socialgouv/eslint-config-strict": "^0.35.0",
     "@types/jest": "^27.0.3",
     "@types/node": "^16.11.12",
