@@ -1,3 +1,15 @@
+# [2.263.0](https://github.com/SocialGouv/legi-data/compare/v2.262.0...v2.263.0) (2023-06-01)
+
+
+### Bug Fixes
+
+* **dila-api-client:** upgrade client ([#269](https://github.com/SocialGouv/legi-data/issues/269)) ([82a729d](https://github.com/SocialGouv/legi-data/commit/82a729de0fee088cf40fdbf47f0d55debec9b4a0))
+
+
+### Features
+
+* **data:** 20230601_1308 update ([48fc907](https://github.com/SocialGouv/legi-data/commit/48fc907e982ea8ccb13f1c9af079cb09fa65d625))
+
 # [2.262.0](https://github.com/SocialGouv/legi-data/compare/v2.261.0...v2.262.0) (2023-06-01)
 
 
