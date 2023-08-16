@@ -5,8 +5,8 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2023-05-14",
-    "dateDebutVersion": "2023-05-14",
+    "dateModif": "2023-08-14",
+    "dateDebutVersion": "2023-08-14",
     "dateFinVersion": "2999-01-01"
   },
   "type": "code",
@@ -14654,41 +14654,50 @@
                       },
                       {
                         "id": "LEGIARTI000044343694",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "2.0",
                         "dateDebut": 1640995200000,
+                        "dateFin": 1691971200000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000047966996",
+                        "etat": "VIGUEUR",
+                        "version": "3.0",
+                        "dateDebut": 1691971200000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000034196047",
-                    "dateDebut": 1640995200000,
+                    "dateDebut": 1691971200000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000044343694",
+                    "id": "LEGIARTI000047966996",
                     "intOrdre": 1789569705,
                     "lienModifications": [
                       {
-                        "textCid": "JORFTEXT000044340276",
-                        "textTitle": "Décret n°2021-1500 du 17 novembre 2021 - art. 3",
+                        "textCid": "JORFTEXT000047964530",
+                        "textTitle": "Décret n°2023-767 du 11 août 2023 - art. 3",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
                         "articleNum": "3",
-                        "articleId": "LEGIARTI000044341154",
+                        "articleId": "LEGIARTI000047965922",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2021-11-19",
-                        "dateSignaTexte": "2021-11-17",
-                        "dateDebutCible": "2022-01-01"
+                        "datePubliTexte": "2023-08-13",
+                        "dateSignaTexte": "2023-08-11",
+                        "dateDebutCible": "2023-08-14"
                       }
                     ],
-                    "nota": "Conformément à l’article 4 du décret n° 2021-1500 du 17 novembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.",
-                    "notaHtml": "<p>Conformément à l’article 4 du décret n° 2021-1500 du 17 novembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.</p>",
+                    "nota": "",
+                    "notaHtml": "",
                     "num": "R321-5",
-                    "texte": "Le service public des données de référence met à la disposition du public les données suivantes : 1° Le répertoire des entreprises et de leurs établissements, mentionné à l' article R. 123-220 du code de commerce , produit par l'Institut national de la statistique et des études économiques, sous réserve des exceptions prévues à l' article R. 123-232 du même code ; 2° Le répertoire national des associations, créé par l'arrêté du 14 octobre 2009 portant création du répertoire national des associations, produit par la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur ; 3° Le plan cadastral informatisé, mentionné à l' article L. 127-10 du code de l'environnement , produit par la direction générale des finances publiques ; 4° Le registre parcellaire graphique, créé sur le fondement du règlement européen n° 1306/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au financement, à la gestion et au suivi de la politique agricole commune et abrogeant les règlements (CEE) n° 352/78, (CE) n° 165/94, (CE) n° 2799/98, (CE) n° 814/2000, (CE) n° 1200/2005 et n° 485/2008 du Conseil, produit par l'Agence de services et de paiement ; 5° Le “ référentiel à grande échelle ”, prévu par le décret n° 2011-1371 du 27 octobre 2011 relatif à l'Institut national de l'information géographique et forestière (IGN), produit par l'Institut national de l'information géographique et forestière ; 6° La base adresse nationale, coproduite par l'Institut national de l'information géographique et forestière en vertu de la convention conclue le 15 avril 2015 entre l'Etat, l'Institut national de l'information géographique et forestière, la société anonyme La Poste et l'association OpenStreetMap France ; 7° La base de données de l'organisation administrative de l'Etat, produite par la direction de l'information légale et administrative à partir du recensement des coordonnées des services publics nationaux et locaux prévu par l'arrêté du 6 novembre 2000 relatif à la création d'un site sur internet intitulé “ service-public. fr ” ; 8° Le répertoire opérationnel des métiers et des emplois, produit par Pôle emploi ; 9° Le code officiel géographique, mentionné par l'arrêté du 28 novembre 2003 relatif au code officiel géographique, produit par l'Institut national de la statistique et des études économiques.",
-                    "texteHtml": "<p>Le service public des données de référence met à la disposition du public les données suivantes : <br/><br/>1° Le répertoire des entreprises et de leurs établissements, mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006258730&dateTexte=&categorieLien=cid'>article R. 123-220 du code de commerce</a>, produit par l'Institut national de la statistique et des études économiques, sous réserve des exceptions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006259004&dateTexte=&categorieLien=cid'>article R. 123-232</a> du même code ; <br/><br/>2° Le répertoire national des associations, créé par l'arrêté du 14 octobre 2009 portant création du répertoire national des associations, produit par la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur ; <br/><br/>3° Le plan cadastral informatisé, mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000022936284&dateTexte=&categorieLien=cid'>article L. 127-10 du code de l'environnement</a>, produit par la direction générale des finances publiques ; <br/><br/>4° Le registre parcellaire graphique, créé sur le fondement du règlement européen n° 1306/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au financement, à la gestion et au suivi de la politique agricole commune et abrogeant les règlements (CEE) n° 352/78, (CE) n° 165/94, (CE) n° 2799/98, (CE) n° 814/2000, (CE) n° 1200/2005 et n° 485/2008 du Conseil, produit par l'Agence de services et de paiement ; <br/><br/>5° Le “ référentiel à grande échelle ”, prévu par le <a href='/affichTexte.do?cidTexte=JORFTEXT000024720351&categorieLien=cid'>décret n° 2011-1371 du 27 octobre 2011 </a>relatif à l'Institut national de l'information géographique et forestière (IGN), produit par l'Institut national de l'information géographique et forestière ; <br/><br/>6° La base adresse nationale, coproduite par l'Institut national de l'information géographique et forestière en vertu de la convention conclue le 15 avril 2015 entre l'Etat, l'Institut national de l'information géographique et forestière, la société anonyme La Poste et l'association OpenStreetMap France ; <br/><br/>7° La base de données de l'organisation administrative de l'Etat, produite par la direction de l'information légale et administrative à partir du recensement des coordonnées des services publics nationaux et locaux prévu par l'arrêté du 6 novembre 2000 relatif à la création d'un site sur internet intitulé “ service-public. fr ” ; <br/><br/>8° Le répertoire opérationnel des métiers et des emplois, produit par Pôle emploi ; <br/><br/>9° Le code officiel géographique, mentionné par l'arrêté du 28 novembre 2003 relatif au code officiel géographique, produit par l'Institut national de la statistique et des études économiques.</p>"
+                    "texte": "Le service public des données de référence met à la disposition du public les données suivantes : 1° Le répertoire des entreprises et de leurs établissements, mentionné à l' article R. 123-220 du code de commerce , produit par l'Institut national de la statistique et des études économiques, sous réserve des exceptions prévues à l' article R. 123-232 du même code ; 2° Le répertoire national des associations, créé par l'arrêté du 14 octobre 2009 portant création du répertoire national des associations, produit par la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur ; 3° Le plan cadastral informatisé, mentionné à l' article L. 127-10 du code de l'environnement , produit par la direction générale des finances publiques ; 4° Le registre parcellaire graphique, créé sur le fondement du règlement européen n° 1306/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au financement, à la gestion et au suivi de la politique agricole commune et abrogeant les règlements (CEE) n° 352/78, (CE) n° 165/94, (CE) n° 2799/98, (CE) n° 814/2000, (CE) n° 1200/2005 et n° 485/2008 du Conseil, produit par l'Agence de services et de paiement ; 5° Le “ référentiel à grande échelle ”, prévu par le décret n° 2011-1371 du 27 octobre 2011 relatif à l'Institut national de l'information géographique et forestière (IGN), produit par l'Institut national de l'information géographique et forestière ; 6° La base adresse nationale,                                                  produite par l'Institut national de l'information géographique et forestière ; 7° La base de données de l'organisation administrative de l'Etat, produite par la direction de l'information légale et administrative à partir du recensement des coordonnées des services publics nationaux et locaux prévu par l'arrêté du 6 novembre 2000 relatif à la création d'un site sur internet intitulé “ service-public. fr ” ; 8° Le répertoire opérationnel des métiers et des emplois, produit par Pôle emploi ; 9° Le code officiel géographique, mentionné par l'arrêté du 28 novembre 2003 relatif au code officiel géographique, produit par l'Institut national de la statistique et des études économiques.",
+                    "texteHtml": "<p>Le service public des données de référence met à la disposition du public les données suivantes : <br/><br/>1° Le répertoire des entreprises et de leurs établissements, mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006258730&dateTexte=&categorieLien=cid'>article R. 123-220 du code de commerce</a>, produit par l'Institut national de la statistique et des études économiques, sous réserve des exceptions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006259004&dateTexte=&categorieLien=cid'>article R. 123-232</a> du même code ; <br/><br/>2° Le répertoire national des associations, créé par l'arrêté du 14 octobre 2009 portant création du répertoire national des associations, produit par la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur ; <br/><br/>3° Le plan cadastral informatisé, mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000022936284&dateTexte=&categorieLien=cid'>article L. 127-10 du code de l'environnement</a>, produit par la direction générale des finances publiques ; <br/><br/>4° Le registre parcellaire graphique, créé sur le fondement du règlement européen n° 1306/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au financement, à la gestion et au suivi de la politique agricole commune et abrogeant les règlements (CEE) n° 352/78, (CE) n° 165/94, (CE) n° 2799/98, (CE) n° 814/2000, (CE) n° 1200/2005 et n° 485/2008 du Conseil, produit par l'Agence de services et de paiement ; <br/><br/>5° Le “ référentiel à grande échelle ”, prévu par le <a href='/affichTexte.do?cidTexte=JORFTEXT000024720351&categorieLien=cid'>décret n° 2011-1371 du 27 octobre 2011 </a>relatif à l'Institut national de l'information géographique et forestière (IGN), produit par l'Institut national de l'information géographique et forestière ; <br/><br/>6° La base adresse nationale,                                                  produite par l'Institut national de l'information géographique et forestière ; <br/><br/>7° La base de données de l'organisation administrative de l'Etat, produite par la direction de l'information légale et administrative à partir du recensement des coordonnées des services publics nationaux et locaux prévu par l'arrêté du 6 novembre 2000 relatif à la création d'un site sur internet intitulé “ service-public. fr ” ; <br/><br/>8° Le répertoire opérationnel des métiers et des emplois, produit par Pôle emploi ; <br/><br/>9° Le code officiel géographique, mentionné par l'arrêté du 28 novembre 2003 relatif au code officiel géographique, produit par l'Institut national de la statistique et des études économiques.</p>"
                   },
                   "type": "article"
                 },
