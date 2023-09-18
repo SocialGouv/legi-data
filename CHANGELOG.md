@@ -1,3 +1,10 @@
+# [2.300.0](https://github.com/SocialGouv/legi-data/compare/v2.299.0...v2.300.0) (2023-09-18)
+
+
+### Features
+
+* update schedule to run at 1:00pm ([8e2733e](https://github.com/SocialGouv/legi-data/commit/8e2733e1eb7171e27e84c76d740d62611a113582))
+
 # [2.299.0](https://github.com/SocialGouv/legi-data/compare/v2.298.0...v2.299.0) (2023-09-15)
 
 
