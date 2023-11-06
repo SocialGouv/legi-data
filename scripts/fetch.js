@@ -68,17 +68,19 @@ async function fetchAllArticles(node, depth = 0) {
   }
 
   const pSections = (node.sections || [])
-    .filter(({ etat }) => etat.startsWith("VIGUEUR"))
+    .filter(({ etat }) => etat.startsWith("VIGUEUR") || etat.startsWith("MODIFIE"))
     .map(section => fetchAllArticles(section, depth + 1));
 
   const pArticles = (node.articles || [])
-    .filter(({ etat }) => etat.startsWith("VIGUEUR"))
+    .filter(({ etat }) => etat.startsWith("VIGUEUR") || etat.startsWith("MODIFIE"))
     .filter(latestArticleVersionFilter)
     .map(({ id }) =>
-      queue.add(() => {
+      queue.add(async () => {
         log.info("fetch()", `Fetching ${id}…`);
 
-        return retry(() => getArticle(id), { retries: 20 });
+        const result = await retry(() => getArticle(id), { retries: 20 });
+
+        return result;
       }),
     );
 
