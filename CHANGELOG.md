@@ -1,3 +1,15 @@
+# [2.313.0](https://github.com/SocialGouv/legi-data/compare/v2.312.0...v2.313.0) (2023-11-07)
+
+
+### Bug Fixes
+
+* **articles:** relance du triggeur sur un précédent commit ([#274](https://github.com/SocialGouv/legi-data/issues/274)) ([ec22f61](https://github.com/SocialGouv/legi-data/commit/ec22f61f12b85d46103d2eccdac14e989f09ea94))
+
+
+### Features
+
+* **data:** 20231107_0947 update ([76dbc48](https://github.com/SocialGouv/legi-data/commit/76dbc489871676334a79bf1bd5a52032279ebd88))
+
 # [2.312.0](https://github.com/SocialGouv/legi-data/compare/v2.311.0...v2.312.0) (2023-11-01)
 
 
