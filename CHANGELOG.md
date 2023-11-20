@@ -1,3 +1,10 @@
+## [2.316.1](https://github.com/SocialGouv/legi-data/compare/v2.316.0...v2.316.1) (2023-11-20)
+
+
+### Bug Fixes
+
+* legifrance-beta -> legifrance ([11adc24](https://github.com/SocialGouv/legi-data/commit/11adc24eb7b1d53493ae40e529e71545fb06930c))
+
 # [2.316.0](https://github.com/SocialGouv/legi-data/compare/v2.315.0...v2.316.0) (2023-11-10)
 
 
