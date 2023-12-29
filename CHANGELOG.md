@@ -1,3 +1,24 @@
+# [2.326.0](https://github.com/SocialGouv/legi-data/compare/v2.325.0...v2.326.0) (2023-12-28)
+
+
+### Features
+
+* **data:** 20231228_2324 update ([a0717ef](https://github.com/SocialGouv/legi-data/commit/a0717efe9121abb45d1e3285585452ba47af66f9))
+
+# [2.325.0](https://github.com/SocialGouv/legi-data/compare/v2.324.0...v2.325.0) (2023-12-27)
+
+
+### Features
+
+* **data:** 20231227_2319 update ([0629472](https://github.com/SocialGouv/legi-data/commit/0629472ca91e798c86d67abdbb97e91cbc648d6c))
+
+# [2.324.0](https://github.com/SocialGouv/legi-data/compare/v2.323.0...v2.324.0) (2023-12-22)
+
+
+### Features
+
+* **data:** 20231222_2319 update ([9dc1ce8](https://github.com/SocialGouv/legi-data/commit/9dc1ce8d8b54afcf1ff69dfe0f540898bd145bfa))
+
 # [2.323.0](https://github.com/SocialGouv/legi-data/compare/v2.322.0...v2.323.0) (2023-12-20)
 
 
