@@ -1,3 +1,10 @@
+## [2.326.1](https://github.com/SocialGouv/legi-data/compare/v2.326.0...v2.326.1) (2023-12-29)
+
+
+### Bug Fixes
+
+* **data:** lancement en local pour re-synchroniser la donnée ([#276](https://github.com/SocialGouv/legi-data/issues/276)) ([530cd9a](https://github.com/SocialGouv/legi-data/commit/530cd9a078baa94b360af01017813d53702b93b2))
+
 # [2.326.0](https://github.com/SocialGouv/legi-data/compare/v2.325.0...v2.326.0) (2023-12-28)
 
 
