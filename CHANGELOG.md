@@ -1,3 +1,10 @@
+## [2.349.1](https://github.com/SocialGouv/legi-data/compare/v2.349.0...v2.349.1) (2024-04-18)
+
+
+### Bug Fixes
+
+* **articles:** lancement du processus manuellement ([#278](https://github.com/SocialGouv/legi-data/issues/278)) ([2b9c4c8](https://github.com/SocialGouv/legi-data/commit/2b9c4c8c00d19d0c7eceff80d7ca1e724e65ab5a))
+
 # [2.349.0](https://github.com/SocialGouv/legi-data/compare/v2.348.0...v2.349.0) (2024-04-16)
 
 
