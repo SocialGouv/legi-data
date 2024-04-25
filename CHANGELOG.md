@@ -1,3 +1,10 @@
+## [2.352.1](https://github.com/SocialGouv/legi-data/compare/v2.352.0...v2.352.1) (2024-04-25)
+
+
+### Bug Fixes
+
+* **data:** problème de mise à jour de certains articles ([#279](https://github.com/SocialGouv/legi-data/issues/279)) ([5a19445](https://github.com/SocialGouv/legi-data/commit/5a1944577697f1a4982a7bd0f933e22cf9d17f95))
+
 # [2.350.0](https://github.com/SocialGouv/legi-data/compare/v2.349.1...v2.350.0) (2024-04-20)
 
 
