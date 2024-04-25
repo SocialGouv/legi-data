@@ -80,12 +80,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.SOCIALGROOVYBOT_NPM_TOKEN }}
 
-      - name: Create the Mattermost Message
-        if: failure()
-        run: |
-          echo "{\"text\":\"La mise à jour du dépôt legi-data (Legifrance Convention Collective) a échoué : ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}\"}" > mattermost.json
-
       - uses: mattermost/action-mattermost-notify@master
         if: failure()
         with:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
+          TEXT: |
+            La mise à jour du dépôt legi-data (Legifrance Convention Collective) a échoué.
+            [Les logs sont disponibles ici](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
