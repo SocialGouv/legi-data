@@ -1,3 +1,11 @@
+# [2.353.0](https://github.com/SocialGouv/legi-data/compare/v2.352.1...v2.353.0) (2024-04-25)
+
+
+### Features
+
+* merge ([e04a1a5](https://github.com/SocialGouv/legi-data/commit/e04a1a5a3e39923d7d1e82ed968765b8fa5b067d))
+* versionning ([1156a52](https://github.com/SocialGouv/legi-data/commit/1156a52b5f9fc1508b45b1d3da7af8bac854204e))
+
 ## [2.352.1](https://github.com/SocialGouv/legi-data/compare/v2.352.0...v2.352.1) (2024-04-25)
 
 ### Bug Fixes
