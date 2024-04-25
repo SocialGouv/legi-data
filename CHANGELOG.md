@@ -1,22 +1,3 @@
-# [2.352.0](https://github.com/SocialGouv/legi-data/compare/v2.351.0...v2.352.0) (2024-04-24)
-
-
-### Bug Fixes
-
-* **actions:** change mattermost notification ([b9e5267](https://github.com/SocialGouv/legi-data/commit/b9e5267385840568b9b1259979f3732739292abf))
-
-
-### Features
-
-* **data:** 20240424_2322 update ([810b7e7](https://github.com/SocialGouv/legi-data/commit/810b7e75067ecf6792ea4cd4ca56848f09a391b0))
-
-# [2.351.0](https://github.com/SocialGouv/legi-data/compare/v2.350.0...v2.351.0) (2024-04-23)
-
-
-### Features
-
-* **data:** 20240423_2322 update ([395d817](https://github.com/SocialGouv/legi-data/commit/395d8174d5fd53c4e25792d5fd2aa96ac570709e))
-
 # [2.350.0](https://github.com/SocialGouv/legi-data/compare/v2.349.1...v2.350.0) (2024-04-20)
 
 
