@@ -23,7 +23,7 @@
     "setup": "node -r esm ./scripts/setup.js",
     "test:watch": "yarn test --watch",
     "test": "jest",
-    "typecheck": "tsc"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "unist-util-find": "^1.0.2",
