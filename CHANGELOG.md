@@ -1,3 +1,10 @@
+## [2.353.1](https://github.com/SocialGouv/legi-data/compare/v2.353.0...v2.353.1) (2024-04-25)
+
+
+### Bug Fixes
+
+* mattermost message ([fdfad92](https://github.com/SocialGouv/legi-data/commit/fdfad921178007cdfcc6675aa4ed08c53b540568))
+
 # [2.353.0](https://github.com/SocialGouv/legi-data/compare/v2.352.1...v2.353.0) (2024-04-25)
 
 
