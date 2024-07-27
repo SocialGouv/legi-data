@@ -5,8 +5,8 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2024-07-01",
-    "dateDebutVersion": "2024-07-01",
+    "dateModif": "2024-07-27",
+    "dateDebutVersion": "2024-07-27",
     "dateFinVersion": "2999-01-01"
   },
   "type": "code",
@@ -9079,21 +9079,30 @@
                       },
                       {
                         "id": "LEGIARTI000034114657",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "2.0",
                         "dateDebut": 1488412800000,
+                        "dateFin": 1722038400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000050053854",
+                        "etat": "VIGUEUR",
+                        "version": "3.0",
+                        "dateDebut": 1722038400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000031367525",
-                    "dateDebut": 1488412800000,
+                    "dateDebut": 1722038400000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000034114657",
+                    "id": "LEGIARTI000050053854",
                     "intOrdre": 1073741823,
                     "lienModifications": [
                       {
@@ -9109,23 +9118,23 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000034104023",
-                        "textTitle": "LOI n°2017-258 du 28 février 2017 - art. 4",
+                        "textCid": "JORFTEXT000050052193",
+                        "textTitle": "LOI n°2024-850 du 25 juillet 2024 - art. 7",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "4",
-                        "articleId": "LEGIARTI000034107700",
+                        "articleNum": "7",
+                        "articleId": "LEGIARTI000050052869",
                         "natureText": "LOI",
-                        "datePubliTexte": "2017-03-01",
-                        "dateSignaTexte": "2017-02-28",
-                        "dateDebutCible": "2017-03-02"
+                        "datePubliTexte": "2024-07-26",
+                        "dateSignaTexte": "2024-07-25",
+                        "dateDebutCible": "2024-07-27"
                       }
                     ],
                     "nota": "",
                     "notaHtml": "",
                     "num": "L212-1",
-                    "texte": "Toute décision prise par une administration comporte la signature de son auteur ainsi que la mention, en caractères lisibles, du prénom, du nom et de la qualité de celui-ci. Toutefois, les décisions fondées sur des motifs en lien avec la prévention d'actes de terrorisme sont prises dans des conditions qui préservent l'anonymat de leur signataire. Seule une ampliation de cette décision peut être notifiée à la personne concernée ou communiquée à des tiers, l'original signé, qui seul fait apparaître les nom, prénom et qualité du signataire, étant conservé par l'administration.",
-                    "texteHtml": "<p>Toute décision prise par une administration comporte la signature de son auteur ainsi que la mention, en caractères lisibles, du prénom, du nom et de la qualité de celui-ci.</p><p>Toutefois, les décisions fondées sur des motifs en lien avec la prévention d'actes de terrorisme sont prises dans des conditions qui préservent l'anonymat de leur signataire. Seule une ampliation de cette décision peut être notifiée à la personne concernée ou communiquée à des tiers, l'original signé, qui seul fait apparaître les nom, prénom et qualité du signataire, étant conservé par l'administration.</p>"
+                    "texte": "Toute décision prise par une administration comporte la signature de son auteur ainsi que la mention, en caractères lisibles, du prénom, du nom et de la qualité de celui-ci. Toutefois, les décisions fondées sur des motifs en lien avec la prévention d'actes de terrorisme ou des actes d'ingérence sont prises dans des conditions qui préservent l'anonymat de leur signataire. Seule une ampliation de cette décision peut être notifiée à la personne concernée ou communiquée à des tiers, l'original signé, qui seul fait apparaître les nom, prénom et qualité du signataire, étant conservé par l'administration.",
+                    "texteHtml": "<p>Toute décision prise par une administration comporte la signature de son auteur ainsi que la mention, en caractères lisibles, du prénom, du nom et de la qualité de celui-ci.</p><p>Toutefois, les décisions fondées sur des motifs en lien avec la prévention d'actes de terrorisme ou des actes d'ingérence sont prises dans des conditions qui préservent l'anonymat de leur signataire. Seule une ampliation de cette décision peut être notifiée à la personne concernée ou communiquée à des tiers, l'original signé, qui seul fait apparaître les nom, prénom et qualité du signataire, étant conservé par l'administration.</p>"
                   },
                   "type": "article"
                 },
