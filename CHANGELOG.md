@@ -1,3 +1,10 @@
+## [2.388.1](https://github.com/SocialGouv/legi-data/compare/v2.388.0...v2.388.1) (2024-11-06)
+
+
+### Bug Fixes
+
+* **ci:** workflow ([#283](https://github.com/SocialGouv/legi-data/issues/283)) ([4f081d7](https://github.com/SocialGouv/legi-data/commit/4f081d7914f1249f4ea83f047d0348b96ff8bd46))
+
 # [2.388.0](https://github.com/SocialGouv/legi-data/compare/v2.387.0...v2.388.0) (2024-11-01)
 
 
