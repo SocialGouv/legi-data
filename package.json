@@ -1,6 +1,6 @@
 {
   "name": "@socialgouv/legi-data",
-  "version": "2.398.0",
+  "version": "2.399.0",
   "publishConfig": {
     "access": "public"
   },
