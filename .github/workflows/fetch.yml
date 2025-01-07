@@ -5,10 +5,20 @@ on:
   schedule:
     - cron: "00 15 * * *"
 
+permissions:
+  id-token: write  # Required for OIDC token generation
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
+      - name: Get GitHub App Token
+        id: token
+        uses: SocialGouv/token-bureau@main
+        with:
+          token-bureau-url: https://token-bureau.fabrique.social.gouv.fr
+          audience: socialgouv
+
       - uses: actions/checkout@v2
 
       - name: Set up Node.js
@@ -52,7 +62,7 @@ jobs:
         if: ${{ steps.metadata.outputs.data_status }}
         env:
           HUSKY: "0"
-          GITHUB_TOKEN: ${{ secrets.SOCIALGROOVYBOT_BOTO_PAT }}
+          GITHUB_TOKEN: ${{ steps.token.outputs.token }}
         with:
           add: "data"
           author_name: ${{ secrets.SOCIALGROOVYBOT_NAME }}
@@ -77,7 +87,7 @@ jobs:
           GIT_AUTHOR_NAME: ${{ secrets.SOCIALGROOVYBOT_NAME }}
           GIT_COMMITTER_EMAIL: ${{ secrets.SOCIALGROOVYBOT_EMAIL }}
           GIT_COMMITTER_NAME: ${{ secrets.SOCIALGROOVYBOT_NAME }}
-          GITHUB_TOKEN: ${{ secrets.SOCIALGROOVYBOT_BOTO_PAT }}
+          GITHUB_TOKEN: ${{ steps.token.outputs.token }}
           NPM_TOKEN: ${{ secrets.SOCIALGROOVYBOT_NPM_TOKEN }}
 
       - uses: mattermost/action-mattermost-notify@master
