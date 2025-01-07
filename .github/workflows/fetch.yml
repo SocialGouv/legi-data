@@ -12,13 +12,6 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - name: Get GitHub App Token
-        id: token
-        uses: SocialGouv/token-bureau@main
-        with:
-          token-bureau-url: https://token-bureau.fabrique.social.gouv.fr
-          audience: socialgouv
-
       - uses: actions/checkout@v2
 
       - name: Set up Node.js
@@ -57,6 +50,13 @@ jobs:
               exit 1
             }
           done
+
+      - name: Get GitHub App Token
+        id: token
+        uses: SocialGouv/token-bureau@main
+        with:
+          token-bureau-url: https://token-bureau.fabrique.social.gouv.fr
+          audience: socialgouv
 
       - uses: EndBug/add-and-commit@v8
         if: ${{ steps.metadata.outputs.data_status }}
