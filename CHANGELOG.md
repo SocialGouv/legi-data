@@ -1,3 +1,18 @@
+# [2.404.0](https://github.com/SocialGouv/legi-data/compare/v2.403.0...v2.404.0) (2025-01-07)
+
+
+### Bug Fixes
+
+* **ci:** perms ([5b55c84](https://github.com/SocialGouv/legi-data/commit/5b55c84f2cffd3b19fb00df24fa1cd763a840ea4))
+* **ci:** token-bureau ([53333f9](https://github.com/SocialGouv/legi-data/commit/53333f9f35f83364c982f1d0fb6dd47d30ab66fa))
+* **ci:** token-bureau and github token ([8e884af](https://github.com/SocialGouv/legi-data/commit/8e884afc3e6717574a1a5ed39382b8dc223e5ec6))
+* **ci-cd:** use token-bureau ([#284](https://github.com/SocialGouv/legi-data/issues/284)) ([d8cc61b](https://github.com/SocialGouv/legi-data/commit/d8cc61b91dce5347ba462c3e1e13e6951ec8b06f))
+
+
+### Features
+
+* **data:** 20250107_2221 update ([44fb61f](https://github.com/SocialGouv/legi-data/commit/44fb61f78106989d9d1a0f51498cd8832eb722a5))
+
 # [2.403.0](https://github.com/SocialGouv/legi-data/compare/v2.402.0...v2.403.0) (2025-01-03)
 
 
