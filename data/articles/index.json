@@ -251,17 +251,12 @@
   },
   {
     "articleCid": "LEGIARTI000006740087",
-    "articleId": "LEGIARTI000037290455",
+    "articleId": "LEGIARTI000051288919",
     "codeId": "LEGITEXT000006073189"
   },
   {
     "articleCid": "LEGIARTI000006741014",
     "articleId": "LEGIARTI000037290445",
-    "codeId": "LEGITEXT000006073189"
-  },
-  {
-    "articleCid": "LEGIARTI000006741015",
-    "articleId": "LEGIARTI000006741015",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -661,7 +656,7 @@
   },
   {
     "articleCid": "LEGIARTI000038498675",
-    "articleId": "LEGIARTI000038610270",
+    "articleId": "LEGIARTI000051287151",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -706,12 +701,12 @@
   },
   {
     "articleCid": "LEGIARTI000006741072",
-    "articleId": "LEGIARTI000046805599",
+    "articleId": "LEGIARTI000051290479",
     "codeId": "LEGITEXT000006073189"
   },
   {
     "articleCid": "LEGIARTI000006740128",
-    "articleId": "LEGIARTI000051220434",
+    "articleId": "LEGIARTI000051288910",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -756,7 +751,7 @@
   },
   {
     "articleCid": "LEGIARTI000019948924",
-    "articleId": "LEGIARTI000031728196",
+    "articleId": "LEGIARTI000051287902",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -806,7 +801,7 @@
   },
   {
     "articleCid": "LEGIARTI000006741079",
-    "articleId": "LEGIARTI000048701156",
+    "articleId": "LEGIARTI000051287164",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -961,7 +956,7 @@
   },
   {
     "articleCid": "LEGIARTI000006741524",
-    "articleId": "LEGIARTI000048701255",
+    "articleId": "LEGIARTI000051288916",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -971,7 +966,7 @@
   },
   {
     "articleCid": "LEGIARTI000031668218",
-    "articleId": "LEGIARTI000048701250",
+    "articleId": "LEGIARTI000051288904",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1022,6 +1017,11 @@
   {
     "articleCid": "LEGIARTI000006740196",
     "articleId": "LEGIARTI000037949072",
+    "codeId": "LEGITEXT000006073189"
+  },
+  {
+    "articleCid": "LEGIARTI000006740208",
+    "articleId": "LEGIARTI000006740210",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1091,7 +1091,7 @@
   },
   {
     "articleCid": "LEGIARTI000037065622",
-    "articleId": "LEGIARTI000047770460",
+    "articleId": "LEGIARTI000051289679",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1261,7 +1261,7 @@
   },
   {
     "articleCid": "LEGIARTI000037054306",
-    "articleId": "LEGIARTI000037054484",
+    "articleId": "LEGIARTI000051287346",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1336,12 +1336,12 @@
   },
   {
     "articleCid": "LEGIARTI000006740402",
-    "articleId": "LEGIARTI000038725858",
+    "articleId": "LEGIARTI000051287431",
     "codeId": "LEGITEXT000006073189"
   },
   {
     "articleCid": "LEGIARTI000028383363",
-    "articleId": "LEGIARTI000038725840",
+    "articleId": "LEGIARTI000051287416",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1380,43 +1380,13 @@
     "codeId": "LEGITEXT000006073189"
   },
   {
-    "articleCid": "LEGIARTI000029954748",
-    "articleId": "LEGIARTI000033713187",
-    "codeId": "LEGITEXT000006073189"
-  },
-  {
-    "articleCid": "LEGIARTI000029954755",
-    "articleId": "LEGIARTI000033713159",
-    "codeId": "LEGITEXT000006073189"
-  },
-  {
-    "articleCid": "LEGIARTI000029954762",
-    "articleId": "LEGIARTI000033713179",
-    "codeId": "LEGITEXT000006073189"
-  },
-  {
-    "articleCid": "LEGIARTI000029954788",
-    "articleId": "LEGIARTI000033713157",
-    "codeId": "LEGITEXT000006073189"
-  },
-  {
-    "articleCid": "LEGIARTI000029954795",
-    "articleId": "LEGIARTI000033713151",
-    "codeId": "LEGITEXT000006073189"
-  },
-  {
-    "articleCid": "LEGIARTI000029954802",
-    "articleId": "LEGIARTI000037064332",
-    "codeId": "LEGITEXT000006073189"
-  },
-  {
     "articleCid": "LEGIARTI000039763417",
-    "articleId": "LEGIARTI000044627522",
+    "articleId": "LEGIARTI000051287292",
     "codeId": "LEGITEXT000006073189"
   },
   {
     "articleCid": "LEGIARTI000039763419",
-    "articleId": "LEGIARTI000044627512",
+    "articleId": "LEGIARTI000051287285",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1441,7 +1411,7 @@
   },
   {
     "articleCid": "LEGIARTI000006740424",
-    "articleId": "LEGIARTI000048688899",
+    "articleId": "LEGIARTI000051287267",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1466,7 +1436,7 @@
   },
   {
     "articleCid": "LEGIARTI000025011731",
-    "articleId": "LEGIARTI000045355609",
+    "articleId": "LEGIARTI000051287445",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1981,7 +1951,7 @@
   },
   {
     "articleCid": "LEGIARTI000023024749",
-    "articleId": "LEGIARTI000047452768",
+    "articleId": "LEGIARTI000051289659",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -1996,7 +1966,7 @@
   },
   {
     "articleCid": "LEGIARTI000006741250",
-    "articleId": "LEGIARTI000047453152",
+    "articleId": "LEGIARTI000051289654",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -2011,12 +1981,12 @@
   },
   {
     "articleCid": "LEGIARTI000019953032",
-    "articleId": "LEGIARTI000037063414",
+    "articleId": "LEGIARTI000051289640",
     "codeId": "LEGITEXT000006073189"
   },
   {
     "articleCid": "LEGIARTI000006741252",
-    "articleId": "LEGIARTI000022267251",
+    "articleId": "LEGIARTI000051289631",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -2041,7 +2011,7 @@
   },
   {
     "articleCid": "LEGIARTI000047450587",
-    "articleId": "LEGIARTI000047450790",
+    "articleId": "LEGIARTI000051289731",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -2061,7 +2031,7 @@
   },
   {
     "articleCid": "LEGIARTI000047450597",
-    "articleId": "LEGIARTI000048697292",
+    "articleId": "LEGIARTI000051289726",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -2256,7 +2226,7 @@
   },
   {
     "articleCid": "LEGIARTI000006741300",
-    "articleId": "LEGIARTI000033912663",
+    "articleId": "LEGIARTI000051288349",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -2627,6 +2597,16 @@
   {
     "articleCid": "LEGIARTI000006740794",
     "articleId": "LEGIARTI000021941518",
+    "codeId": "LEGITEXT000006073189"
+  },
+  {
+    "articleCid": "LEGIARTI000006740798",
+    "articleId": "LEGIARTI000051287455",
+    "codeId": "LEGITEXT000006073189"
+  },
+  {
+    "articleCid": "LEGIARTI000006740804",
+    "articleId": "LEGIARTI000051287452",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -3926,12 +3906,12 @@
   },
   {
     "articleCid": "LEGIARTI000019949894",
-    "articleId": "LEGIARTI000022287748",
+    "articleId": "LEGIARTI000051289711",
     "codeId": "LEGITEXT000006073189"
   },
   {
     "articleCid": "LEGIARTI000028497986",
-    "articleId": "LEGIARTI000033714345",
+    "articleId": "LEGIARTI000051289707",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -3991,7 +3971,7 @@
   },
   {
     "articleCid": "LEGIARTI000019952761",
-    "articleId": "LEGIARTI000047452747",
+    "articleId": "LEGIARTI000051289778",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -4716,7 +4696,7 @@
   },
   {
     "articleCid": "LEGIARTI000006742298",
-    "articleId": "LEGIARTI000048700735",
+    "articleId": "LEGIARTI000051289059",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -4876,7 +4856,7 @@
   },
   {
     "articleCid": "LEGIARTI000006741897",
-    "articleId": "LEGIARTI000048701223",
+    "articleId": "LEGIARTI000051290635",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -5991,7 +5971,7 @@
   },
   {
     "articleCid": "LEGIARTI000047448125",
-    "articleId": "LEGIARTI000047449229",
+    "articleId": "LEGIARTI000051289776",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -6026,7 +6006,7 @@
   },
   {
     "articleCid": "LEGIARTI000006742625",
-    "articleId": "LEGIARTI000047456714",
+    "articleId": "LEGIARTI000051289761",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -6051,7 +6031,7 @@
   },
   {
     "articleCid": "LEGIARTI000028496572",
-    "articleId": "LEGIARTI000047452192",
+    "articleId": "LEGIARTI000051289798",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -6071,7 +6051,7 @@
   },
   {
     "articleCid": "LEGIARTI000006742632",
-    "articleId": "LEGIARTI000047452736",
+    "articleId": "LEGIARTI000051289852",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -7536,7 +7516,7 @@
   },
   {
     "articleCid": "LEGIARTI000006743316",
-    "articleId": "LEGIARTI000048601888",
+    "articleId": "LEGIARTI000051288188",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -7706,7 +7686,7 @@
   },
   {
     "articleCid": "LEGIARTI000048590747",
-    "articleId": "LEGIARTI000048590753",
+    "articleId": "LEGIARTI000051288185",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -7891,7 +7871,7 @@
   },
   {
     "articleCid": "LEGIARTI000048672463",
-    "articleId": "LEGIARTI000048672525",
+    "articleId": "LEGIARTI000051287226",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -8016,7 +7996,7 @@
   },
   {
     "articleCid": "LEGIARTI000006743712",
-    "articleId": "LEGIARTI000037074651",
+    "articleId": "LEGIARTI000051289835",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -25521,7 +25501,7 @@
   },
   {
     "articleCid": "LEGIARTI000033969687",
-    "articleId": "LEGIARTI000033969687",
+    "articleId": "LEGIARTI000051300726",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -28767,6 +28747,11 @@
   {
     "articleCid": "LEGIARTI000041430220",
     "articleId": "LEGIARTI000041430437",
+    "codeId": "LEGITEXT000006073189"
+  },
+  {
+    "articleCid": "LEGIARTI000051325864",
+    "articleId": "LEGIARTI000051325864",
     "codeId": "LEGITEXT000006073189"
   },
   {
@@ -100986,7 +100971,7 @@
   },
   {
     "articleCid": "LEGIARTI000006583353",
-    "articleId": "LEGIARTI000044522720",
+    "articleId": "LEGIARTI000051289299",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -105945,6 +105930,11 @@
     "codeId": "LEGITEXT000022197698"
   },
   {
+    "articleCid": "LEGIARTI000006585196",
+    "articleId": "LEGIARTI000029595702",
+    "codeId": "LEGITEXT000022197698"
+  },
+  {
     "articleCid": "LEGIARTI000006585193",
     "articleId": "LEGIARTI000026798931",
     "codeId": "LEGITEXT000022197698"
@@ -105952,11 +105942,6 @@
   {
     "articleCid": "LEGIARTI000006585195",
     "articleId": "LEGIARTI000029594686",
-    "codeId": "LEGITEXT000022197698"
-  },
-  {
-    "articleCid": "LEGIARTI000006585196",
-    "articleId": "LEGIARTI000029595702",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106500,6 +106485,11 @@
     "codeId": "LEGITEXT000022197698"
   },
   {
+    "articleCid": "LEGIARTI000051275067",
+    "articleId": "LEGIARTI000051278512",
+    "codeId": "LEGITEXT000022197698"
+  },
+  {
     "articleCid": "LEGIARTI000006585378",
     "articleId": "LEGIARTI000028394602",
     "codeId": "LEGITEXT000022197698"
@@ -106656,7 +106646,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585427",
-    "articleId": "LEGIARTI000029354319",
+    "articleId": "LEGIARTI000051284214",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106666,7 +106656,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585429",
-    "articleId": "LEGIARTI000031686035",
+    "articleId": "LEGIARTI000051284208",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106676,7 +106666,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585432",
-    "articleId": "LEGIARTI000046194007",
+    "articleId": "LEGIARTI000051284286",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106695,13 +106685,18 @@
     "codeId": "LEGITEXT000022197698"
   },
   {
+    "articleCid": "LEGIARTI000051276491",
+    "articleId": "LEGIARTI000051282543",
+    "codeId": "LEGITEXT000022197698"
+  },
+  {
     "articleCid": "LEGIARTI000006585437",
     "articleId": "LEGIARTI000048683906",
     "codeId": "LEGITEXT000022197698"
   },
   {
     "articleCid": "LEGIARTI000006585445",
-    "articleId": "LEGIARTI000048683895",
+    "articleId": "LEGIARTI000051284191",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106721,7 +106716,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585465",
-    "articleId": "LEGIARTI000048683830",
+    "articleId": "LEGIARTI000051284175",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106746,7 +106741,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585476",
-    "articleId": "LEGIARTI000048683816",
+    "articleId": "LEGIARTI000051284531",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106766,7 +106761,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585479",
-    "articleId": "LEGIARTI000006585479",
+    "articleId": "LEGIARTI000051284167",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106791,7 +106786,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585486",
-    "articleId": "LEGIARTI000048683785",
+    "articleId": "LEGIARTI000051284150",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -106925,11 +106920,6 @@
     "codeId": "LEGITEXT000022197698"
   },
   {
-    "articleCid": "LEGIARTI000006585522",
-    "articleId": "LEGIARTI000023030985",
-    "codeId": "LEGITEXT000022197698"
-  },
-  {
     "articleCid": "LEGIARTI000006585524",
     "articleId": "LEGIARTI000047453049",
     "codeId": "LEGITEXT000022197698"
@@ -106967,6 +106957,11 @@
   {
     "articleCid": "LEGIARTI000006585536",
     "articleId": "LEGIARTI000036392423",
+    "codeId": "LEGITEXT000022197698"
+  },
+  {
+    "articleCid": "LEGIARTI000006585522",
+    "articleId": "LEGIARTI000023030985",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -107321,7 +107316,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585701",
-    "articleId": "LEGIARTI000048600700",
+    "articleId": "LEGIARTI000051284277",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -107671,7 +107666,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585854",
-    "articleId": "LEGIARTI000046806475",
+    "articleId": "LEGIARTI000051288539",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -107686,7 +107681,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585864",
-    "articleId": "LEGIARTI000006585866",
+    "articleId": "LEGIARTI000051288519",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -107831,7 +107826,7 @@
   },
   {
     "articleCid": "LEGIARTI000006585958",
-    "articleId": "LEGIARTI000031688313",
+    "articleId": "LEGIARTI000051288506",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -108021,12 +108016,12 @@
   },
   {
     "articleCid": "LEGIARTI000029581855",
-    "articleId": "LEGIARTI000029581855",
+    "articleId": "LEGIARTI000051289618",
     "codeId": "LEGITEXT000022197698"
   },
   {
     "articleCid": "LEGIARTI000029581857",
-    "articleId": "LEGIARTI000036243477",
+    "articleId": "LEGIARTI000051289607",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -108221,12 +108216,12 @@
   },
   {
     "articleCid": "LEGIARTI000032344748",
-    "articleId": "LEGIARTI000032433342",
+    "articleId": "LEGIARTI000051284142",
     "codeId": "LEGITEXT000022197698"
   },
   {
     "articleCid": "LEGIARTI000032344750",
-    "articleId": "LEGIARTI000032433340",
+    "articleId": "LEGIARTI000051284135",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -108236,7 +108231,7 @@
   },
   {
     "articleCid": "LEGIARTI000032344754",
-    "articleId": "LEGIARTI000032433336",
+    "articleId": "LEGIARTI000051284129",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -108256,7 +108251,7 @@
   },
   {
     "articleCid": "LEGIARTI000032344762",
-    "articleId": "LEGIARTI000032433328",
+    "articleId": "LEGIARTI000051284124",
     "codeId": "LEGITEXT000022197698"
   },
   {
@@ -145711,7 +145706,7 @@
   },
   {
     "articleCid": "LEGIARTI000019377677",
-    "articleId": "LEGIARTI000019378597",
+    "articleId": "LEGIARTI000051327319",
     "codeId": "LEGITEXT000022197698"
   },
   {
