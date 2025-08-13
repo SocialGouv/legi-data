@@ -207,7 +207,7 @@ The agreement references list is available [here][link-code-references].
 [link-license]: https://github.com/SocialGouv/legi-data/blob/master/LICENSE
 [link-npm]: https://www.npmjs.com/package/legi-data
 [link-code-references]: https://github.com/SocialGouv/legi-data/blob/master/REFERENCES.md
-[link-aife-api]: https://developer.aife.economie.gouv.fr
+[link-aife-api]: https://piste.gouv.fr/
 [link-dila-api-client]: https://github.com/SocialGouv/dila-api-client
 [link-typings]: https://github.com/SocialGouv/legi-data/blob/master/src/index.d.ts
 [link-unist]: https://github.com/syntax-tree/unist
