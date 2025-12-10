@@ -16,10 +16,14 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: '20.9.0'
+          node-version: 24.x
+          registry-url: https://registry.npmjs.org
           cache: yarn
+
+      - name: Update npm (required for npm trusted publishing)
+        run: npm install -g npm@latest
 
       - name: Installing
         run: yarn --frozen-lockfile --perfer-offline --link-duplicates
@@ -76,20 +80,19 @@ jobs:
           NPM_TOKEN: ${{ secrets.SOCIALGROOVYBOT_NPM_TOKEN }}
 
       - name: Semantic Release
-        uses: cycjimmy/semantic-release-action@v2
+        uses: cycjimmy/semantic-release-action@ba330626c4750c19d8299de843f05c7aa5574f62
         with:
-          semantic_version: 17
+          semantic_version: 25.0.1
           extra_plugins: |
-            @semantic-release/changelog@5.0.1
-            @semantic-release/exec@5.0.0
-            @semantic-release/git@9.0.0
+            @semantic-release/changelog@6.0.3
+            @semantic-release/exec@7.1.0
+            @semantic-release/git@10.0.1
         env:
           GIT_AUTHOR_EMAIL: ${{ secrets.SOCIALGROOVYBOT_EMAIL }}
           GIT_AUTHOR_NAME: ${{ secrets.SOCIALGROOVYBOT_NAME }}
           GIT_COMMITTER_EMAIL: ${{ secrets.SOCIALGROOVYBOT_EMAIL }}
           GIT_COMMITTER_NAME: ${{ secrets.SOCIALGROOVYBOT_NAME }}
           GITHUB_TOKEN: ${{ steps.token.outputs.token }}
-          NPM_TOKEN: ${{ secrets.SOCIALGROOVYBOT_NPM_TOKEN }}
 
       - uses: mattermost/action-mattermost-notify@master
         if: failure()
