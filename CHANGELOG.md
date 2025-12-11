@@ -1,3 +1,15 @@
+# [2.480.0](https://github.com/SocialGouv/legi-data/compare/v2.479.0...v2.480.0) (2025-12-11)
+
+
+### Bug Fixes
+
+* use OIDC NPM publish ([d34a007](https://github.com/SocialGouv/legi-data/commit/d34a0075a3236b8867e320f72a2d7e0e1c544fc7))
+
+
+### Features
+
+* **data:** 20251211_1530 update ([5fb1c24](https://github.com/SocialGouv/legi-data/commit/5fb1c247ca2d521eb3553da2aead837270899b79))
+
 # [2.479.0](https://github.com/SocialGouv/legi-data/compare/v2.478.0...v2.479.0) (2025-12-10)
 
 
