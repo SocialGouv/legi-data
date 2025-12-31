@@ -5,9 +5,9 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2025-07-02",
-    "dateDebutVersion": "2025-07-02",
-    "dateFinVersion": "2999-01-01"
+    "dateModif": "2025-12-29",
+    "dateDebutVersion": "2025-12-29",
+    "dateFinVersion": "2026-01-01"
   },
   "type": "code",
   "children": [
@@ -1016,8 +1016,8 @@
                             "nota": "",
                             "notaHtml": "",
                             "num": "L112-9",
-                            "texte": "L'administration met en place un ou plusieurs téléservices, dans le respect des dispositions de loi n° 78-17 du 6 janvier 1978 relative à l'informatique et aux libertés et des règles de sécurité et d'interopérabilité prévues aux chapitres IV et V de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. Lorsqu'elle met en place un ou plusieurs téléservices, l'administration rend accessibles leurs modalités d'utilisation, notamment les modes de communication possibles. Ces modalités s'imposent au public. Lorsqu'elle a mis en place un téléservice réservé à l'accomplissement de certaines démarches administratives, une administration n'est régulièrement saisie par voie électronique que par l'usage de ce téléservice. Un décret en Conseil d'Etat détermine les conditions d'application du présent article.",
-                            "texteHtml": "<p><br/>L'administration met en place un ou plusieurs téléservices, dans le respect des dispositions de <a href=\"/affichTexte.do?cidTexte=JORFTEXT000000886460&categorieLien=cid\">loi n° 78-17 du 6 janvier 1978 </a>relative à l'informatique et aux libertés et des règles de sécurité et d'interopérabilité prévues aux chapitres IV et V de l'ordonnance n° <a href=\"/affichTexte.do?cidTexte=JORFTEXT000000636232&categorieLien=cid\" title=\"Ordonnance n° 2005-1516 du 8 décembre 2005 (V)\">2005-1516</a> du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. <br/>Lorsqu'elle met en place un ou plusieurs téléservices, l'administration rend accessibles leurs modalités d'utilisation, notamment les modes de communication possibles. Ces modalités s'imposent au public. <br/>Lorsqu'elle a mis en place un téléservice réservé à l'accomplissement de certaines démarches administratives, une administration n'est régulièrement saisie par voie électronique que par l'usage de ce téléservice. <br/>Un décret en Conseil d'Etat détermine les conditions d'application du présent article.</p>"
+                            "texte": "L'administration met en place un ou plusieurs téléservices, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique et aux libertés et des règles de sécurité et d'interopérabilité prévues aux chapitres IV et V de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. Lorsqu'elle met en place un ou plusieurs téléservices, l'administration rend accessibles leurs modalités d'utilisation, notamment les modes de communication possibles. Ces modalités s'imposent au public. Lorsqu'elle a mis en place un téléservice réservé à l'accomplissement de certaines démarches administratives, une administration n'est régulièrement saisie par voie électronique que par l'usage de ce téléservice. Un décret en Conseil d'Etat détermine les conditions d'application du présent article.",
+                            "texteHtml": "<p>L'administration met en place un ou plusieurs téléservices, dans le respect des dispositions de la <a href=\"/affichTexte.do?cidTexte=JORFTEXT000000886460&categorieLien=cid\">loi n° 78-17 du 6 janvier 1978 </a>relative à l'informatique et aux libertés et des règles de sécurité et d'interopérabilité prévues aux chapitres IV et V de l'ordonnance n° <a href=\"/affichTexte.do?cidTexte=JORFTEXT000000636232&categorieLien=cid\" title=\"Ordonnance n° 2005-1516 du 8 décembre 2005 (V)\">2005-1516</a> du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives.</p><p>Lorsqu'elle met en place un ou plusieurs téléservices, l'administration rend accessibles leurs modalités d'utilisation, notamment les modes de communication possibles. Ces modalités s'imposent au public.</p><p>Lorsqu'elle a mis en place un téléservice réservé à l'accomplissement de certaines démarches administratives, une administration n'est régulièrement saisie par voie électronique que par l'usage de ce téléservice.</p><p>Un décret en Conseil d'Etat détermine les conditions d'application du présent article.</p>"
                           },
                           "type": "article"
                         },
@@ -4056,9 +4056,18 @@
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000051827051",
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "version": "1.0",
                         "dateDebut": 1751414400000,
+                        "dateFin": 1861920000000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000052850322",
+                        "etat": "VIGUEUR_DIFF",
+                        "version": "2.0",
+                        "dateDebut": 1861920000000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
@@ -4067,9 +4076,9 @@
                     "cid": "LEGIARTI000051827051",
                     "dateDebut": 1751414400000,
                     "dateDebutExtension": 32472144000000,
-                    "dateFin": 32472144000000,
+                    "dateFin": 1861920000000,
                     "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR",
+                    "etat": "ABROGE_DIFF",
                     "id": "LEGIARTI000051827051",
                     "intOrdre": 1342177279,
                     "lienModifications": [
@@ -4134,6 +4143,92 @@
                     "num": "L115-3",
                     "texte": "I.-En l'absence de dispositions spécifiques, en présence d'indices sérieux de manquement délibéré ou de manœuvres frauduleuses en vue d'obtenir ou de tenter d'obtenir indûment l'octroi ou le versement d'une aide publique, les agents désignés et habilités d'une administration ou d'un établissement public industriel et commercial chargés de l'instruction, de l'attribution, de la gestion, du contrôle ou du versement d'aides publiques peuvent procéder à la suspension de l'octroi ou du versement d'une aide publique. La durée de la mesure de suspension ne peut excéder trois mois à compter de sa notification. Lorsque des éléments nouveaux laissant supposer un manquement délibéré ou des manœuvres frauduleuses sont portés à leur connaissance durant cette période, les agents précités peuvent renouveler la mesure de suspension pour la même durée. II.-En cas de manquement délibéré ou de manœuvres frauduleuses, les autorités mentionnées au I peuvent rejeter la demande d'une aide publique. Elles peuvent également rejeter le versement d'une aide publique, sous réserve, le cas échéant, du retrait de la décision d'octroi de l'aide dans les conditions prévues aux articles L. 241-2 et L. 242-2 . III.-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.",
                     "texteHtml": "<p align=\"left\">I.-En l'absence de dispositions spécifiques, en présence d'indices sérieux de manquement délibéré ou de manœuvres frauduleuses en vue d'obtenir ou de tenter d'obtenir indûment l'octroi ou le versement d'une aide publique, les agents désignés et habilités d'une administration ou d'un établissement public industriel et commercial chargés de l'instruction, de l'attribution, de la gestion, du contrôle ou du versement d'aides publiques peuvent procéder à la suspension de l'octroi ou du versement d'une aide publique. La durée de la mesure de suspension ne peut excéder trois mois à compter de sa notification. Lorsque des éléments nouveaux laissant supposer un manquement délibéré ou des manœuvres frauduleuses sont portés à leur connaissance durant cette période, les agents précités peuvent renouveler la mesure de suspension pour la même durée. </p><p align=\"left\">II.-En cas de manquement délibéré ou de manœuvres frauduleuses, les autorités mentionnées au I peuvent rejeter la demande d'une aide publique. Elles peuvent également rejeter le versement d'une aide publique, sous réserve, le cas échéant, du retrait de la décision d'octroi de l'aide dans les conditions prévues aux <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367651&dateTexte=&categorieLien=cid\">articles L. 241-2 </a>et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367659&dateTexte=&categorieLien=cid\">L. 242-2</a>. </p><p align=\"left\">III.-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.</p>"
+                  },
+                  "type": "article"
+                },
+                {
+                  "data": {
+                    "articleVersions": [
+                      {
+                        "id": "LEGIARTI000053199709",
+                        "etat": "VIGUEUR",
+                        "version": "1.0",
+                        "dateDebut": 1766966400000,
+                        "dateFin": 32472144000000,
+                        "numero": null,
+                        "ordre": null
+                      }
+                    ],
+                    "cid": "LEGIARTI000053199709",
+                    "dateDebut": 1766966400000,
+                    "dateDebutExtension": 32472144000000,
+                    "dateFin": 32472144000000,
+                    "dateFinExtension": 32472144000000,
+                    "etat": "VIGUEUR",
+                    "id": "LEGIARTI000053199709",
+                    "intOrdre": 1879048191,
+                    "lienModifications": [
+                      {
+                        "textCid": "JORFTEXT000053177695",
+                        "textTitle": "Décret n°2025-1369 du 26 décembre 2025 - art. 1",
+                        "linkType": "CREE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "LEGIARTI000053199322",
+                        "natureText": "DECRET",
+                        "datePubliTexte": "2025-12-28",
+                        "dateSignaTexte": "2025-12-26",
+                        "dateDebutCible": "2025-12-29"
+                      }
+                    ],
+                    "nota": "",
+                    "notaHtml": "",
+                    "num": "R115-4",
+                    "texte": "I. - Les agents d'une administration ou d'un établissement public industriel et commercial mentionnés au I de l'article L. 115-2 chargés de l'instruction, de l'attribution, de la gestion, du contrôle ou du versement d'aides publiques ou de la lutte contre la fraude, sont désignés et habilités : 1° S'agissant des administrations de l'Etat : a) Lorsqu'ils sont affectés dans un service central, un service à compétence nationale, une délégation, une mission ou un office, par le directeur général, le directeur, le responsable du service, le délégué, le chef de mission, le chef de l'office ou leurs adjoints ; b) Lorsqu'ils sont affectés dans un service déconcentré de l'Etat, par le responsable du service interrégional, régional ou départemental dont relève l'agent ; 2° S'agissant des collectivités territoriales, par le responsable de l'exécutif ou par le directeur général des services ou son adjoint ; 3° S'agissant des autres administrations et des établissements publics industriels et commerciaux, par l'autorité hiérarchique disposant de la compétence pour l'instruction, l'attribution, la gestion, le contrôle ou le versement d'aides publiques ou pour la lutte contre la fraude. L'habilitation est délivrée en tenant compte de l'affectation de l'agent et de ses missions. Elle est personnelle et cesse de plein droit lorsqu'il quitte les fonctions au titre desquelles il a été habilité. II. - Les agents mentionnés au I de l'article L. 115-3 sont habilités selon les mêmes modalités que celles prévues au I du présent article.",
+                    "texteHtml": "<p align=\"left\">I. - Les agents d'une administration ou d'un établissement public industriel et commercial mentionnés au I de l'article L. 115-2 chargés de l'instruction, de l'attribution, de la gestion, du contrôle ou du versement d'aides publiques ou de la lutte contre la fraude, sont désignés et habilités :</p><p align=\"left\">1° S'agissant des administrations de l'Etat :</p><p align=\"left\">a) Lorsqu'ils sont affectés dans un service central, un service à compétence nationale, une délégation, une mission ou un office, par le directeur général, le directeur, le responsable du service, le délégué, le chef de mission, le chef de l'office ou leurs adjoints ;</p><p align=\"left\">b) Lorsqu'ils sont affectés dans un service déconcentré de l'Etat, par le responsable du service interrégional, régional ou départemental dont relève l'agent ;</p><p align=\"left\">2° S'agissant des collectivités territoriales, par le responsable de l'exécutif ou par le directeur général des services ou son adjoint ;</p><p align=\"left\">3° S'agissant des autres administrations et des établissements publics industriels et commerciaux, par l'autorité hiérarchique disposant de la compétence pour l'instruction, l'attribution, la gestion, le contrôle ou le versement d'aides publiques ou pour la lutte contre la fraude.</p><p align=\"left\">L'habilitation est délivrée en tenant compte de l'affectation de l'agent et de ses missions. Elle est personnelle et cesse de plein droit lorsqu'il quitte les fonctions au titre desquelles il a été habilité.</p><p align=\"left\">II. - Les agents mentionnés au I de l'article L. 115-3 sont habilités selon les mêmes modalités que celles prévues au I du présent article.</p>"
+                  },
+                  "type": "article"
+                },
+                {
+                  "data": {
+                    "articleVersions": [
+                      {
+                        "id": "LEGIARTI000053199716",
+                        "etat": "VIGUEUR",
+                        "version": "1.0",
+                        "dateDebut": 1766966400000,
+                        "dateFin": 32472144000000,
+                        "numero": null,
+                        "ordre": null
+                      }
+                    ],
+                    "cid": "LEGIARTI000053199711",
+                    "dateDebut": 1766966400000,
+                    "dateDebutExtension": 32472144000000,
+                    "dateFin": 32472144000000,
+                    "dateFinExtension": 32472144000000,
+                    "etat": "VIGUEUR",
+                    "id": "LEGIARTI000053199716",
+                    "intOrdre": 2013265919,
+                    "lienModifications": [
+                      {
+                        "textCid": "JORFTEXT000053177695",
+                        "textTitle": "Décret n°2025-1369 du 26 décembre 2025 - art. 1",
+                        "linkType": "CREE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "LEGIARTI000053199322",
+                        "natureText": "DECRET",
+                        "datePubliTexte": "2025-12-28",
+                        "dateSignaTexte": "2025-12-26",
+                        "dateDebutCible": "2025-12-29"
+                      }
+                    ],
+                    "nota": "Conformément à l'article 3 du décret n° 2025-1369 du 26 décembre 2025, les dispositions du présent article, créé par le décret précité, s'appliquent aux demandes reçues à compter du premier jour du troisième mois qui suit celui de la publication du présent décret. Elles s'appliquent dans les mêmes conditions aux versements périodiques liquidés ou ordonnancés sur le fondement d'une décision prise antérieurement à la date d'entrée en vigueur des dispositions du présent article.",
+                    "notaHtml": "<p>Conformément à l'article 3 du décret n° 2025-1369 du 26 décembre 2025, les dispositions du présent article, créé par le décret précité, s'appliquent aux demandes reçues à compter du premier jour du troisième mois qui suit celui de la publication du présent décret. Elles s'appliquent dans les mêmes conditions aux versements périodiques liquidés ou ordonnancés sur le fondement d'une décision prise antérieurement à la date d'entrée en vigueur des dispositions du présent article.</p>",
+                    "num": "R115-5",
+                    "texte": "La mesure de suspension prévue au I de l'article L. 115-3, ainsi que son renouvellement, sont notifiés sans délai au demandeur ou au bénéficiaire de l'aide publique, avec l'indication de ses motifs et du délai de suspension, qui ne peut excéder trois mois. La décision de suspendre l'instruction d'une demande suspend le délai à l'issue duquel une décision implicite est susceptible de naître. Durant la période de suspension, l'autorité procède à toutes les vérifications utiles, y compris, le cas échéant, auprès du demandeur ou du bénéficiaire de l'aide, auquel des demandes d'informations et de pièces justificatives peuvent être adressées, assorties d'un délai de réponse. Il peut être mis fin à la suspension à tout moment. A l'issue de la suspension, l'autorité peut, selon le cas : 1° Reprendre l'instruction de la demande ou le versement de l'aide ; 2° Rejeter la demande ; 3° Retirer ou abroger la décision d'attribution de l'aide dans les conditions fixées aux articles L. 241-2 et L. 242-2. Lorsque l'autorité retire la décision d'octroi de l'aide publique, elle procède aux mesures nécessaires au reversement des sommes indûment versées.",
+                    "texteHtml": "<p align=\"left\">La mesure de suspension prévue au I de l'article L. 115-3, ainsi que son renouvellement, sont notifiés sans délai au demandeur ou au bénéficiaire de l'aide publique, avec l'indication de ses motifs et du délai de suspension, qui ne peut excéder trois mois.</p><p align=\"left\">La décision de suspendre l'instruction d'une demande suspend le délai à l'issue duquel une décision implicite est susceptible de naître.</p><p align=\"left\">Durant la période de suspension, l'autorité procède à toutes les vérifications utiles, y compris, le cas échéant, auprès du demandeur ou du bénéficiaire de l'aide, auquel des demandes d'informations et de pièces justificatives peuvent être adressées, assorties d'un délai de réponse.</p><p align=\"left\">Il peut être mis fin à la suspension à tout moment.</p><p align=\"left\">A l'issue de la suspension, l'autorité peut, selon le cas :</p><p align=\"left\">1° Reprendre l'instruction de la demande ou le versement de l'aide ;</p><p align=\"left\">2° Rejeter la demande ;</p><p align=\"left\">3° Retirer ou abroger la décision d'attribution de l'aide dans les conditions fixées aux articles L. 241-2 et L. 242-2.</p><p align=\"left\">Lorsque l'autorité retire la décision d'octroi de l'aide publique, elle procède aux mesures nécessaires au reversement des sommes indûment versées.</p>"
                   },
                   "type": "article"
                 }
@@ -21646,9 +21741,18 @@
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000031367918",
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "version": "1.0",
                         "dateDebut": 1451606400000,
+                        "dateFin": 1767225600000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000052094397",
+                        "etat": "VIGUEUR_DIFF",
+                        "version": "2.0",
+                        "dateDebut": 1767225600000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
@@ -21657,9 +21761,9 @@
                     "cid": "LEGIARTI000031367918",
                     "dateDebut": 1451606400000,
                     "dateDebutExtension": 32472144000000,
-                    "dateFin": 32472144000000,
+                    "dateFin": 1767225600000,
                     "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR",
+                    "etat": "ABROGE_DIFF",
                     "id": "LEGIARTI000031367918",
                     "intOrdre": 1610612735,
                     "lienModifications": [
@@ -23763,21 +23867,30 @@
                               },
                               {
                                 "id": "LEGIARTI000047543784",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "6.0",
                                 "dateDebut": 1684022400000,
+                                "dateFin": 1766966400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000053220002",
+                                "etat": "VIGUEUR",
+                                "version": "7.0",
+                                "dateDebut": 1766966400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370693",
-                            "dateDebut": 1684022400000,
+                            "dateDebut": 1766966400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000047543784",
+                            "id": "LEGIARTI000053220002",
                             "intOrdre": 1789569705,
                             "lienModifications": [
                               {
@@ -23793,23 +23906,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000047541339",
-                                "textTitle": "Décret n°2023-361 du 11 mai 2023 - art. 1",
+                                "textCid": "JORFTEXT000053177695",
+                                "textTitle": "Décret n°2025-1369 du 26 décembre 2025 - art. 2",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "1",
-                                "articleId": "LEGIARTI000047543106",
+                                "articleNum": "2",
+                                "articleId": "LEGIARTI000053199324",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2023-05-13",
-                                "dateSignaTexte": "2023-05-11",
-                                "dateDebutCible": "2023-05-14"
+                                "datePubliTexte": "2025-12-28",
+                                "dateSignaTexte": "2025-12-26",
+                                "dateDebutCible": "2025-12-29"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "R552-5",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-5 à R. 114-9-7 Résultant du décret n° 2023-361 du 11 mai 2023 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\" align=\"center\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\">Titre Ier </td><td align=\"left\"></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid\">R. 112-4 et R. 112-5 </a></p></td><td><p>Résultant du décret n° 2015-1342 </p></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid\">R. 112-9-1 et R. 112-9-2 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid\">R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid\">R. 112-16 </a>à <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid\">R. 112-20 </a></td><td>Résultant du décret n° <a href=\"/affichTexte.do?cidTexte=JORFTEXT000036249422&categorieLien=cid\">2017-1728 </a>du 21 décembre 2017 </td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid\">R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° <a href=\"/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid\">2015-1342 </a></td></tr><tr><td><br/><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000038029915&dateTexte=&categorieLien=cid\">R. 114-9-5 à R. 114-9-7</a></td><td><br/>Résultant du <a href=\"/affichTexte.do?cidTexte=JORFTEXT000047541339&categorieLien=cid\">décret n° 2023-361 du 11 mai 2023 </a></td></tr><tr><td align=\"left\"><p>Titre III </p></td><td align=\"left\"></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid\">R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid\">R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center><p align=\"left\"></p><p align=\"left\"></p><p align=\"left\"></p><p align=\"left\"></p><p align=\"left\"></p>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-5 à R. 114-9-7 Résultant du décret n° 2023-361 du 11 mai 2023 R. 115-4 et R. 115-5 Résultant du décret n° 2025-1369 du 26 décembre 2025 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\" align=\"center\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\">Titre Ier </td><td align=\"left\"></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031369979&dateTexte=&categorieLien=cid\">R. 112-4 et R. 112-5 </a></p></td><td><p>Résultant du décret n° 2015-1342 </p></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286800&dateTexte=&categorieLien=cid\">R. 112-9-1 et R. 112-9-2 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033286826&dateTexte=&categorieLien=cid\">R. 112-11-1 à R. 112-11-4 </a></p></td><td><p>Résultant du décret n° 2016-1411 du 20 octobre 2016 </p></td></tr><tr><td><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254171&dateTexte=&categorieLien=cid\">R. 112-16 </a>à <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000036254179&dateTexte=&categorieLien=cid\">R. 112-20 </a></td><td>Résultant du décret n° <a href=\"/affichTexte.do?cidTexte=JORFTEXT000036249422&categorieLien=cid\">2017-1728 </a>du 21 décembre 2017 </td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370019&dateTexte=&categorieLien=cid\">R. 113-5 à R. 113-11 </a></p></td><td>Résultant du décret n° <a href=\"/affichTexte.do?cidTexte=JORFTEXT000031361680&categorieLien=cid\">2015-1342 </a></td></tr><tr><td><br/><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000038029915&dateTexte=&categorieLien=cid\">R. 114-9-5 à R. 114-9-7 </a></td><td><br/>Résultant du <a href=\"/affichTexte.do?cidTexte=JORFTEXT000047541339&categorieLien=cid\">décret n° 2023-361 du 11 mai 2023 </a></td></tr><tr><td><br/><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000053199709&dateTexte=&categorieLien=cid\">R. 115-4 </a>et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000053199711&dateTexte=&categorieLien=cid\">R. 115-5</a></td><td><br/>Résultant du <a href=\"/affichTexte.do?cidTexte=JORFTEXT000053177695&categorieLien=cid\">décret n° 2025-1369 du 26 décembre 2025 </a></td></tr><tr><td align=\"left\"><p>Titre III </p></td><td align=\"left\"></td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370149&dateTexte=&categorieLien=cid\">R. 134-3 à R. 134-30 </a></p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p><a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031370229&dateTexte=&categorieLien=cid\">R. 134-32 </a></p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center><p align=\"left\"></p><p align=\"left\"></p><p align=\"left\"></p><p align=\"left\"></p><p align=\"left\"></p>"
                           },
                           "type": "article"
                         },
@@ -25637,21 +25750,30 @@
                               },
                               {
                                 "id": "LEGIARTI000047543741",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "6.0",
                                 "dateDebut": 1684022400000,
+                                "dateFin": 1766966400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000053219966",
+                                "etat": "VIGUEUR",
+                                "version": "7.0",
+                                "dateDebut": 1766966400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000031370755",
-                            "dateDebut": 1684022400000,
+                            "dateDebut": 1766966400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000047543741",
+                            "id": "LEGIARTI000053219966",
                             "intOrdre": 1789569705,
                             "lienModifications": [
                               {
@@ -25667,23 +25789,23 @@
                                 "dateDebutCible": null
                               },
                               {
-                                "textCid": "JORFTEXT000047541339",
-                                "textTitle": "Décret n°2023-361 du 11 mai 2023 - art. 1",
+                                "textCid": "JORFTEXT000053177695",
+                                "textTitle": "Décret n°2025-1369 du 26 décembre 2025 - art. 2",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "1",
-                                "articleId": "LEGIARTI000047543106",
+                                "articleNum": "2",
+                                "articleId": "LEGIARTI000053199324",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2023-05-13",
-                                "dateSignaTexte": "2023-05-11",
-                                "dateDebutCible": "2023-05-14"
+                                "datePubliTexte": "2025-12-28",
+                                "dateSignaTexte": "2025-12-26",
+                                "dateDebutCible": "2025-12-29"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "R562-5",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du  décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-5 à R. 114-9-7 Résultant du décret n° 2023-361 du 11 mai 2023 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\"><p>Titre Ier </p></td><td align=\"left\"></td></tr><tr><td><p>R. 112-4 et R. 112-5 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 112-9-1 et R. 112-9-2 </p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td></tr><tr><td><p>R. 112-11-1 à R. 112-11-4 </p></td><td><p>Résultant du  décret n° 2016-1411 du 20 octobre 2016  </p></td></tr><tr><td>R. 112-16 à R. 112-20 </td><td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td></tr><tr><td><p>R. 113-5 à R. 113-11 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 114-9-5 à R. 114-9-7 </p></td><td><br clear=\"none\" />Résultant du décret n° 2023-361 du 11 mai 2023</td></tr><tr><td align=\"left\"><p>Titre III </p></td><td align=\"left\"></td></tr><tr><td><p>R. 134-3 à R. 134-30 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 134-32 </p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du  décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-5 à R. 114-9-7 Résultant du décret n° 2023-361 du 11 mai 2023 R. 115-4 et R. 115-5 Résultant du décret n° 2025-1369 du 26 décembre 2025 Titre III R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\"><p>Titre Ier </p></td><td align=\"left\"></td></tr><tr><td><p>R. 112-4 et R. 112-5 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 112-9-1 et R. 112-9-2 </p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td></tr><tr><td><p>R. 112-11-1 à R. 112-11-4 </p></td><td><p>Résultant du  décret n° 2016-1411 du 20 octobre 2016  </p></td></tr><tr><td>R. 112-16 à R. 112-20 </td><td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td></tr><tr><td><p>R. 113-5 à R. 113-11 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 114-9-5 à R. 114-9-7 </p></td><td><br/>Résultant du décret n° 2023-361 du 11 mai 2023 </td></tr><tr><td><br/>R. 115-4 et R. 115-5</td><td><br/>Résultant du décret n° 2025-1369 du 26 décembre 2025 </td></tr><tr><td align=\"left\"><p>Titre III </p></td><td align=\"left\"></td></tr><tr><td><p>R. 134-3 à R. 134-30 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 134-32 </p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         },
@@ -27432,21 +27554,30 @@
                       },
                       {
                         "id": "LEGIARTI000047543695",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "6.0",
                         "dateDebut": 1684022400000,
+                        "dateFin": 1766966400000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000053219928",
+                        "etat": "VIGUEUR",
+                        "version": "7.0",
+                        "dateDebut": 1766966400000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000031370813",
-                    "dateDebut": 1684022400000,
+                    "dateDebut": 1766966400000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000047543695",
+                    "id": "LEGIARTI000053219928",
                     "intOrdre": 1342177279,
                     "lienModifications": [
                       {
@@ -27462,23 +27593,23 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000047541339",
-                        "textTitle": "Décret n°2023-361 du 11 mai 2023 - art. 1",
+                        "textCid": "JORFTEXT000053177695",
+                        "textTitle": "Décret n°2025-1369 du 26 décembre 2025 - art. 2",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "LEGIARTI000047543106",
+                        "articleNum": "2",
+                        "articleId": "LEGIARTI000053199324",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2023-05-13",
-                        "dateSignaTexte": "2023-05-11",
-                        "dateDebutCible": "2023-05-14"
+                        "datePubliTexte": "2025-12-28",
+                        "dateSignaTexte": "2025-12-26",
+                        "dateDebutCible": "2025-12-29"
                       }
                     ],
                     "nota": "",
                     "notaHtml": "",
                     "num": "R572-3",
-                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du  décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-5 à R. 114-9-7 Résultant du décret n° 2023-361 du 11 mai 2023 Titre III R. 133-3 à R. 133-13 Résultant du décret n° 2015-1342 R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
-                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\"><p>Titre Ier </p></td><td align=\"left\"></td></tr><tr><td><p>R. 112-4 et R. 112-5 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 112-9-1 et R. 112-9-2 </p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td></tr><tr><td><p>R. 112-11-1 à R. 112-11-4 </p></td><td><p>Résultant du  décret n° 2016-1411 du 20 octobre 2016  </p></td></tr><tr><td>R. 112-16 à R. 112-20 </td><td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td></tr><tr><td><p>R. 113-5 à R. 113-11 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 114-9-5 à R. 114-9-7</p></td><td>Résultant du décret n° 2023-361 du 11 mai 2023 </td></tr><tr><td align=\"left\"><p>Titre III </p></td><td align=\"left\"></td></tr><tr><td><p>R. 133-3 à R. 133-13 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 134-3 à R. 134-30 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 134-32 </p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
+                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION Titre Ier R. 112-4 et R. 112-5 Résultant du décret n° 2015-1342 R. 112-9-1 et R. 112-9-2 Résultant du décret n° 2016-1411 du 20 octobre 2016 R. 112-11-1 à R. 112-11-4 Résultant du  décret n° 2016-1411 du 20 octobre 2016 R. 112-16 à R. 112-20 Résultant du décret n° 2017-1728 du 21 décembre 2017 R. 113-5 à R. 113-11 Résultant du décret n° 2015-1342 R. 114-9-5 à R. 114-9-7 Résultant du décret n° 2023-361 du 11 mai 2023 R. 115-4 et R. 115-5 Résultant du décret n° 2025-1369 du 26 décembre 2025 Titre III R. 133-3 à R. 133-13 Résultant du décret n° 2015-1342 R. 134-3 à R. 134-30 Résultant du décret n° 2015-1342 R. 134-32 Résultant du décret n° 2015-1342",
+                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\"><p>Titre Ier </p></td><td align=\"left\"></td></tr><tr><td><p>R. 112-4 et R. 112-5 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 112-9-1 et R. 112-9-2 </p></td><td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td></tr><tr><td><p>R. 112-11-1 à R. 112-11-4 </p></td><td><p>Résultant du  décret n° 2016-1411 du 20 octobre 2016  </p></td></tr><tr><td>R. 112-16 à R. 112-20 </td><td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td></tr><tr><td><p>R. 113-5 à R. 113-11 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 114-9-5 à R. 114-9-7 </p></td><td>Résultant du décret n° 2023-361 du 11 mai 2023 </td></tr><tr><td><br/>R. 115-4 et R. 115-5</td><td><br/>Résultant du décret n° 2025-1369 du 26 décembre 2025 </td></tr><tr><td align=\"left\"><p>Titre III </p></td><td align=\"left\"></td></tr><tr><td><p>R. 133-3 à R. 133-13 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 134-3 à R. 134-30 </p></td><td>Résultant du décret n° 2015-1342 </td></tr><tr><td><p>R. 134-32 </p></td><td>Résultant du décret n° 2015-1342</td></tr></tbody></table></center>"
                   },
                   "type": "article"
                 },
