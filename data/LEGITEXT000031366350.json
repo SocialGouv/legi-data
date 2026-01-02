@@ -5,9 +5,9 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2025-12-29",
-    "dateDebutVersion": "2025-12-29",
-    "dateFinVersion": "2026-01-01"
+    "dateModif": "2026-01-01",
+    "dateDebutVersion": "2026-01-01",
+    "dateFinVersion": "2029-01-01"
   },
   "type": "code",
   "children": [
@@ -21741,7 +21741,7 @@
                     "articleVersions": [
                       {
                         "id": "LEGIARTI000031367918",
-                        "etat": "ABROGE_DIFF",
+                        "etat": "MODIFIE",
                         "version": "1.0",
                         "dateDebut": 1451606400000,
                         "dateFin": 1767225600000,
@@ -21750,7 +21750,7 @@
                       },
                       {
                         "id": "LEGIARTI000052094397",
-                        "etat": "VIGUEUR_DIFF",
+                        "etat": "VIGUEUR",
                         "version": "2.0",
                         "dateDebut": 1767225600000,
                         "dateFin": 32472144000000,
@@ -21759,12 +21759,12 @@
                       }
                     ],
                     "cid": "LEGIARTI000031367918",
-                    "dateDebut": 1451606400000,
+                    "dateDebut": 1767225600000,
                     "dateDebutExtension": 32472144000000,
-                    "dateFin": 1767225600000,
+                    "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
-                    "etat": "ABROGE_DIFF",
-                    "id": "LEGIARTI000031367918",
+                    "etat": "VIGUEUR",
+                    "id": "LEGIARTI000052094397",
                     "intOrdre": 1610612735,
                     "lienModifications": [
                       {
@@ -21772,31 +21772,31 @@
                         "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
                         "linkType": "CODIFICATION",
                         "linkOrientation": "source",
-                        "articleNum": "Annexe",
-                        "articleId": "LEGIARTI000031365132",
-                        "natureText": "ORDONNANCE",
-                        "datePubliTexte": "2015-10-25",
-                        "dateSignaTexte": "2015-10-23",
-                        "dateDebutCible": "2016-01-01"
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000031360943",
-                        "textTitle": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.",
-                        "linkType": "CREE",
+                        "textCid": "JORFTEXT000052075903",
+                        "textTitle": "LOI n°2025-797 du 11 août 2025 - art. 52 (V)",
+                        "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "Annexe",
-                        "articleId": "LEGIARTI000031365132",
-                        "natureText": "ORDONNANCE",
-                        "datePubliTexte": "2015-10-25",
-                        "dateSignaTexte": "2015-10-23",
-                        "dateDebutCible": "2016-01-01"
+                        "articleNum": "52",
+                        "articleId": "LEGIARTI000052079227",
+                        "natureText": "LOI",
+                        "datePubliTexte": "2025-08-12",
+                        "dateSignaTexte": "2025-08-11",
+                        "dateDebutCible": "2025-08-13"
                       }
                     ],
-                    "nota": "",
-                    "notaHtml": "",
+                    "nota": "Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1 er janvier 2026.",
+                    "notaHtml": "<p>Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er </sup>janvier 2026.</p>",
                     "num": "L513-2",
-                    "texte": "L'entrée en vigueur et la publication des délibérations du conseil général de Mayotte et de la commission permanente ainsi que des actes du président du conseil général sont régies, outre par les disposition du chapitre Ier du titre II du livre II du présent code, par les dispositions du chapitre VII du titre III du livre IV de la quatrième partie du code général des collectivités territoriales.",
-                    "texteHtml": "<p><br/>L'entrée en vigueur et la publication des délibérations du conseil général de Mayotte et de la commission permanente ainsi que des actes du président du conseil général sont régies, outre par les disposition du chapitre Ier du titre II du livre II du présent code, par les dispositions du chapitre VII du titre III du livre IV de la quatrième partie du code général des collectivités territoriales.</p>"
+                    "texte": "L'entrée en vigueur et la publication des délibérations    de l'assemblée de Mayotte et de la commission permanente ainsi que des actes du président du conseil général sont régies, outre par les disposition du chapitre Ier du titre II du livre II du présent code, par les dispositions du chapitre VII du titre III du livre IV de la quatrième partie du code général des collectivités territoriales.",
+                    "texteHtml": "<p><br/>L'entrée en vigueur et la publication des délibérations    de l'assemblée de Mayotte et de la commission permanente ainsi que des actes du président du conseil général sont régies, outre par les disposition du chapitre Ier du titre II du livre II du présent code, par les dispositions du chapitre VII du titre III du livre IV de la quatrième partie du code général des collectivités territoriales.</p>"
                   },
                   "type": "article"
                 }
