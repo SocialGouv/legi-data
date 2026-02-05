@@ -5,8 +5,8 @@
     "id": "LEGITEXT000031366350",
     "intOrdre": 0,
     "title": "Code des relations entre le public et l'administration",
-    "dateModif": "2026-01-01",
-    "dateDebutVersion": "2026-01-01",
+    "dateModif": "2026-02-05",
+    "dateDebutVersion": "2026-02-05",
     "dateFinVersion": "2029-01-01"
   },
   "type": "code",
@@ -3410,84 +3410,50 @@
                         "articleVersions": [
                           {
                             "id": "LEGIARTI000047543529",
-                            "etat": "VIGUEUR",
+                            "etat": "MODIFIE",
                             "version": "1.0",
                             "dateDebut": 1684022400000,
+                            "dateFin": 1770249600000,
+                            "numero": null,
+                            "ordre": null
+                          },
+                          {
+                            "id": "LEGIARTI000053437606",
+                            "etat": "VIGUEUR",
+                            "version": "2.0",
+                            "dateDebut": 1770249600000,
                             "dateFin": 32472144000000,
                             "numero": null,
                             "ordre": null
                           }
                         ],
                         "cid": "LEGIARTI000047543529",
-                        "dateDebut": 1684022400000,
+                        "dateDebut": 1770249600000,
                         "dateDebutExtension": 32472144000000,
                         "dateFin": 32472144000000,
                         "dateFinExtension": 32472144000000,
                         "etat": "VIGUEUR",
-                        "id": "LEGIARTI000047543529",
+                        "id": "LEGIARTI000053437606",
                         "intOrdre": 1677721599,
                         "lienModifications": [
                           {
-                            "textCid": "JORFTEXT000047541361",
-                            "textTitle": "Décret n°2023-362 du 11 mai 2023 - art. 2",
-                            "linkType": "CREE",
+                            "textCid": "JORFTEXT000053435139",
+                            "textTitle": "Décret n°2026-54 du 3 février 2026 - art. 1",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "2",
-                            "articleId": "LEGIARTI000047543125",
+                            "articleNum": "1",
+                            "articleId": "LEGIARTI000053436374",
                             "natureText": "DECRET",
-                            "datePubliTexte": "2023-05-13",
-                            "dateSignaTexte": "2023-05-11",
-                            "dateDebutCible": "2023-05-14"
+                            "datePubliTexte": "2026-02-04",
+                            "dateSignaTexte": "2026-02-03",
+                            "dateDebutCible": "2026-02-05"
                           }
                         ],
                         "nota": "",
                         "notaHtml": "",
                         "num": "D114-9-1",
-                        "texte": "I.-Pour chaque type d'information ou de données suivants, les administrations chargées de les mettre à la disposition des autres administrations sont : Personnes concernées Types d'informations ou de données Administrations chargées de la mise à disposition Particuliers Situation du foyer fiscal Direction générale des finances publiques Particuliers Droits sociaux, revenus et prestations ; Situation de la famille Organismes de protection sociale et organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale , au I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 et au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 Particuliers Situation de l'enfant au regard de l'obligation scolaire Ministère chargé de l'éducation nationale Particuliers Inscription dans une formation de l'enseignement supérieur ; Diplômes, titres et qualifications professionnelles Ministère chargé de l'enseignement supérieur et organismes publics chargés de la délivrance ou de la reconnaissance des diplômes, titres et qualifications professionnelles Particuliers Qualité de boursier de l'enseignement supérieur Centre national des œuvres universitaires et scolaires (CNOUS) Particuliers Situation du demandeur d'emploi Pôle emploi ou, à Wallis-et-Futuna, le service de l'Etat chargé de la gestion des demandeurs d'emploi Particuliers Situation au regard des obligations prévues à l' article L. 111-2 du code du service national Direction du service national et de la jeunesse Particuliers Justification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \" Direction interministérielle du numérique Entreprises ou organismes à but non lucratif Informations relatives aux professions libérales Agence centrale des organismes de sécurité sociale Entreprises ou organismes à but non lucratif Identité, statuts et bilans des entreprises inscrites au registre national des entreprises Institut national de la propriété industrielle Entreprises ou organismes à but non lucratif Identité, statuts et bilans des entreprises inscrites au répertoire des entreprises et de leurs établissements Institut national de la statistique et des études économiques Entreprises ou organismes à but non lucratif Identité, statuts et bilans des entreprises inscrites au répertoire du commerce et des sociétés Greffes des tribunaux de commerce, des tribunaux de première instance statuant en matière commerciale et des tribunaux mixtes de commerce Entreprises ou organismes à but non lucratif Statuts des organismes à but non lucratif et identité des dirigeants Préfectures de département en métropole et préfectures, hauts commissariats ou administrations supérieures en outre-mer ; Direction de la jeunesse, de l'éducation populaire et de la vie associative Entreprises ou organismes à but non lucratif Situation fiscale Direction générale des finances publiques Entreprises ou organismes à but non lucratif Situation sociale ; Données relatives aux salariés et dirigeants sociaux Organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale , au I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 et au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 ; Direction de l'animation de la recherche, des études et des statistiques Entreprises ou organismes à but non lucratif Accréditations ou agréments Administrations et organismes chargés d'une mission de service public qui les délivrent Entreprises ou organismes à but non lucratif Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail Association de gestion du fonds de développement pour l'insertion professionnelle des personnes handicapées (AGEFIPH) Entreprises ou organismes à but non lucratif Numéro d'enregistrement et d'identification uniques des opérateurs économiques dit EORI, prévu par le règlement d'exécution (UE) 2021/414 du 8 mars 2021 Direction générale des douanes et des droits indirects Entreprises ou organismes à but non lucratif Protection liée aux marques, brevets, dessins et modèles déposés Institut national de la propriété industrielle Entreprises ou organismes à but non lucratif Diplômes, titres et qualifications professionnelles Organismes publics chargés de leur délivrance ou de leur reconnaissance II.-En tant que de besoin, un arrêté du Premier ministre fixe les conditions de mise en œuvre de cette mise à disposition.",
-                        "texteHtml": "<p>I.-Pour chaque type d'information ou de données suivants, les administrations chargées de les mettre à la disposition des autres administrations sont :<br/><br/></p><p></p><center><table border=\"1\"><tbody><tr><th><br/>\n\t\t\tPersonnes concernées</th><th><br/>\n\t\t\tTypes d'informations ou de données</th><th><br/>\n\t\t\tAdministrations chargées de la mise à disposition</th></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tSituation du foyer fiscal</td><td align=\"left\"><br/>\n\t\t\tDirection générale des finances publiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tDroits sociaux, revenus et prestations ;<br/><br/>\n\t\t\tSituation de la famille</td><td align=\"left\"><br/>\n\t\t\tOrganismes de protection sociale et organismes mentionnés au <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006740156&dateTexte=&categorieLien=cid\">premier alinéa de l'article L. 133-5 du code de la sécurité sociale</a>, au <a href=\"/affichTexteArticle.do?cidTexte=JORFTEXT000000699946&idArticle=LEGIARTI000006682405&dateTexte=&categorieLien=cid\">I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 </a>et au <a href=\"/affichTexteArticle.do?cidTexte=JORFTEXT000000368749&idArticle=LEGIARTI000006698081&dateTexte=&categorieLien=cid\">I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 </a></td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tSituation de l'enfant au regard de l'obligation scolaire</td><td align=\"left\"><br/>\n\t\t\tMinistère chargé de l'éducation nationale</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tInscription dans une formation de l'enseignement supérieur ;<br/><br/>\n\t\t\tDiplômes, titres et qualifications professionnelles</td><td align=\"left\"><br/>\n\t\t\tMinistère chargé de l'enseignement supérieur et organismes publics chargés de la délivrance ou de la reconnaissance des diplômes, titres et qualifications professionnelles</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tQualité de boursier de l'enseignement supérieur</td><td align=\"left\"><br/>\n\t\t\tCentre national des œuvres universitaires et scolaires (CNOUS)</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tSituation du demandeur d'emploi</td><td align=\"left\"><br/>\n\t\t\tPôle emploi ou, à Wallis-et-Futuna, le service de l'Etat chargé de la gestion des demandeurs d'emploi</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tSituation au regard des obligations prévues à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071335&idArticle=LEGIARTI000006555907&dateTexte=&categorieLien=cid\">article L. 111-2 du code du service national </a></td><td align=\"left\"><br/>\n\t\t\tDirection du service national et de la jeunesse</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tJustification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \"</td><td align=\"left\"><br/>\n\t\t\tDirection interministérielle du numérique</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tInformations relatives aux professions libérales</td><td align=\"left\"><br/>\n\t\t\tAgence centrale des organismes de sécurité sociale</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tIdentité, statuts et bilans des entreprises inscrites au registre national des entreprises</td><td align=\"left\"><br/>\n\t\t\tInstitut national de la propriété industrielle</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tIdentité, statuts et bilans des entreprises inscrites au répertoire des entreprises et de leurs établissements</td><td align=\"left\"><br/>\n\t\t\tInstitut national de la statistique et des études économiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tIdentité, statuts et bilans des entreprises inscrites au répertoire du commerce et des sociétés</td><td align=\"left\"><br/>\n\t\t\tGreffes des tribunaux de commerce, des tribunaux de première instance statuant en matière commerciale et des tribunaux mixtes de commerce</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tStatuts des organismes à but non lucratif et identité des dirigeants</td><td align=\"left\"><br/>\n\t\t\tPréfectures de département en métropole et préfectures, hauts commissariats ou administrations supérieures en outre-mer ;<br/><br/>\n\t\t\tDirection de la jeunesse, de l'éducation populaire et de la vie associative</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tSituation fiscale</td><td align=\"left\"><br/>\n\t\t\tDirection générale des finances publiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tSituation sociale ;<br/><br/>\n\t\t\tDonnées relatives aux salariés et dirigeants sociaux</td><td align=\"left\"><br/>\n\t\t\tOrganismes mentionnés au <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006740156&dateTexte=&categorieLien=cid\">premier alinéa de l'article L. 133-5 du code de la sécurité sociale</a>, au <a href=\"/affichTexteArticle.do?cidTexte=JORFTEXT000000699946&idArticle=LEGIARTI000006682405&dateTexte=&categorieLien=cid\">I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 </a>et au <a href=\"/affichTexteArticle.do?cidTexte=JORFTEXT000000368749&idArticle=LEGIARTI000006698081&dateTexte=&categorieLien=cid\">I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 </a>;<br/><br/>\n\t\t\tDirection de l'animation de la recherche, des études et des statistiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tAccréditations ou agréments</td><td align=\"left\"><br/>\n\t\t\tAdministrations et organismes chargés d'une mission de service public qui les délivrent</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tRégularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903680&dateTexte=&categorieLien=cid\">articles L. 5212-2 à L. 5212-5 du code du travail </a></td><td align=\"left\"><br/>\n\t\t\tAssociation de gestion du fonds de développement pour l'insertion professionnelle des personnes handicapées (AGEFIPH)</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tNuméro d'enregistrement et d'identification uniques des opérateurs économiques dit EORI, prévu par le règlement d'exécution (UE) 2021/414 du 8 mars 2021</td><td align=\"left\"><br/>\n\t\t\tDirection générale des douanes et des droits indirects</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tProtection liée aux marques, brevets, dessins et modèles déposés</td><td align=\"left\"><br/>\n\t\t\tInstitut national de la propriété industrielle</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tDiplômes, titres et qualifications professionnelles</td><td align=\"left\"><br/>\n\t\t\tOrganismes publics chargés de leur délivrance ou de leur reconnaissance</td></tr></tbody></table></center><p></p><p><br/>\n II.-En tant que de besoin, un arrêté du Premier ministre fixe les conditions de mise en œuvre de cette mise à disposition.</p>"
-                      },
-                      "type": "article"
-                    },
-                    {
-                      "data": {
-                        "articleVersions": [
-                          {
-                            "id": "LEGIARTI000047543539",
-                            "etat": "VIGUEUR",
-                            "version": "1.0",
-                            "dateDebut": 1684022400000,
-                            "dateFin": 32472144000000,
-                            "numero": null,
-                            "ordre": null
-                          }
-                        ],
-                        "cid": "LEGIARTI000047543539",
-                        "dateDebut": 1684022400000,
-                        "dateDebutExtension": 32472144000000,
-                        "dateFin": 32472144000000,
-                        "dateFinExtension": 32472144000000,
-                        "etat": "VIGUEUR",
-                        "id": "LEGIARTI000047543539",
-                        "intOrdre": 1711276031,
-                        "lienModifications": [
-                          {
-                            "textCid": "JORFTEXT000047541361",
-                            "textTitle": "Décret n°2023-362 du 11 mai 2023 - art. 2",
-                            "linkType": "CREE",
-                            "linkOrientation": "cible",
-                            "articleNum": "2",
-                            "articleId": "LEGIARTI000047543125",
-                            "natureText": "DECRET",
-                            "datePubliTexte": "2023-05-13",
-                            "dateSignaTexte": "2023-05-11",
-                            "dateDebutCible": "2023-05-14"
-                          }
-                        ],
-                        "nota": "",
-                        "notaHtml": "",
-                        "num": "D114-9-2",
-                        "texte": "Pour les types d'informations ou de données qui ne sont pas mentionnés à l'article D. 114-9-1 , ceux-ci sont mis à disposition dans les conditions prévues à l' article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique.",
-                        "texteHtml": "<p>Pour les types d'informations ou de données qui ne sont pas mentionnés à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000047543529&dateTexte=&categorieLien=cid\">D. 114-9-1</a>, ceux-ci sont mis à disposition dans les conditions prévues à l'<a href=\"/affichTexteArticle.do?cidTexte=JORFTEXT000033202746&idArticle=JORFARTI000033202940&categorieLien=cid\">article 1er de la loi n° 2016-1321 du 7 octobre 2016 </a>pour une République numérique.</p>"
+                        "texte": "I.-Les administrations qui détiennent les informations et données mentionnées à l'article L. 114-8 les communiquent aux autres administrations qui en font la demande. II.-En ce qui concerne les informations et données suivantes, les administrations chargées de les mettre à la disposition des autres administrations sont : Personnes concernées Types d'informations ou de données Administrations chargées de la mise à disposition Particuliers Situation du foyer fiscal Direction générale des finances publiques Particuliers Droits sociaux, revenus et prestations ; Situation de la famille Organismes de protection sociale et organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale, au I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 et au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 Particuliers Situation au regard de l'inscription scolaire ; Situation au regard des bourses nationales ; Ministère chargé de l'éducation nationale, Ministère chargé de l'enseignement agricole Particuliers Qualité de sportif de haut niveau ; Ministère chargé des sports Particuliers Inscription dans une formation de l'enseignement supérieur ; Diplômes, titres et qualifications professionnelles Ministère chargé de l'enseignement supérieur et organismes publics chargés de la délivrance ou de la reconnaissance des diplômes, titres et qualifications professionnelles Particuliers Qualité de boursier de l'enseignement supérieur Centre national des œuvres universitaires et scolaires (CNOUS) Particuliers Situation du demandeur d'emploi France Travail ou, à Wallis-et-Futuna, le service de l'Etat chargé de la gestion des demandeurs d'emploi Particuliers Situation au regard des obligations prévues à l' article L. 111-2 du code du service national Direction du service national et de la jeunesse Particuliers Justification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \" Direction interministérielle du numérique Entreprises ou organismes à but non lucratif Informations relatives aux professions libérales Agence centrale des organismes de sécurité sociale Entreprises ou organismes à but non lucratif Identité, statuts et bilans des entreprises inscrites au registre national des entreprises Institut national de la propriété industrielle Entreprises ou organismes à but non lucratif Identité, statuts et bilans des entreprises inscrites au répertoire des entreprises et de leurs établissements Institut national de la statistique et des études économiques Entreprises ou organismes à but non lucratif Identité, statuts et bilans des entreprises inscrites au répertoire du commerce et des sociétés Greffes des tribunaux de commerce, des tribunaux de première instance statuant en matière commerciale et des tribunaux mixtes de commerce Entreprises ou organismes à but non lucratif Statuts des organismes à but non lucratif et identité des dirigeants Préfectures de département en métropole et préfectures, hauts commissariats ou administrations supérieures en outre-mer ; Direction de la jeunesse, de l'éducation populaire et de la vie associative Entreprises ou organismes à but non lucratif Situation fiscale Direction générale des finances publiques Entreprises ou organismes à but non lucratif Situation sociale ; Données relatives aux salariés et dirigeants sociaux Organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale , au I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 et au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 ; Direction de l'animation de la recherche, des études et des statistiques Entreprises ou organismes à but non lucratif Accréditations ou agréments Administrations et organismes chargés d'une mission de service public qui les délivrent Entreprises ou organismes à but non lucratif Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail Association de gestion du fonds de développement pour l'insertion professionnelle des personnes handicapées (AGEFIPH) Entreprises ou organismes à but non lucratif Numéro d'enregistrement et d'identification uniques des opérateurs économiques dit EORI, prévu par le règlement d'exécution (UE) 2021/414 du 8 mars 2021 Direction générale des douanes et des droits indirects Entreprises ou organismes à but non lucratif Protection liée aux marques, brevets, dessins et modèles déposés Institut national de la propriété industrielle Entreprises ou organismes à but non lucratif Diplômes, titres et qualifications professionnelles Organismes publics chargés de leur délivrance ou de leur reconnaissance III.-En tant que de besoin, un arrêté du Premier ministre fixe les conditions de mise en œuvre de cette mise à disposition.",
+                        "texteHtml": "<p>I.-Les administrations qui détiennent les informations et données mentionnées à l'article L. 114-8 les communiquent aux autres administrations qui en font la demande.<br/><br/>\n II.-En ce qui concerne les informations et données suivantes, les administrations chargées de les mettre à la disposition des autres administrations sont :</p><center><table border=\"1\"><tbody><tr><th><br/>\n\t\t\tPersonnes concernées</th><th><br/>\n\t\t\tTypes d'informations ou de données</th><th><br/>\n\t\t\tAdministrations chargées de la mise à disposition</th></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tSituation du foyer fiscal</td><td align=\"left\"><br/>\n\t\t\tDirection générale des finances publiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tDroits sociaux, revenus et prestations ;<br/><br/>\n\t\t\tSituation de la famille</td><td align=\"left\"><br/>\n\t\t\tOrganismes de protection sociale et organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale, au I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 et au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 </td></tr><tr><td align=\"left\">Particuliers</td><td align=\"left\">Situation au regard de l'inscription scolaire ;<br/><br/>\n\t\t\tSituation au regard des bourses nationales ;</td><td align=\"left\">Ministère chargé de l'éducation nationale, Ministère chargé de l'enseignement agricole</td></tr><tr><td align=\"left\">Particuliers</td><td align=\"left\">Qualité de sportif de haut niveau ;</td><td align=\"left\">Ministère chargé des sports</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tInscription dans une formation de l'enseignement supérieur ;<br/><br/>\n\t\t\tDiplômes, titres et qualifications professionnelles</td><td align=\"left\"><br/>\n\t\t\tMinistère chargé de l'enseignement supérieur et organismes publics chargés de la délivrance ou de la reconnaissance des diplômes, titres et qualifications professionnelles</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tQualité de boursier de l'enseignement supérieur</td><td align=\"left\"><br/>\n\t\t\tCentre national des œuvres universitaires et scolaires (CNOUS)</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tSituation du demandeur d'emploi</td><td align=\"left\"><br/>\n\t\t\tFrance Travail ou, à Wallis-et-Futuna, le service de l'Etat chargé de la gestion des demandeurs d'emploi</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tSituation au regard des obligations prévues à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071335&idArticle=LEGIARTI000006555907&dateTexte=&categorieLien=cid\">article L. 111-2 du code du service national </a></td><td align=\"left\"><br/>\n\t\t\tDirection du service national et de la jeunesse</td></tr><tr><td align=\"left\"><br/>\n\t\t\tParticuliers</td><td align=\"left\"><br/>\n\t\t\tJustification de l'identité par voie électronique par l'intermédiaire du téléservice \" FranceConnect \"</td><td align=\"left\"><br/>\n\t\t\tDirection interministérielle du numérique</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tInformations relatives aux professions libérales</td><td align=\"left\"><br/>\n\t\t\tAgence centrale des organismes de sécurité sociale</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tIdentité, statuts et bilans des entreprises inscrites au registre national des entreprises</td><td align=\"left\"><br/>\n\t\t\tInstitut national de la propriété industrielle</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tIdentité, statuts et bilans des entreprises inscrites au répertoire des entreprises et de leurs établissements</td><td align=\"left\"><br/>\n\t\t\tInstitut national de la statistique et des études économiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tIdentité, statuts et bilans des entreprises inscrites au répertoire du commerce et des sociétés</td><td align=\"left\"><br/>\n\t\t\tGreffes des tribunaux de commerce, des tribunaux de première instance statuant en matière commerciale et des tribunaux mixtes de commerce</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tStatuts des organismes à but non lucratif et identité des dirigeants</td><td align=\"left\"><br/>\n\t\t\tPréfectures de département en métropole et préfectures, hauts commissariats ou administrations supérieures en outre-mer ;<br/><br/>\n\t\t\tDirection de la jeunesse, de l'éducation populaire et de la vie associative</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tSituation fiscale</td><td align=\"left\"><br/>\n\t\t\tDirection générale des finances publiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tSituation sociale ;<br/><br/>\n\t\t\tDonnées relatives aux salariés et dirigeants sociaux</td><td align=\"left\"><br/>\n\t\t\tOrganismes mentionnés au <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006740156&dateTexte=&categorieLien=cid\">premier alinéa de l'article L. 133-5 du code de la sécurité sociale</a>, au <a href=\"/affichTexteArticle.do?cidTexte=JORFTEXT000000699946&idArticle=LEGIARTI000006682405&dateTexte=&categorieLien=cid\">I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 </a>et au <a href=\"/affichTexteArticle.do?cidTexte=JORFTEXT000000368749&idArticle=LEGIARTI000006698081&dateTexte=&categorieLien=cid\">I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 </a>;<br/><br/>\n\t\t\tDirection de l'animation de la recherche, des études et des statistiques</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tAccréditations ou agréments</td><td align=\"left\"><br/>\n\t\t\tAdministrations et organismes chargés d'une mission de service public qui les délivrent</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tRégularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903680&dateTexte=&categorieLien=cid\">articles L. 5212-2 à L. 5212-5 du code du travail </a></td><td align=\"left\"><br/>\n\t\t\tAssociation de gestion du fonds de développement pour l'insertion professionnelle des personnes handicapées (AGEFIPH)</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tNuméro d'enregistrement et d'identification uniques des opérateurs économiques dit EORI, prévu par le règlement d'exécution (UE) 2021/414 du 8 mars 2021</td><td align=\"left\"><br/>\n\t\t\tDirection générale des douanes et des droits indirects</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tProtection liée aux marques, brevets, dessins et modèles déposés</td><td align=\"left\"><br/>\n\t\t\tInstitut national de la propriété industrielle</td></tr><tr><td align=\"left\"><br/>\n\t\t\tEntreprises ou organismes à but non lucratif</td><td align=\"left\"><br/>\n\t\t\tDiplômes, titres et qualifications professionnelles</td><td align=\"left\"><br/>\n\t\t\tOrganismes publics chargés de leur délivrance ou de leur reconnaissance</td></tr></tbody></table></center><p>III.-En tant que de besoin, un arrêté du Premier ministre fixe les conditions de mise en œuvre de cette mise à disposition.</p>"
                       },
                       "type": "article"
                     },
@@ -23949,41 +23915,50 @@
                               },
                               {
                                 "id": "LEGIARTI000047544086",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "3.0",
                                 "dateDebut": 1684022400000,
+                                "dateFin": 1770249600000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000053437662",
+                                "etat": "VIGUEUR",
+                                "version": "4.0",
+                                "dateDebut": 1770249600000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000037322437",
-                            "dateDebut": 1684022400000,
+                            "dateDebut": 1770249600000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000047544086",
+                            "id": "LEGIARTI000053437662",
                             "intOrdre": 1968526676,
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000047541361",
-                                "textTitle": "Décret n°2023-362 du 11 mai 2023 - art. 3",
+                                "textCid": "JORFTEXT000053435139",
+                                "textTitle": "Décret n°2026-54 du 3 février 2026 - art. 3",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
                                 "articleNum": "3",
-                                "articleId": "LEGIARTI000047543123",
+                                "articleId": "LEGIARTI000053436378",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2023-05-13",
-                                "dateSignaTexte": "2023-05-11",
-                                "dateDebutCible": "2023-05-14"
+                                "datePubliTexte": "2026-02-04",
+                                "dateSignaTexte": "2026-02-03",
+                                "dateDebutCible": "2026-02-05"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "D552-5-1",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 114-9-1 et D. 114-9-2 Résultant du décret n° 2023-362 du 11 mai 2023 D. 114-12 à D. 114-15 Résultant du  décret n° 2018-729 du 21 août 2018",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th><br clear=\"none\" />DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\"><br clear=\"none\" />D. 114-9-1 et D. 114-9-2</td><td align=\"left\"><br clear=\"none\" />Résultant du décret n° 2023-362 du 11 mai 2023 </td></tr><tr><td align=\"left\"><br clear=\"none\" />D. 114-12 à D. 114-15 </td><td align=\"left\"><br clear=\"none\" />Résultant du  décret n° 2018-729 du 21 août 2018 </td></tr></tbody></table></center>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 114-9-1 Résultant du décret n° 2026-54 du 3 février 2026 D. 114-12 à D. 114-15 Résultant du  décret n° 2018-729 du 21 août 2018",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th><br/>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\">D. 114-9-1 </td><td align=\"left\">Résultant du décret n° 2026-54 du 3 février 2026</td></tr><tr><td align=\"left\"><br/>D. 114-12 à D. 114-15 </td><td align=\"left\"><br/>Résultant du  décret n° 2018-729 du 21 août 2018 </td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         }
@@ -25832,41 +25807,50 @@
                               },
                               {
                                 "id": "LEGIARTI000047544072",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "3.0",
                                 "dateDebut": 1684022400000,
+                                "dateFin": 1770249600000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000053437648",
+                                "etat": "VIGUEUR",
+                                "version": "4.0",
+                                "dateDebut": 1770249600000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000037322445",
-                            "dateDebut": 1684022400000,
+                            "dateDebut": 1770249600000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000047544072",
+                            "id": "LEGIARTI000053437648",
                             "intOrdre": 1968526676,
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000047541361",
-                                "textTitle": "Décret n°2023-362 du 11 mai 2023 - art. 3",
+                                "textCid": "JORFTEXT000053435139",
+                                "textTitle": "Décret n°2026-54 du 3 février 2026 - art. 3",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
                                 "articleNum": "3",
-                                "articleId": "LEGIARTI000047543123",
+                                "articleId": "LEGIARTI000053436378",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2023-05-13",
-                                "dateSignaTexte": "2023-05-11",
-                                "dateDebutCible": "2023-05-14"
+                                "datePubliTexte": "2026-02-04",
+                                "dateSignaTexte": "2026-02-03",
+                                "dateDebutCible": "2026-02-05"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "D562-5-1",
-                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 114-9-1 et D. 114-9-2 Résultant du décret n° 2023-362 du 11 mai 2023 D. 114-12 à D. 114-15 Résultant du  décret n° 2018-729 du 21 août 2018",
-                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\"><tbody><tr><th><br clear=\"none\" />DISPOSITIONS APPLICABLES </th><th><br clear=\"none\" />DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\"><br clear=\"none\" />D. 114-9-1 et D. 114-9-2</td><td align=\"left\"><br clear=\"none\" />Résultant du décret n° 2023-362 du 11 mai 2023 </td></tr><tr><td align=\"left\"><br clear=\"none\" />D. 114-12 à D. 114-15 </td><td align=\"left\"><br clear=\"none\" />Résultant du  décret n° 2018-729 du 21 août 2018 </td></tr></tbody></table></center>"
+                            "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 114-9-1 Résultant du décret n° 2026-54 du 3 février 2026 D. 114-12 à D. 114-15 Résultant du  décret n° 2018-729 du 21 août 2018",
+                            "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. </p><center><table border=\"1\"><tbody><tr><th><br/>DISPOSITIONS APPLICABLES </th><th><br/>DANS LEUR RÉDACTION </th></tr><tr><td align=\"left\">D. 114-9-1</td><td align=\"left\">Résultant du décret n° 2026-54 du 3 février 2026 </td></tr><tr><td align=\"left\"><br/>D. 114-12 à D. 114-15 </td><td align=\"left\"><br/>Résultant du  décret n° 2018-729 du 21 août 2018 </td></tr></tbody></table></center>"
                           },
                           "type": "article"
                         }
@@ -27645,21 +27629,30 @@
                       },
                       {
                         "id": "LEGIARTI000047544054",
-                        "etat": "VIGUEUR",
+                        "etat": "MODIFIE",
                         "version": "4.0",
                         "dateDebut": 1684022400000,
+                        "dateFin": 1770249600000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000053437627",
+                        "etat": "VIGUEUR",
+                        "version": "5.0",
+                        "dateDebut": 1770249600000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
                       }
                     ],
                     "cid": "LEGIARTI000031370815",
-                    "dateDebut": 1684022400000,
+                    "dateDebut": 1770249600000,
                     "dateDebutExtension": 32472144000000,
                     "dateFin": 32472144000000,
                     "dateFinExtension": 32472144000000,
                     "etat": "VIGUEUR",
-                    "id": "LEGIARTI000047544054",
+                    "id": "LEGIARTI000053437627",
                     "intOrdre": 1476395007,
                     "lienModifications": [
                       {
@@ -27675,23 +27668,23 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "JORFTEXT000047541361",
-                        "textTitle": "Décret n°2023-362 du 11 mai 2023 - art. 3",
+                        "textCid": "JORFTEXT000053435139",
+                        "textTitle": "Décret n°2026-54 du 3 février 2026 - art. 3",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
                         "articleNum": "3",
-                        "articleId": "LEGIARTI000047543123",
+                        "articleId": "LEGIARTI000053436378",
                         "natureText": "DECRET",
-                        "datePubliTexte": "2023-05-13",
-                        "dateSignaTexte": "2023-05-11",
-                        "dateDebutCible": "2023-05-14"
+                        "datePubliTexte": "2026-02-04",
+                        "dateSignaTexte": "2026-02-03",
+                        "dateDebutCible": "2026-02-05"
                       }
                     ],
                     "nota": "",
                     "notaHtml": "",
                     "num": "D572-4",
-                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 113-1 à D. 113-3 Résultant du décret n° 2015-1342 D. 114-9-1 et D. 114-9-2 Résultant du décret n° 2023-362 du 11 mai 2023 D. 114-12 à D. 114-15 Résultant du  décret n° 2018-729 du 21 août 2018",
-                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"justify\">D. 113-1 à D. 113-3 </td><td align=\"justify\">Résultant du décret n° 2015-1342 </td></tr><tr><td align=\"justify\"><br clear=\"none\" />D. 114-9-1 et D. 114-9-2</td><td align=\"justify\"><br clear=\"none\" />Résultant du décret n° 2023-362 du 11 mai 2023 </td></tr><tr><td align=\"justify\"><br clear=\"none\" />D. 114-12 à D. 114-15 </td><td align=\"justify\"><br clear=\"none\" />Résultant du  décret n° 2018-729 du 21 août 2018 </td></tr></tbody></table></center>"
+                    "texte": "Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : DISPOSITIONS APPLICABLES DANS LEUR RÉDACTION D. 113-1 à D. 113-3 Résultant du décret n° 2015-1342 D. 114-9-1 Résultant du décret n° 2026-54 du 3 février 2026 D. 114-12 à D. 114-15 Résultant du  décret n° 2018-729 du 21 août 2018",
+                    "texteHtml": "<p>Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : </p><center><table border=\"1\"><tbody><tr><th>DISPOSITIONS APPLICABLES </th><th>DANS LEUR RÉDACTION </th></tr><tr><td align=\"justify\">D. 113-1 à D. 113-3 </td><td align=\"justify\">Résultant du décret n° 2015-1342 </td></tr><tr><td align=\"justify\">D. 114-9-1 </td><td align=\"justify\">Résultant du décret n° 2026-54 du 3 février 2026</td></tr><tr><td align=\"justify\"><br/>D. 114-12 à D. 114-15 </td><td align=\"justify\"><br/>Résultant du  décret n° 2018-729 du 21 août 2018 </td></tr></tbody></table></center>"
                   },
                   "type": "article"
                 },
