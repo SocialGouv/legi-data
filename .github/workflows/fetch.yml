@@ -22,7 +22,7 @@ jobs:
           cache: yarn
 
       - name: Update npm (required for npm trusted publishing)
-        run: npm install -g npm@latest
+        run: npm install -g npm@11
 
       - name: Installing
         run: yarn --frozen-lockfile --perfer-offline --link-duplicates
