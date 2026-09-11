@@ -1,3 +1,10 @@
+# [2.561.0](https://github.com/SocialGouv/legi-data/compare/v2.560.0...v2.561.0) (2026-09-11)
+
+
+### Features
+
+* **data:** 20260911_1813 update ([e87a645](https://github.com/SocialGouv/legi-data/commit/e87a64510f48cca2a4791beaa9d31f26ab980b39))
+
 # [2.560.0](https://github.com/SocialGouv/legi-data/compare/v2.559.0...v2.560.0) (2026-09-09)
 
 
