@@ -5,8 +5,8 @@
     "id": "LEGITEXT000022197698",
     "intOrdre": 0,
     "title": "Code rural et de la pêche maritime",
-    "dateModif": "2026-10-09",
-    "dateDebutVersion": "2026-10-09",
+    "dateModif": "2026-10-14",
+    "dateDebutVersion": "2026-10-14",
     "dateFinVersion": "2026-11-01"
   },
   "type": "code",
@@ -6347,8 +6347,8 @@
                             "nota": "",
                             "notaHtml": "",
                             "num": "L123-14",
-                            "texte": "Subsistent sans modification les servitudes existant au profit ou à l'encontre des fonds compris dans l'aménagement foncier agricole et forestier et qui ne sont pas éteintes par application de l'article 703 du code civil ci-après reproduit : \" Art. 703 : Les servitudes cessent lorsque les choses se trouvent en tel état qu'on ne peut plus en user \". Il en est tenu compte pour la fixation de la valeur d'échange du fonds dominant et du fonds servant.",
-                            "texteHtml": "<p>Subsistent sans modification les servitudes existant au profit ou à l'encontre des fonds compris dans l'aménagement foncier agricole et forestier et qui ne sont pas éteintes par application de l'article 703 du code civil ci-après reproduit :</p><p>\" <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006430499&dateTexte=&categorieLien=cid\" title=\"Code civil - art. 703 (V)\">Art. 703</a> : Les servitudes cessent lorsque les choses se trouvent en tel état qu'on ne peut plus en user \".</p><p>Il en est tenu compte pour la fixation de la valeur d'échange du fonds dominant et du fonds servant.</p>"
+                            "texte": "Subsistent sans modification les servitudes existant au profit ou à l'encontre des fonds compris dans l'aménagement foncier agricole et forestier et qui ne sont pas éteintes par application de l'article 703 du code civil ci-après reproduit : \" Art. 703 : Les servitudes cessent lorsque les choses se trouvent en tel état qu'on ne peut plus en user.\" Il en est tenu compte pour la fixation de la valeur d'échange du fonds dominant et du fonds servant.",
+                            "texteHtml": "<p>Subsistent sans modification les servitudes existant au profit ou à l'encontre des fonds compris dans l'aménagement foncier agricole et forestier et qui ne sont pas éteintes par application de l'article 703 du code civil ci-après reproduit :</p><p>\"<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006430499&dateTexte=&categorieLien=cid\" title=\"Code civil - art. 703 (V)\">Art. 703</a> : Les servitudes cessent lorsque les choses se trouvent en tel état qu'on ne peut plus en user.\"</p><p>Il en est tenu compte pour la fixation de la valeur d'échange du fonds dominant et du fonds servant.</p>"
                           },
                           "type": "article"
                         },
@@ -528362,21 +528362,30 @@
                                       },
                                       {
                                         "id": "LEGIARTI000054059805",
-                                        "etat": "VIGUEUR",
+                                        "etat": "MODIFIE",
                                         "version": "8.0",
                                         "dateDebut": 1778284800000,
+                                        "dateFin": 1791936000000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000054978170",
+                                        "etat": "VIGUEUR",
+                                        "version": "9.0",
+                                        "dateDebut": 1791936000000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
                                         "ordre": null
                                       }
                                     ],
                                     "cid": "LEGIARTI000006597468",
-                                    "dateDebut": 1778284800000,
+                                    "dateDebut": 1791936000000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
                                     "etat": "VIGUEUR",
-                                    "id": "LEGIARTI000054059805",
+                                    "id": "LEGIARTI000054978170",
                                     "intOrdre": 613566756,
                                     "lienModifications": [
                                       {
@@ -528392,23 +528401,23 @@
                                         "dateDebutCible": "2999-01-01"
                                       },
                                       {
-                                        "textCid": "JORFTEXT000054048102",
-                                        "textTitle": "Décret n°2026-346 du 7 mai 2026 - art. 1 (V)",
+                                        "textCid": "JORFTEXT000054977578",
+                                        "textTitle": "Décret n°2026-948 du 12 octobre 2026 - art. 3",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
-                                        "articleNum": "1",
-                                        "articleId": "LEGIARTI000054052711",
+                                        "articleNum": "3",
+                                        "articleId": "LEGIARTI000054978002",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2026-05-08",
-                                        "dateSignaTexte": "2026-05-07",
-                                        "dateDebutCible": "2026-05-09"
+                                        "datePubliTexte": "2026-10-13",
+                                        "dateSignaTexte": "2026-10-12",
+                                        "dateDebutCible": "2026-10-14"
                                       }
                                     ],
-                                    "nota": "Conformément au II de l'article 1 du décret n° 2026-346 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1 er janvier 2026.",
-                                    "notaHtml": "<p align=\"justify\">Conformément au II de l'article 1 du décret n° 2026-346 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.<br/></p>",
+                                    "nota": "Conformément à l'article 8 du décret n° 2026-948 du 12 octobre 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux pensions prenant effet à compter du 1 er janvier 2027.",
+                                    "notaHtml": "<p align=\"justify\">Conformément à l'article 8 du décret n° 2026-948 du 12 octobre 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2027.</p>",
                                     "num": "R732-61",
-                                    "texte": "Les majorations de durée d'assurance prévues aux articles L. 173-1-5 , L. 351-4 , L. 351-4-1 , L. 351-4-2 et L. 351-6 du code de la sécurité sociale dont bénéficient dans les conditions prévues à l' article R. 173-15 du même code les personnes mentionnées au premier alinéa du I de l'article L. 732-24 du présent code sont prises en considération pour le calcul du montant prévu au 1° du I de cet article. Toutefois, lorsque les personnes mentionnées à l'alinéa précédent ont seulement été affiliées au régime institué par le présent chapitre au cours de périodes antérieures au 1 er janvier 2016, les majorations mentionnées à l'alinéa précédent sont prises en compte pour le calcul de la part prévue au a du 2° de l'article L. 732-24 du présent code. Les trimestres mentionnés aux articles L. 173-1-5, L. 351-4 et L. 351-4-1 du code de la sécurité sociale sont en outre pris en compte pour le calcul de la part prévue au b du même 2°",
-                                    "texteHtml": "<p>Les majorations de durée d'assurance prévues aux <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000047451322&dateTexte=&categorieLien=cid\">articles L. 173-1-5</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742625&dateTexte=&categorieLien=cid\">L. 351-4</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742673&dateTexte=&categorieLien=cid\">L. 351-4-1</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000028497869&dateTexte=&categorieLien=cid\">L. 351-4-2 </a>et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742630&dateTexte=&categorieLien=cid\">L. 351-6 du code de la sécurité sociale </a>dont bénéficient dans les conditions prévues à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006747882&dateTexte=&categorieLien=cid\">article R. 173-15 du même code </a>les personnes mentionnées au premier alinéa du <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006585541&dateTexte=&categorieLien=cid\">I de l'article L. 732-24 du présent code</a> sont prises en considération pour le calcul du montant prévu au 1° du I de cet article.</p><p>Toutefois, lorsque les personnes mentionnées à l'alinéa précédent ont seulement été affiliées au régime institué par le présent chapitre au cours de périodes antérieures au 1 er janvier 2016, les majorations mentionnées à l'alinéa précédent sont prises en compte pour le calcul de la part prévue au a du 2° de l'article L. 732-24 du présent code. Les trimestres mentionnés aux articles L. 173-1-5, L. 351-4 et L. 351-4-1 du code de la sécurité sociale sont en outre pris en compte pour le calcul de la part prévue au b du même 2°</p>"
+                                    "texte": "Les majorations de durée d'assurance prévues aux articles L. 161-21-2 , L. 173-1-5 , L. 351-4 , L. 351-4-1 , L. 351-4-2 et L. 351-6 du code de la sécurité sociale dont bénéficient dans les conditions prévues à l' article R. 173-15 du même code les personnes mentionnées au premier alinéa du I de l'article L. 732-24 du présent code sont prises en considération pour le calcul du montant prévu au 1° du I de cet article. Toutefois, lorsque les personnes mentionnées à l'alinéa précédent ont seulement été affiliées au régime institué par le présent chapitre au cours de périodes antérieures au 1 er janvier 2016, les majorations mentionnées à l'alinéa précédent sont prises en compte pour le calcul de la part prévue au a du 2° de l'article L. 732-24 du présent code . Les trimestres mentionnés aux articles L. 173-1-5, L. 351-4 et L. 351-4-1 du code de la sécurité sociale sont en outre pris en compte pour le calcul de la part prévue au b du même 2°.",
+                                    "texteHtml": "<p>Les majorations de durée d'assurance prévues aux articles <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000053146362&dateTexte=&categorieLien=cid\">L. 161-21-2</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000047451322&dateTexte=&categorieLien=cid\">L. 173-1-5</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742625&dateTexte=&categorieLien=cid\">L. 351-4</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742673&dateTexte=&categorieLien=cid\">L. 351-4-1</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000028497869&dateTexte=&categorieLien=cid\">L. 351-4-2 </a>et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742630&dateTexte=&categorieLien=cid\">L. 351-6 du code de la sécurité sociale </a>dont bénéficient dans les conditions prévues à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006747882&dateTexte=&categorieLien=cid\">article R. 173-15 du même code </a>les personnes mentionnées au premier alinéa du <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006585541&dateTexte=&categorieLien=cid\">I de l'article L. 732-24 du présent code</a> sont prises en considération pour le calcul du montant prévu au 1° du I de cet article.</p><p>Toutefois, lorsque les personnes mentionnées à l'alinéa précédent ont seulement été affiliées au régime institué par le présent chapitre au cours de périodes antérieures au 1 er janvier 2016, les majorations mentionnées à l'alinéa précédent sont prises en compte pour le calcul de la part prévue au <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006585541&dateTexte=&categorieLien=cid\">a du 2° de l'article L. 732-24 du présent code</a>. Les trimestres mentionnés aux articles L. 173-1-5, L. 351-4 et L. 351-4-1 du code de la sécurité sociale sont en outre pris en compte pour le calcul de la part prévue au b du même 2°.</p>"
                                   },
                                   "type": "article"
                                 },
