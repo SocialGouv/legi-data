@@ -5,8 +5,8 @@
     "id": "LEGITEXT000006073189",
     "intOrdre": 0,
     "title": "Code de la sécurité sociale",
-    "dateModif": "2026-10-14",
-    "dateDebutVersion": "2026-10-14",
+    "dateModif": "2026-10-15",
+    "dateDebutVersion": "2026-10-15",
     "dateFinVersion": "2026-11-01"
   },
   "type": "code",
@@ -446820,41 +446820,50 @@
                                       },
                                       {
                                         "id": "LEGIARTI000022446583",
-                                        "etat": "VIGUEUR",
+                                        "etat": "MODIFIE",
                                         "version": "2.0",
                                         "dateDebut": 1325376000000,
+                                        "dateFin": 1792022400000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000054980972",
+                                        "etat": "VIGUEUR",
+                                        "version": "3.0",
+                                        "dateDebut": 1792022400000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
                                         "ordre": null
                                       }
                                     ],
                                     "cid": "LEGIARTI000006735876",
-                                    "dateDebut": 1325376000000,
+                                    "dateDebut": 1792022400000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
                                     "etat": "VIGUEUR",
-                                    "id": "LEGIARTI000022446583",
+                                    "id": "LEGIARTI000054980972",
                                     "intOrdre": 165191048,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000022443571",
-                                        "textTitle": "Décret n°2010-753 du 5 juillet 2010 - art. 1",
+                                        "textCid": "JORFTEXT000054979559",
+                                        "textTitle": "Décret n°2026-951 du 13 octobre 2026 - art. 1",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
                                         "articleNum": "1",
-                                        "articleId": "LEGIARTI000022444567",
+                                        "articleId": "LEGIARTI000054980511",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2010-07-07",
-                                        "dateSignaTexte": "2010-07-05",
-                                        "dateDebutCible": "2010-07-08"
+                                        "datePubliTexte": "2026-10-14",
+                                        "dateSignaTexte": "2026-10-13",
+                                        "dateDebutCible": "2026-10-15"
                                       }
                                     ],
-                                    "nota": "",
-                                    "notaHtml": "",
+                                    "nota": "Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.",
+                                    "notaHtml": "<p align=\"justify\">Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.</p>",
                                     "num": "D242-6-1",
-                                    "texte": "Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé par établissement. Toutefois, l'entreprise qui relève d'une tarification individuelle ou mixte en application de l'article D. 242-6-2 peut demander, selon des modalités fixées par arrêté du ministre chargé de la sécurité sociale, à bénéficier d'un taux unique pour l'ensemble de ses établissements appartenant à la même catégorie de risque. Cette option de calcul est définitive pour la catégorie de risque concernée. Le classement d'un établissement dans une catégorie de risque est effectué en fonction de l'activité exercée selon une nomenclature des risques et des modalités fixées par arrêté du ministre chargé de la sécurité sociale.",
-                                    "texteHtml": "<p>Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé par établissement. </p><p>Toutefois, l'entreprise qui relève d'une tarification individuelle ou mixte en application de <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006735878&dateTexte=&categorieLien=cid\">l'article D. 242-6-2</a> peut demander, selon des modalités fixées par arrêté du ministre chargé de la sécurité sociale, à bénéficier d'un taux unique pour l'ensemble de ses établissements appartenant à la même catégorie de risque. Cette option de calcul est définitive pour la catégorie de risque concernée. </p><p>Le classement d'un établissement dans une catégorie de risque est effectué en fonction de l'activité exercée selon une nomenclature des risques et des modalités fixées par arrêté du ministre chargé de la sécurité sociale.</p><p></p>"
+                                    "texte": "Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé par établissement. Toutefois, l'entreprise qui relève d'une tarification individuelle ou mixte en application de l'article D. 242-6-2 bénéficie d'un taux unique pour l'établissement ou l'ensemble de ses établissements appartenant à la même catégorie de risque. Le classement d'un établissement dans une catégorie de risque est effectué en fonction de l'activité exercée selon une nomenclature des risques et des modalités fixées par arrêté du ministre chargé de la sécurité sociale.",
+                                    "texteHtml": "<p>Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé par établissement.</p><p>Toutefois, l'entreprise qui relève d'une tarification individuelle ou mixte en application de <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006735878&dateTexte=&categorieLien=cid\">l'article D. 242-6-2</a> bénéficie d'un taux unique pour l'établissement ou l'ensemble de ses établissements appartenant à la même catégorie de risque.</p><p>Le classement d'un établissement dans une catégorie de risque est effectué en fonction de l'activité exercée selon une nomenclature des risques et des modalités fixées par arrêté du ministre chargé de la sécurité sociale.</p><p></p>"
                                   },
                                   "type": "article"
                                 },
@@ -447048,41 +447057,50 @@
                                       },
                                       {
                                         "id": "LEGIARTI000036437132",
-                                        "etat": "VIGUEUR",
+                                        "etat": "MODIFIE",
                                         "version": "6.0",
                                         "dateDebut": 1514678400000,
+                                        "dateFin": 1792022400000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000054980977",
+                                        "etat": "VIGUEUR",
+                                        "version": "7.0",
+                                        "dateDebut": 1792022400000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
                                         "ordre": null
                                       }
                                     ],
                                     "cid": "LEGIARTI000006736110",
-                                    "dateDebut": 1514678400000,
+                                    "dateDebut": 1792022400000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
                                     "etat": "VIGUEUR",
-                                    "id": "LEGIARTI000036437132",
+                                    "id": "LEGIARTI000054980977",
                                     "intOrdre": 454275382,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000036335690",
-                                        "textTitle": "Décret n°2017-1815 du 29 décembre 2017 - art. 1",
+                                        "textCid": "JORFTEXT000054979559",
+                                        "textTitle": "Décret n°2026-951 du 13 octobre 2026 - art. 2",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
-                                        "articleNum": "1",
-                                        "articleId": "LEGIARTI000036410695",
+                                        "articleNum": "2",
+                                        "articleId": "LEGIARTI000054980513",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2017-12-30",
-                                        "dateSignaTexte": "2017-12-29",
-                                        "dateDebutCible": "2017-12-31"
+                                        "datePubliTexte": "2026-10-14",
+                                        "dateSignaTexte": "2026-10-13",
+                                        "dateDebutCible": "2026-10-15"
                                       }
                                     ],
-                                    "nota": "",
-                                    "notaHtml": "",
+                                    "nota": "Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.",
+                                    "notaHtml": "<p align=\"justify\">Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.</p>",
                                     "num": "D242-6-4",
-                                    "texte": "Le taux brut collectif est calculé d'après le rapport de la valeur du risque propre à l'ensemble des établissements appartenant à la même catégorie de risque ou à un même groupe de risques, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues. Il est calculé par risque ou groupe de risques définis selon des modalités déterminées par arrêté du ministre chargé de la sécurité sociale. Le taux brut individuel est calculé d'après le rapport de la valeur du risque propre à l'établissement, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues. Toutefois, lorsque l'entreprise bénéficie d'un taux unique prévu à l'article D. 242-6-1 , le taux brut individuel est calculé d'après le rapport de la valeur du risque propre à l'ensemble de ses établissements appartenant à la même catégorie de risque, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues. L'ensemble des dépenses constituant la valeur du risque est pris en compte par les caisses mentionnées à l'article L. 215-1 dès que ces dépenses leur ont été communiquées par les caisses primaires, sans préjudice de l'application des décisions de justice ultérieures. Seules sont prises en compte dans la valeur du risque les dépenses liées aux accidents et aux maladies dont le caractère professionnel a été reconnu. Ne sont pas compris dans la valeur du risque les dépenses liées aux accidents de trajet mentionnés à l'article L. 411-2 et aux actes de terrorisme au sens de l'article L. 169-1 , ainsi que les frais de rééducation et de reconversion professionnelles mentionnés à l'article L. 431-1.",
-                                    "texteHtml": "<p>Le taux brut collectif est calculé d'après le rapport de la valeur du risque propre à l'ensemble des établissements appartenant à la même catégorie de risque ou à un même groupe de risques, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues. Il est calculé par risque ou groupe de risques définis selon des modalités déterminées par arrêté du ministre chargé de la sécurité sociale.</p><p>Le taux brut individuel est calculé d'après le rapport de la valeur du risque propre à l'établissement, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues.</p><p>Toutefois, lorsque l'entreprise bénéficie d'un taux unique prévu à <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006735876&dateTexte=&categorieLien=cid\">l'article D. 242-6-1</a>, le taux brut individuel est calculé d'après le rapport de la valeur du risque propre à l'ensemble de ses établissements appartenant à la même catégorie de risque, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues.</p><p>L'ensemble des dépenses constituant la valeur du risque est pris en compte par les caisses mentionnées à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006741680&dateTexte=&categorieLien=cid\">L. 215-1 </a>dès que ces dépenses leur ont été communiquées par les caisses primaires, sans préjudice de l'application des décisions de justice ultérieures.</p><p>Seules sont prises en compte dans la valeur du risque les dépenses liées aux accidents et aux maladies dont le caractère professionnel a été reconnu.</p><p>Ne sont pas compris dans la valeur du risque les dépenses liées aux accidents de trajet mentionnés à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743007&dateTexte=&categorieLien=cid\">L. 411-2 </a>et aux actes de terrorisme au sens de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031668412&dateTexte=&categorieLien=cid\">L. 169-1</a>, ainsi que les frais de rééducation et de reconversion professionnelles mentionnés à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743022&dateTexte=&categorieLien=cid\">L. 431-1.</a></p>"
+                                    "texte": "Le taux brut collectif est calculé d'après le rapport de la valeur du risque propre à l'ensemble des établissements appartenant à la même catégorie de risque ou à un même groupe de risques, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues. Il est calculé par risque ou groupe de risques définis selon des modalités déterminées par arrêté du ministre chargé de la sécurité sociale. Lorsque l'entreprise bénéficie d'un taux unique prévu à l'article D. 242-6-1 , le taux brut individuel est calculé d'après le rapport de la valeur du risque propre à l'établissement ou à l'ensemble de ses établissements appartenant à la même catégorie de risque, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues. L'ensemble des dépenses constituant la valeur du risque est pris en compte par les caisses mentionnées à l'article L. 215-1 dès que ces dépenses leur ont été communiquées par les caisses primaires, sans préjudice de l'application des décisions de justice ultérieures. Seules sont prises en compte dans la valeur du risque les dépenses liées aux accidents et aux maladies dont le caractère professionnel a été reconnu. Ne sont pas compris dans la valeur du risque les dépenses liées aux accidents de trajet mentionnés à l'article L. 411-2 et aux actes de terrorisme au sens de l'article L. 169-1 , ainsi que les frais de rééducation et de reconversion professionnelles mentionnés à l'article L. 431-1.",
+                                    "texteHtml": "<p>Le taux brut collectif est calculé d'après le rapport de la valeur du risque propre à l'ensemble des établissements appartenant à la même catégorie de risque ou à un même groupe de risques, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues. Il est calculé par risque ou groupe de risques définis selon des modalités déterminées par arrêté du ministre chargé de la sécurité sociale.</p><p>Lorsque l'entreprise bénéficie d'un taux unique prévu à <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006735876&dateTexte=&categorieLien=cid\">l'article D. 242-6-1</a>, le taux brut individuel est calculé d'après le rapport de la valeur du risque propre à l'établissement ou à l'ensemble de ses établissements appartenant à la même catégorie de risque, à la masse totale des salaires payés au personnel respectif, pour les trois dernières années connues.</p><p>L'ensemble des dépenses constituant la valeur du risque est pris en compte par les caisses mentionnées à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006741680&dateTexte=&categorieLien=cid\">L. 215-1 </a>dès que ces dépenses leur ont été communiquées par les caisses primaires, sans préjudice de l'application des décisions de justice ultérieures.</p><p>Seules sont prises en compte dans la valeur du risque les dépenses liées aux accidents et aux maladies dont le caractère professionnel a été reconnu.</p><p>Ne sont pas compris dans la valeur du risque les dépenses liées aux accidents de trajet mentionnés à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743007&dateTexte=&categorieLien=cid\">L. 411-2 </a>et aux actes de terrorisme au sens de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031668412&dateTexte=&categorieLien=cid\">L. 169-1</a>, ainsi que les frais de rééducation et de reconversion professionnelles mentionnés à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743022&dateTexte=&categorieLien=cid\">L. 431-1.</a></p>"
                                   },
                                   "type": "article"
                                 },
@@ -447870,41 +447888,50 @@
                                       },
                                       {
                                         "id": "LEGIARTI000028429426",
-                                        "etat": "VIGUEUR",
+                                        "etat": "MODIFIE",
                                         "version": "4.0",
                                         "dateDebut": 1388534400000,
+                                        "dateFin": 1792022400000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000054980990",
+                                        "etat": "VIGUEUR",
+                                        "version": "5.0",
+                                        "dateDebut": 1792022400000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
                                         "ordre": null
                                       }
                                     ],
                                     "cid": "LEGIARTI000006735894",
-                                    "dateDebut": 1388534400000,
+                                    "dateDebut": 1792022400000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
                                     "etat": "VIGUEUR",
-                                    "id": "LEGIARTI000028429426",
+                                    "id": "LEGIARTI000054980990",
                                     "intOrdre": 1404123908,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000028408423",
-                                        "textTitle": "Décret n°2013-1293\n du 27 décembre 2013 - art. 1",
+                                        "textCid": "JORFTEXT000054979559",
+                                        "textTitle": "Décret n°2026-951 du 13 octobre 2026 - art. 3",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
-                                        "articleNum": "1",
-                                        "articleId": "LEGIARTI000028423465",
+                                        "articleNum": "3",
+                                        "articleId": "LEGIARTI000054980515",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2013-12-31",
-                                        "dateSignaTexte": "2013-12-27",
-                                        "dateDebutCible": "2014-01-01"
+                                        "datePubliTexte": "2026-10-14",
+                                        "dateSignaTexte": "2026-10-13",
+                                        "dateDebutCible": "2026-10-15"
                                       }
                                     ],
-                                    "nota": "",
-                                    "notaHtml": "",
+                                    "nota": "Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027. Conformément au deuxième alinéa du même article, les variations de taux s'apprécient en 2027 par rapport à un taux net correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.",
+                                    "notaHtml": "<p>Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.</p><p>Conformément au deuxième alinéa du même article, les variations de taux s'apprécient en 2027 par rapport à un taux net correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.</p>",
                                     "num": "D242-6-15",
-                                    "texte": "Pour les établissements qui cotisent sur la base d'un taux mixte ou d'un taux individuel, le taux net notifié ne peut varier d'une année sur l'autre : 1° Soit en augmentation de plus de 25 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus d'un point si le taux net notifié de l'année précédente est inférieur ou égal à 4 ; 2° Soit en diminution de plus de 20 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus de 0,8 point si le taux net notifié de l'année précédente est inférieur ou égal à 4. Dans le cas où l'entreprise opte pour l'application d'un taux unique ou en cas de regroupement de catégories de risque, ces variations s'apprécient la première année par rapport à un taux net unique correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.",
-                                    "texteHtml": "<p>Pour les établissements qui cotisent sur la base d'un taux mixte ou d'un taux individuel, le taux net notifié ne peut varier d'une année sur l'autre :</p><p>1° Soit en augmentation de plus de 25 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus d'un point si le taux net notifié de l'année précédente est inférieur ou égal à 4 ;</p><p>2° Soit en diminution de plus de 20 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus de 0,8 point si le taux net notifié de l'année précédente est inférieur ou égal à 4.</p><p>Dans le cas où l'entreprise opte pour l'application d'un taux unique ou en cas de regroupement de catégories de risque, ces variations s'apprécient la première année par rapport à un taux net unique correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.</p>"
+                                    "texte": "Pour les établissements qui cotisent sur la base d'un taux mixte ou d'un taux individuel, le taux net notifié ne peut varier d'une année sur l'autre : 1° Soit en augmentation de plus de 25 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus d'un point si le taux net notifié de l'année précédente est inférieur ou égal à 4 ; 2° Soit en diminution de plus de 20 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus de 0,8 point si le taux net notifié de l'année précédente est inférieur ou égal à 4. En cas de regroupement de catégories de risque, ces variations s'apprécient la première année par rapport à un taux net unique correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.",
+                                    "texteHtml": "<p>Pour les établissements qui cotisent sur la base d'un taux mixte ou d'un taux individuel, le taux net notifié ne peut varier d'une année sur l'autre :</p><p>1° Soit en augmentation de plus de 25 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus d'un point si le taux net notifié de l'année précédente est inférieur ou égal à 4 ;</p><p>2° Soit en diminution de plus de 20 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus de 0,8 point si le taux net notifié de l'année précédente est inférieur ou égal à 4.</p><p>En cas de regroupement de catégories de risque, ces variations s'apprécient la première année par rapport à un taux net unique correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.</p>"
                                   },
                                   "type": "article"
                                 },
@@ -447922,41 +447949,50 @@
                                       },
                                       {
                                         "id": "LEGIARTI000022446511",
-                                        "etat": "VIGUEUR",
+                                        "etat": "MODIFIE",
                                         "version": "2.0",
                                         "dateDebut": 1325376000000,
+                                        "dateFin": 1792022400000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000054980993",
+                                        "etat": "VIGUEUR",
+                                        "version": "3.0",
+                                        "dateDebut": 1792022400000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
                                         "ordre": null
                                       }
                                     ],
                                     "cid": "LEGIARTI000006735897",
-                                    "dateDebut": 1325376000000,
+                                    "dateDebut": 1792022400000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
                                     "etat": "VIGUEUR",
-                                    "id": "LEGIARTI000022446511",
+                                    "id": "LEGIARTI000054980993",
                                     "intOrdre": 1569314956,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000022443571",
-                                        "textTitle": "Décret n°2010-753 du 5 juillet 2010 - art. 1",
+                                        "textCid": "JORFTEXT000054979559",
+                                        "textTitle": "Décret n°2026-951 du 13 octobre 2026 - art. 4",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
-                                        "articleNum": "1",
-                                        "articleId": "LEGIARTI000022444567",
+                                        "articleNum": "4",
+                                        "articleId": "LEGIARTI000054980517",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2010-07-07",
-                                        "dateSignaTexte": "2010-07-05",
-                                        "dateDebutCible": "2010-07-08"
+                                        "datePubliTexte": "2026-10-14",
+                                        "dateSignaTexte": "2026-10-13",
+                                        "dateDebutCible": "2026-10-15"
                                       }
                                     ],
-                                    "nota": "",
-                                    "notaHtml": "",
+                                    "nota": "Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.",
+                                    "notaHtml": "<p align=\"justify\">Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.</p>",
                                     "num": "D242-6-17",
-                                    "texte": "Les taux nets collectifs sont applicables aux établissements nouvellement créés durant l'année de leur création et les deux années civiles suivantes, quel que soit leur effectif ou celui de l'entreprise dont ils relèvent. Toutefois, le taux unique est applicable pour les établissements nouvellement créés appartenant à la même catégorie de risque que ceux des entreprises bénéficiant d'un taux unique. A l'expiration de ce délai, les taux nets collectif, mixte ou individuel sont applicables à ces établissements en fonction de leur effectif ou de l'effectif de l'entreprise dont ils relèvent. Pour les taux individuel ou mixte, il est tenu compte des résultats propres à ces établissements et afférents aux années civiles, complètes ou non, écoulées depuis leur création. Ne peut être considéré comme un établissement nouvellement créé celui issu d'un précédent établissement dans lequel a été exercée une activité similaire, avec les mêmes moyens de production et ayant repris au moins la moitié du personnel.",
-                                    "texteHtml": "<p>Les taux nets collectifs sont applicables aux établissements nouvellement créés durant l'année de leur création et les deux années civiles suivantes, quel que soit leur effectif ou celui de l'entreprise dont ils relèvent. Toutefois, le taux unique est applicable pour les établissements nouvellement créés appartenant à la même catégorie de risque que ceux des entreprises bénéficiant d'un taux unique.</p><p></p><p>A l'expiration de ce délai, les taux nets collectif, mixte ou individuel sont applicables à ces établissements en fonction de leur effectif ou de l'effectif de l'entreprise dont ils relèvent. Pour les taux individuel ou mixte, il est tenu compte des résultats propres à ces établissements et afférents aux années civiles, complètes ou non, écoulées depuis leur création.</p><p></p><p>Ne peut être considéré comme un établissement nouvellement créé celui issu d'un précédent établissement dans lequel a été exercée une activité similaire, avec les mêmes moyens de production et ayant repris au moins la moitié du personnel.</p><p></p>"
+                                    "texte": "Le taux déterminé d'après les dispositions du deuxième alinéa de l'article D. 242-6-1 est applicable à l'établissement ou aux établissements nouvellement créés appartenant à une catégorie de risque préexistante au sein de l'entreprise en tarification individuelle ou mixte. Lorsque la catégorie de risque de l'établissement ou des établissements nouvellement créés n'est pas préexistante au sein de l'entreprise en tarification individuelle ou mixte et pour les entreprises en tarification collective, les taux nets collectifs sont applicables durant l'année de leur création et les deux années civiles suivantes. Ne peut être considéré comme un établissement nouvellement créé celui issu d'un précédent établissement dans lequel a été exercée une activité similaire, avec les mêmes moyens de production et ayant repris au moins la moitié du personnel.",
+                                    "texteHtml": "<p>Le taux déterminé d'après les dispositions du deuxième alinéa de l'article D. 242-6-1 est applicable à l'établissement ou aux établissements nouvellement créés appartenant à une catégorie de risque préexistante au sein de l'entreprise en tarification individuelle ou mixte.</p><p> Lorsque la catégorie de risque de l'établissement ou des établissements nouvellement créés n'est pas préexistante au sein de l'entreprise en tarification individuelle ou mixte et pour les entreprises en tarification collective, les taux nets collectifs sont applicables durant l'année de leur création et les deux années civiles suivantes.</p><p>Ne peut être considéré comme un établissement nouvellement créé celui issu d'un précédent établissement dans lequel a été exercée une activité similaire, avec les mêmes moyens de production et ayant repris au moins la moitié du personnel.</p>"
                                   },
                                   "type": "article"
                                 },
