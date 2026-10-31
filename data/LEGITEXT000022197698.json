@@ -5,8 +5,8 @@
     "id": "LEGITEXT000022197698",
     "intOrdre": 0,
     "title": "Code rural et de la pêche maritime",
-    "dateModif": "2026-10-14",
-    "dateDebutVersion": "2026-10-14",
+    "dateModif": "2026-10-30",
+    "dateDebutVersion": "2026-10-30",
     "dateFinVersion": "2026-11-01"
   },
   "type": "code",
@@ -455812,41 +455812,50 @@
                             "articleVersions": [
                               {
                                 "id": "LEGIARTI000046476099",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "1.0",
                                 "dateDebut": 1666483200000,
+                                "dateFin": 1793318400000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000055026394",
+                                "etat": "VIGUEUR",
+                                "version": "2.0",
+                                "dateDebut": 1793318400000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000046476099",
-                            "dateDebut": 1666483200000,
+                            "dateDebut": 1793318400000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000046476099",
+                            "id": "LEGIARTI000055026394",
                             "intOrdre": 1610612735,
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000046473246",
-                                "textTitle": "Décret n°2022-1343 du 21 octobre 2022 - art. 1",
-                                "linkType": "CREE",
+                                "textCid": "JORFTEXT000055023422",
+                                "textTitle": "Décret n°2026-1005 du 26 octobre 2026 - art. 1",
+                                "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
                                 "articleNum": "1",
-                                "articleId": "LEGIARTI000046475315",
+                                "articleId": "LEGIARTI000055025169",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2022-10-22",
-                                "dateSignaTexte": "2022-10-21",
-                                "dateDebutCible": "2022-10-23"
+                                "datePubliTexte": "2026-10-29",
+                                "dateSignaTexte": "2026-10-26",
+                                "dateDebutCible": "2026-10-30"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "D665-40",
-                            "texte": "Pour le secteur du vin, sont mises en œuvre les types d'interventions suivants : 1° Types d'interventions relatifs à la restructuration et à la reconversion des vignobles ; 2° Types d'interventions relatifs aux investissements matériels et immatériels ; 3° Types d'interventions relatifs à la distillation des sous-produits de la vinification ; 4° Types d'interventions relatifs à l'information dans les Etats membres de l'Union européenne ; 5° Types d'interventions relatifs à la promotion dans les pays tiers.",
-                            "texteHtml": "<p>Pour le secteur du vin, sont mises en œuvre les types d'interventions suivants :</p><p></p><p> 1° Types d'interventions relatifs à la restructuration et à la reconversion des vignobles ;</p><p></p><p> 2° Types d'interventions relatifs aux investissements matériels et immatériels ;</p><p></p><p> 3° Types d'interventions relatifs à la distillation des sous-produits de la vinification ;</p><p></p><p> 4° Types d'interventions relatifs à l'information dans les Etats membres de l'Union européenne ;</p><p></p><p> 5° Types d'interventions relatifs à la promotion dans les pays tiers.</p>"
+                            "texte": "Pour le secteur du vin, sont mises en œuvre les types d'interventions suivants : 1° Types d'interventions relatifs à la restructuration et à la reconversion des vignobles ; 2° Types d'interventions relatifs aux investissements matériels et immatériels ; 3° Types d'interventions relatifs à la distillation des sous-produits de la vinification ; 4° Types d'interventions relatifs à l'information dans les Etats membres de l'Union européenne ; 5° Types d'interventions relatifs à la promotion dans les pays tiers ; 6° Types d'interventions relatifs à la promotion de l'œnotourisme dans les régions de production.",
+                            "texteHtml": "<p>Pour le secteur du vin, sont mises en œuvre les types d'interventions suivants :</p><p>1° Types d'interventions relatifs à la restructuration et à la reconversion des vignobles ;</p><p>2° Types d'interventions relatifs aux investissements matériels et immatériels ;</p><p>3° Types d'interventions relatifs à la distillation des sous-produits de la vinification ;</p><p>4° Types d'interventions relatifs à l'information dans les Etats membres de l'Union européenne ;</p><p>5° Types d'interventions relatifs à la promotion dans les pays tiers ;</p><p> 6° Types d'interventions relatifs à la promotion de l'œnotourisme dans les régions de production. </p>"
                           },
                           "type": "article"
                         },
@@ -456062,6 +456071,49 @@
                             "num": "D665-45",
                             "texte": "Les bénéficiaires de l'aide à la promotion dans les pays-tiers sont les entreprises privées opérant à titre principal dans le secteur vitivinicole, les organisations professionnelles du secteur vitivinicole, les organisations de producteurs de vin, les associations d'organisations de producteurs de vin, les associations provisoires ou permanentes de producteurs de vin et les organisations interprofessionnelles du secteur vitivinicole. Cette aide est mise en œuvre pour répondre au moins à l'un des objectifs mentionnés aux a, g, i et j de l'article 57 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021. L'aide financière de l'Union est fixée au taux maximum des dépenses éligibles établi à l'article 59 paragraphe 7 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021. Ce type d'intervention concerne les actions de promotion réalisées à compter du 16 octobre 2023. Des critères de sélection des dossiers peuvent être établis par le directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) afin d'octroyer prioritairement l'aide à certains types d'opérations, et en particulier aux opérations présentées par de nouveaux bénéficiaires n'ayant jamais disposé de soutien pour des actions de promotion, aux opérations permettant des ouvertures de marchés pour les bénéficiaires, ou aux opérations portées dans le cadre de démarches collectives et interprofessionnelles. Les opérations définies comme prioritaires peuvent ne pas se voir appliquer le mécanisme de stabilisation budgétaire mentionné à l'article D. 611-32 lorsque l'enveloppe disponible le permet, ou, à défaut, peuvent se voir appliquer un taux de stabilisation plus favorable que le taux général applicable. Les modalités et les conditions d'application de l'aide sont précisées par décision du directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).",
                             "texteHtml": "<p>Les bénéficiaires de l'aide à la promotion dans les pays-tiers sont les entreprises privées opérant à titre principal dans le secteur vitivinicole, les organisations professionnelles du secteur vitivinicole, les organisations de producteurs de vin, les associations d'organisations de producteurs de vin, les associations provisoires ou permanentes de producteurs de vin et les organisations interprofessionnelles du secteur vitivinicole.</p><p></p><p> Cette aide est mise en œuvre pour répondre au moins à l'un des objectifs mentionnés aux a, g, i et j de l'article 57 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021.</p><p></p><p> L'aide financière de l'Union est fixée au taux maximum des dépenses éligibles établi à l'article 59 paragraphe 7 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021.</p><p></p><p> Ce type d'intervention concerne les actions de promotion réalisées à compter du 16 octobre 2023.</p><p></p><p> Des critères de sélection des dossiers peuvent être établis par le directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) afin d'octroyer prioritairement l'aide à certains types d'opérations, et en particulier aux opérations présentées par de nouveaux bénéficiaires n'ayant jamais disposé de soutien pour des actions de promotion, aux opérations permettant des ouvertures de marchés pour les bénéficiaires, ou aux opérations portées dans le cadre de démarches collectives et interprofessionnelles. Les opérations définies comme prioritaires peuvent ne pas se voir appliquer le mécanisme de stabilisation budgétaire mentionné à l'article D. 611-32 lorsque l'enveloppe disponible le permet, ou, à défaut, peuvent se voir appliquer un taux de stabilisation plus favorable que le taux général applicable.</p><p></p><p> Les modalités et les conditions d'application de l'aide sont précisées par décision du directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).</p>"
+                          },
+                          "type": "article"
+                        },
+                        {
+                          "data": {
+                            "articleVersions": [
+                              {
+                                "id": "LEGIARTI000055025387",
+                                "etat": "VIGUEUR",
+                                "version": "1.0",
+                                "dateDebut": 1793318400000,
+                                "dateFin": 32472144000000,
+                                "numero": null,
+                                "ordre": null
+                              }
+                            ],
+                            "cid": "LEGIARTI000055025387",
+                            "dateDebut": 1793318400000,
+                            "dateDebutExtension": 32472144000000,
+                            "dateFin": 32472144000000,
+                            "dateFinExtension": 32472144000000,
+                            "etat": "VIGUEUR",
+                            "id": "LEGIARTI000055025387",
+                            "intOrdre": 2139095039,
+                            "lienModifications": [
+                              {
+                                "textCid": "JORFTEXT000055023422",
+                                "textTitle": "Décret n°2026-1005 du 26 octobre 2026 - art. 2",
+                                "linkType": "CREE",
+                                "linkOrientation": "cible",
+                                "articleNum": "2",
+                                "articleId": "LEGIARTI000055025171",
+                                "natureText": "DECRET",
+                                "datePubliTexte": "2026-10-29",
+                                "dateSignaTexte": "2026-10-26",
+                                "dateDebutCible": "2026-10-30"
+                              }
+                            ],
+                            "nota": "",
+                            "notaHtml": "",
+                            "num": "D665-46",
+                            "texte": "Les bénéficiaires de l'aide à la promotion de l'œnotourisme dans les régions de production sont les organisations professionnelles actives dans le secteur vitivinicole visées à l'article 157 du règlement (UE) n° 1308/2013 ou toute autre organisation professionnelle regroupant l'ensemble des interprofessions du secteur vitivinicole. Cette aide est mise en œuvre pour répondre à l'objectif mentionné au a de l'article 57 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021. Les dépenses éligibles sont celles engagées pour la réalisation de campagnes de communication ou d'évènements promotionnels destinés à promouvoir l'œnotourisme. L'aide financière de l'Union est fixée conformément aux dispositions du paragraphe 4 de l'article 59 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021. Ce type d'intervention concerne les actions de promotion de l'œnotourisme réalisées à compter du 1 er mars 2027. Des critères de sélection des dossiers peuvent être établis par le directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) afin d'octroyer prioritairement l'aide à certains types d'opérations. Les opérations définies comme prioritaires peuvent ne pas se voir appliquer le mécanisme de stabilisation budgétaire mentionné à l'article D. 611-32 lorsque l'enveloppe disponible le permet, ou, à défaut, peuvent se voir appliquer un taux de stabilisation plus favorable que le taux général applicable. Les modalités et les conditions d'application de l'aide sont précisées par décision du directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).",
+                            "texteHtml": "<p align=\"left\">Les bénéficiaires de l'aide à la promotion de l'œnotourisme dans les régions de production sont les organisations professionnelles actives dans le secteur vitivinicole visées à l'article 157 du règlement (UE) n° 1308/2013 ou toute autre organisation professionnelle regroupant l'ensemble des interprofessions du secteur vitivinicole.</p><p align=\"left\">Cette aide est mise en œuvre pour répondre à l'objectif mentionné au a de l'article 57 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021.</p><p align=\"left\">Les dépenses éligibles sont celles engagées pour la réalisation de campagnes de communication ou d'évènements promotionnels destinés à promouvoir l'œnotourisme.</p><p align=\"left\">L'aide financière de l'Union est fixée conformément aux dispositions du paragraphe 4 de l'article 59 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021.</p><p align=\"left\">Ce type d'intervention concerne les actions de promotion de l'œnotourisme réalisées à compter du 1<sup>er</sup> mars 2027.</p><p align=\"left\">Des critères de sélection des dossiers peuvent être établis par le directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) afin d'octroyer prioritairement l'aide à certains types d'opérations. Les opérations définies comme prioritaires peuvent ne pas se voir appliquer le mécanisme de stabilisation budgétaire mentionné à l'article D. 611-32 lorsque l'enveloppe disponible le permet, ou, à défaut, peuvent se voir appliquer un taux de stabilisation plus favorable que le taux général applicable.</p><p align=\"left\">Les modalités et les conditions d'application de l'aide sont précisées par décision du directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).</p>"
                           },
                           "type": "article"
                         }
@@ -515781,8 +515833,8 @@
                                         "nota": "Conformément à l’article 6 du décret n° 2024-688 du 5 juillet 2024, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.",
                                         "notaHtml": "<p>Conformément à l’article 6 du décret n° 2024-688 du 5 juillet 2024, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.</p>",
                                         "num": "D731-26",
-                                        "texte": "Pour bénéficier de l'option prévue au II de à l'article L. 731-15, les chefs d'exploitation ou d'entreprise agricole doivent déposer une demande d'option auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 30 juin. L'option prend effet à compter de l'année au cours de laquelle est intervenue la demande. Ce délai n'est toutefois pas opposable aux personnes mentionnées à l'article D. 731-28 qui sollicitent l'option au moment de leur affiliation au régime de protection sociale des personnes non salariées agricoles. L'assuré exerce l'option pour l'ensemble de ses activités non salariées. En cas de transfert de la qualité de chef d'exploitation ou d'entreprise agricole entre des conjoints, tel que prévu à l'article L. 731-16, le bénéfice de l'option antérieurement souscrite continue de produire ses effets au bénéfice du conjoint repreneur jusqu'au terme initialement prévu lors de la souscription de l'option. L'option est souscrite pour cinq années civiles. Cette option est reconduite tacitement par période de cinq ans, sauf en cas de dénonciation. La dénonciation doit parvenir à la caisse de mutualité sociale agricole au plus tard le 30 novembre de l'année qui précède l'expiration d'une des périodes de cinq ans mentionnées ci-dessus, pour prendre effet au 1er janvier de l'année suivante. L'option et la dénonciation sont formulées au moyen d'un imprimé dont le modèle est arrêté par le ministre chargé de l'agriculture.",
-                                        "texteHtml": "<p></p><p>Pour bénéficier de l'option prévue au II de à l'article L. 731-15, les chefs d'exploitation ou d'entreprise agricole doivent déposer une demande d'option auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 30 juin. L'option prend effet à compter de l'année au cours de laquelle est intervenue la demande. Ce délai n'est toutefois pas opposable aux personnes mentionnées à l'article D. 731-28 qui sollicitent l'option au moment de leur affiliation au régime de protection sociale des personnes non salariées agricoles.</p><p>L'assuré exerce l'option pour l'ensemble de ses activités non salariées.</p><p>En cas de transfert de la qualité de chef d'exploitation ou d'entreprise agricole entre des conjoints, tel que prévu à l'article L. 731-16, le bénéfice de l'option antérieurement souscrite continue de produire ses effets au bénéfice du conjoint repreneur jusqu'au terme initialement prévu lors de la souscription de l'option.</p><p>L'option est souscrite pour cinq années civiles.</p><p>Cette option est reconduite tacitement par période de cinq ans, sauf en cas de dénonciation. La dénonciation doit parvenir à la caisse de mutualité sociale agricole au plus tard le 30 novembre de l'année qui précède l'expiration d'une des périodes de cinq ans mentionnées ci-dessus, pour prendre effet au 1er janvier de l'année suivante.</p><p>L'option et la dénonciation sont formulées au moyen d'un imprimé dont le modèle est arrêté par le ministre chargé de l'agriculture.</p><p></p>"
+                                        "texte": "Pour bénéficier de l'option prévue au II de à l'article L. 731-15 , les chefs d'exploitation ou d'entreprise agricole doivent déposer une demande d'option auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 30 juin. L'option prend effet à compter de l'année au cours de laquelle est intervenue la demande. Ce délai n'est toutefois pas opposable aux personnes mentionnées à l'article D. 731-28 qui sollicitent l'option au moment de leur affiliation au régime de protection sociale des personnes non salariées agricoles. L'assuré exerce l'option pour l'ensemble de ses activités non salariées. En cas de transfert de la qualité de chef d'exploitation ou d'entreprise agricole entre des conjoints, tel que prévu à l'article L. 731-16 , le bénéfice de l'option antérieurement souscrite continue de produire ses effets au bénéfice du conjoint repreneur jusqu'au terme initialement prévu lors de la souscription de l'option. L'option est souscrite pour cinq années civiles. Cette option est reconduite tacitement par période de cinq ans, sauf en cas de dénonciation. La dénonciation doit parvenir à la caisse de mutualité sociale agricole au plus tard le 30 novembre de l'année qui précède l'expiration d'une des périodes de cinq ans mentionnées ci-dessus, pour prendre effet au 1er janvier de l'année suivante. L'option et la dénonciation sont formulées au moyen d'un imprimé dont le modèle est arrêté par le ministre chargé de l'agriculture.",
+                                        "texteHtml": "<p></p><p>Pour bénéficier de l'option prévue au II de à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006585437&dateTexte=&categorieLien=cid\" title=\"Code rural - art. L731-15 (V)\">L. 731-15</a>, les chefs d'exploitation ou d'entreprise agricole doivent déposer une demande d'option auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 30 juin. L'option prend effet à compter de l'année au cours de laquelle est intervenue la demande. Ce délai n'est toutefois pas opposable aux personnes mentionnées à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006597217&dateTexte=&categorieLien=cid\" title=\"Code rural - art. D731-28 (V)\">D. 731-28</a> qui sollicitent l'option au moment de leur affiliation au régime de protection sociale des personnes non salariées agricoles.</p><p>L'assuré exerce l'option pour l'ensemble de ses activités non salariées.</p><p>En cas de transfert de la qualité de chef d'exploitation ou d'entreprise agricole entre des conjoints, tel que prévu à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006585445&dateTexte=&categorieLien=cid\" title=\"Code rural - art. L731-16 (V)\">L. 731-16</a>, le bénéfice de l'option antérieurement souscrite continue de produire ses effets au bénéfice du conjoint repreneur jusqu'au terme initialement prévu lors de la souscription de l'option.</p><p>L'option est souscrite pour cinq années civiles.</p><p>Cette option est reconduite tacitement par période de cinq ans, sauf en cas de dénonciation. La dénonciation doit parvenir à la caisse de mutualité sociale agricole au plus tard le 30 novembre de l'année qui précède l'expiration d'une des périodes de cinq ans mentionnées ci-dessus, pour prendre effet au 1er janvier de l'année suivante.</p><p>L'option et la dénonciation sont formulées au moyen d'un imprimé dont le modèle est arrêté par le ministre chargé de l'agriculture.</p><p></p>"
                                       },
                                       "type": "article"
                                     }
@@ -527523,18 +527575,9 @@
                                         "ordre": null
                                       },
                                       {
-                                        "id": "LEGIARTI000053336403",
-                                        "etat": "MODIFIE",
-                                        "version": "7.0",
-                                        "dateDebut": 1767225600000,
-                                        "dateFin": 1767225600000,
-                                        "numero": null,
-                                        "ordre": null
-                                      },
-                                      {
                                         "id": "LEGIARTI000053365422",
                                         "etat": "MODIFIE",
-                                        "version": "8.0",
+                                        "version": "7.0",
                                         "dateDebut": 1767225600000,
                                         "dateFin": 1778284800000,
                                         "numero": null,
@@ -527543,7 +527586,7 @@
                                       {
                                         "id": "LEGIARTI000054059243",
                                         "etat": "VIGUEUR",
-                                        "version": "9.0",
+                                        "version": "8.0",
                                         "dateDebut": 1778284800000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
@@ -527570,18 +527613,6 @@
                                         "datePubliTexte": "2005-04-22",
                                         "dateSignaTexte": "2005-04-19",
                                         "dateDebutCible": "2999-01-01"
-                                      },
-                                      {
-                                        "textCid": "JORFTEXT000053227603",
-                                        "textTitle": "Décret n°2025-1410 du 30 décembre 2025 - art. 1 (V)",
-                                        "linkType": "MODIFIE",
-                                        "linkOrientation": "cible",
-                                        "articleNum": "1",
-                                        "articleId": "LEGIARTI000054059341",
-                                        "natureText": "DECRET",
-                                        "datePubliTexte": "2025-12-31",
-                                        "dateSignaTexte": "2025-12-30",
-                                        "dateDebutCible": "2026-05-09"
                                       },
                                       {
                                         "textCid": "JORFTEXT000054048129",
@@ -527653,18 +527684,9 @@
                                         "ordre": null
                                       },
                                       {
-                                        "id": "LEGIARTI000053336392",
-                                        "etat": "MODIFIE",
-                                        "version": "6.0",
-                                        "dateDebut": 1767225600000,
-                                        "dateFin": 1767225600000,
-                                        "numero": null,
-                                        "ordre": null
-                                      },
-                                      {
                                         "id": "LEGIARTI000053365444",
                                         "etat": "VIGUEUR",
-                                        "version": "7.0",
+                                        "version": "6.0",
                                         "dateDebut": 1767225600000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
@@ -527694,15 +527716,15 @@
                                       },
                                       {
                                         "textCid": "JORFTEXT000053227603",
-                                        "textTitle": "Décret n°2025-1410 du 30 décembre 2025 - art. 1 (V)",
+                                        "textTitle": "Décret n°2025-1410 du 30 décembre 2025 - art. 1 (M)",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
                                         "articleNum": "1",
-                                        "articleId": "LEGIARTI000054059341",
+                                        "articleId": "LEGIARTI000053289164",
                                         "natureText": "DECRET",
                                         "datePubliTexte": "2025-12-31",
                                         "dateSignaTexte": "2025-12-30",
-                                        "dateDebutCible": "2026-05-09"
+                                        "dateDebutCible": "2026-01-01"
                                       }
                                     ],
                                     "nota": "Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025. Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions et aux allocations prenant effet à compter du 1 er janvier 2026.",
@@ -553771,8 +553793,8 @@
                                     "nota": "Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1 er janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.",
                                     "notaHtml": "<p>Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1<sup>er</sup> janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.</p>",
                                     "num": "D752-12",
-                                    "texte": "Pour l'application du premier alinéa de l'article D. 461-30 du code de la sécurité sociale, le dossier est rapporté devant le comité par le médecin-conseil qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente, ou par le médecin-conseil qu'il a désigné pour le représenter. Pour l'application du deuxième alinéa de l'article D. 461-30 du code de la sécurité sociale, le comité peut prendre l'avis d'un conseiller en prévention ou et d'un médecin du travail de la caisse de mutualité sociale agricole territorialement compétente. Le comité peut entendre la victime ou ses représentants s'il l'estime nécessaire.",
-                                    "texteHtml": "<p>Pour l'application du premier alinéa de l'article D. 461-30 du code de la sécurité sociale, le dossier est rapporté devant le comité par le médecin-conseil qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente, ou par le médecin-conseil qu'il a désigné pour le représenter.</p><p>Pour l'application du deuxième alinéa de l'article D. 461-30 du code de la sécurité sociale, le comité peut prendre l'avis d'un conseiller en prévention ou et d'un médecin du travail de la caisse de mutualité sociale agricole territorialement compétente.</p><p>Le comité peut entendre la victime ou ses représentants s'il l'estime nécessaire.</p>"
+                                    "texte": "Pour l'application du premier alinéa de l'article D. 461-30 du code de la sécurité sociale, le dossier est rapporté devant le comité par le médecin-conseil qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente, ou par le médecin-conseil qu'il a désigné pour le représenter. Pour l'application du deuxième alinéa de l'article D. 461-30 du code de la sécurité sociale, le comité peut prendre l'avis d'un conseiller en prévention ou d'un médecin du travail de la caisse de mutualité sociale agricole territorialement compétente. Le comité peut entendre la victime ou ses représentants s'il l'estime nécessaire.",
+                                    "texteHtml": "<p>Pour l'application du premier alinéa de l'article D. 461-30 du code de la sécurité sociale, le dossier est rapporté devant le comité par le médecin-conseil qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente, ou par le médecin-conseil qu'il a désigné pour le représenter.</p><p>Pour l'application du deuxième alinéa de l'article D. 461-30 du code de la sécurité sociale, le comité peut prendre l'avis d'un conseiller en prévention ou d'un médecin du travail de la caisse de mutualité sociale agricole territorialement compétente.</p><p>Le comité peut entendre la victime ou ses représentants s'il l'estime nécessaire.</p>"
                                   },
                                   "type": "article"
                                 },
@@ -597187,7 +597209,7 @@
                                     "natureText": "DECRET",
                                     "datePubliTexte": "2026-07-01",
                                     "dateSignaTexte": "2026-06-30",
-                                    "dateDebutCible": "2027-01-01"
+                                    "dateDebutCible": "2026-07-02"
                                   }
                                 ],
                                 "nota": "Conformément à l'article 39 du décret n° 2026-579 du 30 juin 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur en vue de la session 2027 des concours de recrutement.",
@@ -646568,9 +646590,18 @@
                       },
                       {
                         "id": "LEGIARTI000022359510",
-                        "etat": "VIGUEUR",
+                        "etat": "ABROGE_DIFF",
                         "version": "2.0",
                         "dateDebut": 1273276800000,
+                        "dateFin": 1798761600000,
+                        "numero": null,
+                        "ordre": null
+                      },
+                      {
+                        "id": "LEGIARTI000055026624",
+                        "etat": "VIGUEUR_DIFF",
+                        "version": "3.0",
+                        "dateDebut": 1798761600000,
                         "dateFin": 32472144000000,
                         "numero": null,
                         "ordre": null
@@ -646579,9 +646610,9 @@
                     "cid": "LEGIARTI000006599540",
                     "dateDebut": 1273276800000,
                     "dateDebutExtension": 32472144000000,
-                    "dateFin": 32472144000000,
+                    "dateFin": 1798761600000,
                     "dateFinExtension": 32472144000000,
-                    "etat": "VIGUEUR",
+                    "etat": "ABROGE_DIFF",
                     "id": "LEGIARTI000022359510",
                     "intOrdre": 42949,
                     "lienModifications": [
