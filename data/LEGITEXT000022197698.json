@@ -5,9 +5,9 @@
     "id": "LEGITEXT000022197698",
     "intOrdre": 0,
     "title": "Code rural et de la pêche maritime",
-    "dateModif": "2026-10-30",
-    "dateDebutVersion": "2026-10-30",
-    "dateFinVersion": "2026-11-01"
+    "dateModif": "2026-11-01",
+    "dateDebutVersion": "2026-11-01",
+    "dateFinVersion": "2027-01-01"
   },
   "type": "code",
   "children": [
@@ -546860,7 +546860,7 @@
                                       },
                                       {
                                         "id": "LEGIARTI000041404537",
-                                        "etat": "ABROGE_DIFF",
+                                        "etat": "MODIFIE",
                                         "version": "4.0",
                                         "dateDebut": 1577836800000,
                                         "dateFin": 1793491200000,
@@ -546869,7 +546869,7 @@
                                       },
                                       {
                                         "id": "LEGIARTI000054060171",
-                                        "etat": "VIGUEUR_DIFF",
+                                        "etat": "VIGUEUR",
                                         "version": "5.0",
                                         "dateDebut": 1793491200000,
                                         "dateFin": 32472144000000,
@@ -546878,32 +546878,32 @@
                                       }
                                     ],
                                     "cid": "LEGIARTI000006597903",
-                                    "dateDebut": 1577836800000,
+                                    "dateDebut": 1793491200000,
                                     "dateDebutExtension": 32472144000000,
-                                    "dateFin": 1793491200000,
+                                    "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
-                                    "etat": "ABROGE_DIFF",
-                                    "id": "LEGIARTI000041404537",
+                                    "etat": "VIGUEUR",
+                                    "id": "LEGIARTI000054060171",
                                     "intOrdre": 472439,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000039696739",
-                                        "textTitle": "Décret n°2019-1506 du 30 décembre 2019 - art. 7",
+                                        "textCid": "JORFTEXT000054050122",
+                                        "textTitle": "Décret n°2026-354 du 7 mai 2026 - art. 2",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
-                                        "articleNum": "7",
-                                        "articleId": "LEGIARTI000040338764",
+                                        "articleNum": "2",
+                                        "articleId": "LEGIARTI000054053456",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2019-12-31",
-                                        "dateSignaTexte": "2019-12-30",
-                                        "dateDebutCible": "2020-01-01"
+                                        "datePubliTexte": "2026-05-10",
+                                        "dateSignaTexte": "2026-05-07",
+                                        "dateDebutCible": "2026-11-01"
                                       }
                                     ],
-                                    "nota": "Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.",
-                                    "notaHtml": "<p>Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.</p>",
+                                    "nota": "Conformément à l'article 3 du décret n° 2026-354 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er novembre 2026 dans les conditions prévues à l'article 90 de la loi n° 2025-199 du 28 février 2025.",
+                                    "notaHtml": "<p>Conformément à l'article 3 du décret n° 2026-354 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er novembre 2026 dans les conditions prévues à l'article 90 de la loi n° 2025-199 du 28 février 2025.</p>",
                                     "num": "R751-63",
-                                    "texte": "Au vu de tous les renseignements recueillis, la caisse de mutualité sociale agricole se prononce sur l'existence d'une incapacité permanente et, le cas échéant, sur le taux de celle-ci. Elle évalue compte tenu du salaire annuel de la victime, apprécié conformément aux dispositions des articles R. 751-57 à R. 751-59, le montant de la rente due à la victime ou à ses ayants droit sur la base du taux mentionné au premier alinéa. Les barèmes indicatifs d'invalidité dont il est tenu compte pour la détermination du taux d'incapacité permanente, d'une part, en matière d'accidents du travail et, d'autre part, en matière de maladies professionnelles sont annexés au livre IV du code de la sécurité sociale. La décision motivée est immédiatement notifiée par la caisse par tout moyen conférant date certaine, avec mention du taux d'incapacité, des éléments de calcul de la rente ainsi que des voies et délais de recours, à la victime ou à ses ayants droit et à l'employeur au service duquel se trouvait la victime au moment où est survenu l'accident. La caisse procède à la liquidation de la rente à l'expiration du délai d'un mois suivant la date de notification de sa décision, sauf si un recours mentionné aux chapitres Ier et II du titre IV du livre Ier du code de la sécurité sociale a été introduit. En cas de nouvelle fixation des réparations motivées par une atténuation ou une aggravation de l'infirmité de la victime ou par son décès des suites de l'accident, le taux d'incapacité et le montant de la rente font l'objet d'une nouvelle décision de la caisse notifiée à la victime ou à ses ayants droit.",
-                                    "texteHtml": "<p>Au vu de tous les renseignements recueillis, la caisse de mutualité sociale agricole se prononce sur l'existence d'une incapacité permanente et, le cas échéant, sur le taux de celle-ci. <br/><br/>Elle évalue compte tenu du salaire annuel de la victime, apprécié conformément aux dispositions des articles <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006597893&dateTexte=&categorieLien=cid\">R. 751-57</a> à R. 751-59, le montant de la rente due à la victime ou à ses ayants droit sur la base du taux mentionné au premier alinéa. <br/><br/>Les barèmes indicatifs d'invalidité dont il est tenu compte pour la détermination du taux d'incapacité permanente, d'une part, en matière d'accidents du travail et, d'autre part, en matière de maladies professionnelles sont annexés au livre IV du code de la sécurité sociale. <br/><br/>La décision motivée est immédiatement notifiée par la caisse par tout moyen conférant date certaine, avec mention du taux d'incapacité, des éléments de calcul de la rente ainsi que des voies et délais de recours, à la victime ou à ses ayants droit et à l'employeur au service duquel se trouvait la victime au moment où est survenu l'accident. <br/><br/>La caisse procède à la liquidation de la rente à l'expiration du délai d'un mois suivant la date de notification de sa décision, sauf si un recours mentionné aux chapitres Ier et II du titre IV du livre Ier du code de la sécurité sociale a été introduit. <br/><br/>En cas de nouvelle fixation des réparations motivées par une atténuation ou une aggravation de l'infirmité de la victime ou par son décès des suites de l'accident, le taux d'incapacité et le montant de la rente font l'objet d'une nouvelle décision de la caisse notifiée à la victime ou à ses ayants droit.</p>"
+                                    "texte": "Au vu de tous les renseignements recueillis, la caisse de mutualité sociale agricole se prononce sur l'existence d'une incapacité permanente et, le cas échéant, sur les taux d'incapacité permanente professionnelle et fonctionnelle. Elle évalue compte tenu du salaire annuel de la victime, apprécié conformément aux dispositions des articles R. 751-57 à R. 751-59, le montant de la part professionnelle de la rente due à la victime ou à ses ayants droit sur la base du taux d'incapacité permanente professionnelle mentionné au premier alinéa. La décision motivée est immédiatement notifiée par la caisse par tout moyen conférant date certaine, avec mention des taux d'incapacité permanente professionnelle et fonctionnelle, des éléments de calcul de la rente ainsi que des voies et délais de recours, à la victime ou à ses ayants droit et à l'employeur au service duquel se trouvait la victime au moment où est survenu l'accident. La caisse procède à la liquidation de la rente à l'expiration du délai d'un mois suivant la date de notification de sa décision, sauf si un recours mentionné aux chapitres Ier et II du titre IV du livre Ier du code de la sécurité sociale a été introduit. En cas de nouvelle fixation des réparations motivées par une atténuation ou une aggravation de l'infirmité de la victime ou par son décès des suites de l'accident, les taux d'incapacité permanente professionnelle et fonctionnelle et le montant de la rente font l'objet d'une nouvelle décision de la caisse notifiée à la victime ou à ses ayants droit.",
+                                    "texteHtml": "<p>Au vu de tous les renseignements recueillis, la caisse de mutualité sociale agricole se prononce sur l'existence d'une incapacité permanente et, le cas échéant, sur les taux d'incapacité permanente professionnelle et fonctionnelle.</p><p>Elle évalue compte tenu du salaire annuel de la victime, apprécié conformément aux dispositions des articles <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006597893&dateTexte=&categorieLien=cid\">R. 751-57</a> à R. 751-59, le montant de la part professionnelle de la rente due à la victime ou à ses ayants droit sur la base du taux d'incapacité permanente professionnelle mentionné au premier alinéa.</p><p>La décision motivée est immédiatement notifiée par la caisse par tout moyen conférant date certaine, avec mention des taux d'incapacité permanente professionnelle et fonctionnelle, des éléments de calcul de la rente ainsi que des voies et délais de recours, à la victime ou à ses ayants droit et à l'employeur au service duquel se trouvait la victime au moment où est survenu l'accident.</p><p>La caisse procède à la liquidation de la rente à l'expiration du délai d'un mois suivant la date de notification de sa décision, sauf si un recours mentionné aux chapitres Ier et II du titre IV du livre Ier du code de la sécurité sociale a été introduit.</p><p>En cas de nouvelle fixation des réparations motivées par une atténuation ou une aggravation de l'infirmité de la victime ou par son décès des suites de l'accident, les taux d'incapacité permanente professionnelle et fonctionnelle et le montant de la rente font l'objet d'une nouvelle décision de la caisse notifiée à la victime ou à ses ayants droit.</p>"
                                   },
                                   "type": "article"
                                 },
@@ -547666,7 +547666,7 @@
                                       },
                                       {
                                         "id": "LEGIARTI000038023250",
-                                        "etat": "ABROGE_DIFF",
+                                        "etat": "MODIFIE",
                                         "version": "4.0",
                                         "dateDebut": 1546300800000,
                                         "dateFin": 1793491200000,
@@ -547675,7 +547675,7 @@
                                       },
                                       {
                                         "id": "LEGIARTI000054060390",
-                                        "etat": "VIGUEUR_DIFF",
+                                        "etat": "VIGUEUR",
                                         "version": "5.0",
                                         "dateDebut": 1793491200000,
                                         "dateFin": 32472144000000,
@@ -547684,32 +547684,32 @@
                                       }
                                     ],
                                     "cid": "LEGIARTI000006597931",
-                                    "dateDebut": 1546300800000,
+                                    "dateDebut": 1793491200000,
                                     "dateDebutExtension": 32472144000000,
-                                    "dateFin": 1793491200000,
+                                    "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
-                                    "etat": "ABROGE_DIFF",
-                                    "id": "LEGIARTI000038023250",
+                                    "etat": "VIGUEUR",
+                                    "id": "LEGIARTI000054060390",
                                     "intOrdre": 128847,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000037864789",
-                                        "textTitle": "Décret n°2018-1258 du 27 décembre 2018 - art. 2",
+                                        "textCid": "JORFTEXT000054050148",
+                                        "textTitle": "Décret n°2026-355 du 7 mai 2026 - art. 2",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
                                         "articleNum": "2",
-                                        "articleId": "LEGIARTI000037961586",
+                                        "articleId": "LEGIARTI000054054747",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2018-12-28",
-                                        "dateSignaTexte": "2018-12-27",
-                                        "dateDebutCible": "2018-12-29"
+                                        "datePubliTexte": "2026-05-10",
+                                        "dateSignaTexte": "2026-05-07",
+                                        "dateDebutCible": "2026-11-01"
                                       }
                                     ],
-                                    "nota": "",
-                                    "notaHtml": "",
+                                    "nota": "Conformément à l'article 3 du décret n° 2026-355 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er novembre 2026.",
+                                    "notaHtml": "<p>Conformément à l'article 3 du décret n° 2026-355 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er novembre 2026. </p>",
                                     "num": "D751-76",
-                                    "texte": "La valeur du risque calculée pour la période triennale de référence comprend : 1° La totalité des frais de santé et indemnités autres que les rentes, y compris celles afférentes à la rééducation et à la réadaptation professionnelle versée au cours de cette période ; 2° Les capitaux représentatifs des rentes attribuées en premier règlement définitif au cours de ladite période aux victimes atteintes d'une incapacité permanente, ces capitaux comprenant les frais d'appareillage ; 3° Les capitaux correspondant aux accidents mortels dont le caractère professionnel a été reconnu au cours de cette période, que la victime ait ou non des ayants droit, ces capitaux comprenant les frais funéraires. Les bases d'évaluation forfaitaire des capitaux définis aux 2° et 3° ci-dessus sont déterminées par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget. Les dépenses liées à la reconversion professionnelle prévue à l'article L. 752-3 ne sont pas comprises dans la valeur du risque mentionnée au premier alinéa.",
-                                    "texteHtml": "<p>La valeur du risque calculée pour la période triennale de référence comprend :</p><p>1° La totalité des frais de santé et indemnités autres que les rentes, y compris celles afférentes à la rééducation et à la réadaptation professionnelle versée au cours de cette période ;</p><p>2° Les capitaux représentatifs des rentes attribuées en premier règlement définitif au cours de ladite période aux victimes atteintes d'une incapacité permanente, ces capitaux comprenant les frais d'appareillage ;</p><p>3° Les capitaux correspondant aux accidents mortels dont le caractère professionnel a été reconnu au cours de cette période, que la victime ait ou non des ayants droit, ces capitaux comprenant les frais funéraires.</p><p>Les bases d'évaluation forfaitaire des capitaux définis aux 2° et 3° ci-dessus sont déterminées par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget.</p><p>Les dépenses liées à la reconversion professionnelle prévue à l'article L. 752-3 ne sont pas comprises dans la valeur du risque mentionnée au premier alinéa.</p>"
+                                    "texte": "La valeur du risque calculée pour la période triennale de référence comprend : 1° La totalité des frais de santé et indemnités autres que les rentes, y compris celles afférentes à la rééducation et à la réadaptation professionnelle versée au cours de cette période ; 2° Les capitaux représentatifs des rentes attribuées en premier règlement définitif au cours de ladite période aux victimes atteintes d'une incapacité permanente professionnelle, ces capitaux comprenant les frais d'appareillage ; 3° Les capitaux correspondant aux accidents mortels dont le caractère professionnel a été reconnu au cours de cette période, que la victime ait ou non des ayants droit, ces capitaux comprenant les frais funéraires. Les bases d'évaluation forfaitaire des capitaux définis aux 2° et 3° ci-dessus sont déterminées par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget. Les dépenses liées à la reconversion professionnelle prévue à l'article L. 752-3 ne sont pas comprises dans la valeur du risque mentionnée au premier alinéa.",
+                                    "texteHtml": "<p>La valeur du risque calculée pour la période triennale de référence comprend :</p><p>1° La totalité des frais de santé et indemnités autres que les rentes, y compris celles afférentes à la rééducation et à la réadaptation professionnelle versée au cours de cette période ;</p><p>2° Les capitaux représentatifs des rentes attribuées en premier règlement définitif au cours de ladite période aux victimes atteintes d'une incapacité permanente professionnelle, ces capitaux comprenant les frais d'appareillage ;</p><p>3° Les capitaux correspondant aux accidents mortels dont le caractère professionnel a été reconnu au cours de cette période, que la victime ait ou non des ayants droit, ces capitaux comprenant les frais funéraires.</p><p>Les bases d'évaluation forfaitaire des capitaux définis aux 2° et 3° ci-dessus sont déterminées par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget.</p><p>Les dépenses liées à la reconversion professionnelle prévue à l'article L. 752-3 ne sont pas comprises dans la valeur du risque mentionnée au premier alinéa.</p>"
                                   },
                                   "type": "article"
                                 },
