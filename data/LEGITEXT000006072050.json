@@ -5,8 +5,8 @@
     "id": "LEGITEXT000006072050",
     "intOrdre": 0,
     "title": "Code du travail",
-    "dateModif": "2026-11-01",
-    "dateDebutVersion": "2026-11-01",
+    "dateModif": "2026-11-06",
+    "dateDebutVersion": "2026-11-06",
     "dateFinVersion": "2026-12-26"
   },
   "type": "code",
@@ -401543,9 +401543,18 @@
                                     "articleVersions": [
                                       {
                                         "id": "LEGIARTI000047960220",
-                                        "etat": "VIGUEUR",
+                                        "etat": "ABROGE_DIFF",
                                         "version": "1.0",
                                         "dateDebut": 1693526400000,
+                                        "dateFin": 1798761600000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000055060489",
+                                        "etat": "VIGUEUR_DIFF",
+                                        "version": "2.0",
+                                        "dateDebut": 1798761600000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
                                         "ordre": null
@@ -401554,9 +401563,9 @@
                                     "cid": "LEGIARTI000047960194",
                                     "dateDebut": 1693526400000,
                                     "dateDebutExtension": 32472144000000,
-                                    "dateFin": 32472144000000,
+                                    "dateFin": 1798761600000,
                                     "dateFinExtension": 32472144000000,
-                                    "etat": "VIGUEUR",
+                                    "etat": "ABROGE_DIFF",
                                     "id": "LEGIARTI000047960220",
                                     "intOrdre": 1879048191,
                                     "lienModifications": [
@@ -590324,41 +590333,50 @@
                                           },
                                           {
                                             "id": "LEGIARTI000054107746",
-                                            "etat": "VIGUEUR",
+                                            "etat": "MODIFIE",
                                             "version": "5.0",
                                             "dateDebut": 1779062400000,
+                                            "dateFin": 1793923200000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055061649",
+                                            "etat": "VIGUEUR",
+                                            "version": "6.0",
+                                            "dateDebut": 1793923200000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
                                           }
                                         ],
                                         "cid": "LEGIARTI000038036085",
-                                        "dateDebut": 1779062400000,
+                                        "dateDebut": 1793923200000,
                                         "dateDebutExtension": 32472144000000,
                                         "dateFin": 32472144000000,
                                         "dateFinExtension": 32472144000000,
                                         "etat": "VIGUEUR",
-                                        "id": "LEGIARTI000054107746",
+                                        "id": "LEGIARTI000055061649",
                                         "intOrdre": 1879048191,
                                         "lienModifications": [
                                           {
-                                            "textCid": "JORFTEXT000054104797",
-                                            "textTitle": "Décret n°2026-378 du 13 mai 2026 - art. 1",
+                                            "textCid": "JORFTEXT000055057737",
+                                            "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
                                             "linkType": "MODIFIE",
                                             "linkOrientation": "cible",
                                             "articleNum": "1",
-                                            "articleId": "LEGIARTI000054105734",
+                                            "articleId": "LEGIARTI000055059616",
                                             "natureText": "DECRET",
-                                            "datePubliTexte": "2026-05-17",
-                                            "dateSignaTexte": "2026-05-13",
-                                            "dateDebutCible": "2026-05-18"
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
                                           }
                                         ],
                                         "nota": "",
                                         "notaHtml": "",
                                         "num": "R6123-8",
-                                        "texte": "I. - Le conseil d'administration délibère sur : 1° La fixation d'un niveau maximal de prise en charge éligible à la péréquation inter-branche mentionnée au 1° de l'article L. 6123-5 ; 2° Le suivi et l'évaluation de la qualité des actions de formation mentionnés au 7° de l'article L. 6123-5 , notamment sur le référentiel national prévu par l'article L. 6316-3 ; 3° Les recommandations mentionnées au 10° de l'article L. 6123-5 conformément aux dispositions de l'article L. 6123-10 ; 4° Les actions mises en œuvre en application du 11° de l'article L. 6123-5 ; 5° La reconnaissance d'instances de labellisation prévues par l'article L. 6316-2 , sur le fondement du référentiel national mentionné à l'article L. 6316-3 ; 6° Le rapport annuel d'activité destiné au Parlement et au ministre chargé de la formation professionnelle continue, conformément aux dispositions de l'article L. 6123-11 ; 7° La convention triennale d'objectifs et de performance conclue avec l'Etat en application de l'article L. 6123-11 ; 8° L'affectation des excédents constatés auprès des opérateurs de compétences, des fonds d'assurance-formation de non-salariés et des commissions paritaires interprofessionnelles régionales, dans le cadre d'une ou des sections financières mentionnées à l'article R. 6123-16 ; 9° Le budget initial de l'établissement et les budgets rectificatifs ; 10° Le bilan annuel, le compte de résultat, les principes de comptabilité analytique et les décisions relatives à la fixation, à l'affectation des résultats de l'exercice et à la constitution de réserves ; 11° La conclusion d'emprunts, dont le terme ne peut être supérieur à douze mois, à partir d'un seuil défini par le règlement du conseil ; 12° Les marchés et autres contrats comportant, de la part de l'établissement, un engagement financier dont la valeur excède un seuil défini par le règlement du conseil ou pris au titre du 4° et du 14° de l'article L. 6123-5 ; 13° L'acquisition ou l'aliénation des biens immobiliers ; 14° Le schéma pluriannuel de stratégie immobilière ; 15° Les actions en justice et transactions supérieures à un montant fixé par le règlement intérieur du conseil ; 16° Le schéma directeur des systèmes d'information ; 17° La désignation des commissaires aux comptes ; 18° L'octroi d'avances à des organismes ou sociétés ayant pour objet de contribuer à l'exécution des missions de l'établissement ; 19° La participation à un groupement d'intérêt public ou à toute autre forme de groupement public ou privé ; 20° Le règlement du conseil d'administration, les règlements intérieurs de la commission en charge de la certification professionnelle prévue à l'article L. 6113-6 et de la commission mentionnée à l'article L. 6123-7-1, et la charte déontologique applicable aux membres du conseil d'administration, des commissions mentionnées aux articles L. 6113-6 et L. 6123-7-1 et des commissions spécialisées mentionnées au 21° du présent I, ainsi qu'au personnel de l'établissement ; 21° La création de commissions spécialisées au sein de l'établissement et leurs règlements intérieurs. II. - Le conseil d'administration est tenu informé : 1° Des travaux des commissions et des instances créées au sein de l'établissement ; 2° Des signalements de dysfonctionnements mentionnés au 12° de l'article L. 6123-5 ; 3° De la consolidation, de l'animation et de la publicité des travaux des observatoires prospectifs des métiers et des qualifications au titre du 13° de l'article L. 6123-5 ; 4° Des comptes rendus annuels d'exécution du projet d'établissement et de la convention triennale d'objectifs et de performance ; 5° Des conditions générales d'organisation et de fonctionnement de l'établissement, notamment les conditions générales d'emploi et de rémunération des personnels ; 6° Des emprunts, dont le terme ne peut être supérieur à douze mois, d'un montant inférieur au seuil mentionné au 11° du I ; 7° Du plan pluriannuel d'action achats et des marchés et autres contrats non couverts autres que ceux mentionnés au 12° du I ; 8° Des baux et locations d'immeubles ; 9° De l'état d'avancement du schéma pluriannuel de stratégie immobilière, du schéma directeur des systèmes d'information et du plan d'actions achats ;",
-                                        "texteHtml": "<p>I. - Le conseil d'administration délibère sur :</p><p>1° La fixation d'un niveau maximal de prise en charge éligible à la péréquation inter-branche mentionnée au 1° de l'article L. 6123-5 ;</p><p>2° Le suivi et l'évaluation de la qualité des actions de formation mentionnés au 7° de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">L. 6123-5</a>, notamment sur le référentiel national prévu par l'article L. 6316-3 ;</p><p>3° Les recommandations mentionnées au 10° de l'article L. 6123-5 conformément aux dispositions de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037374843&dateTexte=&categorieLien=cid\">L. 6123-10 </a>;</p><p>4° Les actions mises en œuvre en application du 11° de l'article L. 6123-5 ;</p><p>5° La reconnaissance d'instances de labellisation prévues par l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037371631&dateTexte=&categorieLien=cid\">L. 6316-2</a>, sur le fondement du référentiel national mentionné à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037371633&dateTexte=&categorieLien=cid\">L. 6316-3 </a>;</p><p>6° Le rapport annuel d'activité destiné au Parlement et au ministre chargé de la formation professionnelle continue, conformément aux dispositions de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037374845&dateTexte=&categorieLien=cid\">L. 6123-11 </a>;</p><p>7° La convention triennale d'objectifs et de performance conclue avec l'Etat en application de l'article L. 6123-11 ;</p><p>8° L'affectation des excédents constatés auprès des opérateurs de compétences, des fonds d'assurance-formation de non-salariés et des commissions paritaires interprofessionnelles régionales, dans le cadre d'une ou des sections financières mentionnées à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000038036466&dateTexte=&categorieLien=cid\">R. 6123-16 </a>;</p><p>9° Le budget initial de l'établissement et les budgets rectificatifs ;</p><p>10° Le bilan annuel, le compte de résultat, les principes de comptabilité analytique et les décisions relatives à la fixation, à l'affectation des résultats de l'exercice et à la constitution de réserves ;</p><p>11° La conclusion d'emprunts, dont le terme ne peut être supérieur à douze mois, à partir d'un seuil défini par le règlement du conseil ;</p><p>12° Les marchés et autres contrats comportant, de la part de l'établissement, un engagement financier dont la valeur excède un seuil défini par le règlement du conseil ou pris au titre du 4° et du 14° de l'article L. 6123-5 ;</p><p>13° L'acquisition ou l'aliénation des biens immobiliers ;</p><p>14° Le schéma pluriannuel de stratégie immobilière ;</p><p>15° Les actions en justice et transactions supérieures à un montant fixé par le règlement intérieur du conseil ;</p><p>16° Le schéma directeur des systèmes d'information ;</p><p>17° La désignation des commissaires aux comptes ;</p><p>18° L'octroi d'avances à des organismes ou sociétés ayant pour objet de contribuer à l'exécution des missions de l'établissement ;</p><p>19° La participation à un groupement d'intérêt public ou à toute autre forme de groupement public ou privé ;</p><p>20° Le règlement du conseil d'administration, les règlements intérieurs de la commission en charge de la certification professionnelle prévue à l'article L. 6113-6 et de la commission mentionnée à l'article L. 6123-7-1, et la charte déontologique applicable aux membres du conseil d'administration, des commissions mentionnées aux articles L. 6113-6 et L. 6123-7-1 et des commissions spécialisées mentionnées au 21° du présent I, ainsi qu'au personnel de l'établissement ; </p><p>21° La création de commissions spécialisées au sein de l'établissement et leurs règlements intérieurs.</p><p>II. - Le conseil d'administration est tenu informé :</p><p>1° Des travaux des commissions et des instances créées au sein de l'établissement ;</p><p>2° Des signalements de dysfonctionnements mentionnés au 12° de l'article L. 6123-5 ;</p><p>3° De la consolidation, de l'animation et de la publicité des travaux des observatoires prospectifs des métiers et des qualifications au titre du 13° de l'article L. 6123-5 ;</p><p>4° Des comptes rendus annuels d'exécution du projet d'établissement et de la convention triennale d'objectifs et de performance ;</p><p>5° Des conditions générales d'organisation et de fonctionnement de l'établissement, notamment les conditions générales d'emploi et de rémunération des personnels ;</p><p>6° Des emprunts, dont le terme ne peut être supérieur à douze mois, d'un montant inférieur au seuil mentionné au 11° du I ;</p><p>7° Du plan pluriannuel d'action achats et des marchés et autres contrats non couverts autres que ceux mentionnés au 12° du I ;</p><p>8° Des baux et locations d'immeubles ;</p><p>9° De l'état d'avancement du schéma pluriannuel de stratégie immobilière, du schéma directeur des systèmes d'information et du plan d'actions achats ;</p>"
+                                        "texte": "I. - Le conseil d'administration délibère sur : 1° La fixation d'un niveau maximal de prise en charge éligible à la péréquation inter-branche mentionnée au 1° de l'article L. 6123-5 ; 2° Le suivi et l'évaluation de la qualité des actions de formation mentionnés au 7° de l'article L. 6123-5 , notamment sur le référentiel national prévu par l'article L. 6316-3 ; 3° Les recommandations mentionnées au 10° de l'article L. 6123-5 conformément aux dispositions de l'article L. 6123-10 ; 4° Les actions mises en œuvre en application du 11° de l'article L. 6123-5 ; 5° La reconnaissance d'instances de labellisation prévues par l'article L. 6316-2 , sur le fondement du référentiel national mentionné à l'article L. 6316-3 ; 6° Le rapport annuel d'activité destiné au Parlement et au ministre chargé de la formation professionnelle continue, conformément aux dispositions de l'article L. 6123-11 ; 7° La convention triennale d'objectifs et de performance conclue avec l'Etat en application de l'article L. 6123-11 ; 8° L'affectation des excédents constatés auprès des opérateurs de compétences, des fonds d'assurance-formation de non-salariés, de l'instance paritaire nationale mentionnée à l'article L. 6323-17-5-1 et des commissions paritaires interprofessionnelles régionales, dans le cadre d'une ou des sections financières mentionnées à l'article R. 6123-16 ; 9° Le budget initial de l'établissement et les budgets rectificatifs ; 10° Le bilan annuel, le compte de résultat, les principes de comptabilité analytique et les décisions relatives à la fixation, à l'affectation des résultats de l'exercice et à la constitution de réserves ; 11° La conclusion d'emprunts, dont le terme ne peut être supérieur à douze mois, à partir d'un seuil défini par le règlement du conseil ; 12° Les marchés et autres contrats comportant, de la part de l'établissement, un engagement financier dont la valeur excède un seuil défini par le règlement du conseil ou pris au titre du 4° et du 14° de l'article L. 6123-5 ; 13° L'acquisition ou l'aliénation des biens immobiliers ; 14° Le schéma pluriannuel de stratégie immobilière ; 15° Les actions en justice et transactions supérieures à un montant fixé par le règlement intérieur du conseil ; 16° Le schéma directeur des systèmes d'information ; 17° La désignation des commissaires aux comptes ; 18° L'octroi d'avances à des organismes ou sociétés ayant pour objet de contribuer à l'exécution des missions de l'établissement ; 19° La participation à un groupement d'intérêt public ou à toute autre forme de groupement public ou privé ; 20° Le règlement du conseil d'administration, les règlements intérieurs de la commission en charge de la certification professionnelle prévue à l'article L. 6113-6 et de la commission mentionnée à l'article L. 6123-7-1, et la charte déontologique applicable aux membres du conseil d'administration, des commissions mentionnées aux articles L. 6113-6 et L. 6123-7-1 et des commissions spécialisées mentionnées au 21° du présent I, ainsi qu'au personnel de l'établissement ; 21° La création de commissions spécialisées au sein de l'établissement et leurs règlements intérieurs. II. - Le conseil d'administration est tenu informé : 1° Des travaux des commissions et des instances créées au sein de l'établissement ; 2° Des signalements de dysfonctionnements mentionnés au 12° de l'article L. 6123-5 ; 3° De la consolidation, de l'animation et de la publicité des travaux des observatoires prospectifs des métiers et des qualifications au titre du 13° de l'article L. 6123-5 ; 4° Des comptes rendus annuels d'exécution du projet d'établissement et de la convention triennale d'objectifs et de performance ; 5° Des conditions générales d'organisation et de fonctionnement de l'établissement, notamment les conditions générales d'emploi et de rémunération des personnels ; 6° Des emprunts, dont le terme ne peut être supérieur à douze mois, d'un montant inférieur au seuil mentionné au 11° du I ; 7° Du plan pluriannuel d'action achats et des marchés et autres contrats non couverts autres que ceux mentionnés au 12° du I ; 8° Des baux et locations d'immeubles ; 9° De l'état d'avancement du schéma pluriannuel de stratégie immobilière, du schéma directeur des systèmes d'information et du plan d'actions achats ;",
+                                        "texteHtml": "<p>I. - Le conseil d'administration délibère sur :</p><p>1° La fixation d'un niveau maximal de prise en charge éligible à la péréquation inter-branche mentionnée au 1° de l'article L. 6123-5 ;</p><p>2° Le suivi et l'évaluation de la qualité des actions de formation mentionnés au 7° de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">L. 6123-5</a>, notamment sur le référentiel national prévu par l'article L. 6316-3 ;</p><p>3° Les recommandations mentionnées au 10° de l'article L. 6123-5 conformément aux dispositions de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037374843&dateTexte=&categorieLien=cid\">L. 6123-10 </a>;</p><p>4° Les actions mises en œuvre en application du 11° de l'article L. 6123-5 ;</p><p>5° La reconnaissance d'instances de labellisation prévues par l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037371631&dateTexte=&categorieLien=cid\">L. 6316-2</a>, sur le fondement du référentiel national mentionné à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037371633&dateTexte=&categorieLien=cid\">L. 6316-3 </a>;</p><p>6° Le rapport annuel d'activité destiné au Parlement et au ministre chargé de la formation professionnelle continue, conformément aux dispositions de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037374845&dateTexte=&categorieLien=cid\">L. 6123-11 </a>;</p><p>7° La convention triennale d'objectifs et de performance conclue avec l'Etat en application de l'article L. 6123-11 ;</p><p>8° L'affectation des excédents constatés auprès des opérateurs de compétences, des fonds d'assurance-formation de non-salariés, de l'instance paritaire nationale mentionnée à l'article L. 6323-17-5-1 et des commissions paritaires interprofessionnelles régionales, dans le cadre d'une ou des sections financières mentionnées à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000055061672&dateTexte=&categorieLien=id\" title=\"Code du travail - art. R6123-16 (VT)\">R. 6123-16 </a>;</p><p>9° Le budget initial de l'établissement et les budgets rectificatifs ;</p><p>10° Le bilan annuel, le compte de résultat, les principes de comptabilité analytique et les décisions relatives à la fixation, à l'affectation des résultats de l'exercice et à la constitution de réserves ;</p><p>11° La conclusion d'emprunts, dont le terme ne peut être supérieur à douze mois, à partir d'un seuil défini par le règlement du conseil ;</p><p>12° Les marchés et autres contrats comportant, de la part de l'établissement, un engagement financier dont la valeur excède un seuil défini par le règlement du conseil ou pris au titre du 4° et du 14° de l'article L. 6123-5 ;</p><p>13° L'acquisition ou l'aliénation des biens immobiliers ;</p><p>14° Le schéma pluriannuel de stratégie immobilière ;</p><p>15° Les actions en justice et transactions supérieures à un montant fixé par le règlement intérieur du conseil ;</p><p>16° Le schéma directeur des systèmes d'information ;</p><p>17° La désignation des commissaires aux comptes ;</p><p>18° L'octroi d'avances à des organismes ou sociétés ayant pour objet de contribuer à l'exécution des missions de l'établissement ;</p><p>19° La participation à un groupement d'intérêt public ou à toute autre forme de groupement public ou privé ;</p><p>20° Le règlement du conseil d'administration, les règlements intérieurs de la commission en charge de la certification professionnelle prévue à l'article L. 6113-6 et de la commission mentionnée à l'article L. 6123-7-1, et la charte déontologique applicable aux membres du conseil d'administration, des commissions mentionnées aux articles L. 6113-6 et L. 6123-7-1 et des commissions spécialisées mentionnées au 21° du présent I, ainsi qu'au personnel de l'établissement ;</p><p>21° La création de commissions spécialisées au sein de l'établissement et leurs règlements intérieurs.</p><p>II. - Le conseil d'administration est tenu informé :</p><p>1° Des travaux des commissions et des instances créées au sein de l'établissement ;</p><p>2° Des signalements de dysfonctionnements mentionnés au 12° de l'article L. 6123-5 ;</p><p>3° De la consolidation, de l'animation et de la publicité des travaux des observatoires prospectifs des métiers et des qualifications au titre du 13° de l'article L. 6123-5 ;</p><p>4° Des comptes rendus annuels d'exécution du projet d'établissement et de la convention triennale d'objectifs et de performance ;</p><p>5° Des conditions générales d'organisation et de fonctionnement de l'établissement, notamment les conditions générales d'emploi et de rémunération des personnels ;</p><p>6° Des emprunts, dont le terme ne peut être supérieur à douze mois, d'un montant inférieur au seuil mentionné au 11° du I ;</p><p>7° Du plan pluriannuel d'action achats et des marchés et autres contrats non couverts autres que ceux mentionnés au 12° du I ;</p><p>8° Des baux et locations d'immeubles ;</p><p>9° De l'état d'avancement du schéma pluriannuel de stratégie immobilière, du schéma directeur des systèmes d'information et du plan d'actions achats ;</p>"
                                       },
                                       "type": "article"
                                     },
@@ -590642,41 +590660,50 @@
                                         "articleVersions": [
                                           {
                                             "id": "LEGIARTI000038036253",
-                                            "etat": "VIGUEUR",
+                                            "etat": "MODIFIE",
                                             "version": "1.0",
                                             "dateDebut": 1546300800000,
+                                            "dateFin": 1793923200000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055061664",
+                                            "etat": "VIGUEUR",
+                                            "version": "2.0",
+                                            "dateDebut": 1793923200000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
                                           }
                                         ],
                                         "cid": "LEGIARTI000038036253",
-                                        "dateDebut": 1546300800000,
+                                        "dateDebut": 1793923200000,
                                         "dateDebutExtension": 32472144000000,
                                         "dateFin": 32472144000000,
                                         "dateFinExtension": 32472144000000,
                                         "etat": "VIGUEUR",
-                                        "id": "LEGIARTI000038036253",
+                                        "id": "LEGIARTI000055061664",
                                         "intOrdre": 1073741823,
                                         "lienModifications": [
                                           {
-                                            "textCid": "JORFTEXT000037883766",
-                                            "textTitle": "Décret n°2018-1331 du 28 décembre 2018 - art. 1",
-                                            "linkType": "CREE",
+                                            "textCid": "JORFTEXT000055057737",
+                                            "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
+                                            "linkType": "MODIFIE",
                                             "linkOrientation": "cible",
                                             "articleNum": "1",
-                                            "articleId": "LEGIARTI000038004910",
+                                            "articleId": "LEGIARTI000055059616",
                                             "natureText": "DECRET",
-                                            "datePubliTexte": "2018-12-30",
-                                            "dateSignaTexte": "2018-12-28",
-                                            "dateDebutCible": "2019-01-01"
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
                                           }
                                         ],
                                         "nota": "",
                                         "notaHtml": "",
                                         "num": "R6123-14",
-                                        "texte": "Un médiateur est chargé au sein de France compétences d'instruire les réclamations individuelles des usagers relatives au conseil en évolution professionnelle mentionné au 4° de l'article L. 6123-5 et aux projets de transition professionnelle mentionnés à l'article L. 6323-17-6 . Il établit un rapport annuel dans lequel il formule les propositions qui lui paraissent de nature à améliorer le fonctionnement de France compétences et le service rendu aux usagers. Ce rapport est transmis au conseil d'administration de France compétences, au ministre chargé de la formation professionnelle et au Défenseur des droits. La saisine du Défenseur des droits, dans son champ de compétences, met fin à la procédure de réclamation introduite auprès du médiateur.",
-                                        "texteHtml": "<p>Un médiateur est chargé au sein de France compétences d'instruire les réclamations individuelles des usagers relatives au conseil en évolution professionnelle mentionné au 4° de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">L. 6123-5 </a>et aux projets de transition professionnelle mentionnés à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037368929&dateTexte=&categorieLien=cid\">L. 6323-17-6</a>. </p><p>Il établit un rapport annuel dans lequel il formule les propositions qui lui paraissent de nature à améliorer le fonctionnement de France compétences et le service rendu aux usagers. Ce rapport est transmis au conseil d'administration de France compétences, au ministre chargé de la formation professionnelle et au Défenseur des droits. </p><p>La saisine du Défenseur des droits, dans son champ de compétences, met fin à la procédure de réclamation introduite auprès du médiateur.</p>"
+                                        "texte": "Un médiateur est chargé au sein de France compétences d'instruire les réclamations individuelles des usagers relatives au conseil en évolution professionnelle mentionné au 4° de l'article L. 6123-5 et aux projets de transition professionnelle mentionnés à l'article L. 6323-17-6 . Il établit un rapport annuel dans lequel il formule les propositions qui lui paraissent de nature à améliorer le fonctionnement de France compétences, de l'instance paritaire nationale mentionnée à l' article L. 6323-17-5-1 et le service rendu aux usagers. Ce rapport est transmis au conseil d'administration de France compétences, de l'instance paritaire nationale, au ministre chargé de la formation professionnelle et au Défenseur des droits. La saisine du Défenseur des droits, dans son champ de compétences, met fin à la procédure de réclamation introduite auprès du médiateur.",
+                                        "texteHtml": "<p>Un médiateur est chargé au sein de France compétences d'instruire les réclamations individuelles des usagers relatives au conseil en évolution professionnelle mentionné au 4° de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">L. 6123-5 </a>et aux projets de transition professionnelle mentionnés à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037368929&dateTexte=&categorieLien=cid\">L. 6323-17-6</a>.</p><p>Il établit un rapport annuel dans lequel il formule les propositions qui lui paraissent de nature à améliorer le fonctionnement de France compétences, de l'instance paritaire nationale mentionnée à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000052436257&dateTexte=&categorieLien=cid\">article L. 6323-17-5-1</a> et le service rendu aux usagers. Ce rapport est transmis au conseil d'administration de France compétences, de l'instance paritaire nationale, au ministre chargé de la formation professionnelle et au Défenseur des droits.</p><p>La saisine du Défenseur des droits, dans son champ de compétences, met fin à la procédure de réclamation introduite auprès du médiateur.</p>"
                                       },
                                       "type": "article"
                                     }
@@ -590789,9 +590816,18 @@
                                       },
                                       {
                                         "id": "LEGIARTI000053428211",
-                                        "etat": "ABROGE_DIFF",
+                                        "etat": "MODIFIE",
                                         "version": "5.0",
                                         "dateDebut": 1769904000000,
+                                        "dateFin": 1793923200000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000055061672",
+                                        "etat": "ABROGE_DIFF",
+                                        "version": "6.0",
+                                        "dateDebut": 1793923200000,
                                         "dateFin": 1798761600000,
                                         "numero": null,
                                         "ordre": null
@@ -590799,7 +590835,7 @@
                                       {
                                         "id": "LEGIARTI000054107742",
                                         "etat": "VIGUEUR_DIFF",
-                                        "version": "6.0",
+                                        "version": "7.0",
                                         "dateDebut": 1798761600000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
@@ -590807,32 +590843,32 @@
                                       }
                                     ],
                                     "cid": "LEGIARTI000038036466",
-                                    "dateDebut": 1769904000000,
+                                    "dateDebut": 1793923200000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFin": 1798761600000,
                                     "dateFinExtension": 32472144000000,
                                     "etat": "ABROGE_DIFF",
-                                    "id": "LEGIARTI000053428211",
+                                    "id": "LEGIARTI000055061672",
                                     "intOrdre": 1610612735,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000053422608",
-                                        "textTitle": "Décret n°2026-39 du 28 janvier 2026 - art. 2",
+                                        "textCid": "JORFTEXT000055057737",
+                                        "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
-                                        "articleNum": "2",
-                                        "articleId": "LEGIARTI000053426681",
+                                        "articleNum": "1",
+                                        "articleId": "LEGIARTI000055059616",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2026-01-31",
-                                        "dateSignaTexte": "2026-01-28",
-                                        "dateDebutCible": "2026-02-01"
+                                        "datePubliTexte": "2026-11-05",
+                                        "dateSignaTexte": "2026-11-04",
+                                        "dateDebutCible": "2026-11-06"
                                       }
                                     ],
                                     "nota": "",
                                     "notaHtml": "",
                                     "num": "R6123-16",
-                                    "texte": "Le budget de l'établissement comporte onze sections financières : 1° Une section dédiée au financement de l'alternance, divisée en cinq sous-sections : a) Une sous-section dédiée à la péréquation entre les opérateurs de compétences mentionnée au 1° de l'article L. 6123-5 ; b) Une sous-section dédiée au financement de l'aide au permis de conduire mentionnée au 1° du même article ; c) Une sous-section dédiée au versement aux régions des fonds pour le financement des centres de formation d'apprentis au titre du 2° du même article ; d) une sous-section dédiée aux opérateurs de compétences pour le financement de l'alternance mentionné c du 3° de l'article L. 6123-5 ; e) Une sous-section dédiée au versement au centre national de la fonction publique territoriale de fonds pour le financement des frais de formation des apprentis qu'il prend en charge au titre du 1° de l'article L. 6123-5 ; 2° Une section dédiée au financement du compte personnel de formation mentionné au a du 3° du même article ; 3° Une section dédiée au financement de la formation des demandeurs d'emploi mentionné au b du 3° du même article ; 4° Une section dédiée au financement de l'aide au développement des compétences au bénéfice des entreprises de moins de cinquante salariés mentionné au c du 3° du même article ; 5° Une section dédiée au financement du conseil en évolution professionnelle au titre du 4° du même article ; 6° Une section dédiée au financement des projets de transition professionnelle mentionné au 5° du même article ; 7° Une section dédiée à l'affectation des financements aux fonds d'assurance-formation de non-salariés mentionnés au h du 3° du même article ; 8° Une section dédiée à l'affectation des financements au comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics mentionné à l'article L. 6331-41 ; 9° Une section dédiée au fonctionnement et aux investissements de l'établissement : a) Une sous-section dédiée aux dépenses de fonctionnement ; b) Une sous-section dédiée aux dépenses d'investissement ; 10° Une section dédiée à l'affectation des contributions mentionnées au 15° de l'article L. 6123-5 ; 11° Une section dédiée à la période de reconversion. France compétences peut créer toute autre section pour compte de tiers.",
-                                    "texteHtml": "<p></p><p>Le budget de l'établissement comporte onze sections financières :</p><p>1° Une section dédiée au financement de l'alternance, divisée en cinq sous-sections :</p><p>a) Une sous-section dédiée à la péréquation entre les opérateurs de compétences mentionnée au 1° de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">L. 6123-5 </a>;</p><p>b) Une sous-section dédiée au financement de l'aide au permis de conduire mentionnée au 1° du même article ;</p><p>c) Une sous-section dédiée au versement aux régions des fonds pour le financement des centres de formation d'apprentis au titre du 2° du même article ;</p><p>d) une sous-section dédiée aux opérateurs de compétences pour le financement de l'alternance mentionné c du 3° de l'article L. 6123-5 ;</p><p>e) Une sous-section dédiée au versement au centre national de la fonction publique territoriale de fonds pour le financement des frais de formation des apprentis qu'il prend en charge au titre du 1° de l'article L. 6123-5 ;</p><p>2° Une section dédiée au financement du compte personnel de formation mentionné au a du 3° du même article ;</p><p>3° Une section dédiée au financement de la formation des demandeurs d'emploi mentionné au b du 3° du même article ;</p><p>4° Une section dédiée au financement de l'aide au développement des compétences au bénéfice des entreprises de moins de cinquante salariés mentionné au c du 3° du même article ;</p><p>5° Une section dédiée au financement du conseil en évolution professionnelle au titre du 4° du même article ;</p><p>6° Une section dédiée au financement des projets de transition professionnelle mentionné au 5° du même article ;</p><p>7° Une section dédiée à l'affectation des financements aux fonds d'assurance-formation de non-salariés mentionnés au h du 3° du même article ;</p><p>8° Une section dédiée à l'affectation des financements au comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics mentionné à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904318&dateTexte=&categorieLien=cid\">L. 6331-41</a> ;</p><p>9° Une section dédiée au fonctionnement et aux investissements de l'établissement :</p><p>a) Une sous-section dédiée aux dépenses de fonctionnement ;</p><p>b) Une sous-section dédiée aux dépenses d'investissement ;</p><p>10° Une section dédiée à l'affectation des contributions mentionnées au 15° de l'article L. 6123-5 ;</p><p>11° Une section dédiée à la période de reconversion.</p><p>France compétences peut créer toute autre section pour compte de tiers.</p><p></p>"
+                                    "texte": "Le budget de l'établissement comporte douze sections financières : 1° Une section dédiée au financement de l'alternance, divisée en cinq sous-sections : a) Une sous-section dédiée à la péréquation entre les opérateurs de compétences mentionnée au 1° de l' article L. 6123-5 du code du travail ; b) Une sous-section dédiée au financement de l'aide au permis de conduire mentionnée au 1° du même article ; c) Une sous-section dédiée au versement aux régions des fonds pour le financement des centres de formation d'apprentis au titre du 2° du même article ; d) une sous-section dédiée aux opérateurs de compétences pour le financement de l'alternance mentionné c du 3° de l'article L. 6123-5 ; e) Une sous-section dédiée au versement au centre national de la fonction publique territoriale de fonds pour le financement des frais de formation des apprentis qu'il prend en charge au titre du 1° de l'article L. 6123-5 ; 2° Une section dédiée au financement du compte personnel de formation mentionné au a du 3° du même article ; 3° Une section dédiée au financement de la formation des demandeurs d'emploi mentionné au b du 3° du même article ; 4° Une section dédiée au financement de l'aide au développement des compétences au bénéfice des entreprises de moins de cinquante salariés mentionné au c du 3° du même article ; 5° Une section dédiée au financement du conseil en évolution professionnelle au titre du 4° du même article ; 6° Une section dédiée au financement des projets de transition professionnelle mentionné au 5° du même article ; 6° bis Une section dédiée aux fonds reçus au titre du 4° du I de l' article L. 4163-7 du code du travail et de l' article L. 221-1-5 du code de la sécurité sociale ; 7° Une section dédiée à l'affectation des financements aux fonds d'assurance-formation de non-salariés mentionnés au h du 3° du même article ; 8° Une section dédiée à l'affectation des financements au comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics mentionné à l' article L. 6331-41 du code du travail ; 9° Une section dédiée au fonctionnement et aux investissements de l'établissement : a) Une sous-section dédiée aux dépenses de fonctionnement ; b) Une sous-section dédiée aux dépenses d'investissement ; 10° Une section dédiée à l'affectation des contributions mentionnées au 15° de l'article L. 6123-5 ; 11° Une section dédiée à la période de reconversion. France compétences peut créer toute autre section pour compte de tiers.",
+                                    "texteHtml": "<p>Le budget de l'établissement comporte douze sections financières :</p><p>1° Une section dédiée au financement de l'alternance, divisée en cinq sous-sections :</p><p>a) Une sous-section dédiée à la péréquation entre les opérateurs de compétences mentionnée au 1° de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">article L. 6123-5 du code du travail</a> ;</p><p>b) Une sous-section dédiée au financement de l'aide au permis de conduire mentionnée au 1° du même article ;</p><p>c) Une sous-section dédiée au versement aux régions des fonds pour le financement des centres de formation d'apprentis au titre du 2° du même article ;</p><p>d) une sous-section dédiée aux opérateurs de compétences pour le financement de l'alternance mentionné c du 3° de l'article L. 6123-5 ;</p><p>e) Une sous-section dédiée au versement au centre national de la fonction publique territoriale de fonds pour le financement des frais de formation des apprentis qu'il prend en charge au titre du 1° de l'article L. 6123-5 ;</p><p>2° Une section dédiée au financement du compte personnel de formation mentionné au a du 3° du même article ;</p><p>3° Une section dédiée au financement de la formation des demandeurs d'emploi mentionné au b du 3° du même article ;</p><p>4° Une section dédiée au financement de l'aide au développement des compétences au bénéfice des entreprises de moins de cinquante salariés mentionné au c du 3° du même article ;</p><p>5° Une section dédiée au financement du conseil en évolution professionnelle au titre du 4° du même article ;</p><p>6° Une section dédiée au financement des projets de transition professionnelle mentionné au 5° du même article ;</p><p>6° bis Une section dédiée aux fonds reçus au titre du 4° du I de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035611667&dateTexte=&categorieLien=cid\">article L. 4163-7 du code du travail</a> et de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000047449926&dateTexte=&categorieLien=cid\">article L. 221-1-5 du code de la sécurité sociale</a> ;</p><p>7° Une section dédiée à l'affectation des financements aux fonds d'assurance-formation de non-salariés mentionnés au h du 3° du même article ;</p><p>8° Une section dédiée à l'affectation des financements au comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics mentionné à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904318&dateTexte=&categorieLien=cid\">article L. 6331-41 du code du travail</a> ;</p><p>9° Une section dédiée au fonctionnement et aux investissements de l'établissement :</p><p>a) Une sous-section dédiée aux dépenses de fonctionnement ;</p><p>b) Une sous-section dédiée aux dépenses d'investissement ;</p><p>10° Une section dédiée à l'affectation des contributions mentionnées au 15° de l'article L. 6123-5 ;</p><p>11° Une section dédiée à la période de reconversion.</p><p>France compétences peut créer toute autre section pour compte de tiers.</p>"
                                   },
                                   "type": "article"
                                 },
@@ -590945,41 +590981,50 @@
                                       },
                                       {
                                         "id": "LEGIARTI000051777139",
-                                        "etat": "VIGUEUR",
+                                        "etat": "MODIFIE",
                                         "version": "2.0",
                                         "dateDebut": 1750636800000,
+                                        "dateFin": 1793923200000,
+                                        "numero": null,
+                                        "ordre": null
+                                      },
+                                      {
+                                        "id": "LEGIARTI000055061679",
+                                        "etat": "VIGUEUR",
+                                        "version": "3.0",
+                                        "dateDebut": 1793923200000,
                                         "dateFin": 32472144000000,
                                         "numero": null,
                                         "ordre": null
                                       }
                                     ],
                                     "cid": "LEGIARTI000038036472",
-                                    "dateDebut": 1750636800000,
+                                    "dateDebut": 1793923200000,
                                     "dateDebutExtension": 32472144000000,
                                     "dateFin": 32472144000000,
                                     "dateFinExtension": 32472144000000,
                                     "etat": "VIGUEUR",
-                                    "id": "LEGIARTI000051777139",
+                                    "id": "LEGIARTI000055061679",
                                     "intOrdre": 2080374783,
                                     "lienModifications": [
                                       {
-                                        "textCid": "JORFTEXT000051773400",
-                                        "textTitle": "Décret n°2025-558 du 21 juin 2025 - art. 1",
+                                        "textCid": "JORFTEXT000055057737",
+                                        "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
                                         "linkType": "MODIFIE",
                                         "linkOrientation": "cible",
                                         "articleNum": "1",
-                                        "articleId": "LEGIARTI000051774558",
+                                        "articleId": "LEGIARTI000055059616",
                                         "natureText": "DECRET",
-                                        "datePubliTexte": "2025-06-22",
-                                        "dateSignaTexte": "2025-06-21",
-                                        "dateDebutCible": "2025-06-23"
+                                        "datePubliTexte": "2026-11-05",
+                                        "dateSignaTexte": "2026-11-04",
+                                        "dateDebutCible": "2026-11-06"
                                       }
                                     ],
                                     "nota": "",
                                     "notaHtml": "",
                                     "num": "R6123-19",
-                                    "texte": "Le budget de l'année est soumis au vote du conseil d'administration avant le 30 novembre de l'année précédente. Dans le cas où, avant le début de l'exercice, le budget n'a pas été voté par le conseil d'administration à la date d'ouverture de l'exercice, les opérations de recettes et de dépenses sont effectuées sur la base et dans la limite de 80 % du budget voté de l'exercice précédent, à l'exception du montant de la dotation prévue au b du 3° de l' article L. 6123-5 , qui est fixé par arrêté conjoint du ministre chargé de la formation professionnelle et du ministre chargé du budget, et sous réserve des dispositions prévues par l'arrêté mentionné au second alinéa de l' article R. 6123-25 .",
-                                    "texteHtml": "<p>Le budget de l'année est soumis au vote du conseil d'administration avant le 30 novembre de l'année précédente. </p><p>Dans le cas où, avant le début de l'exercice, le budget n'a pas été voté par le conseil d'administration à la date d'ouverture de l'exercice, les opérations de recettes et de dépenses sont effectuées sur la base et dans la limite de 80 % du budget voté de l'exercice précédent, à l'exception du montant de la dotation prévue au b du 3° de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">article L. 6123-5</a>, qui est fixé par arrêté conjoint du ministre chargé de la formation professionnelle et du ministre chargé du budget, et sous réserve des dispositions prévues par l'arrêté mentionné au second alinéa de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000038036486&dateTexte=&categorieLien=cid\">article R. 6123-25</a>.</p>"
+                                    "texte": "Le budget de l'année est soumis au vote du conseil d'administration avant le 30 novembre de l'année précédente. Dans le cas où, avant le début de l'exercice, le budget n'a pas été voté par le conseil d'administration à la date d'ouverture de l'exercice, les opérations de recettes et de dépenses sont effectuées sur la base et dans la limite de 80 % du budget voté de l'exercice précédent, à l'exception du montant de la dotation prévue au b du 3° de l' article L. 6123-5 , qui est fixé par arrêté conjoint du ministre chargé de la formation professionnelle et du ministre chargé du budget, et sous réserve des dispositions prévues par l'arrêté mentionné au troisième alinéa de l' article R. 6123-25 .",
+                                    "texteHtml": "<p>Le budget de l'année est soumis au vote du conseil d'administration avant le 30 novembre de l'année précédente.</p><p>Dans le cas où, avant le début de l'exercice, le budget n'a pas été voté par le conseil d'administration à la date d'ouverture de l'exercice, les opérations de recettes et de dépenses sont effectuées sur la base et dans la limite de 80 % du budget voté de l'exercice précédent, à l'exception du montant de la dotation prévue au b du 3° de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">article L. 6123-5</a>, qui est fixé par arrêté conjoint du ministre chargé de la formation professionnelle et du ministre chargé du budget, et sous réserve des dispositions prévues par l'arrêté mentionné au troisième alinéa de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000055061686&dateTexte=&categorieLien=id\" title=\"Code du travail - art. R6123-25 (VD)\">article R. 6123-25</a>.</p>"
                                   },
                                   "type": "article"
                                 },
@@ -591292,9 +591337,18 @@
                                           },
                                           {
                                             "id": "LEGIARTI000053428201",
-                                            "etat": "VIGUEUR",
+                                            "etat": "ABROGE_DIFF",
                                             "version": "10.0",
                                             "dateDebut": 1769904000000,
+                                            "dateFin": 1798761600000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055061686",
+                                            "etat": "VIGUEUR_DIFF",
+                                            "version": "11.0",
+                                            "dateDebut": 1798761600000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
@@ -591303,9 +591357,9 @@
                                         "cid": "LEGIARTI000038036486",
                                         "dateDebut": 1769904000000,
                                         "dateDebutExtension": 32472144000000,
-                                        "dateFin": 32472144000000,
+                                        "dateFin": 1798761600000,
                                         "dateFinExtension": 32472144000000,
-                                        "etat": "VIGUEUR",
+                                        "etat": "ABROGE_DIFF",
                                         "id": "LEGIARTI000053428201",
                                         "intOrdre": 1610612735,
                                         "lienModifications": [
@@ -591371,9 +591425,18 @@
                                           },
                                           {
                                             "id": "LEGIARTI000053515410",
-                                            "etat": "VIGUEUR",
+                                            "etat": "ABROGE_DIFF",
                                             "version": "5.0",
                                             "dateDebut": 1771632000000,
+                                            "dateFin": 1798761600000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055061693",
+                                            "etat": "VIGUEUR_DIFF",
+                                            "version": "6.0",
+                                            "dateDebut": 1798761600000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
@@ -591382,9 +591445,9 @@
                                         "cid": "LEGIARTI000038036488",
                                         "dateDebut": 1771632000000,
                                         "dateDebutExtension": 32472144000000,
-                                        "dateFin": 32472144000000,
+                                        "dateFin": 1798761600000,
                                         "dateFinExtension": 32472144000000,
-                                        "etat": "VIGUEUR",
+                                        "etat": "ABROGE_DIFF",
                                         "id": "LEGIARTI000053515410",
                                         "intOrdre": 1879048191,
                                         "lienModifications": [
@@ -591423,9 +591486,18 @@
                                           },
                                           {
                                             "id": "LEGIARTI000051777197",
-                                            "etat": "VIGUEUR",
+                                            "etat": "ABROGE_DIFF",
                                             "version": "2.0",
                                             "dateDebut": 1750636800000,
+                                            "dateFin": 1798761600000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055060499",
+                                            "etat": "VIGUEUR_DIFF",
+                                            "version": "3.0",
+                                            "dateDebut": 1798761600000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
@@ -591434,9 +591506,9 @@
                                         "cid": "LEGIARTI000047960355",
                                         "dateDebut": 1750636800000,
                                         "dateDebutExtension": 32472144000000,
-                                        "dateFin": 32472144000000,
+                                        "dateFin": 1798761600000,
                                         "dateFinExtension": 32472144000000,
-                                        "etat": "VIGUEUR",
+                                        "etat": "ABROGE_DIFF",
                                         "id": "LEGIARTI000051777197",
                                         "intOrdre": 1946157055,
                                         "lienModifications": [
@@ -591554,9 +591626,18 @@
                                           },
                                           {
                                             "id": "LEGIARTI000051777098",
-                                            "etat": "VIGUEUR",
+                                            "etat": "ABROGE_DIFF",
                                             "version": "5.0",
                                             "dateDebut": 1750636800000,
+                                            "dateFin": 1798761600000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055061699",
+                                            "etat": "VIGUEUR_DIFF",
+                                            "version": "6.0",
+                                            "dateDebut": 1798761600000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
@@ -591565,9 +591646,9 @@
                                         "cid": "LEGIARTI000038036492",
                                         "dateDebut": 1750636800000,
                                         "dateDebutExtension": 32472144000000,
-                                        "dateFin": 32472144000000,
+                                        "dateFin": 1798761600000,
                                         "dateFinExtension": 32472144000000,
-                                        "etat": "VIGUEUR",
+                                        "etat": "ABROGE_DIFF",
                                         "id": "LEGIARTI000051777098",
                                         "intOrdre": 2080374783,
                                         "lienModifications": [
@@ -607630,41 +607711,50 @@
                                         "articleVersions": [
                                           {
                                             "id": "LEGIARTI000038007628",
-                                            "etat": "VIGUEUR",
+                                            "etat": "MODIFIE",
                                             "version": "1.0",
                                             "dateDebut": 1546300800000,
+                                            "dateFin": 1793923200000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055061706",
+                                            "etat": "VIGUEUR",
+                                            "version": "2.0",
+                                            "dateDebut": 1793923200000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
                                           }
                                         ],
                                         "cid": "LEGIARTI000038007621",
-                                        "dateDebut": 1546300800000,
+                                        "dateDebut": 1793923200000,
                                         "dateDebutExtension": 32472144000000,
                                         "dateFin": 32472144000000,
                                         "dateFinExtension": 32472144000000,
                                         "etat": "VIGUEUR",
-                                        "id": "LEGIARTI000038007628",
+                                        "id": "LEGIARTI000055061706",
                                         "intOrdre": 1879048191,
                                         "lienModifications": [
                                           {
-                                            "textCid": "JORFTEXT000037883803",
-                                            "textTitle": "Décret n°2018-1332 du 28 décembre 2018 - art. 1",
-                                            "linkType": "CREE",
+                                            "textCid": "JORFTEXT000055057737",
+                                            "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
+                                            "linkType": "MODIFIE",
                                             "linkOrientation": "cible",
                                             "articleNum": "1",
-                                            "articleId": "LEGIARTI000038004987",
+                                            "articleId": "LEGIARTI000055059616",
                                             "natureText": "DECRET",
-                                            "datePubliTexte": "2018-12-30",
-                                            "dateSignaTexte": "2018-12-28",
-                                            "dateDebutCible": "2019-01-01"
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
                                           }
                                         ],
                                         "nota": "",
                                         "notaHtml": "",
                                         "num": "R6323-14-2",
-                                        "texte": "I.-Les demandes de prise en charge d'un projet de transition professionnelle sont satisfaites dans l'ordre de leur réception. Toutefois, les commissions paritaires interprofessionnelles régionales sont admises à déterminer certaines catégories d'actions et de publics prioritaires lorsque les demandes de prise en charge d'un projet de transition professionnelle qui leur sont présentées ne peuvent être toutes satisfaites simultanément. L'ordre de priorité est fixé par chaque commission au regard des spécificités de son territoire. Il tient compte notamment des analyses effectuées dans le cadre du contrat de plan régional de développement des formations et de l'orientation professionnelle élaboré par la région en application de l'article L. 6121-1 , d'une part, et du référentiel de priorités dans la satisfaction des demandes de prise en charge établi par France compétences en application du 10° de l'article L. 6123-5 , d'autre part. Ce référentiel tient notamment compte du niveau de qualification et de la catégorie socioprofessionnelle des demandeurs ainsi que de leur éventuelle inaptitude à leur emploi, de la taille des entreprises qui les emploient et de l'objectif d'assurer l'égalité professionnelle entre les femmes et les hommes. II.-La commission paritaire interprofessionnelle régionale planifie la répartition prévisionnelle de ses engagements financiers au cours de l'année. III.-L'ordre de priorité et la répartition prévus au I et II sont définis et publiés chaque année dans des rubriques dédiées du système d'information national commun aux commissions paritaires interprofessionnelles régionales prévu au II de l'article L. 6323-17-2 .",
-                                        "texteHtml": "<p>I.-Les demandes de prise en charge d'un projet de transition professionnelle sont satisfaites dans l'ordre de leur réception. Toutefois, les commissions paritaires interprofessionnelles régionales sont admises à déterminer certaines catégories d'actions et de publics prioritaires lorsque les demandes de prise en charge d'un projet de transition professionnelle qui leur sont présentées ne peuvent être toutes satisfaites simultanément. <br/><br/>L'ordre de priorité est fixé par chaque commission au regard des spécificités de son territoire. Il tient compte notamment des analyses effectuées dans le cadre du contrat de plan régional de développement des formations et de l'orientation professionnelle élaboré par la région en application de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903982&dateTexte=&categorieLien=cid\">L. 6121-1</a>, d'une part, et du référentiel de priorités dans la satisfaction des demandes de prise en charge établi par France compétences en application du 10° de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">L. 6123-5</a>, d'autre part. <br/><br/>Ce référentiel tient notamment compte du niveau de qualification et de la catégorie socioprofessionnelle des demandeurs ainsi que de leur éventuelle inaptitude à leur emploi, de la taille des entreprises qui les emploient et de l'objectif d'assurer l'égalité professionnelle entre les femmes et les hommes. <br/><br/>II.-La commission paritaire interprofessionnelle régionale planifie la répartition prévisionnelle de ses engagements financiers au cours de l'année. <br/><br/>III.-L'ordre de priorité et la répartition prévus au I et II sont définis et publiés chaque année dans des rubriques dédiées du système d'information national commun aux commissions paritaires interprofessionnelles régionales prévu au II de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037368921&dateTexte=&categorieLien=cid\">L. 6323-17-2</a>.<br/></p>"
+                                        "texte": "I.-Les demandes de prise en charge d'un projet de transition professionnelle sont satisfaites dans l'ordre de leur réception. Toutefois, les commissions paritaires interprofessionnelles régionales sont admises à déterminer certaines catégories d'actions et de publics prioritaires lorsque les demandes de prise en charge d'un projet de transition professionnelle qui leur sont présentées ne peuvent être toutes satisfaites simultanément. L'ordre de priorité est fixé par chaque commission au regard des spécificités de son territoire. Il tient compte notamment des analyses effectuées dans le cadre du contrat de plan régional de développement des formations et de l'orientation professionnelle élaboré par la région en application de l' article L. 6121-1 , d'une part, et du référentiel de priorités dans la satisfaction des demandes de prise en charge établi par l'instance paritaire nationale en application du 2° de l' article L. 6323-17-5-1 , d'autre part. Ce référentiel tient notamment compte du niveau de qualification et de la catégorie socioprofessionnelle des demandeurs ainsi que de leur éventuelle inaptitude à leur emploi, de la taille des entreprises qui les emploient et de l'objectif d'assurer l'égalité professionnelle entre les femmes et les hommes. II.-La commission paritaire interprofessionnelle régionale planifie la répartition prévisionnelle de ses engagements financiers au cours de l'année. III.-L'ordre de priorité et la répartition prévus au I et II sont définis et publiés chaque année dans des rubriques dédiées du système d'information national commun aux commissions paritaires interprofessionnelles régionales prévu au II de l' article L. 6323-17-2 .",
+                                        "texteHtml": "<p>I.-Les demandes de prise en charge d'un projet de transition professionnelle sont satisfaites dans l'ordre de leur réception. Toutefois, les commissions paritaires interprofessionnelles régionales sont admises à déterminer certaines catégories d'actions et de publics prioritaires lorsque les demandes de prise en charge d'un projet de transition professionnelle qui leur sont présentées ne peuvent être toutes satisfaites simultanément.</p><p>L'ordre de priorité est fixé par chaque commission au regard des spécificités de son territoire. Il tient compte notamment des analyses effectuées dans le cadre du contrat de plan régional de développement des formations et de l'orientation professionnelle élaboré par la région en application de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903982&dateTexte=&categorieLien=cid\">article L. 6121-1</a>, d'une part, et du référentiel de priorités dans la satisfaction des demandes de prise en charge établi par l'instance paritaire nationale en application du 2° de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000052436257&dateTexte=&categorieLien=cid\">article L. 6323-17-5-1</a>, d'autre part.</p><p>Ce référentiel tient notamment compte du niveau de qualification et de la catégorie socioprofessionnelle des demandeurs ainsi que de leur éventuelle inaptitude à leur emploi, de la taille des entreprises qui les emploient et de l'objectif d'assurer l'égalité professionnelle entre les femmes et les hommes.</p><p>II.-La commission paritaire interprofessionnelle régionale planifie la répartition prévisionnelle de ses engagements financiers au cours de l'année.</p><p>III.-L'ordre de priorité et la répartition prévus au I et II sont définis et publiés chaque année dans des rubriques dédiées du système d'information national commun aux commissions paritaires interprofessionnelles régionales prévu au II de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037368921&dateTexte=&categorieLien=cid\">article L. 6323-17-2</a>.</p>"
                                       },
                                       "type": "article"
                                     },
@@ -607888,41 +607978,50 @@
                                         "articleVersions": [
                                           {
                                             "id": "LEGIARTI000047960477",
-                                            "etat": "VIGUEUR",
+                                            "etat": "MODIFIE",
                                             "version": "1.0",
                                             "dateDebut": 1693526400000,
+                                            "dateFin": 1793923200000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055060511",
+                                            "etat": "VIGUEUR",
+                                            "version": "2.0",
+                                            "dateDebut": 1793923200000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
                                           }
                                         ],
                                         "cid": "LEGIARTI000047960472",
-                                        "dateDebut": 1693526400000,
+                                        "dateDebut": 1793923200000,
                                         "dateDebutExtension": 32472144000000,
                                         "dateFin": 32472144000000,
                                         "dateFinExtension": 32472144000000,
                                         "etat": "VIGUEUR",
-                                        "id": "LEGIARTI000047960477",
+                                        "id": "LEGIARTI000055060511",
                                         "intOrdre": 2113929215,
                                         "lienModifications": [
                                           {
-                                            "textCid": "JORFTEXT000047956728",
-                                            "textTitle": "Décret n°2023-760 du 10 août 2023 - art. 3",
-                                            "linkType": "CREE",
+                                            "textCid": "JORFTEXT000055057766",
+                                            "textTitle": "Décret n°2026-1028 du 4 novembre 2026 - art. 3",
+                                            "linkType": "MODIFIE",
                                             "linkOrientation": "cible",
                                             "articleNum": "3",
-                                            "articleId": "LEGIARTI000047959469",
+                                            "articleId": "LEGIARTI000055058945",
                                             "natureText": "DECRET",
-                                            "datePubliTexte": "2023-08-11",
-                                            "dateSignaTexte": "2023-08-10",
-                                            "dateDebutCible": "2023-08-12"
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
                                           }
                                         ],
-                                        "nota": "Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.",
-                                        "notaHtml": "<p>Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.</p>",
+                                        "nota": "",
+                                        "notaHtml": "",
                                         "num": "D6323-14-5",
-                                        "texte": "Lorsque le financement de la dotation mentionnée au I de l'article D. 6123-26-1 ne suffit pas à la prise en charge d'une demande de projet de transition professionnelle, la commission paritaire interprofessionnelle régionale peut, dans les conditions prévues au troisième alinéa de l'article L. 6323-17-1 , mobiliser la dotation mentionnée à l'article R. 6123-25 pour en assurer le financement complémentaire.",
-                                        "texteHtml": "<p>Lorsque le financement de la dotation mentionnée au I de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000047960355&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. D6123-26-1 (V)\">D. 6123-26-1 </a>ne suffit pas à la prise en charge d'une demande de projet de transition professionnelle, la commission paritaire interprofessionnelle régionale peut, dans les conditions prévues au troisième alinéa de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037368919&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L6323-17-1 (V)\">L. 6323-17-1</a>, mobiliser la dotation mentionnée à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000038036486&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. R6123-25 (V)\">R. 6123-25</a> pour en assurer le financement complémentaire.</p>"
+                                        "texte": "Lorsque le financement de la dotation mentionnée au I de l'article D. 6123-26-1 ne suffit pas à la prise en charge d'une demande de projet de transition professionnelle, la commission paritaire interprofessionnelle régionale peut, dans les conditions prévues au troisième alinéa de l'article L. 6323-17-1 , mobiliser les autres fonds de la dotation mentionnée au 5° de l'article L. 6123-5 pour en assurer le financement complémentaire.",
+                                        "texteHtml": "<p>Lorsque le financement de la dotation mentionnée au I de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000047960355&dateTexte=&categorieLien=cid\">D. 6123-26-1 </a>ne suffit pas à la prise en charge d'une demande de projet de transition professionnelle, la commission paritaire interprofessionnelle régionale peut, dans les conditions prévues au troisième alinéa de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037368919&dateTexte=&categorieLien=cid\">L. 6323-17-1</a>, mobiliser les autres fonds de la dotation mentionnée au 5° de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340266&dateTexte=&categorieLien=cid\">L. 6123-5</a> pour en assurer le financement complémentaire.</p>"
                                       },
                                       "type": "article"
                                     }
@@ -608853,6 +608952,49 @@
                                         "texteHtml": "<p align=\"left\">Les statuts de l'instance nationale paritaire peuvent préciser les délais de convocation du commissaire du Gouvernement aux séances du conseil d'administration et les modalités de transmission des délibérations et des documents relatifs à la gestion de l'association mentionnés sixième alinéa de l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000052436257&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L6323-17-5-1 (VT)\">L. 6323-17-5-1</a>.</p><p align=\"left\">Lorsque le commissaire du Gouvernement estime qu'une délibération du conseil d'administration ou un document relatif à la gestion de l'association n'est pas conforme aux dispositions de la présente section, ou à d'autres dispositions légales ou réglementaires, il saisit le président du conseil d'administration, qui lui adresse une réponse motivée.</p>"
                                       },
                                       "type": "article"
+                                    },
+                                    {
+                                      "data": {
+                                        "articleVersions": [
+                                          {
+                                            "id": "LEGIARTI000055060582",
+                                            "etat": "VIGUEUR",
+                                            "version": "1.0",
+                                            "dateDebut": 1793923200000,
+                                            "dateFin": 32472144000000,
+                                            "numero": null,
+                                            "ordre": null
+                                          }
+                                        ],
+                                        "cid": "LEGIARTI000055060582",
+                                        "dateDebut": 1793923200000,
+                                        "dateDebutExtension": 32472144000000,
+                                        "dateFin": 32472144000000,
+                                        "dateFinExtension": 32472144000000,
+                                        "etat": "VIGUEUR",
+                                        "id": "LEGIARTI000055060582",
+                                        "intOrdre": 1879048191,
+                                        "lienModifications": [
+                                          {
+                                            "textCid": "JORFTEXT000055057737",
+                                            "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
+                                            "linkType": "CREE",
+                                            "linkOrientation": "cible",
+                                            "articleNum": "1",
+                                            "articleId": "LEGIARTI000055059616",
+                                            "natureText": "DECRET",
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
+                                          }
+                                        ],
+                                        "nota": "",
+                                        "notaHtml": "",
+                                        "num": "R6323-18-11-4",
+                                        "texte": "Les délibérations du conseil d'administration de l'instance paritaire nationale prévues au 1°, 2° et 3° de l'article R. 6323-18-11-1 sont publiées sur son site internet et transmises au ministre chargé de la formation professionnelle, à France compétences, et aux présidents des commissions paritaires interprofessionnelles régionales. Les orientations nationales mentionnées au 3° du même article sont applicables à l'expiration d'un délai de trois mois suivant leur communication aux commissions paritaires interprofessionnelles régionales.",
+                                        "texteHtml": "<p align=\"left\">Les délibérations du conseil d'administration de l'instance paritaire nationale prévues au <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000055060231&dateTexte=&categorieLien=cid\">1°, 2° et 3° de l'article R. 6323-18-11-1</a> sont publiées sur son site internet et transmises au ministre chargé de la formation professionnelle, à France compétences, et aux présidents des commissions paritaires interprofessionnelles régionales.</p><p align=\"left\">Les orientations nationales mentionnées au 3° du même article sont applicables à l'expiration d'un délai de trois mois suivant leur communication aux commissions paritaires interprofessionnelles régionales.</p>"
+                                      },
+                                      "type": "article"
                                     }
                                   ]
                                 },
@@ -608868,6 +609010,49 @@
                                   },
                                   "type": "section",
                                   "children": [
+                                    {
+                                      "data": {
+                                        "articleVersions": [
+                                          {
+                                            "id": "LEGIARTI000055060531",
+                                            "etat": "VIGUEUR",
+                                            "version": "1.0",
+                                            "dateDebut": 1793923200000,
+                                            "dateFin": 32472144000000,
+                                            "numero": null,
+                                            "ordre": null
+                                          }
+                                        ],
+                                        "cid": "LEGIARTI000055060531",
+                                        "dateDebut": 1793923200000,
+                                        "dateDebutExtension": 32472144000000,
+                                        "dateFin": 32472144000000,
+                                        "dateFinExtension": 32472144000000,
+                                        "etat": "VIGUEUR",
+                                        "id": "LEGIARTI000055060531",
+                                        "intOrdre": 1342177279,
+                                        "lienModifications": [
+                                          {
+                                            "textCid": "JORFTEXT000055057737",
+                                            "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
+                                            "linkType": "CREE",
+                                            "linkOrientation": "cible",
+                                            "articleNum": "1",
+                                            "articleId": "LEGIARTI000055059616",
+                                            "natureText": "DECRET",
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
+                                          }
+                                        ],
+                                        "nota": "",
+                                        "notaHtml": "",
+                                        "num": "R6323-18-13-1",
+                                        "texte": "Les règles prévues aux articles R. 6332-27 à R. 6332-29 s'appliquent à la gestion des excédents financiers issus des fonds mentionnés au 5° de l'article L. 6123-5 constatés par l'instance paritaire nationale au 31 décembre de chaque année, à l'exception des fonds relatifs au système d'information commun.",
+                                        "texteHtml": "<p align=\"left\">Les règles prévues aux <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000018498584&dateTexte=&categorieLien=cid\">articles R. 6332-27 à R. 6332-29</a> s'appliquent à la gestion des excédents financiers issus des fonds mentionnés au 5° de l'article L. 6123-5 constatés par l'instance paritaire nationale au 31 décembre de chaque année, à l'exception des fonds relatifs au système d'information commun.</p>"
+                                      },
+                                      "type": "article"
+                                    },
                                     {
                                       "data": {
                                         "articleVersions": [
@@ -609137,6 +609322,49 @@
                                         "num": "R6323-18-19",
                                         "texte": "L'instance paritaire nationale informe le ministre chargé de la formation professionnelle de toute modification apportée à ses statuts, à son règlement intérieur et à son organigramme en lui transmettant ces documents dès leur modification. Elle lui communique chaque année le nombre et la composition de son conseil d'administration et de ses autres organes de décision.",
                                         "texteHtml": "<p align=\"left\">L'instance paritaire nationale informe le ministre chargé de la formation professionnelle de toute modification apportée à ses statuts, à son règlement intérieur et à son organigramme en lui transmettant ces documents dès leur modification.</p><p align=\"left\">Elle lui communique chaque année le nombre et la composition de son conseil d'administration et de ses autres organes de décision.</p>"
+                                      },
+                                      "type": "article"
+                                    },
+                                    {
+                                      "data": {
+                                        "articleVersions": [
+                                          {
+                                            "id": "LEGIARTI000055060579",
+                                            "etat": "VIGUEUR",
+                                            "version": "1.0",
+                                            "dateDebut": 1793923200000,
+                                            "dateFin": 32472144000000,
+                                            "numero": null,
+                                            "ordre": null
+                                          }
+                                        ],
+                                        "cid": "LEGIARTI000055060579",
+                                        "dateDebut": 1793923200000,
+                                        "dateDebutExtension": 32472144000000,
+                                        "dateFin": 32472144000000,
+                                        "dateFinExtension": 32472144000000,
+                                        "etat": "VIGUEUR",
+                                        "id": "LEGIARTI000055060579",
+                                        "intOrdre": 1342177279,
+                                        "lienModifications": [
+                                          {
+                                            "textCid": "JORFTEXT000055057737",
+                                            "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
+                                            "linkType": "CREE",
+                                            "linkOrientation": "cible",
+                                            "articleNum": "1",
+                                            "articleId": "LEGIARTI000055059616",
+                                            "natureText": "DECRET",
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
+                                          }
+                                        ],
+                                        "nota": "",
+                                        "notaHtml": "",
+                                        "num": "R6323-18-19-1",
+                                        "texte": "L'instance paritaire nationale transmet chaque année, avant le 31 mai suivant l'année civile considérée, au ministre chargé de la formation professionnelle et à France compétences un état statistique et financier permettant d'apprécier l'emploi des fonds reçus, ainsi que ses comptes de résultat et bilans. Les renseignements de l'état statistique et financier qui peuvent être rendus publics sont définis par arrêté du ministre chargé de la formation professionnelle. Le commissaire aux comptes de l'instance paritaire nationale, mentionné à l'article R. 6323-18-22 , atteste de la sincérité de l'état financier mentionné au premier alinéa.",
+                                        "texteHtml": "<p align=\"left\">L'instance paritaire nationale transmet chaque année, avant le 31 mai suivant l'année civile considérée, au ministre chargé de la formation professionnelle et à France compétences un état statistique et financier permettant d'apprécier l'emploi des fonds reçus, ainsi que ses comptes de résultat et bilans.</p><p align=\"left\">Les renseignements de l'état statistique et financier qui peuvent être rendus publics sont définis par arrêté du ministre chargé de la formation professionnelle.</p><p align=\"left\">Le commissaire aux comptes de l'instance paritaire nationale, mentionné à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000054106079&dateTexte=&categorieLien=cid\">R. 6323-18-22</a>, atteste de la sincérité de l'état financier mentionné au premier alinéa.</p>"
                                       },
                                       "type": "article"
                                     },
@@ -610117,41 +610345,50 @@
                                         "articleVersions": [
                                           {
                                             "id": "LEGIARTI000038031253",
-                                            "etat": "VIGUEUR",
+                                            "etat": "MODIFIE",
                                             "version": "1.0",
                                             "dateDebut": 1546300800000,
+                                            "dateFin": 1793923200000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055060520",
+                                            "etat": "VIGUEUR",
+                                            "version": "2.0",
+                                            "dateDebut": 1793923200000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
                                           }
                                         ],
                                         "cid": "LEGIARTI000038031152",
-                                        "dateDebut": 1546300800000,
+                                        "dateDebut": 1793923200000,
                                         "dateDebutExtension": 32472144000000,
                                         "dateFin": 32472144000000,
                                         "dateFinExtension": 32472144000000,
                                         "etat": "VIGUEUR",
-                                        "id": "LEGIARTI000038031253",
+                                        "id": "LEGIARTI000055060520",
                                         "intOrdre": 1073741823,
                                         "lienModifications": [
                                           {
-                                            "textCid": "JORFTEXT000037884226",
-                                            "textTitle": "Décret n°2018-1339 du 28 décembre 2018 - art. 2",
-                                            "linkType": "CREE",
+                                            "textCid": "JORFTEXT000055057766",
+                                            "textTitle": "Décret n°2026-1028 du 4 novembre 2026 - art. 4",
+                                            "linkType": "MODIFIE",
                                             "linkOrientation": "cible",
-                                            "articleNum": "2",
-                                            "articleId": "LEGIARTI000038030560",
+                                            "articleNum": "4",
+                                            "articleId": "LEGIARTI000055058947",
                                             "natureText": "DECRET",
-                                            "datePubliTexte": "2018-12-30",
-                                            "dateSignaTexte": "2018-12-28",
-                                            "dateDebutCible": "2019-01-01"
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
                                           }
                                         ],
                                         "nota": "",
                                         "notaHtml": "",
                                         "num": "D6323-21-3",
-                                        "texte": "I.-Une convention d'objectifs et de moyens triennale est conclue entre la commission paritaire interprofessionnelle régionale et le préfet de région. Lors de la procédure préalable à cette convention, la commission paritaire interprofessionnelle régionale transmet au préfet de région un état des orientations de son activité et de l'évolution prévisionnelle des charges qui en résultent. II.-Les parties procèdent annuellement à l'évaluation de suivi de la convention d'objectifs et de moyens. Elles apprécient le niveau de réalisation des objectifs fixés. III.-Une copie de la convention et de l'évaluation annuelle est transmise à France compétences et au ministre chargé de la formation professionnelle par le préfet de région.",
-                                        "texteHtml": "<p>I.-Une convention d'objectifs et de moyens triennale est conclue entre la commission paritaire interprofessionnelle régionale et le préfet de région.<br/><br/>\n Lors de la procédure préalable à cette convention, la commission paritaire interprofessionnelle régionale transmet au préfet de région un état des orientations de son activité et de l'évolution prévisionnelle des charges qui en résultent.<br/><br/>\n II.-Les parties procèdent annuellement à l'évaluation de suivi de la convention d'objectifs et de moyens. Elles apprécient le niveau de réalisation des objectifs fixés.<br/><br/>\n III.-Une copie de la convention et de l'évaluation annuelle est transmise à France compétences et au ministre chargé de la formation professionnelle par le préfet de région.</p>"
+                                        "texte": "I. - Une convention d'objectifs et de moyens triennale est conclue entre la commission paritaire interprofessionnelle régionale et le préfet de région sur la base d'un modèle national établi tous les trois ans par le ministre chargé de la formation professionnelle et à l'élaboration duquel est associée l'instance paritaire nationale mentionnée à l'article L. 6323-17-5-1 . Lors de la procédure préalable à cette convention, la commission paritaire interprofessionnelle régionale transmet au préfet de région un état des orientations de son activité et de l'évolution prévisionnelle des charges qui en résultent. II. - Les parties procèdent annuellement à l'évaluation de suivi de la convention d'objectifs et de moyens. Elles apprécient le niveau de réalisation des objectifs fixés. III. - Une copie de la convention et de l'évaluation annuelle est transmise à France compétences et au ministre chargé de la formation professionnelle par le préfet de région.",
+                                        "texteHtml": "<p>I. - Une convention d'objectifs et de moyens triennale est conclue entre la commission paritaire interprofessionnelle régionale et le préfet de région sur la base d'un modèle national établi tous les trois ans par le ministre chargé de la formation professionnelle et à l'élaboration duquel est associée l'instance paritaire nationale mentionnée à l'article <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000052436257&dateTexte=&categorieLien=cid\">L. 6323-17-5-1</a>.<br/><br/>Lors de la procédure préalable à cette convention, la commission paritaire interprofessionnelle régionale transmet au préfet de région un état des orientations de son activité et de l'évolution prévisionnelle des charges qui en résultent.<br/><br/>II. - Les parties procèdent annuellement à l'évaluation de suivi de la convention d'objectifs et de moyens. Elles apprécient le niveau de réalisation des objectifs fixés.<br/><br/>III. - Une copie de la convention et de l'évaluation annuelle est transmise à France compétences et au ministre chargé de la formation professionnelle par le préfet de région.</p>"
                                       },
                                       "type": "article"
                                     },
@@ -618143,41 +618380,50 @@
                                           },
                                           {
                                             "id": "LEGIARTI000051777090",
-                                            "etat": "VIGUEUR",
+                                            "etat": "MODIFIE",
                                             "version": "5.0",
                                             "dateDebut": 1750636800000,
+                                            "dateFin": 1793923200000,
+                                            "numero": null,
+                                            "ordre": null
+                                          },
+                                          {
+                                            "id": "LEGIARTI000055061716",
+                                            "etat": "VIGUEUR",
+                                            "version": "6.0",
+                                            "dateDebut": 1793923200000,
                                             "dateFin": 32472144000000,
                                             "numero": null,
                                             "ordre": null
                                           }
                                         ],
                                         "cid": "LEGIARTI000018498562",
-                                        "dateDebut": 1750636800000,
+                                        "dateDebut": 1793923200000,
                                         "dateDebutExtension": 32472144000000,
                                         "dateFin": 32472144000000,
                                         "dateFinExtension": 32472144000000,
                                         "etat": "VIGUEUR",
-                                        "id": "LEGIARTI000051777090",
+                                        "id": "LEGIARTI000055061716",
                                         "intOrdre": 153391689,
                                         "lienModifications": [
                                           {
-                                            "textCid": "JORFTEXT000051773400",
-                                            "textTitle": "Décret n°2025-558 du 21 juin 2025 - art. 1",
+                                            "textCid": "JORFTEXT000055057737",
+                                            "textTitle": "Décret n°2026-1027 du 4 novembre 2026 - art. 1",
                                             "linkType": "MODIFIE",
                                             "linkOrientation": "cible",
                                             "articleNum": "1",
-                                            "articleId": "LEGIARTI000051774558",
+                                            "articleId": "LEGIARTI000055059616",
                                             "natureText": "DECRET",
-                                            "datePubliTexte": "2025-06-22",
-                                            "dateSignaTexte": "2025-06-21",
-                                            "dateDebutCible": "2025-06-23"
+                                            "datePubliTexte": "2026-11-05",
+                                            "dateSignaTexte": "2026-11-04",
+                                            "dateDebutCible": "2026-11-06"
                                           }
                                         ],
                                         "nota": "Conformément à l'article 2 du décret n° 2025-558 du 21 juin 2025, pour l'année 2025, le taux mentionné au premier alinéa dudit article est fixé à quinze pour cent.",
                                         "notaHtml": "<p>Conformément à l'article 2 du décret n° 2025-558 du 21 juin 2025, pour l'année 2025, le taux mentionné au premier alinéa dudit article est fixé à quinze pour cent.</p>",
                                         "num": "R6332-27",
-                                        "texte": "Les fonds propres de chaque section comptable dédiée à l'alternance ou au plan de développement des compétences ne peuvent excéder, au 31 décembre de l'année, dix pour cent des produits de formation comptabilisés sur chaque section au cours de l'exercice. Les disponibilités dont un opérateur de compétences peut disposer à cette même date au titre de ces actions ne peuvent excéder le tiers des charges comptabilisées au cours du dernier exercice clos, déduction faite des dotations aux amortissements et des provisions autres que celles relatives à un contentieux engagé avec un organisme de formation.",
-                                        "texteHtml": "<p>Les fonds propres de chaque section comptable dédiée à l'alternance ou au plan de développement des compétences ne peuvent excéder, au 31 décembre de l'année, dix pour cent des produits de formation comptabilisés sur chaque section au cours de l'exercice.</p><p> Les disponibilités dont un opérateur de compétences peut disposer à cette même date au titre de ces actions ne peuvent excéder le tiers des charges comptabilisées au cours du dernier exercice clos, déduction faite des dotations aux amortissements et des provisions autres que celles relatives à un contentieux engagé avec un organisme de formation.</p>"
+                                        "texte": "Les fonds propres de chaque section comptable dédiée à l'alternance, aux périodes de reconversion ou au plan de développement des compétences ne peuvent excéder, au 31 décembre de l'année, dix pour cent des produits de formation comptabilisés sur chaque section au cours de l'exercice. Les disponibilités dont un opérateur de compétences peut disposer à cette même date au titre de ces actions ne peuvent excéder le tiers des charges comptabilisées au cours du dernier exercice clos, déduction faite des dotations aux amortissements et des provisions autres que celles relatives à un contentieux engagé avec un organisme de formation.",
+                                        "texteHtml": "<p>Les fonds propres de chaque section comptable dédiée à l'alternance, aux périodes de reconversion ou au plan de développement des compétences ne peuvent excéder, au 31 décembre de l'année, dix pour cent des produits de formation comptabilisés sur chaque section au cours de l'exercice.</p><p>Les disponibilités dont un opérateur de compétences peut disposer à cette même date au titre de ces actions ne peuvent excéder le tiers des charges comptabilisées au cours du dernier exercice clos, déduction faite des dotations aux amortissements et des provisions autres que celles relatives à un contentieux engagé avec un organisme de formation.</p>"
                                       },
                                       "type": "article"
                                     },
@@ -630485,10 +630731,10 @@
                       "data": {
                         "cid": "LEGISCTA000018499088",
                         "etat": "VIGUEUR",
-                        "id": "LEGISCTA000018522248",
+                        "id": "LEGISCTA000055060113",
                         "intOrdre": 1073741823,
-                        "title": "Chapitre Ier : Objet du contrôle et fonctionnaires de contrôle",
-                        "dateDebut": "2008-05-01",
+                        "title": "Chapitre Ier : Objet du contrôle et agents de contrôle",
+                        "dateDebut": "2026-11-06",
                         "dateFin": "2999-01-01"
                       },
                       "type": "section",
@@ -630620,41 +630866,50 @@
                               },
                               {
                                 "id": "LEGIARTI000022264753",
-                                "etat": "VIGUEUR",
+                                "etat": "MODIFIE",
                                 "version": "2.0",
                                 "dateDebut": 1274572800000,
+                                "dateFin": 1793923200000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000055060124",
+                                "etat": "VIGUEUR",
+                                "version": "3.0",
+                                "dateDebut": 1793923200000,
                                 "dateFin": 32472144000000,
                                 "numero": null,
                                 "ordre": null
                               }
                             ],
                             "cid": "LEGIARTI000018499094",
-                            "dateDebut": 1274572800000,
+                            "dateDebut": 1793923200000,
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
                             "etat": "VIGUEUR",
-                            "id": "LEGIARTI000022264753",
+                            "id": "LEGIARTI000055060124",
                             "intOrdre": 1879048191,
                             "lienModifications": [
                               {
-                                "textCid": "JORFTEXT000022244307",
-                                "textTitle": "Décret n°2010-530\n du 20 mai 2010 - art. 8",
+                                "textCid": "JORFTEXT000055057785",
+                                "textTitle": "Décret n°2026-1029 du 4 novembre 2026 - art. 1",
                                 "linkType": "MODIFIE",
                                 "linkOrientation": "cible",
-                                "articleNum": "8",
-                                "articleId": "LEGIARTI000022256647",
+                                "articleNum": "1",
+                                "articleId": "LEGIARTI000055059013",
                                 "natureText": "DECRET",
-                                "datePubliTexte": "2010-05-22",
-                                "dateSignaTexte": "2010-05-20",
-                                "dateDebutCible": "2010-05-23"
+                                "datePubliTexte": "2026-11-05",
+                                "dateSignaTexte": "2026-11-04",
+                                "dateDebutCible": "2026-11-06"
                               }
                             ],
                             "nota": "",
                             "notaHtml": "",
                             "num": "D6361-3",
-                            "texte": "Les agents de la fonction publique de l'Etat placés sous l'autorité du ministre chargé de la formation professionnelle mentionnés au premier alinéa de l'article L. 6361-5 suivent une formation pratique de six mois dans les services en charge des contrôles. Durant ce stage, ils participent aux contrôles en qualité d'assistant.",
-                            "texteHtml": "<p>Les agents de la fonction publique de l'Etat placés sous l'autorité du ministre chargé de la formation professionnelle mentionnés au premier alinéa de <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904451&dateTexte=&categorieLien=cid\">l'article L. 6361-5</a> suivent une formation pratique de six mois dans les services en charge des contrôles. <br/><br/>Durant ce stage, ils participent aux contrôles en qualité d'assistant.</p>"
+                            "texte": "Les agents de l'Etat placés sous l'autorité du ministre chargé de la formation professionnelle mentionnés au premier alinéa de l'article L. 6361-5 suivent une formation pratique de six mois dans les services en charge des contrôles. Durant ce stage, ils participent aux contrôles en qualité d'assistant.",
+                            "texteHtml": "<p>Les agents de l'Etat placés sous l'autorité du ministre chargé de la formation professionnelle mentionnés au premier alinéa de <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904451&dateTexte=&categorieLien=cid\">l'article L. 6361-5</a> suivent une formation pratique de six mois dans les services en charge des contrôles.</p><p>Durant ce stage, ils participent aux contrôles en qualité d'assistant.</p>"
                           },
                           "type": "article"
                         },

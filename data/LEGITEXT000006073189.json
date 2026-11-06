@@ -5,8 +5,8 @@
     "id": "LEGITEXT000006073189",
     "intOrdre": 0,
     "title": "Code de la sécurité sociale",
-    "dateModif": "2026-11-04",
-    "dateDebutVersion": "2026-11-04",
+    "dateModif": "2026-11-06",
+    "dateDebutVersion": "2026-11-06",
     "dateFinVersion": "2026-12-25"
   },
   "type": "code",
@@ -305646,7 +305646,7 @@
                               },
                               {
                                 "id": "LEGIARTI000047961931",
-                                "etat": "",
+                                "etat": "VIGUEUR",
                                 "version": "3.0",
                                 "dateDebut": 1693526400000,
                                 "dateFin": 32472144000000,
@@ -305659,7 +305659,7 @@
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
-                            "etat": null,
+                            "etat": "VIGUEUR",
                             "id": "LEGIARTI000047961931",
                             "intOrdre": 1073741823,
                             "lienModifications": [
@@ -305710,7 +305710,7 @@
                               },
                               {
                                 "id": "LEGIARTI000047961920",
-                                "etat": "",
+                                "etat": "VIGUEUR",
                                 "version": "2.0",
                                 "dateDebut": 1693526400000,
                                 "dateFin": 32472144000000,
@@ -305723,7 +305723,7 @@
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
-                            "etat": null,
+                            "etat": "VIGUEUR",
                             "id": "LEGIARTI000047961920",
                             "intOrdre": 1610612735,
                             "lienModifications": [
@@ -305774,7 +305774,7 @@
                               },
                               {
                                 "id": "LEGIARTI000047961910",
-                                "etat": "",
+                                "etat": "VIGUEUR",
                                 "version": "2.0",
                                 "dateDebut": 1693526400000,
                                 "dateFin": 32472144000000,
@@ -305787,7 +305787,7 @@
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
-                            "etat": null,
+                            "etat": "VIGUEUR",
                             "id": "LEGIARTI000047961910",
                             "intOrdre": 1879048191,
                             "lienModifications": [
@@ -305838,7 +305838,7 @@
                               },
                               {
                                 "id": "LEGIARTI000047961900",
-                                "etat": "",
+                                "etat": "VIGUEUR",
                                 "version": "2.0",
                                 "dateDebut": 1693526400000,
                                 "dateFin": 32472144000000,
@@ -305851,7 +305851,7 @@
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
-                            "etat": null,
+                            "etat": "VIGUEUR",
                             "id": "LEGIARTI000047961900",
                             "intOrdre": 2013265919,
                             "lienModifications": [
@@ -305902,7 +305902,7 @@
                               },
                               {
                                 "id": "LEGIARTI000047961889",
-                                "etat": "",
+                                "etat": "VIGUEUR",
                                 "version": "2.0",
                                 "dateDebut": 1693526400000,
                                 "dateFin": 32472144000000,
@@ -305915,7 +305915,7 @@
                             "dateDebutExtension": 32472144000000,
                             "dateFin": 32472144000000,
                             "dateFinExtension": 32472144000000,
-                            "etat": null,
+                            "etat": "VIGUEUR",
                             "id": "LEGIARTI000047961889",
                             "intOrdre": 2080374783,
                             "lienModifications": [
@@ -533321,21 +533321,30 @@
                   },
                   {
                     "id": "LEGIARTI000054911887",
-                    "etat": "VIGUEUR",
+                    "etat": "MODIFIE",
                     "version": "7.0",
                     "dateDebut": 1790726400000,
+                    "dateFin": 1793923200000,
+                    "numero": null,
+                    "ordre": null
+                  },
+                  {
+                    "id": "LEGIARTI000055060545",
+                    "etat": "VIGUEUR",
+                    "version": "8.0",
+                    "dateDebut": 1793923200000,
                     "dateFin": 32472144000000,
                     "numero": null,
                     "ordre": null
                   }
                 ],
                 "cid": "LEGIARTI000006746311",
-                "dateDebut": 1790726400000,
+                "dateDebut": 1793923200000,
                 "dateDebutExtension": 32472144000000,
                 "dateFin": 32472144000000,
                 "dateFinExtension": 32472144000000,
                 "etat": "VIGUEUR",
-                "id": "LEGIARTI000054911887",
+                "id": "LEGIARTI000055060545",
                 "intOrdre": 473927424,
                 "lienModifications": [
                   {
@@ -533351,23 +533360,66 @@
                     "dateDebutCible": "2999-01-01"
                   },
                   {
-                    "textCid": "JORFTEXT000054909329",
-                    "textTitle": "Décret n°2026-901 du 24 septembre 2026 - art. 2",
+                    "textCid": "JORFTEXT000055057725",
+                    "textTitle": "Décret n°2026-1026 du 3 novembre 2026 - art. 1",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "LEGIARTI000054910257",
+                    "articleNum": "1",
+                    "articleId": "LEGIARTI000055058916",
                     "natureText": "DECRET",
-                    "datePubliTexte": "2026-09-29",
-                    "dateSignaTexte": "2026-09-24",
-                    "dateDebutCible": "2026-09-30"
+                    "datePubliTexte": "2026-11-05",
+                    "dateSignaTexte": "2026-11-03",
+                    "dateDebutCible": "2026-11-06"
                   }
                 ],
                 "nota": "Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.",
                 "notaHtml": "<p>Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.</p>",
                 "num": "Annexe II : Tableau n° 25",
-                "texte": "AFFECTIONS CONSECUTIVES A L'INHALATION DE POUSSIERES MINERALES RENFERMANT DE LA SILICE CRISTALLINE (QUARTZ, CRISTOBALITE, TRIDYMITE), DES SILICATES CRISTALLINS (KAOLIN, TALC), DU GRAPHITE OU DE LA HOUILLE DÉSIGNATION DES MALADIES DÉLAI de prise en charge LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies - A - - A - - A - Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite. Travaux exposant à l'inhalation des poussières renfermant de la silice cristalline, notamment : Travaux dans les chantiers et installations de forage, d'abattage, d'extraction et de transport de minerais ou de roches renfermant de la silice cristalline ;Travaux en chantiers de creusement de galeries et fonçage de puits ou de bures dans les mines ; Concassage, broyage, tamisage et manipulation effectués à sec, de minerais ou de roches renfermant de la silice cristalline. Taille et polissage de roches renfermant de la silice cristalline ; Fabrication et manutention de produits abrasifs, de poudres à nettoyer ou autres produits renfermant de la silice cristalline ; Travaux de ponçage et sciage à sec de matériaux renfermant de la silice cristalline ; Extraction, refente, taillage, lissage et polissage de l'ardoise ; Utilisation de poudre d'ardoise (schiste en poudre) comme charge en caoutchouterie ou dans la préparation de mastic ou aggloméré ; Fabrication de carborundum, de verre, de porcelaine, de faïence et autres produits céramiques et de produits réfractaires ;Travaux de fonderie exposant aux poussières de sables renfermant de la silice cristalline : décochage, ébarbage et dessablage ; Travaux de meulage, polissage, aiguisage effectués à sec, au moyen de meules renfermant de la silice cristalline ; Travaux de décapage ou de polissage au jet de sable contenant de la silice cristalline ; Travaux de construction, d'entretien et de démolition exposant à l'inhalation de poussières renfermant de la silice cristalline ; Travaux de calcination de terres à diatomées et utilisations des produits de cette calcination ; Travaux de confection de prothèses dentaires. A1. - Silicose aigüe : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales accompagnées de troubles fonctionnels respiratoires d'évolution rapide. A1. - 6 mois (sous réserve d'une durée minimale d'exposition de 6 mois) A2. - Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales accompagnées ou non de troubles fonctionnels respiratoires. Complications : - cardiaque : insuffisance ventriculaire droite caractérisée. - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : pneumothorax spontané ; surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique. Manifestations pathologiques associées à des signes radiologiques ou des lésions de nature silicotique : - cancer bronchopulmonaire primitif ; - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet). A2. - 35 ans (sous réserve d'une durée minimale d'exposition de 5 ans) A3. - Sclérodermie systémique progressive. A3. - 15 ans (sous réserve d'une durée minimale d'exposition de 10 ans) - B - - B - - B - Affections dues à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) ou du graphite : 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans) Travaux exposant à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) ou du graphite, notamment : Pneumoconioses caractérisées par des lésions interstitielles bilatérales accompagnées ou non de troubles fonctionnels respiratoires : B1. - Kaolinose. B1. - Travaux d'extraction, de broyage et utilisation industrielle du kaolin : faïence, poterie. B2. - Talcose. B2. - Travaux d'extraction, de broyage, de conditionnement du talc ; Utilisation du talc comme lubrifiant ou comme charge dans l'apprêt du papier, dans la préparation de poudres cosmétiques, dans les mélanges de caoutchouterie et dans certaines peintures. B3. - Graphitose. B3. - Manipulation, broyage, conditionnement, usinage, utilisation du graphite, notamment comme réfractaire ; Fabrication d'électrodes. - C - - C - - C - Affections dues à l'inhalation de poussières de houille : Travaux exposant à l'inhalation de poussières de houille, notamment : travaux au fond dans les mines de houille. C1. - Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires. C1. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans) Complications : - cardiaque : insuffisance ventriculaire droite caractérisée ; - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique ; pneumothorax spontané. Manifestations pathologiques associée : - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet). C2. - Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. C2. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans) Complications de cette affection : - insuffisance respiratoire chronique caractérisée ; insuffisance ventriculaire droite caractérisée ; tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; pneumothorax spontané.",
-                "texteHtml": "<p align=\"center\"><strong>AFFECTIONS CONSECUTIVES A L'INHALATION DE POUSSIERES MINERALES RENFERMANT DE LA SILICE CRISTALLINE (QUARTZ, CRISTOBALITE, TRIDYMITE), DES SILICATES CRISTALLINS (KAOLIN, TALC), DU GRAPHITE OU DE LA HOUILLE</strong></p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" align=\"center\"><tbody><tr><td><p align=\"center\">DÉSIGNATION DES MALADIES</p></td><td><p align=\"center\">DÉLAI de prise en charge</p></td><td><p align=\"center\">LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies</p></td></tr><tr><td><p align=\"center\">- A -</p></td><td><p align=\"center\">- A -</p></td><td><p align=\"center\">- A -</p></td></tr><tr><td><p>Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite.</p></td><td></td><td rowspan=\"2\"><p>Travaux exposant à l'inhalation des poussières renfermant de la silice cristalline, notamment : Travaux dans les chantiers et installations de forage, d'abattage, d'extraction et de transport de minerais ou de roches renfermant de la silice cristalline ;Travaux en chantiers de creusement de galeries et fonçage de puits ou de bures dans les mines ; Concassage, broyage, tamisage et manipulation effectués à sec, de minerais ou de roches renfermant de la silice cristalline. Taille et polissage de roches renfermant de la silice cristalline ; Fabrication et manutention de produits abrasifs, de poudres à nettoyer ou autres produits renfermant de la silice cristalline ; Travaux de ponçage et sciage à sec de matériaux renfermant de la silice cristalline ; Extraction, refente, taillage, lissage et polissage de l'ardoise ; Utilisation de poudre d'ardoise (schiste en poudre) comme charge en caoutchouterie ou dans la préparation de mastic ou aggloméré ; Fabrication de carborundum, de verre, de porcelaine, de faïence et autres produits céramiques et de produits réfractaires ;Travaux de fonderie exposant aux poussières de sables renfermant de la silice cristalline : décochage, ébarbage et dessablage ; Travaux de meulage, polissage, aiguisage effectués à sec, au moyen de meules renfermant de la silice cristalline ; Travaux de décapage ou de polissage au jet de sable contenant de la silice cristalline ; Travaux de construction, d'entretien et de démolition exposant à l'inhalation de poussières renfermant de la silice cristalline ; Travaux de calcination de terres à diatomées et utilisations des produits de cette calcination ; Travaux de confection de prothèses dentaires.</p></td></tr><tr><td><p>A1. - Silicose aigüe : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales accompagnées de troubles fonctionnels respiratoires d'évolution rapide.</p></td><td><p align=\"center\">A1. - 6 mois (sous réserve d'une durée minimale d'exposition de 6 mois)</p></td></tr><tr><td><p>A2. - Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales accompagnées ou non de troubles fonctionnels respiratoires. Complications : - cardiaque : insuffisance ventriculaire droite caractérisée. - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : pneumothorax spontané ; surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique. Manifestations pathologiques associées à des signes radiologiques ou des lésions de nature silicotique : - cancer bronchopulmonaire primitif ; - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet).</p></td><td><p align=\"center\">A2. - 35 ans (sous réserve d'une durée minimale d'exposition de 5 ans)</p></td><td rowspan=\"2\"></td></tr><tr><td><p>A3. - Sclérodermie systémique progressive.</p></td><td><p align=\"center\">A3. - 15 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td></tr><tr><td><p align=\"center\">- B -</p></td><td><p align=\"center\">- B -</p></td><td><p align=\"center\">- B -</p></td></tr><tr><td><p>Affections dues à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) ou du graphite :</p></td><td><p align=\"center\">35 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td><td rowspan=\"2\"><p>Travaux exposant à l'inhalation de poussières minérales renfermant des silicates cristallins (kaolin, talc) ou du graphite, notamment :</p></td></tr><tr><td><p>Pneumoconioses caractérisées par des lésions interstitielles bilatérales accompagnées ou non de troubles fonctionnels respiratoires :</p></td><td rowspan=\"3\"><p align=\"center\"></p></td></tr><tr><td><p>B1. - Kaolinose.</p></td><td><p>B1. - Travaux d'extraction, de broyage et utilisation industrielle du kaolin : faïence, poterie.</p></td></tr><tr><td><p>B2. - Talcose.</p></td><td><p>B2. - Travaux d'extraction, de broyage, de conditionnement du talc ; Utilisation du talc comme lubrifiant ou comme charge dans l'apprêt du papier, dans la préparation de poudres cosmétiques, dans les mélanges de caoutchouterie et dans certaines peintures.</p></td></tr><tr><td><p>B3. - Graphitose.</p></td><td><p align=\"center\"></p></td><td><p>B3. - Manipulation, broyage, conditionnement, usinage, utilisation du graphite, notamment comme réfractaire ; Fabrication d'électrodes.</p></td></tr><tr><td><p align=\"center\">- C -</p></td><td><p align=\"center\">- C -</p></td><td><p align=\"center\">- C -</p></td></tr><tr><td><p>Affections dues à l'inhalation de poussières de houille :</p></td><td><p align=\"center\"></p></td><td rowspan=\"5\"><p>Travaux exposant à l'inhalation de poussières de houille, notamment : travaux au fond dans les mines de houille.</p></td></tr><tr><td><p>C1. - Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.</p></td><td rowspan=\"2\"><p align=\"center\">C1. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td></tr><tr><td><p>Complications : - cardiaque : insuffisance ventriculaire droite caractérisée ; - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique ; pneumothorax spontané. Manifestations pathologiques associée : - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet).</p></td></tr><tr><td><p>C2. - Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive.</p></td><td rowspan=\"2\"><p align=\"center\">C2. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td></tr><tr><td><p>Complications de cette affection : - insuffisance respiratoire chronique caractérisée ; insuffisance ventriculaire droite caractérisée ; tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; pneumothorax spontané.</p></td></tr></tbody></table>"
+                "texte": "AFFECTIONS CONSECUTIVES A L'INHALATION DE POUSSIERES RENFERMANT DE LA SILICE CRISTALLINE (QUARTZ, CRISTOBALITE, TRIDYMITE), DES SILICATES CRISTALLINS (KAOLIN, TALC), DU GRAPHITE OU DE LA HOUILLE DÉSIGNATION DES MALADIES DÉLAI de prise en charge LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies - A - - A - - A - Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite. Travaux exposant à l'inhalation des poussières renfermant de la silice cristalline, notamment : Travaux dans les chantiers et installations de forage, d'abattage, d'extraction et de transport de minerais ou de roches renfermant de la silice cristalline ;Travaux en chantiers de creusement de galeries et fonçage de puits ou de bures dans les mines ; Concassage, broyage, tamisage et manipulation effectués à sec, de minerais ou de roches renfermant de la silice cristalline. Taille et polissage de roches renfermant de la silice cristalline ; Fabrication et manutention de produits abrasifs, de poudres à nettoyer ou autres produits renfermant de la silice cristalline ; Travaux de ponçage et sciage à sec de matériaux renfermant de la silice cristalline ; Extraction, refente, taillage, lissage et polissage de l'ardoise ; Utilisation de poudre d'ardoise (schiste en poudre) comme charge en caoutchouterie ou dans la préparation de mastic ou aggloméré ; Fabrication de carborundum, de verre, de porcelaine, de faïence et autres produits céramiques et de produits réfractaires ;Travaux de fonderie exposant aux poussières de sables renfermant de la silice cristalline : décochage, ébarbage et dessablage ; Travaux de meulage, polissage, aiguisage effectués à sec, au moyen de meules renfermant de la silice cristalline ; Travaux de décapage ou de polissage au jet de sable contenant de la silice cristalline ; Travaux de construction, d'entretien et de démolition exposant à l'inhalation de poussières renfermant de la silice cristalline ; Travaux de calcination de terres à diatomées et utilisations des produits de cette calcination ; Travaux de confection de prothèses dentaires. A1. - Silicose aigüe : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales accompagnées de troubles fonctionnels respiratoires d'évolution rapide. A1. - 6 mois (sous réserve d'une durée minimale d'exposition de 6 mois) A2. - Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales accompagnées ou non de troubles fonctionnels respiratoires. Complications : - cardiaque : insuffisance ventriculaire droite caractérisée. - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : pneumothorax spontané ; surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique. Manifestations pathologiques associées à des signes radiologiques ou des lésions de nature silicotique : - cancer bronchopulmonaire primitif ; - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet). A2. - 35 ans (sous réserve d'une durée minimale d'exposition de 5 ans) A3. - Sclérodermie systémique progressive - Lupus érythémateux systémique. A3. - 15 ans (sous réserve d'une durée minimale d'exposition de 10 ans) - B - - B - - B - Affections dues à l'inhalation de poussières renfermant des silicates cristallins (kaolin, talc) ou du graphite : 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans) Travaux exposant à l'inhalation de poussières renfermant des silicates cristallins (kaolin, talc) ou du graphite, notamment : Pneumoconioses caractérisées par des lésions interstitielles bilatérales accompagnées ou non de troubles fonctionnels respiratoires : B1. - Kaolinose. B1. - Travaux d'extraction, de broyage et utilisation industrielle du kaolin : faïence, poterie. B2. - Talcose. B2. - Travaux d'extraction, de broyage, de conditionnement du talc ; Utilisation du talc comme lubrifiant ou comme charge dans l'apprêt du papier, dans la préparation de poudres cosmétiques, dans les mélanges de caoutchouterie et dans certaines peintures. B3. - Graphitose. B3. - Manipulation, broyage, conditionnement, usinage, utilisation du graphite, notamment comme réfractaire ; Fabrication d'électrodes. - C - - C - - C - Affections dues à l'inhalation de poussières de houille : Travaux exposant à l'inhalation de poussières de houille, notamment : travaux au fond dans les mines de houille. C1. - Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires. C1. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans) Complications : - cardiaque : insuffisance ventriculaire droite caractérisée ; - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique ; pneumothorax spontané. Manifestations pathologiques associée : - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet). C2. - Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive. C2. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans) Complications de cette affection : - insuffisance respiratoire chronique caractérisée ; insuffisance ventriculaire droite caractérisée ; tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; pneumothorax spontané.",
+                "texteHtml": "<p align=\"center\"><strong>AFFECTIONS CONSECUTIVES A L'INHALATION DE POUSSIERES RENFERMANT DE LA SILICE CRISTALLINE (QUARTZ, CRISTOBALITE, TRIDYMITE), DES SILICATES CRISTALLINS (KAOLIN, TALC), DU GRAPHITE OU DE LA HOUILLE</strong></p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" align=\"center\"><tbody><tr><td><p align=\"center\">DÉSIGNATION DES MALADIES</p></td><td><p align=\"center\">DÉLAI de prise en charge</p></td><td><p align=\"center\">LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies</p></td></tr><tr><td><p align=\"center\">- A -</p></td><td><p align=\"center\">- A -</p></td><td><p align=\"center\">- A -</p></td></tr><tr><td><p>Affections dues à l'inhalation de poussières de silice cristalline : quartz, cristobalite, tridymite.</p></td><td></td><td rowspan=\"2\"><p>Travaux exposant à l'inhalation des poussières renfermant de la silice cristalline, notamment : Travaux dans les chantiers et installations de forage, d'abattage, d'extraction et de transport de minerais ou de roches renfermant de la silice cristalline ;Travaux en chantiers de creusement de galeries et fonçage de puits ou de bures dans les mines ; Concassage, broyage, tamisage et manipulation effectués à sec, de minerais ou de roches renfermant de la silice cristalline. Taille et polissage de roches renfermant de la silice cristalline ; Fabrication et manutention de produits abrasifs, de poudres à nettoyer ou autres produits renfermant de la silice cristalline ; Travaux de ponçage et sciage à sec de matériaux renfermant de la silice cristalline ; Extraction, refente, taillage, lissage et polissage de l'ardoise ; Utilisation de poudre d'ardoise (schiste en poudre) comme charge en caoutchouterie ou dans la préparation de mastic ou aggloméré ; Fabrication de carborundum, de verre, de porcelaine, de faïence et autres produits céramiques et de produits réfractaires ;Travaux de fonderie exposant aux poussières de sables renfermant de la silice cristalline : décochage, ébarbage et dessablage ; Travaux de meulage, polissage, aiguisage effectués à sec, au moyen de meules renfermant de la silice cristalline ; Travaux de décapage ou de polissage au jet de sable contenant de la silice cristalline ; Travaux de construction, d'entretien et de démolition exposant à l'inhalation de poussières renfermant de la silice cristalline ; Travaux de calcination de terres à diatomées et utilisations des produits de cette calcination ; Travaux de confection de prothèses dentaires.</p></td></tr><tr><td><p>A1. - Silicose aigüe : pneumoconiose caractérisée par des lésions alvéolo-interstitielles bilatérales accompagnées de troubles fonctionnels respiratoires d'évolution rapide.</p></td><td><p align=\"center\">A1. - 6 mois (sous réserve d'une durée minimale d'exposition de 6 mois)</p></td></tr><tr><td><p>A2. - Silicose chronique : pneumoconiose caractérisée par des lésions interstitielles micronodulaires ou nodulaires bilatérales accompagnées ou non de troubles fonctionnels respiratoires. Complications : - cardiaque : insuffisance ventriculaire droite caractérisée. - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : pneumothorax spontané ; surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique. Manifestations pathologiques associées à des signes radiologiques ou des lésions de nature silicotique : - cancer bronchopulmonaire primitif ; - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet).</p></td><td><p align=\"center\">A2. - 35 ans (sous réserve d'une durée minimale d'exposition de 5 ans)</p></td><td rowspan=\"2\"></td></tr><tr><td><p>A3. - Sclérodermie systémique progressive - Lupus érythémateux systémique.</p></td><td><p align=\"center\">A3. - 15 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td></tr><tr><td><p align=\"center\">- B -</p></td><td><p align=\"center\">- B -</p></td><td><p align=\"center\">- B -</p></td></tr><tr><td><p>Affections dues à l'inhalation de poussières renfermant des silicates cristallins (kaolin, talc) ou du graphite :</p></td><td><p align=\"center\">35 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td><td rowspan=\"2\"><p>Travaux exposant à l'inhalation de poussières renfermant des silicates cristallins (kaolin, talc) ou du graphite, notamment :</p></td></tr><tr><td><p>Pneumoconioses caractérisées par des lésions interstitielles bilatérales accompagnées ou non de troubles fonctionnels respiratoires :</p></td><td rowspan=\"3\"><p align=\"center\"></p></td></tr><tr><td><p>B1. - Kaolinose.</p></td><td><p>B1. - Travaux d'extraction, de broyage et utilisation industrielle du kaolin : faïence, poterie.</p></td></tr><tr><td><p>B2. - Talcose.</p></td><td><p>B2. - Travaux d'extraction, de broyage, de conditionnement du talc ; Utilisation du talc comme lubrifiant ou comme charge dans l'apprêt du papier, dans la préparation de poudres cosmétiques, dans les mélanges de caoutchouterie et dans certaines peintures.</p></td></tr><tr><td><p>B3. - Graphitose.</p></td><td><p align=\"center\"></p></td><td><p>B3. - Manipulation, broyage, conditionnement, usinage, utilisation du graphite, notamment comme réfractaire ; Fabrication d'électrodes.</p></td></tr><tr><td><p align=\"center\">- C -</p></td><td><p align=\"center\">- C -</p></td><td><p align=\"center\">- C -</p></td></tr><tr><td><p>Affections dues à l'inhalation de poussières de houille :</p></td><td><p align=\"center\"></p></td><td rowspan=\"5\"><p>Travaux exposant à l'inhalation de poussières de houille, notamment : travaux au fond dans les mines de houille.</p></td></tr><tr><td><p>C1. - Pneumoconiose caractérisée par des lésions interstitielles bilatérales révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomo-pathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent ou non de troubles fonctionnels respiratoires.</p></td><td rowspan=\"2\"><p align=\"center\">C1. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td></tr><tr><td><p>Complications : - cardiaque : insuffisance ventriculaire droite caractérisée ; - pleuro-pulmonaires : tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; nécrose cavitaire aseptique d'une masse pseudotumorale ; aspergillose intracavitaire confirmée par la sérologie ; - non spécifiques : surinfection ou suppuration bactérienne bronchopulmonaire, subaiguë ou chronique ; pneumothorax spontané. Manifestations pathologiques associée : - lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan-Collinet).</p></td></tr><tr><td><p>C2. - Fibrose interstitielle pulmonaire diffuse non régressive, d'apparence primitive.</p></td><td rowspan=\"2\"><p align=\"center\">C2. - 35 ans (sous réserve d'une durée minimale d'exposition de 10 ans)</p></td></tr><tr><td><p>Complications de cette affection : - insuffisance respiratoire chronique caractérisée ; insuffisance ventriculaire droite caractérisée ; tuberculose et autre mycobactériose (Mycobacterium xenopi, M. avium intracellulare, M. kansasii) surajoutée et caractérisée ; pneumothorax spontané.</p></td></tr></tbody></table>"
+              },
+              "type": "article"
+            },
+            {
+              "data": {
+                "articleVersions": [
+                  {
+                    "id": "LEGIARTI000055058930",
+                    "etat": "VIGUEUR",
+                    "version": "1.0",
+                    "dateDebut": 1793923200000,
+                    "dateFin": 32472144000000,
+                    "numero": null,
+                    "ordre": null
+                  }
+                ],
+                "cid": "LEGIARTI000055058930",
+                "dateDebut": 1793923200000,
+                "dateDebutExtension": 32472144000000,
+                "dateFin": 32472144000000,
+                "dateFinExtension": 32472144000000,
+                "etat": "VIGUEUR",
+                "id": "LEGIARTI000055058930",
+                "intOrdre": 481332540,
+                "lienModifications": [
+                  {
+                    "textCid": "JORFTEXT000055057725",
+                    "textTitle": "Décret n°2026-1026 du 3 novembre 2026 - art. 1",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "LEGIARTI000055058916",
+                    "natureText": "DECRET",
+                    "datePubliTexte": "2026-11-05",
+                    "dateSignaTexte": "2026-11-03",
+                    "dateDebutCible": "2026-11-06"
+                  }
+                ],
+                "nota": "",
+                "notaHtml": "",
+                "num": "Annexe II : Tableau n° 25 ter",
+                "texte": "Cancer broncho-pulmonaire primitif, provoqué par l'inhalation de poussières de silice cristalline DESIGNATION DE LA MALADIE DELAI de prise en charge LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer cette maladie Cancer broncho-pulmonaire primitif 40 ans (sous réserve d'une durée d'exposition de 10 ans) Travaux dans les chantiers et installations de forage, d'abattage, d'extraction et de transport de minerais ou de roches renfermant de la silice cristalline ; Travaux en chantiers de creusement de galeries et fonçage de puits ou de bures dans les mines ; Concassage, broyage, tamisage et manipulation de minerais ou de roches renfermant de la silice cristalline ; Taille et polissage de roches renfermant de la silice cristalline ; Fabrication et manutention de produits abrasifs, de poudres à nettoyer ou autres produits renfermant de la silice cristalline ; Travaux de ponçage et sciage de matériaux renfermant de la silice cristalline ; Extraction, refente, taillage ; lissage et polissage de l'ardoise ; Utilisation de poudre d'ardoise (schiste en poudre) comme charge en caoutchouterie ou dans la préparation de mastic ou aggloméré ; Fabrication de carborundum, de verre, de porcelaine, de faïence et autres produits céramiques et de produits réfractaires ; Travaux de fonderie exposant aux poussières de sables renfermant de la silice cristalline : décochage, ébarbage et dessablage ; Travaux de meulages, polissage, aiguisage effectués au moyen de meules renfermant de la silice cristalline ; Travaux de décapage ou de polissage réalisés au jet de sable contenant de la silice cristalline ; Travaux de construction, d'entretien et de démolition exposant à l'inhalation de poussières renfermant de la silice cristalline ; Travaux de calcination de terres à diatomées et utilisations des produits de cette calcination ; Travaux de polissage de prothèses dentaires.",
+                "texteHtml": "<p> Cancer broncho-pulmonaire primitif, provoqué par l'inhalation de poussières de silice cristalline</p><p><br/></p><p></p><center><table border=\"1\"><tbody><tr><th><br/>\n\t\t\tDESIGNATION DE LA MALADIE</th><th><br/>\n\t\t\tDELAI<br/><br/>\n\t\t\tde prise en charge</th><th><br/>\n\t\t\tLISTE LIMITATIVE DES TRAVAUX<br/><br/>\n\t\t\tsusceptibles de provoquer cette maladie</th></tr><tr><td align=\"center\"><br/>\n\t\t\tCancer broncho-pulmonaire primitif</td><td align=\"center\"><br/>\n\t\t\t40 ans<br/><br/>\n\t\t\t(sous réserve d'une durée d'exposition de 10 ans)</td><td align=\"justify\"><br/>\n\t\t\tTravaux dans les chantiers et installations de forage, d'abattage, d'extraction et de transport de minerais ou de roches renfermant de la silice cristalline ;<br/><br/>\n\t\t\tTravaux en chantiers de creusement de galeries et fonçage de puits ou de bures dans les mines ;<br/><br/>\n\t\t\tConcassage, broyage, tamisage et manipulation de minerais ou de roches renfermant de la silice cristalline ;<br/><br/>\n\t\t\tTaille et polissage de roches renfermant de la silice cristalline ;<br/><br/>\n\t\t\tFabrication et manutention de produits abrasifs, de poudres à nettoyer ou autres produits renfermant de la silice cristalline ;<br/><br/>\n\t\t\tTravaux de ponçage et sciage de matériaux renfermant de la silice cristalline ;<br/><br/>\n\t\t\tExtraction, refente, taillage ; lissage et polissage de l'ardoise ;<br/><br/>\n\t\t\tUtilisation de poudre d'ardoise (schiste en poudre) comme charge en caoutchouterie ou dans la préparation de mastic ou aggloméré ;<br/><br/>\n\t\t\tFabrication de carborundum, de verre, de porcelaine, de faïence et autres produits céramiques et de produits réfractaires ;<br/><br/>\n\t\t\tTravaux de fonderie exposant aux poussières de sables renfermant de la silice cristalline : décochage, ébarbage et dessablage ;<br/><br/>\n\t\t\tTravaux de meulages, polissage, aiguisage effectués au moyen de meules renfermant de la silice cristalline ;<br/><br/>\n\t\t\tTravaux de décapage ou de polissage réalisés au jet de sable contenant de la silice cristalline ;<br/><br/>\n\t\t\tTravaux de construction, d'entretien et de démolition exposant à l'inhalation de poussières renfermant de la silice cristalline ;<br/><br/>\n\t\t\tTravaux de calcination de terres à diatomées et utilisations des produits de cette calcination ;<br/><br/>\n\t\t\tTravaux de polissage de prothèses dentaires.</td></tr></tbody></table></center>"
               },
               "type": "article"
             },
