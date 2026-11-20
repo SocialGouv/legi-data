@@ -5,8 +5,8 @@
     "id": "LEGITEXT000006073189",
     "intOrdre": 0,
     "title": "Code de la sécurité sociale",
-    "dateModif": "2026-11-11",
-    "dateDebutVersion": "2026-11-11",
+    "dateModif": "2026-11-20",
+    "dateDebutVersion": "2026-11-20",
     "dateFinVersion": "2026-12-25"
   },
   "type": "code",
@@ -451728,6 +451728,102 @@
                             "num": "D245-3",
                             "texte": "L'arrêté de revalorisation est signé du ministre chargé de la sécurité sociale, du ministre chargé du budget et du ministre chargé de la santé.",
                             "texteHtml": "<p></p>   L'arrêté de revalorisation est signé du ministre chargé de la sécurité sociale, du ministre chargé du budget et du ministre chargé de la santé. <p></p><p></p>"
+                          },
+                          "type": "article"
+                        }
+                      ]
+                    },
+                    {
+                      "data": {
+                        "cid": "LEGISCTA000055106444",
+                        "etat": "VIGUEUR",
+                        "id": "LEGISCTA000055106444",
+                        "intOrdre": 64423,
+                        "title": "Section 1 bis : Contribution sur le chiffre d'affaires des entreprises exploitant une ou plusieurs spécialités pharmaceutiques",
+                        "dateDebut": "2026-11-20",
+                        "dateFin": "2999-01-01"
+                      },
+                      "type": "section",
+                      "children": [
+                        {
+                          "data": {
+                            "articleVersions": [
+                              {
+                                "id": "LEGIARTI000006736413",
+                                "etat": "MODIFIE",
+                                "version": "1.0",
+                                "dateDebut": 503971200000,
+                                "dateFin": 511660800000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000006736414",
+                                "etat": "MODIFIE",
+                                "version": "2.0",
+                                "dateDebut": 511660800000,
+                                "dateFin": 723081600000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000006736415",
+                                "etat": "ABROGE",
+                                "version": "3.0",
+                                "dateDebut": 691459200000,
+                                "dateFin": 865123200000,
+                                "numero": null,
+                                "ordre": null
+                              },
+                              {
+                                "id": "LEGIARTI000055107987",
+                                "etat": "VIGUEUR",
+                                "version": "4.0",
+                                "dateDebut": 1795132800000,
+                                "dateFin": 32472144000000,
+                                "numero": null,
+                                "ordre": null
+                              }
+                            ],
+                            "cid": "LEGIARTI000006736413",
+                            "dateDebut": 1795132800000,
+                            "dateDebutExtension": 32472144000000,
+                            "dateFin": 32472144000000,
+                            "dateFinExtension": 32472144000000,
+                            "etat": "VIGUEUR",
+                            "id": "LEGIARTI000055107987",
+                            "intOrdre": 1073741823,
+                            "lienModifications": [
+                              {
+                                "textCid": "JORFTEXT000000507924",
+                                "textTitle": "Décret n°85-1354 du 17 décembre 1985",
+                                "linkType": "CODIFICATION",
+                                "linkOrientation": "source",
+                                "articleNum": "",
+                                "articleId": "JORFTEXT000000507924",
+                                "natureText": "DECRET",
+                                "datePubliTexte": "1985-12-21",
+                                "dateSignaTexte": "1985-12-17",
+                                "dateDebutCible": "2999-01-01"
+                              },
+                              {
+                                "textCid": "JORFTEXT000055102139",
+                                "textTitle": "Décret n°2026-1059 du 17 novembre 2026 - art. 2",
+                                "linkType": "MODIFIE",
+                                "linkOrientation": "cible",
+                                "articleNum": "2",
+                                "articleId": "LEGIARTI000055106437",
+                                "natureText": "DECRET",
+                                "datePubliTexte": "2026-11-19",
+                                "dateSignaTexte": "2026-11-17",
+                                "dateDebutCible": "2026-11-20"
+                              }
+                            ],
+                            "nota": "",
+                            "notaHtml": "",
+                            "num": "D245-4",
+                            "texte": "I. - Le prix mentionné au B du III de l' article L. 245-6 est déterminé, pour chaque présentation d'une spécialité de référence, au regard des prix publiés selon les modalités suivantes : 1° Lorsqu'une présentation dispose d'un prix fabricant hors taxe, ce prix est retenu ; 2° A défaut, lorsqu'il existe, pour l'unité commune de dispensation à laquelle se rattache la présentation, un prix de cession hors taxe, ce prix est retenu ; 3° A défaut, lorsqu'il existe, pour l'unité commune de dispensation à laquelle se rattache la présentation, un prix limite de vente aux établissements hors taxe, ce prix est retenu. Lorsque les éléments déclarés par l'entreprise redevable de la contribution supplémentaire mentionnée au III de l'article L. 245-6 ne permettent pas de rattacher le chiffre d'affaires déclaré pour une présentation à un prix publié déterminé selon les modalités prévues aux 1° à 3°, le chiffre d'affaires afférent à cette présentation demeure inclus dans l'assiette de la contribution supplémentaire. II. - Le seuil mentionné au B du III de l'article L. 245-6 est fixé à 1,51 euro pour la contribution due au titre de 2026 et à 1,58 euro à compter de l'année 2027. III. - Les prix retenus sont ceux en vigueur au 31 décembre de l'année au titre de laquelle la contribution est due.",
+                            "texteHtml": "<p>I. - Le prix mentionné au B du III de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742141&dateTexte=&categorieLien=cid\">article L. 245-6</a> est déterminé, pour chaque présentation d'une spécialité de référence, au regard des prix publiés selon les modalités suivantes :</p><p> 1° Lorsqu'une présentation dispose d'un prix fabricant hors taxe, ce prix est retenu ;</p><p> 2° A défaut, lorsqu'il existe, pour l'unité commune de dispensation à laquelle se rattache la présentation, un prix de cession hors taxe, ce prix est retenu ;</p><p> 3° A défaut, lorsqu'il existe, pour l'unité commune de dispensation à laquelle se rattache la présentation, un prix limite de vente aux établissements hors taxe, ce prix est retenu.</p><p> Lorsque les éléments déclarés par l'entreprise redevable de la contribution supplémentaire mentionnée au III de l'article L. 245-6 ne permettent pas de rattacher le chiffre d'affaires déclaré pour une présentation à un prix publié déterminé selon les modalités prévues aux 1° à 3°, le chiffre d'affaires afférent à cette présentation demeure inclus dans l'assiette de la contribution supplémentaire.</p><p> II. - Le seuil mentionné au B du III de l'article L. 245-6 est fixé à 1,51 euro pour la contribution due au titre de 2026 et à 1,58 euro à compter de l'année 2027.</p><p> III. - Les prix retenus sont ceux en vigueur au 31 décembre de l'année au titre de laquelle la contribution est due. </p>"
                           },
                           "type": "article"
                         }
